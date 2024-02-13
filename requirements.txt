@@ -9,3 +9,6 @@ spacy==3.7.2
 https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1.tar.gz
 textblob==0.17.1
 transformers==4.37.2
+httpx==0.26.0
+edgartools=2.8.3
+bs4==0.0.2

@@ -1,0 +1,1059 @@
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+49
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+50
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE
+
+98
+
+ITEM 9A. CONTROLS AND PROCEDURES
+
+98
+
+ITEM 9B. OTHER INFORMATION
+
+100
+
+PART III
+
+101
+
+ITEM 10. DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE
+
+101
+
+ITEM 11. EXECUTIVE COMPENSATION
+
+101
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS
+
+101
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE
+
+101
+
+ITEM 14. PRINCIPAL ACCOUNTING FEES AND SERVICES
+
+101
+
+PART IV
+
+102
+
+ITEM 15. EXHIBITS, FINANCIAL STATEMENT SCHEDULES
+
+102
+
+ITEM 16. FORM 10-K SUMMARY
+
+109
+
+SIGNATURES
+
+PART I
+
+ITEM 1. BUSINESS
+
+“Newell Brands” or the “Company” refers to Newell Brands Inc. alone or with its wholly owned subsidiaries, as the context requires. When this report uses the words “we,” “us” or “our,” it refers to the Company and its subsidiaries unless the context otherwise requires. The Company was founded in Ogdensburg, New York in 1903 and is incorporated in Delaware. 
+
+Website Access to Securities and Exchange Commission Reports
+
+The Company makes available free of charge on or through its website its annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934 (the “Exchange Act”) as soon as practicable after the Company files them with, or furnishes them to, the U.S. Securities and Exchange Commission (“SEC”). The Company’s Internet website can be found at 
+
+www.newellbrands.com
+
+. The information on the Company’s website is not incorporated by reference into this Annual report on Form 10-K.
+
+GENERAL
+
+Newell Brands is a leading global consumer goods company with a strong portfolio of well-known brands, including Rubbermaid®,  Paper Mate®, Sharpie®, Dymo®, EXPO®, Parker®, Elmer’s®, Coleman®, Marmot®, Oster®, Sunbeam®, FoodSaver®, Mr. Coffee®, Rubbermaid Commercial Products®, Graco®, Baby Jogger®, NUK®, Calphalon®, Contigo®, First Alert®, Mapa®, Spontex® and Yankee Candle®. Newell Brands is committed to enhancing the lives of consumers around the world with planet-friendly, innovative and attractive products that create moments of joy and provide peace of mind. The Company sells its products in nearly 200 countries around the world and has operations on the ground in over 40 of these countries, excluding third-party distributors.
+
+BUSINESS STRATEGY 
+
+The Company is continuing to execute on its turnaround strategy of building a global, next generation consumer products company that can unleash the full potential of its brands in a fast moving omni-channel environment. The strategy, developed in 2019, is designed to drive sustainable top line growth, improve operating margins, accelerate cash conversion cycle and strengthen the portfolio, organizational capabilities and employee engagement, while addressing key challenges facing the Company. These challenges include: shifting consumer preferences and behaviors; a highly competitive operating environment; a rapidly changing retail landscape, including the growth in e-commerce; continued macroeconomic and political volatility; and an evolving regulatory landscape. The coronavirus (COVID-19) pandemic and its impact to the Company’s business resulted in the acceleration of these initiatives in many respects.
+
+The Company has made significant progress on the following imperatives it previously identified as part of its turnaround strategy:
+
+•
+
+Strengthening the portfolio by investing in attractive categories aligned with its capabilities and strategy;
+
+•
+
+Driving sustainable profitable growth by focusing on innovation, as well as growth in digital marketing, e-commerce and its international businesses;
+
+•
+
+Improving margins by driving productivity and overhead savings, while reinvesting into the business;
+
+•
+
+Enhancing cash efficiency by improving key working capital metrics, resulting in a lower cash conversion cycle; and
+
+•
+
+Building a winning team through engagement and focusing the best people on the right things.
+
+Continued execution of these strategic imperatives will better position the Company for long-term sustainable growth.
+
+Coronavirus (COVID-19)
+
+Beginning late in the fourth quarter of 2019 through 2020 and into 2021, COVID-19 emerged and subsequently spread globally, ultimately being declared a pandemic by the World Health Organization. The pandemic resulted in various federal, state and local governments, as well as private entities, mandating restrictions on travel and public gatherings, closure of non-essential commerce, stay at home orders and quarantining of people to limit exposure to the virus. The Company's global operations, similar to those of many large, multi-national corporations, experienced significant COVID-19 related disruption to its business in three primary areas:
+
+•
+
+Supply chain.
+
+ While the majority of the Company’s factories are considered essential in their applicable jurisdictions and have remained operational, the Company experienced disruption at certain of its facilities. Of its 135 manufacturing and distribution facilities, approximately 20 were temporarily closed at the end of the first quarter of 2020, the most significant of which were its South Deerfield, MA, Home Fragrance plant, its Mexicali, Mexico and India Writing facilities and its 
+
+1
+
+Juarez, Mexico Connected Home and Security facility, all of which were closed in accordance with state government guidelines. By the end of the third quarter of 2020, substantially all of the Company's manufacturing and distribution facilities reopened and were operating at or near capacity. Since then, the Company's facilities have replenished most of the inventory levels that were depleted by lost production during the temporary closure period. The Company does, however, continue to face intermittent supply and labor shortages, capacity constraints, and transportation and logistical challenges and expects this to persist until the current economic and public health conditions improve globally.
+
+•
+
+Retail.
+
+ While the Company’s largest retail customers experienced a surge in sales as their stores remained open, a number of secondary customers, primarily in the specialty and department store channels, temporarily closed their brick and mortar doors in March 2020, and began to reopen in certain regions where conditions improved towards the end of the second quarter of 2020. These dynamics, in combination with some retailers’ prioritization of essential items, have had a meaningful impact on the Company's traditional order patterns. In addition, the Company temporarily closed its Yankee Candle retail stores in North America as of mid-March. All of these stores reopened by the end of the third quarter and have remained open since.
+
+•
+
+Consumer demand patterns.
+
+ During the quarantine phase of the pandemic, consumer purchasing behavior strongly shifted to certain focused categories. While certain of the Company’s product categories in the Food, Commercial and Appliances and Cookware business benefited from this shift, others, particularly the Writing business, experienced significant slowing. Changes in consumer purchasing patterns, temporary office closures, as well as the shift to remote learning for schools and other higher education programs in the Fall semester of 2020 adversely impacted the performance of the Writing business during 2020.
+
+In response to the COVID-19 pandemic, the Company focused on protecting the health and well-being of its employees; maintaining financial viability and business continuity; and keeping manufacturing facilities and distribution centers operating, where permitted and deemed prudent, to provide products to our consumers. The Company put in place internal protocols including the establishment of a COVID-19 task force to monitor the situation, as well as communications and guidance issued by foreign, federal, state and local governments. The Company instituted mandatory work-from-home policies for employees able to work from home in various locations around the world and implemented a number of precautionary measures at its manufacturing plants, warehouses, distribution centers and R&D centers to reduce person-to-person contact and improve the personal safety for our front-line employees. Furthermore, the Company temporarily closed all of the world-wide Yankee Candle retail stores. By the end of the third quarter of 2020, all of the Company’s temporarily closed manufacturing and distribution sites reopened and were operating at or near capacity. In addition, most of the Company's office locations have reopened on a limited basis.
+
+The Company continues to monitor developments, including government requirements and recommendations at the national, state, and local level to evaluate possible cessation or extensions to all or part of such COVID-19 precautionary initiatives. As part of the Company's efforts to contain costs and maintain financial liquidity and flexibility, it instituted a hiring freeze for non-essential roles, furloughed all field-based and most corporate retail employees in North America, from April 1, 2020 through the third quarter of 2020, tightened discretionary spending, reduced non-essential travel and optimized advertising and promotional expenses. In addition, the Company announced a restructuring program during the second quarter of 2020 to reduce overhead costs, streamline certain underperforming operations and improve future profitability. 
+
+While the negative effects from the COVID-19 global pandemic in the first half of 2020 were material to the Company's operating results, the Company saw positive momentum, which included sales growth during the second half of the year and strong liquidity with over $1.4 billion in operating cash flow for the year ended December 31, 2020. The Company believes, however, the extent of the impact of the COVID-19 pandemic to its businesses, operating results, cash flows, liquidity and financial condition will be primarily driven by the severity and duration of the pandemic, the impact of new strains and variants of the coronavirus, the pandemic’s impact on the U.S. and global economies and the timing, scope and effectiveness of federal, state and local governmental plans to administer vaccines to the general public, especially in areas where conditions have recently worsened and lockdowns or travel bans have been reinstituted. Those primary drivers are beyond the Company's knowledge and control, and as a result, at this time it is difficult to predict the cumulative impact, both in terms of severity and duration, COVID-19 will have on its future sales, operating results, cash flows and financial condition. Furthermore, the impact to the Company's businesses, operating results, cash flows, liquidity and financial condition may be further adversely impacted if the COVID-19 global pandemic continues to exist or worsens for a prolonged period of time or if plans to administer vaccines are delayed. 
+
+See 
+
+Recent Developments, Liquidity and Capital Resources
+
+ and 
+
+Critical Accounting Estimates
+
+ in 
+
+Item 7, Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+ and 
+
+Footnotes 1 and 7 of the Notes to Consolidated Financial Statements
+
+ for further information.
+
+2
+
+Organizational Structure
+
+The Company’s five primary operating segments are as follows:
+
+Segment
+
+Key Brands
+
+Description of Primary Products
+
+Appliances and Cookware
+
+Calphalon®, Crock-Pot®, Mr. Coffee®, Oster® and Sunbeam®
+
+Household products, including kitchen appliances, gourmet cookware, bakeware and cutlery
+
+Commercial Solutions
+
+BRK®, First Alert®, Mapa®, Quickie®, Rubbermaid®, Rubbermaid Commercial Products®, and Spontex®
+
+Commercial cleaning and maintenance solutions; closet and garage organization; hygiene systems and material handling solutions; connected home and security and smoke and carbon monoxide alarms
+
+Home Solutions
+
+Ball® (1), Chesapeake Bay Candle®, FoodSaver®, Rubbermaid®, Sistema®, WoodWick® and Yankee Candle®
+
+Food and home storage products; fresh preserving products, vacuum sealing products and home fragrance products
+
+Learning and Development
+
+Aprica®, Baby Jogger®, Dymo®, Elmer’s®, EXPO®, Graco®, Mr. Sketch®, NUK®, Paper Mate®, Parker®, Prismacolor®, Sharpie®, Tigex® Waterman® and X-Acto®
+
+Baby gear and infant care products; writing instruments, including markers and highlighters, pens and pencils; art products; activity-based adhesive and cutting products and labeling solutions
+
+Outdoor and Recreation
+
+Coleman®, Contigo®, ExOfficio®, Marmot®
+
+Products for outdoor and outdoor-related activities
+
+(1)
+
+ 
+
+ 
+
+and Ball®, TMs Ball Corporation, used under license.
+
+This structure reflects the manner in which the chief operating decision maker regularly assesses information for decision-making purposes, including the allocation of resources. The Company also provides general corporate services to its segments which is reported as a non-operating segment, Corporate. See 
+
+Footnote 17 of the Notes to the Consolidated Financial Statements
+
+ for further information.
+
+Appliances and Cookware
+
+The Appliances and Cookware segment designs, manufactures, sources, markets and distributes a diverse line of household products. Kitchen appliances are primarily sold under the Crock-Pot®, Mr. Coffee®, Oster® and Sunbeam® trademarks. Aluminum and stainless-steel cookware and bakeware are sold under the Calphalon® trademark. The Appliances and Cookware segment also has rights to sell various small appliance products in substantially all of Europe under the Breville® brand name.
+
+The Appliances and Cookware segment primarily markets its products directly to warehouse clubs, department stores, drug/grocery stores, home centers, mass merchants, specialty retailers, distributors and e-commerce companies.
+
+Commercial Solutions
+
+The Commercial Solutions segment designs, manufactures, sources, and distributes commercial cleaning and maintenance solutions products, closet and garage organization products; hygiene systems and material handling solutions primarily under the Quickie®, Mapa®, Rubbermaid®, Rubbermaid Commercial Products® and Spontex® trademarks. The Company also manufactures and distributes connected home and security products as well as smoke and carbon monoxide alarms mostly under the BRK® and First Alert® trademarks.
+
+The Commercial Solutions segment primarily markets its products directly to warehouse clubs, department stores, home centers, commercial products distributors, mass merchants, specialty retailers, distributors, e-commerce companies, select contract customers and other professional customers.
+
+Home Solutions
+
+The Home Solutions segment designs, manufactures, sources, markets and distributes a diverse line of household products. Food storage products are sold primarily under the FoodSaver®, Rubbermaid® and Sistema® trademarks. The Company also sells certain home canning and food storage products under the Ball® trademark, pursuant to a license from Ball Corporation. Home fragrance products are sold primarily under the Chesapeake Bay Candle®, WoodWick® and Yankee Candle® trademarks.  
+
+3
+
+The Home Solutions segment primarily markets its products directly to warehouse clubs, department stores, grocery stores, home centers, mass merchants, specialty retailers, distributors and e-commerce companies, as well as direct to consumers online and in Yankee Candle retail stores.
+
+Learning and Development
+
+The Learning and Development segment designs, manufactures, sources, markets and distributes writing instruments, including markers and highlighters, pens and pencils; art products; activity-based adhesive and cutting products; labeling solutions; baby gear and infant care products. Writing instruments, activity-based adhesive and cutting products and labeling solutions products are sold primarily under the Dymo®, Elmer’s®, EXPO®, Mr. Sketch®, Paper Mate®, Parker®, Prismacolor®, Sharpie®, Waterman® and X-Acto® trademarks. Baby gear and infant care and health products are sold primarily under the Baby Jogger®, Graco®, NUK® and Tigex® trademarks.
+
+The Learning and Development segment primarily markets its products directly to mass merchants, warehouse clubs, drug/grocery stores, office superstores, office supply stores, contract stationers, travel retail, distributors and e-commerce companies, and direct to consumers online.
+
+Outdoor and Recreation
+
+The Outdoor and Recreation segment designs, manufactures, sources, markets and distributes global consumer active lifestyle products for outdoor and outdoor-related activities. Active lifestyle products are sold primarily under the Coleman®, Contigo®, ExOfficio® and Marmot® trademarks. 
+
+The Outdoor and Recreation segment primarily markets its products directly to warehouse clubs, department stores, grocery stores, mass merchants, sporting goods and specialty retailers, distributors and e-commerce companies, as well as direct to consumers online. 
+
+See
+
+ Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+ of this Annual Report on Form 10-K for further discussion.
+
+OTHER INFORMATION
+
+Multi-Product Offering
+
+The Company’s broad product offering in multiple categories permits it to more effectively meet the needs of its customers. With families of leading brand names and profitable and innovative new products, the Company can assist volume purchasers in selling a more profitable product mix. As a potential single source for an entire product line, the Company can use program merchandising to improve product presentation, optimize display space for both sales and income, and encourage impulse buying by retail consumers.
+
+Raw Materials and Sourced Finished Goods
+
+The Company has multiple foreign and domestic sources of supply for substantially all of its material requirements. The raw materials and various purchased components required for its products have generally been available in sufficient quantities, although the Company did experience capacity constraints around certain raw materials and finished goods in 2020 driven largely by demand volatility related to the COVID-19 pandemic. The Company’s product offerings require the purchase of resin, corrugate, glass, plastic, expanded polystyrene, extinguisher powder, nylon, paper, plastic resin, sawdust, tin plate, wax and wood, natural rubber, electrical components, glass fiber, magnesium, adhesives, various paper-related packaging materials and metals, including steel, stainless steel, aluminum and copper. The Company’s resin purchases are principally comprised of polyethylene, polypropylene and copolyester.
+
+The Company also relies on third-party manufacturers as a source for finished goods. Historically, the Company has experienced inflation in sourced product costs due to currency fluctuations and increased input and labor costs. For a limited number of product lines, a single manufacturer or a limited number of manufacturers may supply substantially all the finished goods for a product line. In particular, certain businesses within the Company’s Learning and Development segment rely on third-party manufacturers for substantially all of their products. Specifically, the Baby business unit has a single source of supply for products that comprise a majority of its sales and which owns the intellectual property for many of those products.
+
+Backlog
+
+The dollar value of unshipped orders is not material.
+
+4
+
+Seasonal Variations
+
+Sales of the Company’s products tend to be seasonal, with sales, operating income and operating cash flow in the first quarter generally lower than any other quarter during the year, driven principally by reduced volume and the mix of products sold in the first quarter. The seasonality of the Company’s sales volume combined with the accounting for fixed costs, such as depreciation, amortization, rent, personnel costs and interest expense, impacts the Company’s results on a quarterly basis. In addition, the Company tends to generate the majority of its operating cash flow in the third and fourth quarters of the year due to seasonal variations in operating results, the timing of annual performance-based compensation payments, customer program payments, working capital requirements and credit terms provided to customers. 
+
+In 2020, the Company's sales and operating results were disrupted by the COVID-19 pandemic, negatively impacting the Company's performance during the first half of the year, partially offset by positive performance during the second half of the year. The Company believes the seasonality of its businesses will revert back to historical patterns as the impact of the global pandemic lessens.
+
+Patents and Trademarks
+
+The Company has many patents, trademarks, brand names and tradenames that are, in the aggregate, important to its business. The Company’s most significant registered trademarks include Aprica®, Baby Jogger®, Calphalon®, Campingaz®, Coleman®, Contigo®, Crock-Pot®, Dymo®, Elmer’s®, EXPO®, First Alert®, FoodSaver®, Graco®, Mapa®, Marmot®, Mr. Coffee®, NUK®, Oster®, Paper Mate®, Parker®, Quickie®, Rubbermaid Commercial Products®, Rubbermaid®, Sistema®, Spontex®, Sunbeam®, WoodWick®, Sharpie® and Yankee Candle®.
+
+Customers/Competition
+
+The Company’s principal customers are large mass merchandisers, such as discount stores, home centers, warehouse clubs, office superstores, direct-to-consumer channels, specialty retailers and wholesalers, commercial distributors and e-commerce companies. The dominant share of the market represented by large mass merchandisers, together with consumer shopping patterns, contributes to a market environment in which dominant multi-category retailers and e-commerce companies have strong negotiating power with suppliers. This environment may limit the Company’s ability to recover cost increases through pricing.
+
+Current trends among retailers and e-commerce companies include fostering high levels of competition among suppliers, reducing current inventory levels, demanding innovative new products and products tailored to each of their unique requirements and requiring suppliers to maintain or reduce product prices and deliver products with shorter lead times. Other trends, in the absence of a strong new product development effort or strong end-user brands, are for retailers and e-commerce companies to import generic products directly from foreign sources and to source and sell products under their own private label brands, which compete with the Company’s products. The combination of these market influences has created an intensely competitive environment in which the Company’s principal customers continuously evaluate which product suppliers to use, resulting in downward pricing pressures and the need for big, consumer-meaningful brands, the ongoing introduction and commercialization of innovative new products, continuing improvements in category management and customer service, and the maintenance of strong relationships with large, high-volume purchasers. The Company competes with numerous manufacturers and distributors of consumer products, many of which are large and well-established. Our Yankee Candle retail stores compete primarily with specialty candle and personal care retailers and a variety of other retailers, including department stores, gift stores and national specialty retailers that sells candles.
+
+The Company’s principal methods of meeting its competitive challenges are creating and maintaining leading brands and differentiated products that deliver superior value and performance; delivering superior customer service and consistent on-time delivery and producing and procuring products at a competitive cost. In addition, the Company has experienced management that focuses on building consumer loyalty and increased consumer demand through increased investment in consumer insights and using those insights to develop innovative products and product features that meet consumers’ needs.
+
+The Company has also positioned itself to respond to the competitive challenges in the retail environment by developing strong relationships with large, high-volume purchasers. The Company markets its strong multi-product offering through virtually every category of high-volume retailers, including discount, drug/grocery and variety chains; warehouse clubs; department, hardware and specialty stores; home centers; office superstores; contract stationers; and e-commerce companies. The Company’s largest customer, Walmart Inc. and subsidiaries (“Walmart”), accounted for approximately 15% of net sales in 2020, 2019 and 2018. Amazon, the Company's second largest customer, accounted for 12%, 9%, and 8% of net sales in 2020, 2019 and 2018, respectively. The Company’s top-ten customers in 2020 included (
+
+in alphabetical order
+
+): Amazon, Bed, Bath & Beyond, Costco, Lowe’s, Kroger, Office Depot, Staples, Target, The Home Depot and Walmart.
+
+5
+
+Environmental Matters
+
+Information regarding the Company’s environmental matters is included in the Management’s Discussion and Analysis of Financial Condition and Results of Operations section of this Annual Report on Form 10-K and in Footnote 18 of the Notes to Consolidated Financial Statements and is incorporated by reference herein.
+
+Research and Development
+
+The Company’s research and development efforts focus on developing new, differentiated and innovative products to meet consumers’ needs. The Company’s product development efforts begin with consumer insights. The Company continues to invest to strengthen its product design, research and development capabilities and has consolidated its design and innovation capabilities and consumer marketing and insight capabilities into a global center of excellence to further strengthen these capabilities.
+
+Human Capital Management
+
+Newell Brands is committed to creating a workplace where it supports the success of its people by investing in their personal development and career growth. 
+
+The Company has employees located throughout the world. At December 31, 2020, the Company employed approximately 31,000 people worldwide. Approximately 3,300 were in the Asia-Pacific region, 4,600 were in the Europe, Middle East and Africa region, 7,700 were in the Latin America region and 15,400 were in the North America region. Of the Company's total employees, approximately 16,000 were employed in manufacturing and supply chain roles. The Company's strong employee base, along with its commitment to uncompromising values, provides the foundation of the Company’s success.
+
+The Company's employees are responsible for upholding the Company's goal of creating a safer, sustainable, productive, and consumer-focused future. The Company's values of Transparency, Truth, Trust and Teamwork guide our own actions as well as our relationships with consumers, customers, suppliers and each other. They are grounded in a people-first philosophy enabling the Company to deliver results, drive long-term sustainability and promote a winning culture. The Company tracks and reports internally on key talent metrics including workforce demographics, critical role pipeline data, diversity data, and engagement and inclusion indices.
+
+The Company embraces diversity, inclusion and belonging, and strongly believes that a truly consumer-focused workforce should be as diverse as the customers it serves and leverage the skills and perspectives of a wealth of backgrounds of all team members. To attract a global and diverse workforce, the Company strives to build a culture where employees can bring their whole selves to work. Employee resource groups (“ERGs”) are Company-sponsored groups of employees that support and promote certain mutual objectives of both the employees and the Company, including inclusion and diversity and the professional development of employees. The ERGs provide a space where employees can foster connections and develop in a supportive environment. At December 31, 2020, the Company had five ERGs:  
+
+•
+
+BEACON (Black and African ancestry); 
+
+•
+
+RAY (Women);
+
+•
+
+OPEN (LGBTQ);
+
+•
+
+NAAPA (Asian-American); and
+
+•
+
+HOLA (Hispanic and Latinx).
+
+The Company is focused on recruitment of diverse candidates and on internal talent development of its diverse leaders so they can advance their careers and move into leadership positions within the Company. The Company has adopted a policy requiring diverse slates for recruitment at the Director level and above. Also, during 2019, the Company conducted a fully digital, enterprise-wide engagement survey, which was given to all professional and clerical employees (excluding factory or hourly employees) and was available in 12 languages, which focused on measuring engagement and inclusion. 
+
+The Company continues to emphasize employee development and training, and strives to align and deliver its People Agenda with its business strategies to recruit, develop and retain the right talent, skills and capabilities to deliver on its commitments. To empower employees, the Company provides a range of development programs and opportunities, skills, and resources needed to be successful. Our 
+
+Grow@Newell
+
+ eLearning platform, which is an online portal, supplements the Company's talent development strategies with access to instructor-led classroom or virtual courses and self-directed web-based courses. The Company has a robust talent and succession planning process and has established specialized programs to support the development of its talent pipeline for critical roles in general management, engineering, and operations. On an annual basis, the Company conducts an Organization and Leadership Review process with its chief executive officer and all segment, business unit, and function leaders focusing on high -performing and high-potential talent, diverse talent, and the succession for its most critical roles. 
+
+6
+
+The Company believes its management team has the experience necessary to effectively execute its strategy and advance its product and technology leadership. The Chief Executive Officer and Executive Committee Team have meaningful industry experience. They partner and work closely with an experienced and talented management team who is dedicated to maintaining and expanding our position as a global leader in the consumer products industry. For discussion of the risks relating to the attraction and retention of key management and executive employees, see the 
+
+“Risk Factors”
+
+ section below.
+
+ITEM 1A. RISK FACTORS
+
+Ownership of the Company’s securities involves a number of risks and uncertainties. Potential investors should carefully consider the risks and uncertainties described below and the other information in this Annual Report on Form 10-K before deciding whether to invest in the Company’s securities. The Company’s business, financial condition or results of operations could be materially adversely affected by any of these risks. The risks described below are not the only ones facing the Company. Additional risks that are currently unknown to the Company or that the Company currently considers immaterial may also impair its business or adversely affect its financial condition or results of operations.
+
+COVID-19 Related Risks
+
+We must successfully manage the demand, supply, and operational challenges associated with the actual or perceived effects of the COVID-19 pandemic or any other disease outbreak, including epidemics, pandemics, or similar widespread public health concerns. 
+
+Our business may be unfavorably impacted by the fear of exposure to or actual effects of the COVID-19 pandemic or any other disease outbreak, epidemic, pandemic, or similar widespread public health concern, such as reduced travel or recommendations or mandates from governmental authorities to cease particular business activities. These impacts include, but are not limited to:
+
+•
+
+Significant reductions or volatility in demand for one or more of our products, which may be caused by, among other things: the temporary inability of consumers to purchase our products due to illness, store closures, school closures or delayed opening for schools and other higher education programs, quarantine or other travel restrictions, or financial hardship among customers, retailers and consumers, shifts in demand away from one or more of our more discretionary or higher priced products to lower priced products, or stockpiling; if prolonged, such impacts can further increase the difficulty in planning our operations, which may adversely impact our results, liquidity and financial condition;
+
+•
+
+Inability to meet our customers’ needs and achieve cost targets due to disruptions in our manufacturing operations, supply arrangements as well as distribution centers caused by the loss or disruption of essential manufacturing and supply elements such as raw materials or other finished product components, transportation, workforce, or other manufacturing and distribution capability including as a result of governmental mandates to close certain of our manufacturing and distribution facilities;
+
+•
+
+Failure of third parties on which we rely, including our suppliers, contract manufacturers, distributors, contractors, commercial banks, joint venture partners and external business partners, to meet their obligations to the Company, or significant disruptions in their ability to do so, which may be caused by their own financial or operational difficulties, which may adversely impact our operations, liquidity and financial condition; or
+
+•
+
+Significant changes in the political and labor conditions in markets in which we manufacture, sell or distribute our products, including quarantines, governmental or regulatory actions, closures or other restrictions that limit or close our manufacturing, distribution, research and development and retail facilities; restrict our employees’ ability or willingness to travel or perform necessary business functions, or otherwise prevent our facilities or our third-party partners, suppliers, or customers from sufficiently staffing operations, including operations necessary for the production, distribution, sale, and support of our products, which could adversely impact our results, liquidity and financial condition.
+
+There are no comparable recent events that provide guidance as to the effect the spread of COVID-19 as a global pandemic may have, and, as a result, the ultimate impact of the COVID-19 pandemic is highly uncertain and subject to change. We do not yet know the full extent of the impacts on our business, our operations or the global economy as a whole. Despite our efforts to manage and remedy these impacts to the Company, the ultimate impact of the COVID-19 pandemic could materially and adversely impact our business, results of operations, liquidity and financial condition, and depends on factors beyond our knowledge or control. In this regard, the extent of the impact of the pandemic on our business, operating results, cash flows, liquidity and financial conditions will be primarily driven by the duration and severity of the COVID-19 pandemic, its impact on the U.S. and global economies and the timing, scope and effectiveness of federal, state and local governmental plans to administer vaccines to the general public, especially in areas where conditions have recently worsened and lockdowns or travel bans have been reinstituted.
+
+7
+
+We have experienced significant COVID-19-related disruptions to our businesses, and if we experience future disruption in the near-to-medium term, we may be unable to maintain compliance with the financial covenants or borrowing base requirements in certain of our debt facilities
+
+.
+
+Under the terms of certain of our debt facilities, including the Securitization Facility and Credit Revolver, we are required to comply with certain financial covenants or satisfy certain borrowing basis requirements. As a result of the COVID-19 pandemic, our operations have been and could be further disrupted, and if such disruptions significantly interfere with our operations in the near-to-medium term, we may be not be able to satisfy such requirements. In such a situation, we may choose to seek covenant waivers or other relief from the lenders under our debt facilities. 
+
+Covenant waivers may result in additional fees associated with obtaining the waiver, or our being subject to increased interest rates, additional restrictive covenants and other lender protections under our debt facilities. Our ability to provide additional lender protections under these facilities, including the granting of security interests in collateral, will be limited by the existing restrictions applicable to the Company under the various documents governing our indebtedness. There can be no assurance that we would be able to obtain future waivers in a timely manner, on acceptable terms or at all. If we were not able to obtain a covenant waiver under any one or more of these debt facilities, if and when necessary, we could be in default of such agreements, which could result in cross defaults to our other debt agreements and potential acceleration of amounts due under all of our outstanding debt and derivative contract liabilities. In such a situation, we would need to refinance or repay the applicable debt facility or facilities and would be required to raise additional debt or equity capital, or divest assets, to refinance or repay such facility or facilities. If we were to be unable to obtain a covenant waiver in the future under any one or more of these debt facilities, there can be no assurance that we would be able to raise sufficient debt or equity capital, or divest assets, to refinance or repay such facility or facilities. As a result, the inability to obtain covenant waivers described above would have a material adverse effect on the Company.
+
+Industry and Economic Risks
+
+The Company is subject to intense competition in a marketplace dominated by large retailers and e-commerce companies.
+
+The Company competes with numerous other manufacturers and distributors of consumer and commercial products, many of which are large and well-established. A proliferation of digitally native brands has further intensified the competitive landscape. The Company’s principal customers are large mass merchandisers, discount stores, home centers, warehouse clubs, office superstores, specialty retailers, wholesalers, commercial distributors, direct-to-consumer channels, and e-commerce companies. The dominant share of the market represented by these large retailers, together with changes in consumer shopping patterns, has contributed to the formation of dominant multi-category retailers and e-commerce companies that have strong negotiating power with suppliers. Current trends among retailers and e-commerce companies include fostering high levels of competition among suppliers, reducing inventory levels, demanding innovative new products and products tailored to each of their unique requirements, requiring suppliers to maintain or reduce product prices in response to competitive, economic or other factors, and requiring product delivery with shorter lead times. Other trends are for retailers and e-commerce companies to import products directly from foreign sources and to source and sell products under their own private label brands, typically at lower prices, that compete with the Company’s products.
+
+The combination of these market influences and retailer consolidation has created an intensely competitive environment in which the Company’s principal customers continuously evaluate which product suppliers to use, resulting in downward pricing pressures and the need for consumer-meaningful brands, the ongoing introduction and commercialization of innovative new products, continuing improvements in category management and customer service, and the maintenance of strong relationships with large, high-volume purchasers. The Company also faces the risk of changes in the strategy or structure of its major customers, such as overall store and inventory reductions. The intense competition in the retail and e-commerce sectors may result in a number of customers experiencing financial difficulty or failing in the future. To address these challenges, the Company must be able to respond to competitive factors, and the failure to respond effectively could result in a loss of sales, reduced profitability and a limited ability to recover cost increases through price increases.
+
+The Company’s customers may further consolidate, which could materially adversely affect the Company’s sales and margins.
+
+The Company’s customers have steadily consolidated over the last two decades. The Company expects any customers that consolidate will take actions to harmonize pricing from their suppliers, close retail outlets, reduce inventory, and rationalize their supply chain, which could adversely affect the Company’s business and results of operations. There can be no assurance that, following consolidation, the Company’s large customers will continue to buy from the Company across different product categories or geographic regions, or at the same levels as prior to consolidation, which could negatively impact the Company’s financial results. Further, if the consolidation trend continues, it could result in future pricing and other competitive pressures that could reduce the Company’s sales and margins.
+
+8
+
+Strategic and Operational Risks
+
+The Company’s sales are dependent on purchases by several large customers and any significant decline in these purchases or pressure from these customers to reduce prices could have a negative effect on the Company’s future financial performance.
+
+The Company’s customer base is relatively fragmented. Although the Company has long-established relationships with many customers, the Company generally does not have any long-term supply or binding contracts or guarantees of minimum purchases with its largest customers. Purchase commitments by these customers are generally made using individual purchase orders. As a result, these customers may cancel their orders, change purchase quantities from forecast volumes, delay purchases for a number of reasons beyond the Company’s control or change other terms of the business relationship. Significant or numerous cancellations, reductions, delays in purchases or changes in business practices by customers could have a material adverse effect on the Company’s business, results of operations and financial condition. In addition, because many of the Company’s costs are fixed, a reduction in customer demand due to decreased sales to end customers could have an adverse effect on the Company’s gross profit margins and operating income. The retail landscape in many of the Company’s markets continues to be impacted by the rapid growth of e-commerce retailers, changing consumer preferences (as consumers increasingly shop online) and the emergence of alternative retail channels, such as subscription services and direct-to-consumer businesses. The rapid growth in e-commerce and emergence of alternative retail channels may adversely affect the Company’s relationships with its key retailers, whereby the number of products it sells will no longer be a reliable indicator of the amount of future business the Company can expect. 
+
+The Company depends on a continuous flow of new orders from large, high-volume retail customers; however, the Company may be unable to continually meet the needs of these customers. Retailers are increasing their demands on suppliers to:
+
+•
+
+reduce lead times for product delivery, which may require the Company to increase inventories and could impact the timing of reported sales;
+
+•
+
+improve customer service, such as with direct import programs, whereby product is supplied directly to retailers from third-party suppliers; and
+
+•
+
+adopt technologies related to inventory management such as Radio Frequency Identification, otherwise known as RFID technology, which may have substantial implementation costs.
+
+The Company cannot provide any assurance that it can continue to successfully meet the needs of its customers or that customer demand will remain consistent. A substantial decrease in sales to any of its major customers and an inability to adapt to the emergence of alternative retail channels could have a material adverse effect on the Company’s business, results of operations and financial condition.
+
+If the Company is unable to commercialize a continuing stream of new products that create demand, the Company’s ability to compete in the marketplace may be adversely impacted.
+
+The Company’s strategy includes investment in new product development and a focus on innovation. Its long-term success in the competitive retail environment and the industrial and commercial markets depends on its ability to develop and commercialize a continuing stream of innovative new products and line extensions that create demand. The Company’s ability to quickly innovate in order to adapt its products to meet changing consumer demands is essential, especially in light of e-commerce significantly reducing the barriers for even small competitors to quickly introduce new brands and products directly to consumers. New product development and commercialization efforts, including efforts to enter markets or product categories in which the Company has limited or no prior experience, have inherent risks. These risks include the costs involved, such as development and commercialization, product development or launch delays, and the failure of new products and line extensions to achieve anticipated levels of market acceptance or growth in sales or operating income. The Company also faces the risk that its competitors will introduce innovative new products that compete with the Company’s products. In addition, sales generated by new products or line extensions could cause a decline in sales of the Company’s existing products. If new product development and commercialization efforts are not successful, the Company’s financial results could be adversely affected.
+
+If the Company does not continue to develop and maintain leading brands or realize the anticipated benefits of increased advertising and promotion spend over the long term, its operating results may suffer.
+
+The Company’s ability to compete successfully also depends increasingly on its ability to develop and maintain leading brands so that the Company’s retail and other customers will need its products to meet consumer demand. Leading brands allow the Company to realize economies of scale in its operations. The development and maintenance of such brands require significant investment in brand-building and marketing initiatives. While the Company plans to increase its expenditures for advertising and promotion and other brand-building and marketing initiatives over the long term, the initiatives may not deliver the anticipated results and the results of such initiatives may not cover the costs of the increased investment.
+
+9
+
+ 
+
+Failure to further expand the Company’s e-commerce business, despite increasing e-commerce investments, may materially and adversely affect the Company’s market position, net sales and financial performance.
+
+The retail industry has rapidly evolved and consumers have embraced shopping online and through mobile commerce applications. As a result, the portion of total consumer expenditures with retailers occurring through digital platforms is increasing, and the pace of this increase has accelerated. At the same time, the portion of retail business at traditional “brick and mortar” stores and shopping centers is decreasing.
+
+The Company’s strategy includes investments in e-commerce, and investments in technology initiatives. If these investments fail to adequately or effectively allow the Company to further expand its e-commerce business, maintain or grow its overall market position or otherwise benefit the Company, the Company’s market position, net sales and financial performance could be adversely affected. In addition, a greater concentration of e-commerce sales could result in a reduction in the amount of sales by the Company’s other customers, which could, if not offset by a greater increase in e-commerce sales, materially adversely affect the business of the Company.
+
+Furthermore, the cost of certain e-commerce and technology investments may adversely impact the Company’s financial performance in the short and long-term. There can be no assurance that investments in e-commerce infrastructure and technology will result in increased sales, through e-commerce or otherwise.
+
+The Company’s plans to execute its turnaround plan, improve productivity, reduce complexity and costs may not be successful, which would materially adversely affect its financial results.
+
+The Company is executing a turnaround plan to build a global, next generation consumer products company that can unleash the full potential of its brands in a fast-moving omni-channel environment. The Company is implementing various global initiatives in connection with the turnaround plan to reduce costs and improve cash flows. These initiatives are designed to reduce the complexity of the organization, improve the Company’s cash conversion cycle and increase investment in the Company’s most significant growth platforms. These initiatives are further designed to reduce costs associated with direct materials, indirect expenses, and distribution and logistics, among other things. These initiatives may not be completed substantially as planned, may be more costly to implement than expected, or may not result in, in full or in part, the positive effects anticipated. Other major productivity, streamlining and divestment programs may also be required in the future to continue the turnaround plan. Such programs may require the Company to implement a significant amount of organizational change, which could have a negative impact on employee engagement, divert management’s attention from other concerns, and if not properly managed, impact the Company’s ability to retain key employees, cause disruptions in the Company’s day-to-day operations and have a negative impact on the Company’s financial results. Further, the Company has pursued and may continue to pursue acquisitions of brands, businesses, or technologies from third parties. The Company’s success depends on its ability to integrate such acquired brands, businesses, or technologies, to continuously improve its manufacturing operations to gain efficiencies, to reduce supply chain costs and to streamline and redeploy nonstrategic selling, general and administrative expenses in order to produce products at a best-cost position and allow the Company to invest in innovation and brand building, including advertising and promotion. Future acquisitions could result in substantial additional debt, exposure to contingent liabilities, such as litigation or earn-out obligations, the potential impairment of goodwill or other intangible assets, or significant integration and transaction costs. 
+
+The Company’s operations are dependent upon third-party vendors and suppliers whose failure to perform adequately could disrupt the Company’s business operations.  
+
+The Company currently sources a significant portion of parts and products from third parties. The Company’s ability to select and retain reliable vendors and suppliers who provide timely deliveries of quality parts and products will impact the Company’s success in meeting customer demand for timely delivery of quality products. In some cases, the Company does not enter into long-term contracts with its primary vendors and suppliers, instead buying parts and products on a “purchase order” basis. As a result, the Company may be subject to unexpected changes in pricing or supply of products.
+
+The ability of third-party suppliers to timely deliver finished goods and/or raw materials, and the ability of the Company’s own facilities to timely deliver finished goods, may be affected by events beyond their control, such as inability of shippers to timely deliver merchandise due to work stoppages or slowdowns, demand volatility or port congestion, unavailability of shipping containers or other equipment, or significant weather and health conditions affecting manufacturers and/or shippers. Any adverse change in the Company’s relationships with its third-party suppliers, the financial condition of third-party suppliers, the ability of third-party suppliers to manufacture and deliver outsourced parts or products on a timely basis, or the Company’s ability to import products from third-party suppliers or its own facilities could have a material adverse effect on the Company’s business, results of operations and financial condition.
+
+10
+
+In addition, the financial condition of the Company’s vendors and suppliers may be adversely affected by general economic conditions, such as credit difficulties and the uncertain macroeconomic environment in recent years. In addition, in some instances the Company maintains single-source or limited-source sourcing relationships, either because multiple sources are not available or the relationship is advantageous due to performance, quality, support, delivery, capacity or price considerations. For example, certain businesses in the Baby business unit have a single source of supply for products that comprises a majority of their sales and which owns intellectual property rights in respect of many of those products. As another example, certain products manufactured by the Connected Home and Security business unit rely upon a single source for a key component part, and alternative sources for that component part are limited. Should any of these single source suppliers fail to manufacture sufficient supply, temporarily close their factories as a result of government mandates or other circumstances, go out of business or discontinue a particular component, the Company may not be able to find alternative vendors and suppliers in a timely manner, if at all. Any inability of the Company’s vendors and suppliers to timely deliver quality parts and products or any unanticipated change in supply, quality or pricing of products could be disruptive and costly to the Company. The Company cannot assure you that it could quickly or effectively replace any of its suppliers if the need arose, and the Company cannot assure you that it could retrieve tooling and molds possessed by any of its third-party suppliers. The Company’s dependence on these few suppliers could also adversely affect its ability to react quickly and effectively to changes in the market for its products.
+
+A cyber-attack or failure of one or more key information technology systems, networks, processes, associated sites or service providers could have a material adverse impact on the Company’s business or reputation.
+
+The Company relies extensively on information technology (“IT”) systems, networks and services, including Internet sites, data hosting and processing facilities and tools and other hardware, software and technical applications and platforms, some of which are managed, hosted, provided and/or used by third parties or their vendors, to assist in conducting business. The various uses of these IT systems, networks and services include, but are not limited to:
+
+•
+
+ordering and managing materials from suppliers;
+
+•
+
+converting materials to finished products;
+
+•
+
+shipping products to customers;
+
+•
+
+marketing and selling products to consumers;
+
+•
+
+collecting and storing customer, consumer, employee, investor and other stakeholder information and personal data, including data that may be subject to the General Data Protection Regulation of the European Union (“GDPR”), the California Consumer Privacy Act (“CCPA”) or General Law for Protection of Personal Data (“LGPD”) of Brazil;
+
+•
+
+processing transactions;
+
+•
+
+summarizing and reporting results of operations;
+
+•
+
+hosting, processing and sharing confidential and proprietary research, business plans and financial information;
+
+•
+
+complying with regulatory, legal or tax requirements;
+
+•
+
+providing data security; and
+
+•
+
+handling other processes necessary to manage the Company’s business.
+
+Increased IT security threats and cyber-crime, including advanced persistent threats, computer viruses, ransomware, other types of malicious code, hacking, phishing and social engineering schemes designed to provide access to the Company’s networks or data, pose a potential risk to the security of the Company’s IT systems, networks and services, as well as the confidentiality, availability and integrity of the Company’s data. Cyber threats are becoming more sophisticated, are constantly evolving and are being made by groups and individuals with a wide range of expertise and motives, and this increases the difficulty of detecting and successfully defending against them. The Company deploys technical and organizational measures to protect and prevent unauthorized access to or loss of data, however, as techniques used to obtain unauthorized access or to sabotage systems change frequently and generally are not recognized until launched against a target, the Company may be unable to anticipate these techniques or implement  preventive measures. Furthermore, the Company’s relationships with, and access provided to, third parties and their vendors may create difficulties in anticipating and implementing adequate preventive measures or fully mitigating harms after an attack or breach occurs.
+
+The Company cannot guarantee that its security efforts will prevent attacks and resulting breaches or breakdowns of the Company’s, or its third-party service providers’ databases or systems notwithstanding whether the Company takes reasonable steps to prevent such attacks. The Company’s operations, especially its retail operations, involve the storage and transmission of employees’, customers’ and consumers’ proprietary information, such as credit card and bank account numbers. The Company’s payment services may be subject to credit card and other payment fraud schemes, including unauthorized use of credit cards, debit cards or bank account information, identity theft or merchant fraud. If the IT systems, networks or service providers relied upon fail to function properly, or if the Company suffers a loss or disclosure of customers’ and consumers’ data, business or stakeholder information, due to any number of causes, ranging from catastrophic events to power outages to security breaches, or the inability to effectively address these failures on a timely basis, the Company may suffer interruptions in its ability to manage operations, a risk of government enforcement action, litigation and possible liability, and reputational, competitive and/or business harm, which may 
+
+11
+
+adversely impact the Company’s results of operations and/or financial condition. In addition, if the Company’s service providers, suppliers or customers experience a breach or unauthorized disclosure or system failure, their businesses could be disrupted or otherwise negatively affected, which may result in a disruption in the Company’s supply chain or reduced customer orders or other business operations, which would adversely affect the Company.
+
+The Company is subject to laws of various countries where it operates or does business related to solicitation, collection, processing, transferring, storing or use of consumer, customer, vendor or employee information or related data, including the GDPR which went into effect in May 2018, the CCPA, which went into effect on January 1, 2020, and the LGPD which went into effect in August 2020. The changes introduced by the GDPR, CCPA, and LGPD increase the complexity of regulations enacted to protect business and personal data, subject the Company to additional costs and have required, and may in the future require, costly changes to the Company’s security systems, policies, procedures and practices. 
+
+The Company’s operating results can be adversely affected by changes in the cost or availability of raw materials, energy, transportation and other necessary supplies and services, as well as the impact of tariffs.
+
+The Company’s success is dependent, in part, on its continued ability to reduce its exposure to increases in the cost of raw materials, energy, transportation and other necessary supplies and services through a variety of programs, including periodic purchases, future delivery purchases, long-term contracts, sales price adjustments and certain derivative instruments, while maintaining and improving margins and market share. Also, the Company relies on third-party manufacturers as a source for its products. These manufacturers are also subject to price volatility and labor cost and other inflationary pressures, which may, in turn, result in an increase in the amount the Company pays for sourced products. During periods of rising prices of raw materials, there can be no assurance that the Company will be able to pass any portion of such increases on to customers. Conversely, when raw material prices decline, customer demands for lower prices could result in lower sale prices and, to the extent the Company has existing inventory, lower margins. As a result, fluctuations in raw material prices could have a material adverse effect on the Company’s business, results of operations and financial condition.
+
+Some of the products the Company manufactures require particular types of glass, metal, paper, plastic, resin, wax, wood or other materials. Supply shortages for a particular type of material can delay production or cause increases in the cost of manufacturing the Company’s products. Pricing and availability of finished goods, raw materials, energy, transportation and other necessary supplies and services for use in the Company’s businesses can be volatile due to numerous factors beyond its control, including general, domestic and international economic conditions, natural disasters, labor costs, production levels, competition, consumer demand, import duties and tariffs, currency exchange rates, international treaties, and changes in laws, regulations, and related interpretations.
+
+Specifically, evolving trade policies could continue to make sourcing products from foreign countries difficult and costly, as the Company sources a significant amount of its products from outside of the United States. Considerable political uncertainty exists in the United States and abroad that could result in continuing changes to the national and international trade policies around which the Company has built its sourcing practices and operations. Additionally, the impact of new trade policy under the new U.S. Presidential administration is uncertain. Given the Company's reliance upon non-domestic suppliers, any significant changes to the United States trade policies (and those of other countries in response) may cause a material adverse effect on its ability to source products from other countries or significantly increase the costs of obtaining such products, which could result in a material adverse effect on our financial results. The prior presidential administration imposed a number of tariffs on Chinese-origin goods, as well as on certain products imported into the United States from the European Union. Any extension of tariffs to additional categories of goods or to additional importers or exporters or additional countries of origin could significantly increase the cost of some our products and reduce our margins. The Company will continue to work to mitigate the tariff exposure, in part through pricing, productivity and in some cases relocation. However, there can be no assurance these mitigation efforts will be successful.  
+
+Unfavorable shifts in industry-wide demand for the Company’s products could result in inventory valuation risk.
+
+The Company evaluates its ending inventories for excess quantities, impairment of value, and obsolescence. This evaluation includes analysis of sales levels by product and projections of future demand based upon input received from our customers, sales team, and management. If inventories on hand are in excess of demand or slow moving, appropriate write-downs may be recorded. In addition, the Company writes off inventories that are considered obsolete based upon changes in customer demand, product design changes that result in existing inventory obsolescence, or new product introductions, which eliminate demand for existing products. Remaining inventory balances are adjusted to approximate net realizable market value.
+
+If future demand or market conditions are less favorable than the Company’s estimates, inventory write-downs may be required. The Company cannot be certain that obsolete or excess inventories, which may result from unanticipated changes in the estimated total demand for its products, will not affect it beyond the inventory charges that have already been recorded.
+
+12
+
+The Company may not be able to attract, retain and develop key personnel.
+
+The Company’s ability to successfully execute its turnaround plan and its future performance depends in significant part upon the continued service of its executive officers and other key personnel. The loss of the services of one or more executive officers or other key employees could have a material adverse effect on the Company’s business, prospects, financial condition and results of operations. The Company’s success also depends, in part, on its continuing ability to attract, retain and develop highly qualified personnel. In 2020, the Company hired four new Business Unit CEOs and a new Chief Customer Officer. Both its President and Chief Executive Officer and its Chief Human Resources Officer joined the Company in 2019. Competition for such personnel is intense, and there can be no assurance that the Company can retain its key employees or attract, assimilate and retain other highly qualified personnel in the future. 
+
+Damage to the Company’s reputation or loss of consumer confidence could have an adverse effect on the Company’s business
+
+.
+
+Maintaining the Company’s strong reputation with consumers, customers and suppliers worldwide is critical to the Company’s continued success. Adverse publicity about the Company, its brands, corporate practices, or any other issue that may be associated with the Company, whether or not deserved, could jeopardize that reputation. Such adverse publicity could come from traditional sources such as government investigations or public or private litigation, but may also arise from negative comments on social media regarding the Company or its brands. 
+
+Additionally, due to the scale and scope of our business, we must rely on relationships with third parties, including our suppliers, distributors, contractors, and other external business partners, for certain functions. While we have policies and procedures for managing these relationships, they inherently involve a lesser degree of control over business operations, governance, and compliance, thereby potentially increasing our reputational and legal risk.  If third parties fail to comply with our policies and procedures or similar compliance requirements set forth by our customers, the Company could potentially suffer significant losses of business and revenue from certain customers.
+
+Further, third parties sell counterfeit versions of some of our products, which are often inferior or may pose safety risks. As a result, consumers of our brands could confuse our products with these counterfeit products, which could cause them to refrain from purchasing our brands in the future and in turn could impair our brand equity.
+
+Finally, there has been an increased focus from certain investors, customers, consumers, employees, and other stakeholders concerning corporate citizenship and sustainability matters. From time to time, the Company announces certain initiatives regarding its focus areas, which may include environmental matters, packaging, responsible sourcing and social investments. In 2020, the Company published its Corporate Sustainability Report which included many of these focus areas. The Company could fail, or be perceived to fail, in its achievement of such initiatives or it could fail in accurately reporting its progress on such initiatives and goals. In addition, the Company could be criticized for the scope of such initiatives or perceived as not acting responsibly in connection with these matters. The Company’s reputation and business could be negatively impacted by such developments and may be required to invest significant resources to repair such impacts. 
+
+Damage to the Company’s reputation or a loss of consumer confidence in the Company’s brands could adversely affect the Company’s business, results of operations, cash flows and financial condition, as well as, require resources to repair the harm.
+
+A deterioration in labor relations could adversely impact the Company’s global business.
+
+At December 31, 2020, the Company had approximately 31,000 employees worldwide, a portion of which are covered by collective bargaining agreements or are located in countries that have collective arrangements decreed by statute. The Company periodically negotiates with certain unions and labor representatives and may be subject to work stoppages or may be unable to renew such collective bargaining agreements on the same or similar terms, or at all.
+
+Risks related to the strength of global retail, commercial and industrial sectors and changes in foreign, cultural, political and financial market conditions could impair the Company’s international operations and financial performance.
+
+The Company’s business depends on the strength of the retail, commercial and industrial sectors of the economy in various parts of the world, primarily in North America, and to a lesser extent Europe, Latin America and the Asia Pacific region. These sectors of the economy are affected primarily by factors such as consumer demand and the condition of the retail industry, which, in turn, can be affected by specific events or general economic conditions, including worldwide or country-specific economic instability.
+
+Continuing challenging global economic conditions, particularly outside of the U.S., and potential volatility in domestic and/or foreign equity markets, may result in considerable pressure on consumer demand, which may have an adverse effect on demand for 
+
+13
+
+the Company’s products, as well as its financial condition and results of operations. The Company could also be negatively impacted by economic crises in specific countries or regions. Such events could negatively impact the Company’s overall liquidity and/or create significant credit risks relative to its local customers and depository institutions. Consumer demand and the condition of these sectors of the economy may also be impacted by other external factors such as war, terrorism, geopolitical uncertainties, public health issues, natural disasters and other business interruptions. The impact of these external factors is difficult to predict, and one or more of these factors could adversely impact the Company’s business.
+
+Further, some of the Company’s operations are conducted or products are sold in countries where economic growth has slowed, or where economies have suffered economic, social and/or political instability or hyperinflation; or where the ability to repatriate funds has been significantly delayed or impaired. Current government economic and fiscal policies in these economies, including stimulus measures and currency exchange rates and controls, may not be sustainable and, as a result, the Company’s sales or profits related to those countries may decline. The economies of other foreign countries important to the Company’s operations could also suffer slower economic growth or economic, social and/or political instability or hyperinflation in the future. The Company’s international operations (and particularly its business in emerging markets), including manufacturing and sourcing operations (and the international operations of the Company’s customers), are subject to inherent risks which could adversely affect the Company, including, among other things:
+
+•
+
+protectionist policies restricting or impairing the manufacturing, sales or import and export of the Company’s products, including tariffs and countermeasures;
+
+•
+
+new restrictions on access to markets;
+
+•
+
+lack of developed infrastructure;
+
+•
+
+inflation (including hyperinflation) or recession;
+
+•
+
+devaluations or fluctuations in the value of currencies;
+
+•
+
+changes in and the burdens and costs of compliance with a variety of laws and regulations, including the Foreign Corrupt Practices Act, tax laws, accounting standards, trade protection measures and import and export licensing requirements, environmental laws and occupational health and safety laws;
+
+•
+
+social, political or economic instability;
+
+•
+
+acts of war and terrorism;
+
+•
+
+natural disasters or other crises;
+
+•
+
+reduced protection of intellectual property rights;
+
+•
+
+restrictions on transfer of funds and/or exchange of currencies;
+
+•
+
+expropriation of assets or forced relocations of operations; and
+
+•
+
+other adverse changes in policies, including monetary, tax and/or lending policies, encouraging foreign investment or foreign trade by host countries.
+
+In addition, our global operations expose us to risks associated with public health crises, such as pandemics and epidemics, which could harm our business and cause our operational results to suffer. For example, the COVID-19 pandemic negatively impacted our revenues in the first half of 2020 and the eventual duration and financial impact of the pandemic are still uncertain.
+
+Further, the United Kingdom exited the European Union on January 31, 2020, after protracted political and economic negotiations, with a transition period lasting until December 31, 2020. During the transition period, existing arrangements between the United Kingdom and the European Union remained in place while the United Kingdom and the European Union negotiated a trade and cooperation agreement that was entered into on December 24, 2020 and went into effect on January 1, 2021. While the agreement does not currently impose tariffs on imports across European Union borders for goods with a United Kingdom or European Union origin, customs procedures and border checks may cause delays and backlogs in the transport of goods, and tariffs still apply for some goods originating outside of the United Kingdom or European Union. Further, uncertainty still remains regarding the potential for the future imposition of tariffs on imports across European Union borders. In addition, Brexit could lead to legal uncertainty and potentially divergent national laws and regulations as the United Kingdom determines which European Union laws to replace or replicate. These changes could also cause disruptions to free movement of people and services to and from the United Kingdom, disruptions to the workforce or the workforce of the Company’s suppliers or business partners, increased foreign exchange volatility with respect to the British pound and additional political and economic uncertainty. The foregoing could create uncertainty surrounding the Company’s business and the business of existing and future customers and suppliers, which could increase the cost of some of the Company’s products, thereby reducing its margins. Further, the foregoing risks could have a significant adverse impact on the Company’s ability to commercialize its products on a competitive basis in international markets and may have a material adverse effect on its business, financial condition, and results of operations. The Company’s small sales volume in some countries, relative to some multinational and local competitors, could exacerbate such risks. Depending on the extent to which the Company may be required to make material changes to its European operations beyond those currently planned, the Company’s results of operations and business prospects could be negatively affected.
+
+14
+
+Should any of these risks occur, the Company’s ability to manufacture, source, sell or export its products or repatriate profits could be impaired.  In addition, the Company could experience a loss of sales and profitability from its international operations and/or the Company could experience a substantial impairment or loss of assets.
+
+Financial Risks
+
+The Company has substantial indebtedness, which could materially and adversely affect the Company and its financial position, including decreasing its business flexibility, impacting its ratings and increasing its borrowing costs.
+
+At December 31, 2020, the Company had $5.6 billion in outstanding debt, reflecting a reduction of approximately $116 million versus December 31, 2019. The Company’s substantial indebtedness has had, and could continue to have, important consequences for the Company, including:
+
+•
+
+requiring the Company to dedicate a substantial portion of its cash flow from operations to payments on its indebtedness, which reduces the availability of its cash flow to fund working capital requirements, capital expenditures, future acquisitions, dividends, repurchases of the Company’s common stock and other general corporate purposes;
+
+•
+
+limiting the Company’s flexibility in planning for, or reacting to, adverse business and economic conditions or changes in the Company’s business and the industries in which it operates;
+
+•
+
+placing the Company at a competitive disadvantage compared to its competitors that have less debt; and
+
+•
+
+limiting, along with the financial and non-financial covenants in the Company’s debt documents, its ability to borrow additional funds.
+
+In addition, if the Company is unable to timely reduce its level of indebtedness, the Company will be subject to increased demands on its cash resources, which could increase its total debt-to-capitalization ratios, decrease its interest coverage ratios, lower its credit ratings, result in a breach of covenants or otherwise adversely affect the business and financial results of the Company going forward.
+
+An increase in interest rates could have a material adverse effect on the Company’s business.
+
+While the vast majority of the Company’s debt is fixed, fluctuations in interest rates can increase borrowing costs on the portion that is variable, and interest rate increases on this portion of the Company’s debt could have a material adverse effect on the Company’s business. Indeed, increases in interest rates would increase the cost of servicing our debt and could reduce our profitability and cash flows. In response to the last global economic recession, extraordinary monetary policy actions of the U.S. Federal Reserve and other central banking institutions, including the utilization of quantitative easing, were taken to create and maintain a low interest rate environment. However, the U.S. Federal Reserve raised its benchmark interest rate nine times since December 2015, including four times in 2018, each time by a quarter of a percentage point, before reducing interest rates in 2019 three times. In response to the COVID-19 pandemic, the U.S. Federal Reserve reduced its benchmark interest rate to 0% in March 2020 before voting in November 2020 to keep short-term interest rates anchored in a range between 0% and 0.25%. Any change in the fiscal policies or stated target interest rates of the U.S. Federal Reserve or other central banking institutions, or market expectations of such change, are difficult to predict and may result in significantly higher long-term interest rates. Such a transition may be abrupt and may, among other things, reduce the availability and/or increase the costs of obtaining new debt and refinancing existing indebtedness.
+
+An increase in interest rates may also occur from changes in regulatory standards or industry practices, such as the contemplated transition away from the London Interbank Offered Rate (“LIBOR”) as a benchmark reference for short-term interest rates. Such a transition may result in the usage of a higher reference rate for our variable rate debt. The U.S. Federal Reserve has sponsored the Alternative Reference Rates Committee (“ARRC”), which serves as a forum to coordinate and track planning as market participants currently using LIBOR consider (a) transitioning to alternative reference rates where it is deemed appropriate and (b) addressing risks in legacy contracts language given the possibility that LIBOR might stop. On April 3, 2018, the U.S. Federal Reserve began publishing three new reference rates, including the Secured Overnight Financing Rate (“SOFR”). SOFR is observed and backward looking, which stands in contrast with LIBOR under the current methodology, which is an estimated forward-looking rate and relies, to some degree, on the expert judgment of submitting panel members. Given that SOFR is a secured rate backed by government securities, it will be a rate that does not take into account bank credit risk (as is the case with LIBOR). SOFR is therefore likely to be lower than LIBOR and is less likely to correlate with the funding costs of financial institutions. ARRC has recommended SOFR as the alternative to LIBOR and published fallback interest rate consultations for public comment and a Paced Transition Plan to SOFR use. The Financial Stability Board has taken an interest in LIBOR and possible replacement indices as a matter of risk management. The International Organisation of Securities Commissions, or IOSCO, has been active in this area and is expected to call on market participants to have backup options if a reference rate, such as LIBOR, ceases publication. The International Swaps and Derivatives Association (“ISDA”) has published guidance on interest rate benchmarks and alternatives in July and August 2018. ISDA also published a protocol providing details of the fallback rate conversion methodology in October 2020. It cannot be predicted whether SOFR or another index or indices will become a market standard that replaces LIBOR, and if so, the effects on our future results of 
+
+15
+
+operations or financial condition. In a November 30, 2020 announcement, LIBOR’s administrator signaled to the market that USD LIBOR for the most liquid maturities is now likely to continue to be published until June 30, 2023, which would allow time for most legacy contracts to mature before USD LIBOR is no longer available, and would also allow for more time for SOFR to develop. If LIBOR ceases to exist prior to the maturity of our contracts, we may need to renegotiate our credit agreements that utilize LIBOR as a factor in determining the interest rate to replace LIBOR with the new standard that is established.
+
+Reductions in the Company’s credit ratings could materially and adversely affect its business, financial condition and results of operations.
+
+The Company’s credit ratings impact the cost and availability of future borrowings and, accordingly, the Company’s cost of capital. The Company’s credit ratings reflect each rating organization’s opinion of its financial strength, operating performance and ability to meet its debt obligations. The credit ratings assigned to the Company also impact the interest rates paid on short- and long-term financing. 
+
+On November 1, 2019, S&P Global Inc. (“S&P”) downgraded the Company’s debt rating to “BB+” as S&P believed the Company would fail to meet S&P’s target debt level for 2019. In addition, on March 9, 2020, Moody’s Corporation (“Moody’s”) downgraded the Company’s debt rating to “Ba1” based on a view that the Company would fail to meet Moody's target debt level for 2020. Subsequently on April 15, 2020, Fitch Ratings (“Fitch”) downgraded the Company’s debt rating to “BB” as they believed the Company would fail to meet Fitch's target debt level for 2020. As a result of the S&P and Moody's downgrades, the Company’s ability to borrow from the commercial paper market on terms it deems acceptable or favorable was eliminated and its cost of borrowing increased.
+
+Any further downgrade by Moody’s or S&P would further increase the Company’s borrowing costs and continue to adversely affect the Company’s financial results. In addition, in the event of a future reduction in credit rating, the Company would likely be required to pay a higher interest rate in future financings, and its potential pool of investors and funding sources could decrease. If the Company’s short-term ratings were to be further lowered, it would further limit, or eliminate entirely, the Company’s access to the commercial paper market. 
+
+The ratings from credit agencies are not recommendations to buy, sell or hold the Company’s securities, and each rating should be evaluated independently of any other rating.
+
+See 
+
+Factors Affecting Liquidity
+
+ in 
+
+Liquidity and Capital Resources in Item 7
+
+.
+
+Failure to successfully remediate the material weakness in internal control over financial reporting and to maintain effective internal control over financial reporting could result in material misstatements in our financial statements, and our failure to meet our reporting and financial obligations, which in turn could have a negative impact on our financial condition.
+
+As further detailed in 
+
+Item 9A. Controls and Procedures
+
+, management continues to have a material weakness in its internal control over financial reporting.  A material weakness was disclosed in the Company’s 2019 Annual Report on Form 10-K, filed on March 2, 2020 and subsequent quarterly reports on Form 10-Q, related to the accounting for certain aspects of income taxes. At December 31, 2019, the Company identified that it did not design and maintain controls related to the completeness and accuracy of accounting for state income tax and the accuracy of determining uncertain tax positions, including but not limited to verifying the accrued interest associated with uncertain tax positions was properly determined and recorded. In addition, during the fourth quarter of 2020, management identified that the Company did not design and maintain effective controls to ensure the accuracy of accounting for non-recurring tax planning transactions. These control deficiencies, in the aggregate, could result in a misstatement of the Company's aforementioned accounts and disclosures that would result in a material misstatement of the annual or interim consolidated financial statements that would not be prevented or detected. Accordingly, management has determined that these control deficiencies, in the aggregate, constitute a material weakness.
+
+A material weakness is defined as a deficiency, or a combination of deficiencies, in internal control over financial reporting such that there is a reasonable possibility that a material misstatement of our annual or interim financial statements will not be prevented or detected on a timely basis.
+
+16
+
+As of December 31, 2020, management designed and implemented the following measures to remediate the deficiencies related to the completeness and accuracy of accounting for state income tax and the accuracy of determining uncertain tax positions, including but not limited to verifying that the accrued interest associated with uncertain tax positions was properly determined and recorded:
+
+•
+
+Hired experienced resources with substantive backgrounds in accounting for income taxes as well as U.S. multinational public company experience;
+
+•
+
+Engaged a third party to review the Company’s tax provision processes, identify inefficiencies, and recommend process enhancements;
+
+•
+
+Implemented a tax reporting software solution that has enhanced our visibility of uncertain tax positions as well as a software solution that has enhanced our state income tax reporting capabilities;  
+
+•
+
+Implemented enhancements and process improvements to the quarterly and annual provision with respect to uncertain tax positions and state income taxes; and
+
+•
+
+Undertook extensive training for key personnel in each reporting jurisdiction on tax reporting requirements and our redesigned processes.
+
+In addition, as summarized below, management is in the process of developing a full remediation plan for and has begun enhancing certain controls to include refinements and improvements to the controls with respect to the deficiencies related to the accuracy of accounting for non-recurring tax planning transactions:
+
+•
+
+Enhancing the precision of the control over the calculation and analysis of non-recurring tax planning transactions.
+
+While management believes that the measures already designed and implemented in both the state tax and uncertain tax positions processes are effective, the material weakness, in the aggregate, will not be considered fully remediated until all aspects of the controls operate for a sufficient period of time and management has concluded, through testing, that these controls are operating effectively. The Company will monitor the effectiveness of its remediation plan and will refine its remediation plan as appropriate.
+
+Any failure to remediate the material weakness, or the identification of new material weaknesses in our internal control over financial reporting, could result in material misstatements in our financial statements that may continue undetected, negatively impact the public perception of the Company and our securities and cause us to fail to meet our reporting and financial obligations or incur significant additional costs to remediate the material weakness, each of which could harm our ability to raise capital on favorable terms in the future or otherwise have a negative impact on our financial condition.
+
+Continued declines in the future expected cash flows for the Company’s businesses or changes to underlying assumptions used to calculate fair value could result in additional impairment charges which could have a material adverse effect on the Company’s financial results of operations.
+
+The Company is required under U.S. GAAP to review its amortizable intangible assets for impairment when events or changes in circumstances indicate the carrying value may not be recoverable, and are also required to conduct impairment tests on goodwill and other indefinite-lived intangible assets annually or more frequently, if circumstances indicate that the carrying value may not be recoverable or that an other-than-temporary impairment exists. 
+
+During the years ended December 31, 2020, 2019 and 2018, the Company recorded non-cash impairment charges related to goodwill and indefinite lived intangibles of $1.5 billion, $1.2 billion and $8.3 billion, respectively, in continuing operations and $112 million and $1.5 billion, in discontinued operations in 2019 and 2018, respectively. Future events or factors may occur that would adversely affect the fair value of the Company’s assets and require impairment charges. Such events or factors may include, but are not limited to, divestitures of certain businesses or product lines, strategic decisions made in response to changes in economic and competitive conditions, the impact of the economic environment on the Company’s sales and customer base, a material adverse change in the Company’s relationship with significant customers or business partners, or a sustained decline in the Company’s stock price. In the event any such impairment indicators become known or are present, the Company may be required to perform impairment tests based on changes in the economic environment and other factors, and these tests could result in impairment charges in the future. Given the Company’s recent history of impairment charges, there is minimal difference between the estimated fair values and the carrying values of some of its intangible assets, increasing the possibility of future impairment charges. See 
+
+Critical Accounting Estimates
+
+ in 
+
+Item 7 and Footnotes 1 and 7 of Notes to Consolidated Financial Statements
+
+.
+
+17
+
+The Company is exposed to both foreign currency translation and transaction risks that may materially adversely affect the Company’s operating results, financial condition and liquidity.
+
+The reporting currency for the Company’s financial statements is the U.S. dollar and it has substantial assets, liabilities, revenues and costs denominated in currencies other than U.S. dollars. The preparation of the Company’s Consolidated Financial Statements requires translation of those assets, liabilities, revenues and expenses into U.S. dollars at then-applicable exchange rates. Consequently, increases and decreases in the value of the U.S. dollar versus other currencies will affect the amount of these items in the Company’s Consolidated Financial Statements, even if their value has not changed in their original currency. These translations could result in significant changes to the Company’s results of operations from period to period. Although the Company may employ, at times, a variety of techniques to mitigate the impact of exchange rate fluctuations, including foreign currency hedging activities, it cannot guarantee that such risk management strategies will be effective, and its financial condition or results of operations could be adversely impacted.
+
+In addition, foreign currency transaction risk arises when the Company and its subsidiaries enter into transactions where the settlement occurs in a currency other than its functional currency. Exchange differences (gains and losses) arising on the settlement of monetary items or on translation of monetary items at rates different from those at which they were translated on initial recognition during the period or in previous financial statements are recognized in the Consolidated Statement of Operations in the period in which they arise. Although the Company may employ, at times, a variety of techniques to mitigate the impact of foreign currency transaction risk, including the hedging of forecasted cash inflows and outflows, it cannot guarantee that such risk management strategies will be effective, and its financial condition or results of operations could be adversely impacted.
+
+See 
+
+Management’s Discussion and Analysis of Financial Condition and Results of Operations and Footnote 10 of the Notes to Consolidated Financial Statements
+
+ for further information.
+
+Circumstances associated with divestitures and product line exits could adversely affect the Company’s results of operations and financial condition.
+
+The Company may decide to sell or discontinue other businesses or products in the future based on an evaluation of performance and strategic fit. Divestitures or discontinuations of businesses or products may result in asset impairments, including those related to goodwill and other intangible assets, and losses upon disposition, both of which could have an adverse effect on the Company’s results of operations and financial condition. In addition, the Company may encounter difficulty in finding buyers or executing alternative exit strategies at acceptable prices and terms and in a timely manner, and prospective buyers may have difficulty obtaining financing. Past and future divestitures and business discontinuations also involve additional risks, including the following:
+
+•
+
+difficulties in the separation of operations, services, products and personnel;
+
+•
+
+the retention of certain current or future liabilities in order to induce a buyer to complete a divestiture;
+
+•
+
+the disruption of the Company’s business; 
+
+•
+
+the potential loss of key employees; and
+
+•
+
+disputes or litigation with the buyers.
+
+The Company may not be successful in managing these or any other significant risks that it may encounter in divesting or discontinuing a business or exiting product lines, which could have a material adverse effect on its business.
+
+Legal, Tax and Regulatory Risks
+
+Governmental investigations or actions by other third parties could have a material adverse effect on management and the Company’s business operations.
+
+The Company is subject to various federal, state and foreign laws and regulations. In the ordinary course of business, the Company is also subject to formal and informal regulatory and governmental examinations, subpoenas, requests for documents, testimony or information, inquiries, investigations, threatened legal actions and proceedings. The Company previously disclosed that it had received a subpoena and related informal document requests from the U.S. Securities and Exchange Commission (the “SEC”) primarily relating to its sales practices and certain accounting matters for the time period beginning from January 1, 2016. See 
+
+Footnote 18 of the Notes to the Consolidated Financial Statements
+
+ for further information. Responding to governmental investigations, voluntary document requests, subpoenas or actions by regulatory bodies may be time-consuming, expensive and disruptive to the Company’s operations and could divert the attention of management and key personnel from the Company’s business operations. 
+
+18
+
+The Company’s businesses and operations are subject to regulation in the U.S. and abroad.
+
+Changes in laws, regulations and related interpretations may alter the environment in which the Company does business. This includes changes in environmental, data privacy, competitive and product-related laws, as well as changes in accounting standards, taxation and other regulations. Accordingly, the Company’s ability to manage regulatory, tax and legal matters (including environmental, human resource, product liability, patent and other intellectual property matters), and to resolve pending legal and environmental matters without significant liability could require the Company to record significant reserves in excess of amounts accrued to date or pay significant fines during a reporting period, which could materially impact the Company’s results. In addition, new regulations may be enacted in the U.S. or abroad that may require the Company to incur additional personnel-related, environmental or other costs on an ongoing basis, significantly restrict the Company’s ability to sell certain products, or incur fines or penalties for noncompliance, any of which could adversely affect the Company’s results of operations.
+
+As a U.S.-based multinational company, the Company is also subject to tax regulations in the U.S. and multiple foreign jurisdictions, some of which are interdependent. For example, certain income that is earned and taxed in countries outside the U.S. may not be taxed in the U.S. until those earnings are actually repatriated or deemed repatriated. If these or other tax regulations should change, the Company’s financial results could be impacted.
+
+On June 18, 2019, the U.S. Treasury and the Internal Revenue Service (“IRS”) released temporary regulations under IRC Section 245A (“Section 245A”) as enacted by the 2017 U.S. Tax Reform Legislation (“2017 Tax Reform”) and IRC Section 954(c)(6) (the “Temporary Regulations”) to apply retroactively to the date the 2017 Tax Reform was enacted. On August 21, 2020, the U.S. Treasury and IRS released finalized versions of the Temporary Regulations (collectively with the Temporary Regulations, the “Regulations”). The Regulations seek to limit the 100% dividends received deduction permitted by Section 245A for certain dividends received from controlled foreign corporations and to limit the applicability of the look-through exception to foreign personal holding company income for certain dividends received from controlled foreign corporations. Before the retroactive application of the Regulations, the Company benefited in 2018 from both the 100% dividends received deduction and the look-through exception to foreign personal holding company income. The Company analyzed the Regulations and concluded the relevant Regulations were not validly issued. Therefore, the Company has not accounted for the effects of the Regulations in its Consolidated Financial Statements for the period ending December 31, 2020. If the Company’s position on the Regulations is not sustained, the Company would be required to recognize an income tax expense of approximately $180 million to $220 million related to an income tax benefit from fiscal year 2018 that was recorded based on regulations in existence at the time. In addition, the Company may be required to pay any applicable interest and penalties. The Company believes it has strong arguments in favor of its position and believes it has met the more likely than not recognition threshold that its position will be sustained. However, due to the inherent uncertainty involved in challenging the validity of regulations as well as a potential litigation process, there can be no assurances that the relevant Regulations will be invalidated or that a court of law will rule in favor of the Company. 
+
+The resolution of the Company’s tax contingencies may result in additional tax liabilities, which could adversely impact the Company’s cash flows and results of operations.
+
+The Company is subject to income tax in the U.S. and numerous jurisdictions internationally. Significant estimation and judgment are required in determining the Company’s worldwide provision for income taxes. In the ordinary course of the Company’s business, there are many transactions and calculations where the ultimate tax determination is uncertain. The Company is regularly under audit by various worldwide tax authorities. Although the Company believes its tax estimates are reasonable, the final outcome of tax audits and related litigation could be materially different than that reflected in its historical income tax provisions and accruals. There can be no assurance that the resolution of any audits or litigation will not have an adverse effect on future operating results.
+
+19
+
+The Company may incur significant costs in order to comply with environmental remediation obligations.
+
+In addition to operational standards, environmental laws also impose obligations on various entities to clean up contaminated properties or to pay for the cost of such remediation, often upon parties that did not actually cause the contamination. Accordingly, the Company may be liable, either contractually or by operation of law, for remediation costs even if the contaminated property is not presently owned or operated by the Company, is a landfill or other location where it has disposed of wastes, or if the contamination was caused by third parties during or prior to the Company’s ownership or operation of the property. Given the nature of the past industrial operations conducted by the Company and others at these properties, there can be no assurance that all potential instances of soil or groundwater contamination have been identified, even for those properties where an environmental site assessment has been conducted. The Company does not believe that any of the Company’s existing remediation obligations, including at third-party sites where it has been named a potentially responsible party, will have a material adverse effect upon its business, results of operations or financial condition. However, future events, such as changes in existing laws or policies or their enforcement, or the discovery of currently unknown contamination, may give rise to additional remediation liabilities that may be material. See 
+
+“Environmental Matters”
+
+ in 
+
+Footnote 18 of the Notes to Consolidated Financial Statements
+
+ for a further discussion of these and other environmental-related matters.
+
+The Company’s business involves the potential for product recalls, product liability and other claims against it, which could affect its earnings and financial condition.
+
+As a manufacturer and distributor of consumer products, the Company is subject to the U.S. Consumer Products Safety Act of 1972, as amended by the Consumer Product Safety Improvement Act of 2008, which empowers the U.S. Consumer Products Safety Commission to exclude from the market products that are found to be unsafe or hazardous, and similar laws under foreign jurisdictions. Under certain circumstances, the Consumer Products Safety Commission or a comparable foreign agency could require the Company to repurchase or recall one or more of its products. Additionally, other laws and agencies, such as the National Highway Traffic Safety Administration, regulate certain consumer products sold by the Company in the United States and abroad, and more restrictive laws and regulations may be adopted in the future. From time to time, the Company has announced voluntary recalls of its products where it has identified potential product safety concerns. For example, in 2019 the Company announced a voluntary recall of the Contigo Gizmo product due to occurrences of the silicone spout detaching from the nylon base, which resulted in significant product returns and other costs. Any repurchase or recall of the Company’s products could be costly and damaging to the Company’s reputation. When the Company is required to remove, or voluntarily removes, its products from the market, the Company’s reputation could be tarnished and the Company might have large quantities of finished products that it could not sell. The Company also faces exposure to product liability claims in the event that one of its products is alleged to have resulted in property damage, bodily injury or other adverse effects. 
+
+In addition to the risk of substantial monetary judgments or fines or penalties that may result from any governmental investigations, product liability claims or regulatory actions could result in negative publicity that could harm the Company’s reputation in the marketplace, adversely impact the value of its end-user brands, or result in an increase in the cost of producing the Company’s products. Similar to product liability claims, the Company faces exposure to class action lawsuits related to the performance, safety or advertising of its products. Such class action suits could result in substantial monetary judgments, injunctions related to the sale of products and potentially tarnish the Company’s reputation.
+
+Although the Company maintains product liability insurance in amounts that it believes are reasonable, that insurance is, in most cases, subject to large self-insured retentions for which the Company is responsible, and the Company cannot assure you that it will be able to maintain such insurance on acceptable terms, if at all, in the future or that product liability claims will not exceed the amount of insurance coverage. The Company does not maintain insurance against many types of claims involving alleged defects in its products that do not involve personal injury or property damage. Additionally, the Company does not maintain product recall insurance and may not have insurance coverage for claims asserted in class action lawsuits. As a result, product recalls, product liability claims and other product-related claims could have a material adverse effect on the Company’s business, results of operations and financial condition. The Company spends substantial resources ensuring compliance with governmental and other applicable standards. However, compliance with these standards does not necessarily prevent individual or class action lawsuits, which can entail significant cost and risk. As a result, these types of claims could have a material adverse effect on the Company’s business, results of operations and financial condition.
+
+The Company’s product liability insurance program is an occurrence-based program based on its current and historical claims experience and the availability and cost of insurance. The Company currently either self-insures or administers a high retention insurance program for most product liability risks. Historically, product liability awards have rarely exceeded the Company’s individual per occurrence self-insured retention. The Company cannot give assurance, however, that its future product liability experience will be consistent with its past experience or that claims and awards subject to self-insured retention will not be material.
+
+20
+
+See 
+
+Footnote 18 of the Notes to the Consolidated Financial Statements
+
+ for a further discussion of these and other regulatory and litigation-related matters.
+
+If the Company fails to adequately protect its intellectual property rights, competitors may manufacture and market similar products, which could adversely affect the Company’s market share and results of operations.
+
+The Company’s success with its proprietary products depends, in part, on its ability to protect its current and future technologies and products and to defend its intellectual property rights, including its patent, trade secret and trademark rights. If the Company fails to adequately protect its intellectual property rights, competitors may manufacture and market similar products.
+
+The Company holds numerous design and utility patents covering a wide variety of products. The Company cannot be sure that it will receive patents for any of its patent applications or that any existing or future patents that it receives or licenses will provide competitive advantages for its products. The Company also cannot be sure that competitors will not challenge, invalidate or avoid the application of any existing or future patents that the Company receives or licenses. In addition, patent rights may not prevent competitors from developing, using or selling products that are similar or functionally equivalent to the Company’s products.
+
+If the Company is found to have infringed the intellectual property rights of others or cannot obtain necessary intellectual property rights from others, its competitiveness could be negatively impaired.
+
+If the Company is found to have violated the trademark, trade secret, copyright, patent or other intellectual property rights of others, directly or indirectly, including through the use of third-party marks, ideas, or technologies, such a finding could result in the need to cease use of such mark, trade secret, copyrighted work or patented invention in the Company’s business, as well as the obligation to pay for past infringement. If rights holders are willing to permit the Company to continue to use such intellectual property rights, they could require a payment of a substantial amount for continued use of those rights. Either ceasing use or paying such amounts could cause the Company to become less competitive and could have a material adverse effect on the Company’s business, financial condition, and results of operations.
+
+Even if the Company is not found to infringe a third party’s intellectual property rights, claims of infringement could adversely affect the Company’s business. The Company could incur significant legal costs and related expenses to defend against such claims, and the Company could incur significant costs associated with discontinuing to use, provide, or manufacture certain products, services or trademarks even if it is ultimately found not to have infringed such rights.
+
+ITEM 1B. UNRESOLVED STAFF COMMENTS
+
+Not applicable.
+
+ITEM 2. PROPERTIES
+
+The Company's primary corporate offices are located in an owned office space in Atlanta, Georgia and a leased office space in Norwalk, Connecticut. At December 31, 2020, the Company's global physical presence included approximately 55 manufacturing facilities (20 in the U.S.), approximately 70 regional distribution centers and warehouses (35 in the U.S.), approximately 140 offices for sales, research and development and administrative purposes (40 in the U.S.), as well as approximately 425 retail stores (405 in the U.S.) primarily related to Yankee Candle. Approximately 90% of our global properties are leased (95% in the U.S.), which primarily reflect the Yankee Candle retail stores.
+
+In general, the Company's properties are well-maintained, considered adequate and are utilized for their intended purposes. See 
+
+Footnote 6 of the Notes to Consolidated Financial Statements
+
+ for amounts invested in land, buildings and machinery and equipment. Also, see 
+
+Footnote 13 of the Notes to Consolidated Financial Statements
+
+ for information about the Company’s leased properties.
+
+ITEM 3. LEGAL PROCEEDINGS
+
+Information regarding legal proceedings is included in Footnote 18 of the Notes to Consolidated Financial Statements and is incorporated by reference herein.
+
+ITEM 4. MINE SAFETY DISCLOSURES
+
+Not applicable.
+
+21
+
+SUPPLEMENTARY ITEM — INFORMATION ABOUT OUR EXECUTIVE OFFICERS
+
+Name
+
+Age
+
+Title
+
+Ravichandra K. Saligram
+
+64
+
+President and Chief Executive Officer
+
+Christopher H. Peterson
+
+54
+
+Chief Financial Officer & President, Business Operations
+
+Bradford R. Turner
+
+48
+
+Chief Legal and Administrative Officer and Corporate Secretary
+
+Stephen B. Parsons
+
+56
+
+Chief Human Resources Officer
+
+Michael M. Hayes
+
+52
+
+Chief Customer Officer
+
+Laurel M. Hurd
+
+51
+
+Segment President, Learning and Development
+
+Kristine K. Malkoski
+
+60
+
+Business Unit CEO, Food
+
+Michael P. McDermott
+
+51
+
+Business Unit CEO, Commercial
+
+James A. Pisani
+
+54
+
+Business Unit CEO, Outdoor and Recreation
+
+Christine M. Robins
+
+55
+
+Business Unit CEO, Appliances and Cookware
+
+Ravichandra K. Saligram has served as President and Chief Executive Officer of the Company and as a member of the Company's Board of Directors since October 2019. Prior to joining the Company, Mr. Saligram was Chief Executive Officer and Director of Ritchie Bros. Auctioneers Incorporated, the world’s largest onsite/online industrial equipment auctioneer, from July 2014 until July 2019. From November 2010 until November 2013, Mr. Saligram was Chief Executive Officer, President, and a member of the Board of Directors of OfficeMax Inc., an omnichannel provider of workplace products, services and solutions where he oversaw the historic 2013 merger of OfficeMax and Office Depot. From 2003 through November 2010, Mr. Saligram served in executive management positions with ARAMARK, a global provider of food services, facilities management and uniforms, including as President of ARAMARK International, Chief Globalization Officer and Executive Vice President of ARAMARK. From 1994 through 2002, Mr. Saligram served in various capacities for the InterContinental Hotels Group, a global hospitality company, including as President of Brands and Franchise for North America; Chief Marketing Officer and Managing Director, Global Strategy; President, International; and President, Asia Pacific. Earlier in his career, Mr. Saligram held various general and brand management roles at S.C. Johnson & Son, Inc., a consumer products company. Mr. Saligram began his career at Leo Burnett, an advertising firm. He has served on the Board of Directors of Church & Dwight Co., Inc. since 2006. Mr. Saligram brings to the Board an extensive background in consumer brands, omnichannel commerce and global operations as well as experience leading corporate transformations and building innovative and diverse employee cultures. He also brings an important perspective to the Board as the President and Chief Executive Officer of the Company.  
+
+Christopher H. Peterson has been the Executive Vice President, Chief Financial Officer of Newell Brands since December 2018 and President, Business Operations since February 2020. He also served as Interim Chief Executive Officer from June 28, 2019 until October 2, 2019. From April 2018 to August 2018, Mr. Peterson served as the Executive Vice President and Chief Operating Officer, Operations of Revlon, Inc., a global beauty company. Before that, Mr. Peterson served as both Revlon’s Chief Operating Officer, Operations and Chief Financial Officer from June 2017 until March 2018, and leading into that, he held the title of Chief Operating Officer, Operations from April 2017 until June 2017. Prior to his positions at Revlon, Mr. Peterson held several senior management roles at Ralph Lauren Corporation, a designer, marketer, and distributor of premium lifestyle products, including serving as President, Global Brands from April 2015 to May 2016, Executive Vice President, Chief Administrative Officer & Chief Financial Officer from November 2013 to March 2015, and Senior Vice President and Chief Financial Officer from September 2012 to November 2013. Previously, Mr. Peterson held several financial management positions at The Procter & Gamble Company, a global consumer products company, from 1992 to 2012. Mr. Peterson serves on the Board of Directors of BJ’s Wholesale Club Holdings, Inc.
+
+Bradford R. Turner has been the Chief Legal and Administrative Officer and Corporate Secretary since August 2017 and served as Chief Legal Officer and Corporate Secretary from April 2016 to August 2017. Prior to this role, he served as Senior Vice President, General Counsel, and Corporate Secretary from March 2015 to March 2016. Mr. Turner joined the Company in 2004 and has served in various legal roles including Vice President and Deputy General Counsel from October 2011 to March 2015, and Group Vice President & General Counsel, Office Products, from June 2007 to October 2011.
+
+22
+
+Stephen B. Parsons has served as Chief Human Resources Officer of the Company since October 2019. Prior to joining the Company, Mr. Parsons served as Global Operating Partner, Z Capital Partners, the private equity fund management arm of Z Capital Group since 2016. Prior to that, he served as Chief Human Resources Officer at Stage Stores, Inc. from 2014 to 2016 and as Global Chief Human Resources Officer at OfficeMax from 2011 to 2014. Earlier in his career, Mr. Parsons held a variety of senior human resources roles at Rite Aid Corporation, Sears Holdings Corporation and Whirlpool Corporation.
+
+Michael M. Hayes has served as Chief Customer Officer of the Company since April 2020. Prior to joining the Company, from January 2011 to April 2020, Mr. Hayes served as the Senior Vice President, Sales & Sales Strategy of Georgia-Pacific LLC.  Previously, he led Georgia-Pacific LLC's North American sales organization as Chief Sales Officer. Prior to joining Georgia-Pacific LLC in 2008, Mr. Hayes spent numerous years in sales and marketing leadership roles with the Sara Lee Corporation, Information Resources, Inc., The Dial Corporation and the Small Business Association. Mr. Hayes is a decorated U.S. military veteran, serving six years as a Navy Corpsman with the United States Marine Corps, and on active duty in Operations Desert Shield and Desert Storm.
+
+Laurel M. Hurd has served as Segment President, Learning and Development, leading both Newell Brands' Baby and Writing businesses since February 2019. Previously, Ms. Hurd was the Division Chief Executive Officer for the Company’s Writing division starting in February 2018. From 2016 to February 2018, she served as CEO of the Company’s Baby division. From May 2014 until 2016, Ms. Hurd was President of Baby and Parenting, leading the acquisition of Baby Jogger and later assuming leadership of the Home and Baby segment, including the Calphalon®, Goody®, and Rubbermaid® consumer brands. From 2012 to 2014, Ms. Hurd was Vice President, Global Development, leading both Marketing and Research & Development for the Graco®, Aprica®, and Teutonia® brands globally.
+
+Kristine K. Malkoski has served as Business Unit CEO, Food of the Company since February 2020. Prior to joining the Company, from April 2019 to January 2020, Ms. Malkoski was Chief Executive Officer, Americas, for Arc International, a global manufacturer of glassware products for the housewares industry, where she was responsible for housewares sales, marketing, manufacturing and distribution across North and South America. From January 2015 to August 2017, Ms. Malkoski served as President, Global Business and Chief Commercial Officer for World Kitchen, a privately owned international housewares company, where she oversaw operations for its retail stores, and, previously, from June 2012 to January 2015, as President, North America, Chief Innovation Officer, and President North America Household for World Kitchen. Prior thereto, Ms. Malkoski served as Vice President and General Manager of the Craftsman division of Sears Holding Company and in various other management roles at Sears, Ubiquity Brands and Procter & Gamble. From 1997 to 2002, Ms. Malkoski founded and served as President and Chief Operating Officer of Pharmaceutical Corporation of America, the first contract product management company for the prescription drug industry. 
+
+Michael P. McDermott has served as Business Unit CEO, Commercial of the Company since January 2020. Prior to joining the Company, Mr. McDermott served as President of Omni-Channel Retail at Bass Pro Shops in 2019. Previously, Mr. McDermott served as Executive Vice President and Chief Customer Officer at Lowe's Companies Inc. from 2016 to 2019; Chief Merchandising Officer from 2014 to 2016; and Senior Vice President from 2011-2013. Prior to working with Lowe's Companies Inc., Mr. McDermott held various management roles at General Electric Company.
+
+James A. Pisani has served as Business Unit CEO, Outdoor and Recreation of the Company since May 2020. Prior to joining the Company, Mr. Pisani served as Global Brand President of Timberland LLC from August 2016 to April 2020 and, from August 2018 to April 2020, on the executive leadership team at VF Corporation, where he was responsible for the oversight and strategic direction of the Timberland brand worldwide. Prior to his work at Timberland LLC, Mr. Pisani served as President of VF Corporation's Licensed Sports Group from July 2008 to August 2016. Previously, Mr. Pisani served in various capacities at Kraft Foods and at PepsiCo, where he was Vice President of Business Development. 
+
+Christine M. Robins has served as Business Unit CEO, Appliances and Cookware of the Company since June 2020. Prior to joining the Company, from June 2014 to August 2019, Ms. Robins served as President and Chief Executive Officer at Char-Broil, LLC, a manufacturer of gas, charcoal and electric grills, smokers, fryers, and grilling accessories. Prior to joining Char-Broil, LLC, from 2009 to 2014, Ms. Robins was President, CEO and Board Member at BodyMedia, Inc., a medical and consumer technology company. From 2006 to 2009, she was President and CEO of Philips Oral Healthcare, a global division of Philips Electronics. Prior thereto, from 2005 to 2006, Ms. Robins served as Vice President of Global Innovation and Marketing for Philips Oral Healthcare. Ms. Robins began her career in finance and brand management and served in various roles at S.C. Johnson & Son, Inc., a consumer products company. Ms. Robins currently serves on the board of Husqvarna Group, a Swedish manufacturer of outdoor power equipment. 
+
+23
+
+PART II
+
+ITEM 5. MARKET FOR REGISTRANT’S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES
+
+The Company’s common stock is listed on the Nasdaq Stock Market (symbol: NWL). At February 12, 2021 there were 9,439 stockholders of record. 
+
+Performance Graph
+
+The following Performance Graph and related information shall not be deemed “soliciting material” or to be “filed” with the Securities and Exchange Commission, nor shall such information be incorporated by reference into any future filing under the Securities Act of 1933 or Securities Exchange Act of 1934, each as amended, except to the extent that the Company specifically incorporates it by reference into such filing.
+
+The graph below compares total stockholder return on the Company’s common stock from December 31, 2015 through December 31, 2020 with the cumulative total return of (a) the Standard and Poor’s (“S&P”) 500 Index, and (b) the Dow Jones ("DJ") Consumer Goods Index, assuming a $100 investment made on December 31, 2015. Each of the three measures of cumulative total return assumes reinvestment of dividends, if applicable. The stock performance shown on the graph below is based on historical data and is not indicative of, or intended to forecast, possible future performance of the Company’s common stock.
+
+24
+
+ISSUER PURCHASES OF EQUITY SECURITIES
+
+The following table provides information about the Company’s purchases of equity securities during the three months ended December 31, 2020:
+
+Calendar Month
+
+Total Number
+
+of Shares
+
+Purchased (1)
+
+Average
+
+Price Paid
+
+Per Share
+
+Total Number of Shares Purchased as Part of Publicly Announced Plans or Programs
+
+Maximum
+
+Approximate
+
+Dollar Value of
+
+Shares that May
+
+Yet Be Purchased
+
+Under the Plans
+
+or Programs
+
+October
+
+— 
+
+$
+
+— 
+
+— 
+
+$
+
+— 
+
+November
+
+19,361 
+
+18.88 
+
+— 
+
+— 
+
+December
+
+26,020 
+
+21.77 
+
+— 
+
+— 
+
+Total
+
+45,381 
+
+20.54 
+
+— 
+
+(1)
+
+All shares purchased during the three months ended December 31, 2020, were acquired to satisfy employees’ tax withholding and payment obligations in connection with the vesting of awards of restricted stock units, which were purchased by the Company based on their fair market value on the vesting date. 
+
+ITEM 6. SELECTED FINANCIAL DATA
+
+Not applicable.

@@ -1,0 +1,614 @@
+ITEM 7 
+
+| 
+
+Enterprise Risk Management
+
+ 
+
+Other BUSINESS RiskS
+
+Derivative Transactions 
+
+We utilize derivatives principally to enable us to hedge exposure associated with changes in levels of interest rates, currencies, credit, commodities, equity prices and other risks. Credit risk associated with derivative counterparties exists for a derivative contract when that contract has a positive fair value to us. The maximum potential exposure will increase or decrease during the life of the derivative commitments as a function of maturity and market conditions. All derivative transactions must be transacted within counterparty limits that have been approved by ERM.
+
+We evaluate counterparty credit quality via an internal analysis that is consistent with the AIG Credit Policy. We utilize various credit enhancements, including letters of credit, guarantees, collateral, credit triggers, credit derivatives, margin agreements and subordination to reduce the credit risk related to outstanding financial derivative transactions. We require credit enhancements in connection with specific transactions based on, among other things, the creditworthiness of the counterparties, and transaction size and maturity. Furthermore, we enter into certain agreements that have the benefit of set-off and close-out netting provisions, such as ISDA Master Agreements. These provisions provide that, in the case of an early termination of a transaction, we can set off receivables from a counterparty against payables to the same counterparty arising out of all covered transactions. As a result, where a legally enforceable netting agreement exists, the fair value of the transaction with the counterparty represents the net sum of estimated fair values.
+
+The fair value of our interest rate, currency, credit, commodity and equity swaps, options, swaptions, and forward commitments, futures, and forward contracts reported as a component of Other assets, was approximately $0.8 billion at both December 31, 2020 and December 31, 2019. Where applicable, these amounts have been determined in accordance with the respective master netting agreements.
+
+The following table presents the fair value of our derivatives portfolios in asset positions by internal counterparty credit rating:
+
+At December 31,
+
+ 
+
+ 
+
+ 
+
+ 
+
+(in millions)
+
+ 
+
+2020
+
+ 
+
+2019
+
+Rating:
+
+ 
+
+ 
+
+ 
+
+ 
+
+AAA
+
+$
+
+8
+
+$
+
+45
+
+AA
+
+ 
+
+12
+
+ 
+
+19
+
+A
+
+ 
+
+130
+
+ 
+
+145
+
+BBB
+
+ 
+
+601
+
+ 
+
+553
+
+Below investment grade
+
+*
+
+ 
+
+23
+
+ 
+
+31
+
+Total
+
+$
+
+774
+
+$
+
+793
+
+*
+
+
+
+
+Below investment grade includes not rated.
+
+For additional discussion related to derivative transactions see Note 11 to the Consolidated Financial Statements.
+
+AIG | 2020 Form 10-K 
+
+173
+
+ 
+
+TABLE OF CONTENTS
+
+ 
+
+Glossary
+
+ 
+
+Glossary
+
+Accident year
+
+ 
+
+The annual calendar accounting period in which loss events occurred, regardless of when the losses are actually reported, booked or paid.
+
+Accident year combined ratio, as adjusted
+
+ The combined ratio excluding catastrophe losses and related reinstatement premiums, prior year development, net of premium adjustments, and the impact of reserve discounting. 
+
+Accident year loss ratio, as adjusted
+
+ 
+
+The loss ratio excluding catastrophe losses and related reinstatement premiums, prior year development, net of premium adjustments, and the impact of reserve discounting. 
+
+Acquisition ratio
+
+ Acquisition costs divided by net premiums earned. Acquisition costs are those costs incurred to acquire new and renewal insurance contracts and also include the amortization of VOBA and DAC. Acquisition costs vary with sales and include, but are not limited to, commissions, premium taxes, direct marketing costs and certain costs of personnel engaged in sales support activities such as underwriting. 
+
+Additional premium
+
+ 
+
+represents a premium on an insurance policy over and above the initial premium imposed at the beginning of the policy. An additional premium may be assessed if the insured’s risk is found to have increased significantly.
+
+Adjusted revenues
+
+ 
+
+exclude Net realized capital gains (losses), income from non-operating litigation settlements (included in Other income for GAAP purposes) and changes in fair value of securities used to hedge guaranteed living benefits (included in Net investment income for GAAP purposes). Adjusted revenues is a GAAP measure for our segments.
+
+Assets under administration
+
+ include assets under management and Retail Mutual Funds and Group Retirement mutual fund assets that we sell or administer. 
+
+Assets under management
+
+ include assets in the general and separate accounts of our subsidiaries that support liabilities and surplus related to our life and annuity insurance products and the notional value of stable value wrap contracts.
+
+Attritional losses
+
+ are losses recorded in the current accident year, which are not catastrophe losses. 
+
+Base Spread
+
+ 
+
+Net investment income excluding income from alternative investments and other enhancements, less interest credited excluding amortization of sales inducement assets.
+
+Base Yield
+
+ Net investment income excluding income from alternative investments and other enhancements, as a percentage of average base invested asset portfolio, which excludes alternative investments, other bond securities and certain other investments for which the fair value option has been elected. 
+
+Book value per common share, excluding accumulated other comprehensive income (AOCI) adjusted for the cumulative unrealized gains and losses related to Fortitude Re’s Funds Withheld Assets and deferred tax assets (DTA) (Adjusted book value per common share)
+
+ 
+
+is a non-GAAP measure and is used to show the amount of our net worth on a per-common share basis. Adjusted book value per common share is derived by dividing total AIG common shareholders’ equity, excluding AOCI adjusted for the cumulative unrealized gains and losses related to Fortitude Re’s Funds Withheld Assets and DTA (Adjusted Common Shareholders’ Equity), by total common shares outstanding.
+
+Casualty insurance
+
+ Insurance that is primarily associated with the losses caused by injuries to third persons, i.e., not the insured, and the legal liability imposed on the insured as a result.
+
+Combined ratio
+
+ Sum of the loss ratio and the acquisition and general operating expense ratios.
+
+CSA 
+
+Credit Support
+
+ 
+
+Annex 
+
+A legal document generally associated with an ISDA Master Agreement that provides for collateral postings which could vary depending on ratings and threshold levels.
+
+Credit Valuation Adjustment (CVA)/Non-Performance Risk Adjustment (NPA)
+
+ 
+
+The CVA/NPA adjusts the valuation of derivatives to account for nonperformance risk of our counterparty with respect to all net derivative assets positions. Also, the CVA/NPA reflects the fair value movement in AIGFP's asset portfolio that is attributable to credit movements only, without the impact of other market factors such as interest rates and foreign exchange rates. Finally, the CVA/NPA also accounts for our own credit risk in the fair value measurement of all derivative net liability positions and liabilities where AIG has elected the fair value option, when appropriate. 
+
+DAC
+
+ 
+
+Deferred Policy Acquisition Costs
+
+ Deferred costs that are incremental and directly related to the successful acquisition of new business or renewal of existing business.
+
+174
+
+ AIG | 2020 Form 10-K
+
+TABLE OF CONTENTS
+
+ 
+
+Glossary
+
+ 
+
+DAC Related to Unrealized Appreciation (Depreciation) of Investments 
+
+An adjustment to DAC and Reserves for investment-oriented products, equal to the change in DAC and unearned revenue amortization that would have been recorded if fixed maturity securities available for sale and also, prior to 2018, equity securities at fair value had been sold at their stated aggregate fair value and the proceeds reinvested at current yields. An adjustment to benefit reserves for investment-oriented products is also recognized to reflect the application of the benefit ratio to the accumulated assessments that would have been recorded if fixed maturity securities available for sale and also, prior to 2018, equity securities at fair value had been sold at their stated aggregate fair value and the proceeds reinvested at current yields (collectively referred to as shadow Investment-Oriented Adjustments).
+
+For long-duration traditional products, significant unrealized appreciation of investments in a sustained low interest rate environment may cause additional future policy benefit liabilities to be recorded (shadow loss reserves).
+
+Deferred Gain on Retroactive Reinsurance
+
+ 
+
+Retroactive reinsurance is a reinsurance contract in which an assuming entity agrees to reimburse a ceding entity for liabilities incurred as a result of past insurable events. If the amount of premium paid by the ceding reinsurer is less than the related ceded loss reserves, the resulting gain is deferred and amortized over the settlement period of the reserves. Any related development on the ceded loss reserves recoverable under the contract would increase the deferred gain if unfavorable, or decrease the deferred gain if favorable.
+
+Expense ratio
+
+ Sum of acquisition expenses and general operating expenses, divided by net premiums earned.
+
+General operating expense ratio
+
+ General operating expenses divided by net premiums earned. General operating expenses are those costs that are generally attributed to the support infrastructure of the organization and include but are not limited to personnel costs, projects and bad debt expenses. General operating expenses exclude losses and loss adjustment expenses incurred, acquisition expenses, and investment expenses.
+
+GIC/GIA
+
+ 
+
+Guaranteed Investment Contract/Guaranteed Investment Agreement
+
+ A contract whereby the seller provides a guaranteed repayment of principal and a fixed or floating interest rate for a predetermined period of time.
+
+IBNR
+
+ 
+
+Incurred But Not Reported
+
+ Estimates of claims that have been incurred but not reported to us.
+
+ISDA Master Agreement
+
+ An agreement between two counterparties, which may have multiple derivative transactions with each other governed by such agreement, that generally provides for the net settlement of all or a specified group of these derivative transactions, as well as pledged collateral, through a single payment, in a single currency, in the event of a default on, or affecting any, one derivative transaction or a termination event affecting all, or a specified group of, derivative transactions.
+
+LAE
+
+ 
+
+Loss Adjustment Expenses
+
+ The expenses directly attributed to settling and paying claims of insureds and include, but are not limited to, legal fees, adjuster’s fees and the portion of general expenses allocated to claim settlement costs. 
+
+Loan-to-Value Ratio
+
+ Principal amount of loan amount divided by appraised value of collateral securing the loan.
+
+Loss Ratio
+
+ Losses and loss adjustment expenses incurred divided by net premiums earned. 
+
+Loss reserve development
+
+ 
+
+The increase or decrease in incurred losses and loss adjustment expenses related to prior years as a result of the re-estimation of loss reserves at successive valuation dates for a given group of claims.
+
+Loss reserves
+
+ 
+
+Liability for unpaid losses and loss adjustment expenses. The estimated ultimate cost of settling claims relating to insured events that have occurred on or before the balance sheet date, whether or not reported to the insurer at that date.
+
+Master netting agreement
+
+ An agreement between two counterparties who have multiple derivative contracts with each other that provides for the net settlement of all contracts covered by such agreement, as well as pledged collateral, through a single payment, in a single currency, in the event of default on or upon termination of any one such contract.
+
+Natural catastrophe losses
+
+ 
+
+are generally weather or seismic events having a net impact on AIG in excess of $10 million each and man-made catastrophe losses, such as terrorism and civil disorders that exceed the $10 million threshold.
+
+Net premiums written
+
+ represent the sales of an insurer, adjusted for reinsurance premiums assumed and ceded, during a given period. Net premiums earned are the revenue of an insurer for covering risk during a given period. Net premiums written are a measure of performance for a sales period, while net premiums earned are a measure of performance for a coverage period.
+
+Noncontrolling interests 
+
+The portion of equity ownership in a consolidated subsidiary not attributable to the controlling parent company.
+
+Policy fees
+
+ An amount added to a policy premium, or deducted from a policy cash value or contract holder account, to reflect the cost of issuing a policy, establishing the required records, sending premium notices and other related expenses.
+
+AIG | 2020 Form 10-K 
+
+175
+
+ 
+
+TABLE OF CONTENTS
+
+ 
+
+Glossary
+
+ 
+
+Pool 
+
+A reinsurance arrangement whereby all of the underwriting results of the pool members are combined and then shared by each member in accordance with its pool participation percentage. 
+
+Premiums and deposits – Life and Retirement
+
+ includes direct and assumed amounts received and earned on traditional life insurance policies, group benefit policies and life-contingent payout annuities, as well as deposits received on universal life, investment-type annuity contracts, FHLB funding agreements and mutual funds.
+
+Prior year development 
+
+See Loss reserve development
+
+.
+
+RBC
+
+ 
+
+Risk-Based Capital
+
+ A formula designed to measure the adequacy of an insurer’s statutory surplus compared to the risks inherent in its business.
+
+Reinstatement premiums
+
+ Additional premiums payable to reinsurers or receivable from insurers to restore coverage limits that have been reduced or exhausted as a result of reinsured losses under certain excess of loss reinsurance contracts.
+
+Reinsurance 
+
+The practice whereby one insurer, the reinsurer, in consideration of a premium paid to that insurer, agrees to indemnify another insurer, the ceding company, for part or all of the liability of the ceding company under one or more policies or contracts of insurance which it has issued.
+
+Retroactive Reinsurance 
+
+See Deferred Gain on Retroactive Reinsurance
+
+.
+
+Return on common equity – Adjusted after-tax income excluding AOCI adjusted for the cumulative unrealized gains and losses related to Fortitude Re’s Funds Withheld Assets and DTA (Adjusted return on common equity)
+
+ is a non-GAAP measure and is used to show the rate of return on common shareholders’ equity.
+
+ 
+
+Adjusted return on common equity is derived by dividing actual or annualized adjusted after-tax income attributable to AIG common shareholders by average Adjusted Common Shareholders’ Equity. 
+
+Return premium
+
+ represents amounts given back to the insured in the case of a cancellation, an adjustment to the rate or an overpayment of an advance premium.
+
+SIA
+
+ 
+
+Sales Inducement Asset
+
+ Represents enhanced crediting rates or bonus payments to contract holders on certain annuity and investment contract products that meet the criteria to be deferred and amortized over the life of the contract.
+
+Solvency II
+
+ 
+
+Legislation in the European Union which reforms the insurance industry’s solvency framework, including minimum capital and solvency requirements, governance requirements, risk management and public reporting standards. The Solvency II Directive (2009/138/EEC) was adopted on November 25, 2009 and became effective on January 1, 2016.
+
+Subrogation 
+
+The amount of recovery for claims we have paid our policyholders, generally from a negligent third party or such party’s insurer.
+
+ 
+
+Surrender charge
+
+ A charge levied against an investor for the early withdrawal of funds from a life insurance or annuity contract, or for the cancellation of the agreement. 
+
+Surrender rate
+
+ represents annualized surrenders and withdrawals as a percentage of average reserves and Group Retirement mutual fund assets under administration.
+
+Unearned premium reserve
+
+ 
+
+Liabilities established by insurers and reinsurers to reflect unearned premiums, which are usually refundable to policyholders if an insurance or reinsurance contract is canceled prior to expiration of the contract term.
+
+VOBA 
+
+Value of Business Acquired
+
+ Present value of projected future gross profits from in-force policies of acquired businesses.
+
+ 
+
+176
+
+ AIG | 2020 Form 10-K
+
+TABLE OF CONTENTS
+
+ 
+
+Acronyms
+
+ 
+
+Acronyms
+
+A&H
+
+ 
+
+Accident and Health Insurance
+
+GMWB
+
+ 
+
+Guaranteed Minimum Withdrawal Benefits
+
+ABS
+
+ 
+
+Asset-Backed Securities
+
+ISDA
+
+ 
+
+International Swaps and Derivatives Association, Inc.
+
+APTI
+
+ Adjusted pre-tax income
+
+Moody's
+
+ 
+
+Moody's Investors’ Service Inc.
+
+AUM
+
+ 
+
+Assets Under Management
+
+NAIC
+
+ 
+
+National Association of Insurance Commissioners
+
+CDO
+
+ 
+
+Collateralized Debt Obligations
+
+NM
+
+ 
+
+Not Meaningful
+
+CDS
+
+ 
+
+Credit Default Swap
+
+OTC
+
+ 
+
+Over-the-Counter
+
+CMA
+
+ 
+
+Capital Maintenance Agreement
+
+OTTI
+
+ 
+
+Other-Than-Temporary Impairment
+
+CMBS
+
+ 
+
+Commercial Mortgage-Backed Securities
+
+RMBS
+
+ 
+
+Residential Mortgage-Backed Securities
+
+EGPs
+
+ 
+
+Estimated gross profits
+
+S&P
+
+ Standard & Poor’s Financial Services LLC
+
+FASB
+
+ 
+
+Financial Accounting Standards Board
+
+SEC
+
+ 
+
+Securities and Exchange Commission
+
+FRBNY
+
+ 
+
+Federal Reserve Bank of New York
+
+URR
+
+ 
+
+Unearned revenue reserve
+
+GAAP
+
+ 
+
+Accounting principles generally accepted in the United States of America
+
+VIE
+
+ 
+
+Variable Interest Entity
+
+GMDB
+
+ 
+
+Guaranteed Minimum Death Benefits
+
+ 
+
+ 
+
+AIG | 2020 Form 10-K 
+
+177
+
+ 
+
+TABLE OF CONTENTS
+
+ 
+
+ITEM 7A | 
+
+Quantitative and Qualitative Disclosures about Market Risk
+
+ 

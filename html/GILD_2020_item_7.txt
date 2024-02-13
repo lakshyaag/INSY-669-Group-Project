@@ -1,0 +1,2237 @@
+>Item 7A
+
+Quantitative and Qualitative Disclosures about Market Risk
+
+48
+
+Item 8
+
+Financial Statements and Supplementary Data
+
+51
+
+Item 9
+
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure
+
+103
+
+Item 9A
+
+Controls and Procedures
+
+105
+
+Item 9B
+
+Other Information
+
+106
+
+PART III
+
+ 
+
+Item 10
+
+Directors, Executive Officers and Corporate Governance
+
+106
+
+Item 11
+
+Executive Compensation
+
+106
+
+Item 12
+
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+
+106
+
+Item 13
+
+Certain Relationships and Related Transactions, and Director Independence
+
+106
+
+Item 14
+
+Principal Accountant Fees and Services
+
+106
+
+PART IV
+
+ 
+
+Item 15
+
+Exhibits and Financial Statement Schedules
+
+106
+
+Item 16
+
+Form 10-K Summary
+
+110
+
+SIGNATURES
+
+111
+
+We own or have rights to various trademarks, copyrights and trade names used in our business, including the following: GILEAD
+
+®
+
+, GILEAD SCIENCES
+
+®
+
+, AMBISOME
+
+®
+
+, ATRIPLA
+
+®
+
+, BIKTARVY
+
+®
+
+, CAYSTON
+
+®
+
+, COMPLERA
+
+®
+
+, DESCOVY
+
+®
+
+, DESCOVY FOR PREP
+
+®
+
+, EMTRIVA
+
+®
+
+, EPCLUSA
+
+®
+
+, EVIPLERA
+
+®
+
+, GENVOYA
+
+®
+
+, HARVONI
+
+®
+
+, HEPSERA
+
+®
+
+, JYSELECA
+
+®
+
+, LETAIRIS
+
+®
+
+, ODEFSEY
+
+®
+
+, RANEXA
+
+®
+
+, SOVALDI
+
+®
+
+, STRIBILD
+
+®
+
+, TECARTUS
+
+TM
+
+, TRODELVY
+
+®
+
+, TRUVADA
+
+®
+
+, TRUVADA FOR PREP
+
+®
+
+, TYBOST
+
+®
+
+, VEKLURY
+
+®
+
+, VEMLIDY
+
+®
+
+, VIREAD
+
+®
+
+, VOSEVI
+
+®
+
+, YESCARTA
+
+®
+
+ and ZYDELIG
+
+®
+
+. LEXISCAN
+
+®
+
+ is a registered trademark of Astellas U.S. LLC. MACUGEN
+
+®
+
+ is a registered trademark of Bausch Health Ireland Limited. SYMTUZA
+
+®
+
+ is a registered trademark of Janssen Sciences Ireland Unlimited Company. TAMIFLU
+
+®
+
+ is a registered trademark of Hoffmann-La Roche Inc. HEPCLUDEX
+
+®
+
+ is a registered trademark of MYR GmbH. This report also refers to trademarks, service marks and trade names of other companies.
+
+This Annual Report on Form 10-K, including the section entitled “Management’s Discussion and Analysis of Financial Condition and Results of Operations,” contains forward-looking statements regarding future events and our future results that are subject to the safe harbors created under the Securities Act of 1933, as amended (the “Securities Act”), and the Securities Exchange Act of 1934, as amended (the “Exchange Act”). Words such as “expect,” “anticipate,” “target,” “goal,” “project,” “hope,” “intend,” “plan,” “believe,” “seek,” “estimate,” “continue,” “may,” “could,” “should,” “might,” “forecast,” variations of such words and similar expressions are intended to identify such forward-looking statements. In addition, any statements other than statements of historical fact are forward-looking statements, including statements regarding overall trends, operating cost and revenue trends, liquidity and capital needs, collaboration and licensing arrangements, ongoing litigation and investigation matters, statements regarding the anticipated future impact on our business of the ongoing coronavirus disease 2019 (“COVID-19”) and related public health measures, statements regarding the development, manufacturing and distribution of Veklury as a treatment for COVID-19 and other statements of expectations, beliefs, future plans and strategies, anticipated events or trends and similar expressions.
+
+We have based these forward-looking statements on our current expectations about future events. These statements are not guarantees of future performance and involve risks, uncertainties and assumptions that are difficult to predict. Our actual results may differ materially from those suggested by these forward-looking statements for various reasons, including those identified in Part I, Item 1A of this Annual Report on Form 10-K under the heading “Risk Factors.” Given these risks and uncertainties, you are cautioned not to place undue reliance on forward-looking statements. The forward-looking statements included in this report are made only as of the date hereof. Except as required under federal securities laws and the rules and regulations of the Securities and Exchange Commission (“SEC”), we do not undertake, and specifically decline, any obligation to update any of these statements or to publicly announce the results of any revisions to any forward-looking statements after the distribution of this report, whether as a result of new information, future events, changes in assumptions or otherwise. 
+
+2
+
+PART I 
+
+ITEM  1.
+
+    
+
+BUSINESS
+
+Gilead Sciences, Inc. (“Gilead”, “we”, “our” or “us”) is a biopharmaceutical company that has pursued and achieved breakthroughs in medicine for more than three decades, with the goal of creating a healthier world for all people. We are committed to advancing innovative medicines to prevent and treat life-threatening diseases, including HIV, viral hepatitis and cancer. We operate in more than 35 countries worldwide, with headquarters in Foster City, California. 
+
+Our Business
+
+Products
+
+Our innovative medicines represent advancements by offering first-in-class treatments, greater efficacy, enhanced modes of delivery, more convenient treatment regimens, improved resistance profiles and reduced side effects. Our focus on innovation has allowed us to deliver marketed products across multiple therapeutic areas. 
+
+In 2020, our primary revenue-generating products and the approved indications in the United States are as follows:
+
+HIV/AIDS
+
+•
+
+Biktarvy
+
+®
+
+ is an oral formulation dosed once a day for the treatment of HIV-1 infection in certain patients. Biktarvy is a single tablet regimen of a fixed-dose combination of our antiretroviral medications, bictegravir, emtricitabine and tenofovir alafenamide (“TAF”).
+
+•
+
+Genvoya
+
+®
+
+ 
+
+is an oral formulation dosed once a day for the treatment of HIV-1 infection in certain patients. Genvoya is a single tablet regimen of a fixed-dose combination of our antiretroviral medicines, elvitegravir, cobicistat, emtricitabine and TAF.
+
+•
+
+Descovy
+
+®
+
+ is an oral formulation indicated in combination with other antiretroviral agents for the treatment of HIV-1 infection in certain patients. Descovy is a fixed-dose combination of our antiretroviral medications, emtricitabine and TAF. Descovy is also approved by U.S. Food and Drug Administration (“FDA”) for a pre-exposure prophylaxis (“PrEP”) indication to reduce the risk of sexually acquired HIV-1 infection in certain at-risk patients.
+
+•
+
+Odefsey
+
+®
+
+ is an oral formulation dosed once a day for the treatment of HIV-1 infection in certain patients. Odefsey is a single tablet regimen of a fixed-dose combination of our antiretroviral medications, emtricitabine and TAF, and rilpivirine marketed by Janssen Sciences Ireland Unlimited Company, one of the Janssen Pharmaceutical Companies of Johnson & Johnson (“Janssen”).
+
+•
+
+Truvada
+
+®
+
+ is an oral formulation indicated in combination with other antiretroviral agents for the treatment of HIV-1 infection in certain patients. It is a fixed-dose combination of our antiretroviral medications, TDF and emtricitabine. Truvada is also approved by FDA for a PrEP indication to reduce the risk of sexually acquired HIV-1 infection in certain at-risk patients.
+
+•
+
+Complera
+
+®
+
+/Eviplera
+
+®
+
+ 
+
+is an oral formulation dosed once a day for the treatment of HIV-1 infection in certain patients. The product, marketed in the United States as Complera and in Europe as Eviplera, is a single tablet regimen of a fixed-dose combination of our antiretroviral medications, tenofovir disoproxil fumarate (“TDF”) and emtricitabine, and Janssen’s rilpivirine hydrochloride.
+
+•
+
+Stribild
+
+®
+
+ is an oral formulation dosed once a day for the treatment of HIV-1 infection in certain patients. Stribild is a single tablet regimen of a fixed-dose combination of our antiretroviral medications, elvitegravir, cobicistat, TDF and emtricitabine.
+
+•
+
+Atripla
+
+®
+
+ is an oral formulation indicated as a complete regimen for the treatment of HIV-1 infection in certain patients. Atripla is a fixed-dose combination of our antiretroviral medications, TDF and emtricitabine, and Bristol-Myers Squibb Company (“BMS”)’s efavirenz. 
+
+COVID-19
+
+•
+
+Veklury
+
+®
+
+ 
+
+(remdesivir), an injection for intravenous use, is a nucleotide analog RNA polymerase inhibitor indicated for certain patients for the treatment of coronavirus disease 2019 (“COVID-19”) requiring hospitalization. 
+
+Liver Diseases
+
+•
+
+Epclusa
+
+®
+
+ is an oral formulation of a once-daily single tablet regimen of sofosbuvir and velpatasvir for the treatment of chronic hepatitis C virus (“HCV”) infection in adults and certain pediatric patients with genotype 1, 2, 3, 4, 5 or 6: (i) without cirrhosis or with compensated cirrhosis or (ii) with decompensated cirrhosis for use in combination with ribavirin. In addition, we have an authorized generic version of Epclusa distributed by our separate subsidiary, Asegua Therapeutics LLC.
+
+3
+
+•
+
+Harvoni
+
+®
+
+ is an oral formulation of a once-daily, single tablet regimen of ledipasvir and sofosbuvir for the treatment of chronic HCV infection in: (i) adults with genotype 1, 4, 5 or 6 without cirrhosis or with compensated cirrhosis, (ii) adults with genotype 1 infection with decompensated cirrhosis, in combination with ribavirin, (iii) adults with genotype 1 or 4 who are liver transplant recipients without cirrhosis or with compensated cirrhosis, in combination with ribavirin, or (iv) certain pediatric patients with genotype 1, 4, 5 or 6 without cirrhosis or with compensated cirrhosis. In addition, we have an authorized generic version of Harvoni distributed by our separate subsidiary, Asegua Therapeutics LLC.
+
+•
+
+Vosevi
+
+®
+
+ is an oral formulation of a once-daily, single tablet regimen of sofosbuvir, velpatasvir and voxilaprevir for the re-treatment of chronic HCV infection in adults: (i) with genotype 1, 2, 3, 4, 5 or 6 previously treated with an NS5A inhibitor-containing regimen or (ii) with genotype 1a or 3 previously treated with a sofosbuvir-containing regimen without an NS5A inhibitor.
+
+•
+
+Vemlidy
+
+®
+
+ is an oral formulation of TAF dosed once a day for the treatment of chronic hepatitis B virus (“HBV”) infection in adults with compensated liver disease.
+
+•
+
+Viread
+
+®
+
+ is an oral formulation of TDF dosed once a day for the treatment of chronic HBV infection in adults and certain pediatric patients. 
+
+Hematology/Oncology/Cell Therapy
+
+•
+
+Yescarta
+
+®
+
+ (axicabtagene ciloleucel), a suspension for intravenous infusion, is a chimeric antigen receptor (“CAR”) T cell therapy for the treatment of adult patients with relapsed or refractory large B-cell lymphoma after two or more lines of systemic therapy, including diffuse large B-cell lymphoma (“DLBCL”) not otherwise specified, primary mediastinal large B-cell lymphoma, high-grade B-cell lymphoma and DLBCL arising from follicular lymphoma. 
+
+•
+
+Tecartus
+
+™
+
+ 
+
+(brexucabtagene autoleucel), a suspension for intravenous infusion, is a CAR T cell therapy for the treatment of adult patients with relapsed or refractory mantle cell lymphoma. 
+
+•
+
+Trodelvy
+
+®
+
+ 
+
+(sacituzumab govitecan-hziy), an injection for intravenous use, is a Trop-2 directed antibody and topoisomerase inhibitor conjugate indicated for the treatment of adult patients with metastatic triple-negative breast cancer who have received at least two prior therapies for metastatic disease. This indication is approved under accelerated approval by FDA, and continued approval for this indication may be contingent upon verification and description of clinical benefit in confirmatory trials.
+
+•
+
+Zydelig
+
+®
+
+ (idelalisib) is an oral formulation of a kinase inhibitor for the treatment of patients with: (i) relapsed chronic lymphocytic leukemia (“CLL”), in combination with rituximab, for whom rituximab alone would be considered appropriate therapy due to other co-morbidities, (ii) relapsed follicular B-cell non-Hodgkin lymphoma (FL) in patients who have received at least two prior systemic therapies or (iii) relapsed small lymphocytic lymphoma who have received at least two prior systemic therapies. 
+
+Other
+
+•
+
+Letairis
+
+®
+
+ (ambrisentan) is an oral formulation of an endothelin receptor antagonist for the treatment of pulmonary arterial hypertension (“PAH”) (WHO Group I) (i) to improve exercise capacity and delay clinical worsening or (ii) in combination with tadalafil to reduce the risks of disease progression and hospitalization for worsening PAH, and to improve exercise ability. 
+
+•
+
+Ranexa
+
+®
+
+ 
+
+(ranolazine) is an oral formulation of an extended-release tablet of an antianginal for the treatment of chronic angina. 
+
+•
+
+AmBisome
+
+®
+
+ 
+
+(amphotericin B liposome for injection) is a proprietary liposomal formulation of amphotericin B, an antifungal agent, for the treatment of serious invasive fungal infections caused by various fungal species in adults.
+
+For information about our revenue-generating products, including the amount of revenue contributed by the products listed above, see Note 2. Revenues of the Notes to Consolidated Financial Statements included in Part II, Item 8 of this Annual Report on Form 10-K
+
+.
+
+Revenue Share and Other Revenues
+
+We also generate revenues from other activities, including revenue share from combination products, royalties for outbound licenses of our intellectual property and other payments received from our collaborations with third-party partners. For example, pursuant to our collaboration with Janssen, we receive revenue share from cobicistat, emtricitabine and TAF that are components of Symtuza (darunavir/cobicistat/emtricitabine/TAF), a fixed-dose combination product commercialized by Janssen. We include our revenue share from Symtuza in our Product sales. For a description of our collaborations with Janssen and other partners, see Note 11. Collaborations and Other Arrangements of the Notes to Consolidated Financial Statements included in Part II, Item 8 of this Annual Report on Form 10-K
+
+.
+
+4
+
+Commercialization and Distribution
+
+We have U.S. and international commercial sales operations, with marketing subsidiaries in more than 35 countries. Our products are marketed through our commercial teams and/or in conjunction with third-party distributors and corporate partners. Our commercial teams promote our products through direct field contact with physicians, hospitals, clinics and other healthcare providers. We generally grant our third-party distributors the exclusive right to promote our product in a territory for a specified period of time. Most of our agreements with these distributors provide for collaborative efforts between the distributor and Gilead in obtaining and maintaining regulatory approval for the product in the specified territory.
+
+We sell and distribute most of our products in the United States exclusively through the wholesale channel. During the twelve months ended December 31, 2020, approximately 92% of our product sales in the United States and approximately 68% of our total worldwide revenues were to three large wholesalers, AmerisourceBergen Corporation, Cardinal Health, Inc. and McKesson Corporation. We sell and distribute our products in Europe and countries outside the United States where the product is approved, either through our commercial teams, third-party distributors or corporate partners.
+
+Competition
+
+We operate in a highly competitive environment. We face significant competition from global pharmaceutical and biotechnology companies, specialized pharmaceutical firms and generic drug manufacturers. Our products compete with other commercially available products based primarily on efficacy, safety, tolerability, acceptance by doctors, ease of patient compliance, ease of use, price, insurance and other reimbursement coverage, distribution and marketing. As our products mature, private insurers and government payers often reduce the amount they will reimburse patients, which increases pressure on us to reduce prices. Further, as new branded or generic products are introduced into major markets, our ability to maintain pricing and market share may be affected. 
+
+Research and Development
+
+Our research and development (“R&D”) mission is to discover and develop transformational therapies in areas of high unmet medical need. Our product development efforts are focused primarily in viral diseases, inflammatory diseases and oncology. Our team of research scientists is engaged in the discovery and development of new molecules and technologies that we hope will lead to the approval of innovative medicines and therapies that will advance the current standard of care and address unmet medical needs. We intend to continue committing significant resources to internal R&D opportunities and external business development activity to drive innovation and growth of our business. 
+
+The development of product candidates and investigational therapies in our pipeline is subject to various risks and uncertainties. These risks and uncertainties include our ability to enroll patients in clinical trials, the possibility of unfavorable results of our clinical trials, the need to modify or delay our clinical trials or to perform additional trials and the risk of failing to obtain regulatory approvals. As a result, our product candidates and investigational therapies may never be successfully commercialized. Drug development is inherently risky, and many product candidates and investigational therapies fail during the development process.
+
+In 2020, we continued to invest in and advance our R&D pipeline across our therapeutic areas. Below is a summary of our product candidates that are in Phase 3 or registrational Phase 2 clinical trials or are pending marketing authorization review by FDA or European Medicines Agency (“EMA”).
+
+Product Candidates in Viral Diseases
+
+Product Candidates
+
+Description
+
+Phase 3 or Phase 2/3
+
+Remdesivir (injection)
+
+Remdesivir for injection is being evaluated for the outpatient treatment of COVID-19 (expanded indication).
+
+Lenacapavir
+
+Lenacapavir, an HIV capsid inhibitor, is being evaluated as a component of a long-acting regimen for the treatment of HIV infection in heavily treatment-experienced people living with HIV. It has been granted Breakthrough Therapy designation by FDA for this indication.
+
+Bulevirtide
+
+(1)
+
+Bulevirtide is being evaluated for the treatment of chronic hepatitis delta virus (“HDV”) infection. It has been granted both Orphan Drug and Breakthrough Therapy designations by FDA for chronic HDV infection. It has also been granted Breakthrough Therapy designation and PRIority MEdicines (“PRIME”) scheme eligibility by the European Commission for chronic HDV infection. 
+
+________________________________
+
+(1)
+
+    In December 2020, we entered into a definitive agreement to acquire MYR GmbH. Upon closing, which is subject to regulatory clearances and other conditions, the acquisition will provide us with Hepcludex
+
+®
+
+ 
+
+(bulevirtide), which was conditionally approved by the European Commission for the treatment for chronic HDV infection in July 2020.
+
+5
+
+Product Candidates in Inflammatory Diseases
+
+Product Candidates
+
+Description
+
+Regulatory Filing
+
+Filgotinib
+
+A marketing authorization application has been filed with EMA for filgotinib, a JAK1 inhibitor, for the treatment of ulcerative colitis.
+
+Phase 3
+
+Filgotinib
+
+Filgotinib is being evaluated for the treatment of Crohn’s disease.
+
+Cilofexor
+
+Cilofexor, an FXR agonist, is being evaluated for the treatment of primary sclerosing cholangitis.
+
+Product Candidates in Oncology
+
+Product Candidates
+
+Description
+
+Regulatory Filing
+
+Axicabtagene ciloleucel
+
+A supplemental Biologics License Application for axicabtagene ciloleucel, a CAR T cell therapy for the treatment of relapsed or refractory indolent non-Hodgkin’s lymphoma (“iNHL”), has been filed with FDA. It has been granted Breakthrough Therapy designation by FDA for the iNHL indication.
+
+Brexucabtagene autoleucel
+
+Brexucabtagene autoleucel, a CAR T cell therapy, has received accelerated approval from FDA and conditional marketing authorization from the European Commission for the treatment of adult patients with relapsed or refractory mantle cell lymphoma after two or more lines of systemic therapy, including a Bruton’s tyrosine kinase inhibitor. Conditional marketing authorization in Europe is initially valid for one year but can be extended or converted into an unconditional authorization after the submission and assessment of additional confirmatory data.
+
+Sacituzumab govitecan-hziy
+
+A supplemental Biologics License Application for full approval of sacituzumab govitecan-hziy, a Trop-2 directed antibody and topoisomerase inhibitor conjugate for the treatment of patients with metastatic triple-negative breast cancer (“mTNBC”) who have received at least two prior therapies, has been filed with FDA. It has been granted Breakthrough Therapy designation by FDA for the mTNBC indication.
+
+Sacituzumab govitecan-hziy
+
+A supplemental Biologics License Application for accelerated approval of sacituzumab govitecan-hziy for the treatment of heavily-pretreated patients with metastatic urothelial cancer, has been filed with FDA.
+
+Phase 3
+
+Axicabtagene ciloleucel
+
+Axicabtagene ciloleucel is being evaluated for the treatment of second line diffuse large B cell lymphoma.
+
+Magrolimab
+
+Magrolimab, an anti-CD47, is being evaluated for the treatment of myelodysplastic syndrome (“MDS”). It has been granted Breakthrough Therapy designation by FDA and PRIME scheme eligibility by the European Commission for the MDS indication.
+
+Sacituzumab govitecan-hziy
+
+Sacituzumab govitecan-hziy is being evaluated for the treatment of hormone receptor positive (“HR+”), human epidermal growth factor receptor 2 negative (“HER2-”), metastatic breast cancer patients who have failed at least two prior chemotherapy regimens.
+
+Registrational Phase 2
+
+Brexucabtagene autoleucel
+
+Brexucabtagene autoleucel, a CAR T cell therapy, is being evaluated for the treatment of adult acute lymphoblastic leukemia (“ALL”). It has been granted Breakthrough Therapy designation by FDA for the adult ALL indication.
+
+Brexucabtagene autoleucel
+
+Brexucabtagene autoleucel, a CAR T cell therapy, is being evaluated for the treatment of pediatric ALL. It has been granted Breakthrough Therapy designation by FDA for the pediatric ALL indication.
+
+Magrolimab
+
+Magrolimab is being evaluated for the treatment of diffuse large B cell lymphoma.
+
+We also seek to add to our portfolio of products and product candidates through acquisitions, in-licensing and strategic collaborations. In 2020, we entered into 18 strategic partnerships and acquisitions to enhance our commercial portfolio and clinical pipeline across multiple therapeutic areas. For example, the acquisition of Immunomedics, Inc. (“Immunomedics”) added Trodelvy and other pipeline programs to our oncology portfolio. Our strategic business development activity reflects our commitment to focus on transformative science, build a sustainable and diverse portfolio and position ourselves for the near, medium and long-term growth of our business.
+
+6
+
+Patents and Proprietary Rights
+
+U.S. and European Patent Expiration
+
+We have a number of U.S. and foreign patents, patent applications and rights to patents related to our compounds, products and technology, but we cannot be certain that issued patents will be enforceable or provide adequate protection or that pending patent applications will result in issued patents.
+
+The following table shows the estimated expiration dates (including patent term extensions, supplementary protection certificates and/or pediatric exclusivity where granted) in the United States and the European Union for the primary (typically compound) patents for our key product candidates as described above. For our product candidates that are fixed-dose combinations of single tablet regimens, the estimated patent expiration date provided corresponds to the latest expiring compound patent for one of the active ingredients in the single tablet regimen.
+
+Key Product Candidates
+
+Patent Expiration
+
+U.S.
+
+E.U.
+
+Viral Diseases:
+
+Remdesivir
+
+2035
+
+2035
+
+Lenacapavir
+
+2037
+
+2037
+
+Bulevirtide
+
+(1)
+
+2030
+
+2029
+
+Inflammatory Diseases:
+
+Filgotinib
+
+2030
+
+2030
+
+Cilofexor
+
+2032
+
+2032
+
+Oncology:
+
+Axicabtagene ciloleucel
+
+2027
+
+— 
+
+(2)
+
+Brexucabtagene autoleucel
+
+2027
+
+— 
+
+(2)
+
+Sacituzumab govitecan-hziy
+
+2023
+
+(3)
+
+2029
+
+Magrolimab
+
+2031
+
+2031
+
+________________________________
+
+(1)
+
+   In December 2020, we entered into a definitive agreement to acquire MYR GmbH. Upon closing, which is subject to regulatory clearances and other conditions, the acquisition will provide us with bulevirtide.
+
+(2)
+
+   The composition of matter patent has expired in the European Union. In the European Union and the United States, patent applications are pending relating to proprietary manufacturing processes of Kite, a Gilead company (“Kite”).
+
+(3)
+
+   An application for patent term extension was filed in the United States that, if granted, would extend the U.S. expiration date to at least 2028. Regulatory exclusivity in the United States expires in 2032.
+
+7
+
+The following table shows the actual or estimated expiration dates (including patent term extensions, supplementary protection certificates and/or pediatric exclusivity where granted) in the United States and the European Union for the primary (typically compound) patents for our principal products. For our products that are fixed-dose combinations or single tablet regimens, the estimated patent expiration dates provided correspond to the latest expiring compound patent for one of the active ingredients in the single tablet regimen.
+
+Products
+
+Patent Expiration
+
+U.S.
+
+E.U.
+
+Ranexa
+
+2019
+
+(1)
+
+2023
+
+Atripla
+
+2021
+
+(2)
+
+2017
+
+Truvada
+
+2021
+
+(2)
+
+2017
+
+(3)
+
+Descovy
+
+2025
+
+2026
+
+Vemlidy
+
+2025
+
+2026
+
+Complera/Eviplera
+
+2025
+
+2026
+
+Zydelig
+
+2025
+
+(4)
+
+2025
+
+(4)
+
+Odefsey
+
+2025
+
+2026
+
+Yescarta
+
+2027
+
+(4)
+
+— 
+
+(5)
+
+Stribild
+
+2029
+
+(6)
+
+2028
+
+Genvoya
+
+2029
+
+(6)
+
+2028
+
+Harvoni
+
+2030
+
+2030
+
+(4)
+
+Epclusa
+
+2032
+
+2032
+
+Biktarvy
+
+2033
+
+2033
+
+Vosevi
+
+2034
+
+2033
+
+Veklury
+
+2035
+
+2035
+
+Tecartus
+
+2027
+
+— 
+
+(5)
+
+Trodelvy
+
+2023
+
+(7)
+
+2029
+
+Jyseleca
+
+2030
+
+2030
+
+Hepcludex
+
+(8)
+
+2030
+
+2029
+
+These estimated expiration dates do not include any potential additional exclusivity (e.g., patent term extensions, supplementary protection certificates or pediatric exclusivity) that has not yet been granted.
+
+__________________________________________
+
+(1) 
+
+   In 2013, Gilead and Lupin Limited reached an agreement to settle a patent litigation matter related to Ranexa. 
+
+(2)
+
+   In 2014, Gilead and Teva Pharmaceuticals (“Teva”) reached an agreement to settle the patent litigation concerning patents that protect emtricitabine in our Truvada and Atripla products, pursuant to which Teva was permitted to launch generic fixed-dose combinations of emtricitabine and TDF and generic fixed-dose combinations of emtricitabine, TDF and efavirenz in the United States on September 30, 2020.
+
+(3)
+
+   Supplementary protection certificates (“SPC”s) have been granted in several European countries. The validity of these SPCs has been challenged by several generic manufacturers, many of whom launched their competing products in 2017. 
+
+(4) 
+
+  Applications for patent term extensions are pending in the United States and/or SPCs are pending in one or more countries in the European Union for these products.
+
+(5)  
+
+ The composition of matter patent has expired in the European Union. In the European Union and the United States, patent applications are pending relating to proprietary manufacturing processes of Kite.
+
+(6)
+
+   In 2018, Gilead and Mylan Pharmaceuticals reached an agreement to settle the patent litigation concerning patents that protect cobicistat in our Stribild and Genvoya products.
+
+(7)
+
+  An application for patent term extension was filed in the United States that, if granted, would extend the U.S. expiration date to at least 2028. Regulatory exclusivity in the United States expires in 2032.
+
+(8)
+
+  In December 2020, we entered into a definitive agreement to acquire MYR GmbH. Upon closing, which is subject to regulatory clearances and other conditions, the acquisition will provide us with Hepcludex
+
+® 
+
+(bulevirtide), which was conditionally approved by the European Commission for the treatment for chronic HDV infection in July 2020. Bulevirtide has not been approved by FDA for any use, and its safety and efficacy have not been established.
+
+Patent Protection and Certain Challenges 
+
+Patents and other proprietary rights are very important to our business. If we have a properly drafted and enforceable patent, it can be more difficult for our competitors to use our technology to create competitive products and more difficult for our competitors to obtain a patent that prevents us from using technology we create. As part of our business strategy, we actively seek patent protection both in the United States and internationally and file additional patent applications, when appropriate, to cover improvements in our compounds, products and technology.
+
+Patents covering certain of the active pharmaceutical ingredients (“API”) of most of our HIV products as well as cell therapy products are held by third parties. We acquired exclusive rights to these patents in the agreements we have with these parties. 
+
+8
+
+We may obtain patents for certain products many years before marketing approval is obtained. Because patents have a limited life that may begin to run prior to the commercial sale of the related product, the commercial value of the patent may be limited. However, we may be able to apply for patent term extensions or supplementary protection certificates in some countries. For example, extensions for the patents or supplementary protection certificates on many of our products have been granted in the United States and in a number of European countries, compensating in part for delays in obtaining marketing approval. Similar patent term extensions may be available for other products we are developing, but we cannot be certain we will obtain them in some countries.
+
+It is also important that we do not infringe the valid patents of third parties. If we infringe the valid patents of third parties, our reputation may be harmed and we may be required to pay significant monetary damages, we may be prevented from commercializing products or we may be required to obtain licenses from these third parties. We may not be able to obtain alternative technologies or any required license on reasonable terms or at all. If we fail to obtain these licenses or alternative technologies, we may be unable to develop or commercialize some or all of our products. For example, we are aware of patents and patent applications owned by other parties that such parties may claim to cover the use of sofosbuvir, axicabtagene ciloleucel, brexucabtagene autoleucel, tenofovir disoproxil, tenofovir alafenamide and bictegravir.
+
+Because patent applications are confidential for a period of time until a patent is issued, we may not know if our competitors have filed patent applications for technology covered by our pending applications or if we were the first to invent or first to file an application directed toward the technology that is the subject of our patent applications. Competitors may have filed patent applications or received patents and may obtain additional patents and proprietary rights that block or compete with our products. In addition, if competitors file patent applications covering our technology, we may have to participate in interference/derivation proceedings or litigation to determine the right to a patent. Litigation and interference/derivation proceedings are unpredictable and expensive, such that, even if we are ultimately successful, our results of operations may be adversely affected by such events.
+
+Patents relating to pharmaceutical, biopharmaceutical and biotechnology products, compounds and processes such as those that cover our existing compounds, products and processes and those that we will likely file in the future, do not always provide complete or adequate protection. Future litigation or other proceedings regarding the enforcement or validity of our existing patents or any future patents could result in the invalidation of our patents or substantially reduce their protection. From time to time, certain individuals or entities may challenge our patents.
+
+Our pending patent applications and the patent applications filed by our collaborative partners may not result in the issuance of any patents or may result in patents that do not provide adequate protection. As a result, we may not be able to prevent third parties from developing compounds or products that are closely related to those which we have developed or are developing. In addition, certain countries do not provide effective enforcement of our patents, and third-party manufacturers may be able to sell generic versions of our products in those countries.
+
+For a description of our significant pending legal proceedings, see Note 14. Commitments and Contingencies of the Notes to Consolidated Financial Statements included in Part II, Item 8 of this Annual Report on Form 10-K. See also Item 1A. Risk Factors “Our success depends to a significant degree on our ability to obtain and defend our patents and other intellectual property rights both domestically and internationally, and to operate without infringing upon the patents or other proprietary rights of third parties.”
+
+Trade Secrets
+
+We also rely on unpatented trade secrets and improvements, unpatented internal know-how and technological innovation. For example, a great deal of our liposomal manufacturing expertise, which is a key component of our liposomal technology, is not covered by patents but is instead protected as a trade secret. We protect these rights mainly through confidentiality agreements with our corporate partners, employees, consultants and vendors. These agreements provide that all confidential information developed or made known to an individual during the course of their relationship with us will be kept confidential and will not be used or disclosed to third parties except in specified circumstances. In the case of employees, the agreements provide that all inventions made by an individual while employed by us will be our exclusive property. We cannot be certain that these parties will comply with these confidentiality agreements, that we have adequate remedies for any breach or that our trade secrets will not otherwise become known or be independently discovered by our competitors. Under some of our R&D agreements, inventions become jointly owned by us and our corporate partners and in other cases become the exclusive property of one party. In certain circumstances, it can be difficult to determine who owns a particular invention and disputes could arise regarding those inventions. If our trade secrets or confidential information become known or independently discovered by competitors, or if we enter into disputes over ownership of inventions, our business and results of operations could be adversely affected.
+
+9
+
+Manufacturing and Raw Materials
+
+Our products are manufactured either at our own facilities or by third-party contract manufacturers. We depend on third parties to perform manufacturing activities for the majority of our API and drug products. For most of our products, including our HIV and HCV products, we use multiple third-party contract manufacturers so that we have primary and back-up suppliers and manufacturing sites. For our cell therapy products, we have established clinical and commercial manufacturing facilities for cell processing activities. For our future products, we continue to develop additional manufacturing capabilities and establish additional third-party suppliers to manufacture sufficient quantities of our product candidates to undertake clinical trials and to manufacture sufficient quantities of any product that is approved for commercial sale.
+
+Our Manufacturing Facilities 
+
+We own or lease manufacturing facilities to manufacture and distribute certain products and API for clinical and/or commercial uses. These facilities are located in Foster City, San Dimas, La Verne, Oceanside and El Segundo, California; Morris Plains, New Jersey; Dublin and Cork, Ireland; Hoofddorp, Netherlands; and Edmonton, Canada.
+
+•
+
+Foster City, California: We conduct process chemistry research and formulation development activities, manufacture API and drug product for our clinical trials and oversee our third-party contract manufacturers.
+
+•
+
+San Dimas and La Verne, California: We manufacture AmBisome and also package and label the majority of our commercial products for distribution to the Americas and Pacific Rim.
+
+•
+
+Oceanside, California: We utilize the facility for clinical manufacturing and process development of our biologics candidates.
+
+•
+
+El Segundo, California: We utilize the facility for clinical and commercial manufacturing and processing of our cell therapy products.
+
+•
+
+Morris Plains, New Jersey: We utilize the facility for commercial manufacturing and process optimization of our antibody drug conjugate products.
+
+•
+
+Cork and Dublin, Ireland: We utilize the Cork facility for commercial manufacturing, packaging and labeling of our products. We also perform quality control testing, labeling, packaging and final release of many of our products at the Cork facility, which are distributed to the European Union and other international markets through our facility in Dublin. We utilize our other facility in central Dublin as a drug development hub for our pediatric programs where we perform clinical development, safety, quality, biostatistics and data sciences, regulatory and compliance functions. 
+
+•
+
+Edmonton, Canada: We conduct process chemistry research and scale-up activities for our clinical development candidates, manufacture API for both investigational and commercial products and conduct chemical development activities to improve existing commercial manufacturing processes.
+
+•
+
+Hoofddorp, Netherlands: We utilize the facility for commercial manufacturing and processing of our cell therapy products.
+
+Third-Party Manufacturers
+
+We believe the technology we use to manufacture our products is proprietary. For products manufactured by our third-party contract manufacturers, we have disclosed all necessary aspects of this technology to enable them to manufacture the products for us. We have agreements with these third-party manufacturers that are intended to restrict them from using or revealing this technology, but we cannot be certain that these third-party manufacturers will comply with these restrictions. 
+
+For more information about our third-party manufacturers, see Item 1A. Risk Factors “We may face manufacturing difficulties, delays or interruptions, including at our third-party manufacturers and corporate partners.”
+
+Regulation of Manufacturing Process
+
+The manufacturing process for pharmaceutical products is highly regulated and regulators may shut down manufacturing facilities that they believe do not comply with regulations. We, our third-party manufacturers and our corporate partners are subject to current Good Manufacturing Practices, which are extensive regulations governing manufacturing processes, stability testing, record keeping and quality standards as defined by FDA and the European Medicines Agency. Similar regulations are in effect in other jurisdictions. Our manufacturing operations are subject to routine inspections by regulatory agencies. 
+
+For our cell therapy products, we are required by FDA to comply with the Risk Evaluation and Mitigation Strategy program, which includes educating and certifying medical personnel regarding the therapy procedures and the potential side effect profile of our therapy, such as the potential adverse side effects related to cytokine release syndrome and neurologic toxicities. Additionally, we are required to maintain a complex chain of identity and custody with respect to patient material as such material moves to the manufacturing facilities, through the manufacturing process, and back to the patient.
+
+10
+
+Access to Raw Materials 
+
+We need access to certain raw materials to conduct our clinical trials and manufacture our products. These raw materials are generally available from multiple sources, purchased worldwide and normally available in quantities adequate to meet the needs of our business. We attempt to manage the risks associated with our supply chain by inventory management, relationship management and evaluation of alternative sources when feasible. For more information, see Item 1A. Risk Factors “We may not be able to obtain materials or supplies necessary to conduct clinical trials or to manufacture and sell our products, which could limit our ability to generate revenues.”
+
+Human Capital
+
+Gilead’s success depends on the work of its dedicated employees who embrace a shared sense of purpose and a culture of excellence. Our human capital objective is to make Gilead the employer of choice for the best talent in our industry. Gilead’s key priorities for human capital management include inclusion and diversity, health and safety, total rewards, employee development and engagement. Our Board’s Compensation and Talent Committee oversees our overall human capital management. 
+
+Inclusion & Diversity
+
+Inclusion is a Gilead core value. We are committed to advancing inclusion and diversity (“I&D”) in our workforce and have established a Global Diversity Council responsible for governance of these matters, tracking progress on our goals and promoting a culture of inclusion. The Global Diversity Council is chaired by our Chairman and Chief Executive Officer. In 2020, Gilead implemented multiple programs to train managers on I&D topics to build awareness and drive inclusive behaviors. Our employee resource groups (“ERGs”) support diverse employees and aim to raise awareness of different cultures within the workplace, cultivate diversity as a business strength and support Gilead’s talent acquisition strategy to source, attract and recruit diverse candidates.
+
+We believe Gilead’s inclusive and diverse workforce is the foundation for innovation and productivity. Gilead’s commitment to equal employment opportunity furthers its efforts to cultivate and celebrate an equitable culture of belonging. At December 31, 2020, Gilead had approximately 13,600 employees, and Gilead’s global workforce was approximately 52% female and 48% male. Additionally, women represented 34% of Gilead’s leadership (defined as vice president level and above). In the U.S., based on our employees’ voluntary self-identification, our workforce was 41% White, 38% Asian, 11% Hispanic, 6% Black and 4% Other.
+
+Health and Safety
+
+Gilead is committed to providing a safe, healthy and secure workplace for its employees. We have an environmental health and safety policy and maintain various compliance programs to support this commitment. We routinely train and educate our employees on workplace safety and security. During 2020, due to the COVID-19 pandemic, most Gilead sites required flexible location employees to work from home, while employees who needed to be physically present for their positions (such as laboratory technicians) continued to work at Gilead sites. We implemented site enhancements and risk protocols, including health screenings, COVID-19 testing, reconfiguration of work and common spaces to allow for social distancing, in our effort to support the safe occupancy of our sites. Gilead also maintains a robust contact tracing and notification process for any employee who reports COVID-19 infection. To date, we have not identified any cases of viral transmission of COVID-19 in our workplace. 
+
+Total Rewards
+
+Gilead’s compensation and benefits programs are designed to help attract, cultivate and retain the industry’s most talented workforce. Our Total Rewards program (which varies by country) includes competitive base salary and incentive compensation, stock awards, an employee stock purchase plan, a 401(k) savings plan with a company match that vests immediately, health and welfare and other valuable benefits, such as flexible spending accounts, paid time off, family leave, family care resources, adoption and surrogacy assistance, employee assistance programs, global wellness reimbursement and tuition assistance, among many others. Each year, we reassess our Total Rewards package to confirm whether it offers benefits and incentives that align with our total reward philosophy.
+
+In 2020, in response to the COVID-19 pandemic, we implemented a number of temporary COVID-19-specific benefits, such as cost reimbursements for essential home office equipment, monthly reimbursements for childcare and home-schooling costs, and a special pay enhancement for our physical location dependent workers who are required to be onsite at Gilead due to the nature of their role, to support our workforce during the unique challenges presented by the pandemic.
+
+We are committed to address pay equity. Our employee salaries are informed by market-based ranges and are assessed annually through performance and career development reviews. Our policy is that compensation decisions are made without regard to personal characteristics such as gender, race, color, national or ethnic origin, age, disability, sexual orientation, gender identity or expression, genetic information, religion, or veteran status. We also conduct an annual pay equity review of employee compensation in an effort to strive to make our pay practices gender and race neutral. 
+
+11
+
+Employee Development and Engagement
+
+Gilead offers a number of professional, management and leadership development training programs to help our employees develop cross-functional skills and tools to grow their careers. In addition, employees can receive reimbursement for tuition expenses incurred while pursuing undergraduate, graduate or certificate courses at an accredited college or university.
+
+As we make changes to pursue our ambition of becoming an employer of choice in our industry, it is important that we consider the input of employees. Our listening strategy helps to gather employee input and measure our progress. During 2020, we conducted several global surveys to assess and improve employee retention and engagement, gather feedback and take actions to address areas of employee concern. Employee responses from these surveys were key to determining meaningful benefits related to the COVID-19 pandemic as well as the direction of our culture going forward.
+
+Environmental, Social and Governance (“ESG”) 
+
+Gilead has also built a corporate social responsibility program to continue to execute its mission of providing lifesaving medicines in areas of unmet need. Additional information about this program and ESG highlights are available in Gilead’s 2019 year in review under Gilead’s website at https://www.gilead.com/news-and-press/annual-report/year-in-review-2019.
+
+Seasonality of Operations
+
+Our worldwide product sales do not reflect any significant degree of seasonality in end-user demand. However, in the United States, fluctuations in wholesaler inventory levels impact our product sales. We typically observe strong wholesaler and sub-wholesaler purchases of our products in the fourth quarter resulting in inventory draw-down by wholesalers and sub-wholesalers in the subsequent first quarter. Several other factors, including government budgets, annual grant cycles for federal and state funds, the COVID-19 pandemic, and other buying patterns, also could impact the product sales recorded in a particular quarter. For more information, see Item 1A. Risk Factors “We face challenges in accurately forecasting sales because of the difficulties in predicting demand for our products and fluctuations in purchasing patterns or wholesaler inventories.”
+
+Government Regulation
+
+Our operations and activities are subject to extensive regulation by numerous government authorities in the United States, the European Union and other countries, including laws and regulations governing the testing, manufacture, safety, efficacy, labeling, storage, record keeping, approval, advertising and promotion of our products. As a result of these regulations, product development and product approval processes are very expensive and time consuming, which has a significant impact on our capital expenditures and results of operations. The regulatory requirements applicable to drug development and approval are subject to change. Any legal and regulatory changes may impact our operations in the future.
+
+A country’s regulatory agency, such as FDA in the United States and the European Medicines Agency and European Commission for the European Union, as well as the national authorities of the European Union Member States, must approve a drug before it can be sold in the respective country or countries. The general process for drug approval in the United States is summarized below. Many other countries, including countries in the European Union (and the European Union under a centralized procedure), have similar regulatory structures.
+
+Preclinical Testing
+
+Before we can test a drug candidate in humans, we must study the drug in laboratory experiments and in animals to generate data to support the drug candidate’s potential benefits and safety. We submit this data to FDA in an investigational new drug (“IND”) application seeking its approval to test the compound in humans.
+
+Clinical Trials
+
+If FDA accepts the IND, the drug candidate can then be studied in human clinical trials to determine if the drug candidate is safe and effective. These clinical trials involve three separate phases that often overlap, can take many years and are very expensive. These three phases, which are subject to considerable regulation, are as follows:
+
+•
+
+Phase 1. The drug candidate is given to a small number of healthy human control subjects or patients suffering from the indicated disease, to test for safety, dose tolerance, pharmacokinetics, metabolism, distribution and excretion.
+
+•
+
+Phase 2. The drug candidate is given to a limited patient population to determine the effect of the drug candidate in treating the disease, the best dose of the drug candidate, and the possible side effects and safety risks of the drug candidate. It is not uncommon for a drug candidate that appears promising in Phase 1 clinical trials to fail in the more rigorous and extensive Phase 2 clinical trials.
+
+12
+
+•
+
+Phase 3. If a drug candidate appears to be effective and have an appropriate safety profile in Phase 2 clinical trials, Phase 3 clinical trials are commenced to confirm those results. Phase 3 clinical trials are conducted over a longer term, involve a significantly larger population, are conducted at numerous sites in different geographic regions and are carefully designed to provide reliable and conclusive data regarding the safety and benefits of a drug candidate. It is not uncommon for a drug candidate that appears promising in Phase 2 clinical trials to fail in the more rigorous and extensive Phase 3 clinical trials.
+
+FDA Approval Process
+
+When we believe that the data from our clinical trials show an acceptable benefit-risk profile, we submit the appropriate filing, usually in the form of a New Drug Application (“NDA”), Biologics License Application (“BLA”) or supplemental application, with FDA seeking approval to sell the drug candidate for a particular use. At FDA’s discretion, FDA may hold a public hearing where an independent advisory committee of expert advisors asks additional questions and makes recommendations regarding the drug candidate. This committee makes a recommendation to FDA that is not binding but is generally followed by FDA. If FDA agrees that the drug has met the required level of safety and efficacy for a particular use, it will approve the application and allow us to sell the drug in the United States for that use. It is not unusual, however, for FDA to decline to approve an application because it believes that the drug candidate is not safe enough or efficacious enough (i.e. does not have an appropriate benefit versus risk profile) or because it does not believe that the data submitted is reliable or conclusive.
+
+At any point in this process, the development of a drug candidate can be stopped for a number of reasons including safety concerns and lack of treatment benefit. We cannot be certain that any clinical trials that we are currently conducting or any that we conduct in the future will be completed successfully or within any specified time period. We may choose, or FDA may require us, to delay or suspend our clinical trials at any time if it appears that patients are being exposed to an unacceptable health risk or if the drug candidate does not appear to have sufficient treatment benefit.
+
+FDA may also require Phase 4 non-registrational studies to explore scientific questions to further characterize safety and efficacy during commercial use of our drug. FDA may also require us to provide additional data or information, improve our manufacturing processes, procedures or facilities or may require extensive surveillance to monitor the safety or benefits of our product candidates if it determines that our filing does not contain adequate evidence of the safety and benefits of the drug. In addition, even if FDA approves a drug, it could limit the uses of the drug. FDA can withdraw approvals if it does not believe that we are complying with regulatory standards or if concerns about the safety or efficacy are uncovered or occur after approval.
+
+In addition to obtaining FDA approval for each drug, we obtain FDA approval of the manufacturing facilities for any drug we sell, including those of companies who manufacture our drugs for us. All of these facilities are subject to periodic inspections by FDA. FDA must also approve foreign establishments that manufacture products to be sold in the United States and these facilities are subject to periodic regulatory inspection. Our manufacturing facilities located in California also must be licensed by the State of California in compliance with local regulatory requirements. Our manufacturing facilities in Canada, Ireland and Netherlands also must obtain local licenses and permits in compliance with local regulatory requirements.
+
+FDA may employ one of several tools to facilitate and expedite the development and review of a drug, including fast track designation, Breakthrough Therapy designation, accelerated approval and Priority Review designation.
+
+ 
+
+Fast track designation is designed to facilitate the development and review of a drug that treats a serious condition and fills an unmet medical need. Breakthrough Therapy designation is designed to expedite the development and review of a drug that treats a serious condition and preliminary clinical evidence demonstrates substantial improvement over available therapies. Accelerated approval of a drug may be granted by FDA where the drug treats a serious condition, fills an unmet medical need and has been studied for safety and efficacy. Priority Review designation means FDA’s goal is to take action on an application within six months of filing. FDA may grant Priority Review designation to a drug that would provide significant improvement in the safety or effectiveness of a treatment, diagnosis or prevention of a serious condition. 
+
+European Union Regulatory System and Approval Process
+
+In the European Union (“EU”), our products are subject to a variety of EU and EU Member State regulations governing clinical trials, commercial sales and distribution. We are required to obtain a marketing authorization in the EU before we can market our medicinal products on the relevant market. The conduct of clinical trials in the EU is governed by, among others, Directive 2001/20/EC and Directive 2005/28/EC and the EU (ICH) Good Clinical Practice rules. These impose legal and regulatory obligations that are similar to those provided in applicable U.S. laws. The conduct of clinical trials in the EU must be approved by the competent authorities of each EU Member States in which the clinical trials take place, and a positive opinion must be obtained from the relevant Ethics Committee in the relevant Member State. In 2014, the EU legislator adopted Regulation (EU) No 536/2014 to replace Directive 2001/20/EC and to introduce a coordinated procedure for authorization of clinical trials. This Regulation is expected to apply in 2021 or 2022.
+
+13
+
+Marketing authorization holders, manufacturers, importers, wholesalers and distributors of medicinal products placed on the market in the EU are required to comply with a number of regulatory requirements including pharmacovigilance, Good Manufacturing Practices compliance and the requirement to obtain manufacturing, import and/or distribution licenses issued by the competent authorities of the EU Member States. Failure to comply with these requirements may lead to the imposition of civil, criminal or administrative sanctions, including suspension of marketing or manufacturing authorizations.
+
+Pricing and Reimbursement
+
+Successful commercialization of our products depends, in part, on the availability of third-party payer reimbursement for the cost of such products and related treatments and medical services in the markets where we sell our products. Government health authorities, private health insurers and other organizations generally provide reimbursement. In the United States, the European Union and other significant or potentially significant markets for our products and product candidates, government authorities and private payers are increasingly attempting to limit or regulate the price of medical products and services. A significant portion of our sales of the majority of our products are subject to substantial discounts from their list prices, including rebates we may be required to pay to Medicaid agencies or discounts we may be required to pay to 340B covered entities. As a result, the price increases we implement from time to time on certain products may have a limited effect on our product sales in certain markets. In addition, standard reimbursement structures may not adequately reimburse for innovative therapies.
+
+As our products mature, private insurers and government payers often reduce the amount they will reimburse providers, which increases pressure on us to reduce prices. Further, as new branded or generic products are introduced into major markets, our ability to maintain pricing and market share may be affected. 
+
+For more information, see Item 1A. Risk Factors “Our existing products are subject to reimbursement pressures from government agencies and other third parties, required rebates and other discounts on our products and other pricing pressures” and “We face challenges in accurately forecasting sales because of the difficulties in predicting demand for our products and fluctuations in purchasing patterns or wholesaler inventories.”
+
+Patient Assistance Programs
+
+Recently, there has been enhanced scrutiny of company-sponsored patient assistance programs, including co-pay assistance programs and manufacturer donations to third-party charities that provide such assistance. There has also been enhanced scrutiny by governments on reimbursement support offerings, clinical education programs and promotional speaker programs. If we, or our agents and vendors, are deemed to have failed to comply with laws, regulations or government guidance in any of these areas, we could be subject to criminal and civil sanctions. Any similar violations by our competitors could also negatively impact our industry reputation and increase scrutiny over our business and our products.
+
+Health Care Fraud and Abuse Laws; Anti-Bribery Laws
+
+We are subject to various U.S. federal and state laws pertaining to health care “fraud and abuse,” including anti-kickback laws and false claim laws. Anti-kickback laws make it illegal for a prescription drug manufacturer to knowingly and willingly solicit, offer, receive or pay any remuneration in exchange for, or to induce, the referral of business reimbursed by a federal healthcare program, including the purchase or prescription of a particular drug. False claims laws generally prohibit anyone from knowingly presenting, or causing to be presented, a false or fraudulent claim for payment by federal and certain state payers (including Medicare and Medicaid), or knowingly making, using or causing to be made or used, a false record or statement material to a false or fraudulent claim. Due to the breadth of the statutory provisions and the attention being given to them by law enforcement authorities, our sales, marketing, patient support and medical activities may be subject to scrutiny under these laws. For example, recently there has been enhanced scrutiny by government enforcement authorities of company-sponsored patient assistance programs, including co-pay assistance programs and manufacturer donations to third-party charities that provide such assistance, reimbursement support offerings, clinical education programs and promotional speaker programs. Similarly, in Europe, interactions between pharmaceutical companies and physicians are subject to strict laws, regulations, industry self‑regulation codes of conduct and physicians’ codes of professional conduct, as applicable, including the EU Member States anti-corruption laws and the UK Bribery Act 2010.
+
+In addition, the U.S. Foreign Corrupt Practices Act and similar worldwide anti-bribery laws generally prohibit companies and their intermediaries from making improper payments for the purpose of obtaining or retaining business. Our policies mandate compliance with these anti-bribery laws. We operate in parts of the world that have experienced governmental corruption to some degree. In certain circumstances, strict compliance with anti-bribery laws may conflict with local customs and practices or may require us to interact with doctors and hospitals, some of which may be state controlled, in a manner that is different than local custom. 
+
+14
+
+Despite our training and compliance program, our internal control policies and procedures may not protect us from unlawful acts committed by our employees or agents. Violations of fraud and abuse laws or anti-bribery laws may be punishable by criminal and/or civil sanctions, including fines and civil monetary penalties, as well as the possibility of exclusion from federal health care programs (including Medicare and Medicaid). Violations can also lead to the imposition of a Corporate Integrity Agreement or similar government oversight program. Any similar violations by our competitors could also negatively impact the reputation of our industry and increase governmental and public scrutiny over our business and our products.
+
+U.S. Healthcare Reform
+
+The U.S. federal and state governments continue to propose and pass legislation designed to regulate the healthcare industry, including legislation that seeks to indirectly or directly regulate pharmaceutical drug pricing.
+
+For more information, see Item 1A. Risk Factors “We are impacted by evolving laws, regulations and legislative or regulatory actions applicable to the health care industry.”
+
+Environment
+
+We are subject to a number of laws and regulations that require compliance with federal, state, and local regulations for the protection of the environment. The regulatory landscape continues to evolve, and we anticipate additional regulations in the future. Laws and regulations are implemented and under consideration to mitigate the effects of climate change mainly caused by greenhouse gas emissions. Our business is not energy intensive. Therefore, we do not anticipate being subject to a cap and trade system or other mitigation measure that would materially impact our capital expenditures, operations or competitive position. 
+
+Other Information
+
+We are subject to the information requirements of the Securities Exchange Act of 1934 (“Exchange Act”). Therefore, we file periodic reports, proxy and information statements and other information with the SEC. The SEC maintains a website (http://www.sec.gov) that contains reports, proxy and information statements and other information regarding issuers that file electronically with the SEC.
+
+The mailing address of our headquarters is 333 Lakeside Drive, Foster City, California 94404, and our telephone number at that location is 650-574-3000. Our website is www.gilead.com. Through a link on the “Investors” page of our website (under “SEC Filings” section), we make available the following filings free of charge as soon as reasonably practicable after they are electronically filed with or furnished to the SEC: our Annual Reports on Form 10-K; Quarterly Reports on Form 10-Q; Current Reports on Form 8-K; and any amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Exchange Act. 
+
+Website references are provided throughout this document for convenience. The content on the referenced websites does not constitute a part of and is not incorporated by reference into this Annual Report on Form 10-K.
+
+15
+
+ITEM 1A. 
+
+    
+
+RISK FACTORS
+
+In evaluating our business, you should carefully consider the following discussion of material risks, events and uncertainties that make an investment in us speculative or risky in addition to the other information in this Annual Report on Form 10-K. A manifestation of any of the following risks and uncertainties could, in circumstances we may or may not be able to accurately predict, materially and adversely affect our business, growth, reputation (including the commercial or scientific reputation of our products), prospects, product pipeline and sales, operating and financial results, financial condition, cash flows, liquidity and stock price. We note these factors for investors as permitted by the Private Securities Litigation Reform Act of 1995. It is not possible to predict or identify all such factors; our operations could also be affected by factors, events or uncertainties that are not presently known to us or that we currently do not consider to present significant risks to our operations. Therefore, you should not consider the following risks to be a complete statement of all the potential risks or uncertainties that we face.
+
+Product and Commercialization Risks
+
+Certain of our products subject us to additional or heightened risks.
+
+HIV Products
+
+ 
+
+We receive a substantial portion of our revenue from sales of our products for the treatment and prevention of HIV infection. During the twelve months ended December 31, 2020, sales of our HIV products accounted for approximately 70% of our total product sales. We may be unable to sustain or increase sales of our HIV products for any number of reasons, including market share gains by competitive products or the inability to introduce new HIV medications necessary to remain competitive. In such case, we may need to scale back our operations, including our future drug development and spending on research and development (“R&D”) efforts. For example, most of our HIV products contain tenofovir alafenamide (“TAF”), tenofovir disoproxil fumarate (“TDF”) and/or emtricitabine (“FTC”), which belong to the nucleoside class of antiviral therapeutics, and any changes to the treatment paradigm for HIV may cause nucleoside-based therapeutics to fall out of favor.
+
+Veklury (remdesivir)
+
+We face risks related to our significant investment in the rapid development, manufacturing and distribution of Veklury (remdesivir), which was approved by the U.S. Food and Drug Administration (“FDA”) in October 2020 as a treatment for hospitalized patients with COVID-19. Given the severity and urgency of the COVID-19 pandemic, we committed significant capital and resources for clinical trials and the scale-up of the production of remdesivir. We expect our investment will continue through 2021 and beyond, as we continue to manufacture large quantities of finished product and conduct additional studies of specific patient populations, develop and evaluate new formulations and delivery methods and combinations with other therapies. While the utilization of remdesivir has largely tracked the level of infections, we are unable to accurately predict our revenues or supply needs over the short and long term due to the potential for new and better therapeutics, the availability and effectiveness of vaccines and fluctuating hospital utilization rates. If we are unable to accurately forecast demand or manufacture Veklury at levels to meet actual demand, then this may result in shortages or excess inventory that may be written off. We are subject to significant public attention and scrutiny over the complex decisions made regarding the clinical data, allocation, distribution and pricing of Veklury, all of which affects our corporate reputation. 
+
+Yescarta
+
+ 
+
+Advancing a novel and personalized therapy such as Yescarta, which is a Chimeric Antigen Receptor (“CAR”) T cell therapy, creates significant challenges, including:
+
+•
+
+educating and certifying medical personnel regarding the procedures and the potential side effects, such as cytokine release syndrome and neurologic toxicities, in compliance with the Risk Evaluation and Mitigation Strategy program required by FDA;
+
+•
+
+securing sufficient supply of other medications to manage side effects, such as tocilizumab and corticosteroids, which may not be available in sufficient quantities, may not adequately control the side effects and/or may have detrimental impacts on the efficacy of Yescarta;
+
+•
+
+developing and maintaining a robust and reliable process for engineering a patient’s T cells in our facilities and infusing them back into the patient; and
+
+•
+
+conditioning patients with chemotherapy in advance of administering our therapy, which may increase the risk of adverse side effects.
+
+16
+
+The use of engineered T cells as a potential cancer treatment is a recent development and may not be broadly accepted by physicians, patients, hospitals, cancer treatment centers, payers and others in the medical community. We may not be able to demonstrate to the medical community and payers the potential advantages of Yescarta compared to existing and future therapeutics. For challenges related to the reimbursement of Yescarta, see also “Our existing products are subject to reimbursement pressures from government agencies and other third parties, required rebates and other discounts on our products and other pricing pressures.”
+
+We rely on third-party sites to collect patients’ white blood cells, known as apheresis centers, as well as shippers, couriers, and hospitals for the logistical collection of patients’ white blood cells and ultimate delivery of Yescarta to patients. These vendors may encounter disruptions or difficulties that could result in product loss and regulatory action. Apheresis centers may also choose not to participate in our quality certification process, or we may be unable to complete such certification in a timely manner or at all, which could delay or constrain our manufacturing and commercialization efforts.
+
+Our success depends on developing and commercializing new products or expanding the indications for existing products.
+
+If we are unable to launch commercially successful new products or new indications for existing products our business will be adversely impacted. The launch of commercially successful products is necessary to grow our business, cover our substantial R&D expenses, and offset revenue losses when existing products lose market share due to factors such as competition and loss of patent exclusivity. There are many difficulties and uncertainties inherent in drug development and the introduction of new products. The product development cycle is characterized by significant investments of resources, long lead times and unpredictable outcomes due to the nature of developing medicines for human use. We expend significant time and resources on our product pipeline without any assurance that we will recoup our investments or that our efforts will be commercially successful. A high rate of failure is inherent in the discovery and development of new products, and failure can occur at any point in the process, including late in the process after substantial investment.
+
+We face challenges in accurately forecasting sales because of the difficulties in predicting demand for our products and fluctuations in purchasing patterns or wholesaler inventories. 
+
+We may be unable to accurately predict demand for our products, including the uptake of new products, as demand depends on a number of factors. For example, product demand may be adversely affected if physicians do not see the benefit of our products. Additionally, the non-retail sector in the United States, which includes government institutions, including state AIDS Drug Assistance Programs, the U.S. Department of Veterans Affairs, correctional facilities and large health maintenance organizations, tends to be less consistent in terms of buying patterns and often causes quarter-over-quarter fluctuations that do not necessarily mirror patient demand for our products. Federal and state budget pressures, as well as the annual grant cycles for federal and state funds, may cause purchasing patterns to not reflect patient demand for our products. We expect to continue to experience fluctuations in the purchasing patterns of our non-retail customers. In light of the budget crises faced by many European countries, we have observed variations in purchasing patterns induced by cost containment measures in Europe. We believe these measures have caused some government agencies and other purchasers to reduce inventory of our products in the distribution channels. We may continue to see this trend in the future. 
+
+We sell and distribute most of our products in the United States exclusively through the wholesale channel. For the year ended December 31, 2020, approximately 92% of our product sales in the United States were to three wholesalers, AmerisourceBergen Corporation, Cardinal Health, Inc. and McKesson Corporation. The U.S. wholesalers with whom we have entered into inventory management agreements make estimates to determine end user demand and may not be completely effective in matching their inventory levels to actual end user demand. As a result, changes in inventory levels held by those wholesalers can cause our operating results to fluctuate unexpectedly if our sales to these wholesalers do not match end user demand. In addition, inventory is held at retail pharmacies and other non-wholesaler locations with whom we have no inventory management agreements and no control over buying patterns. Adverse changes in economic conditions, increased competition or other factors may cause retail pharmacies to reduce their inventories of our products, which would reduce their orders from wholesalers and, consequently, the wholesalers’ orders from us, even if end user demand has not changed. In addition, we have observed that strong wholesaler and sub-wholesaler purchases of our products in the fourth quarter typically results in inventory draw-down by wholesalers and sub-wholesalers in the subsequent first quarter. As inventory in the distribution channel fluctuates from quarter to quarter, we may continue to see fluctuations in our earnings and a mismatch between prescription demand for our products and our revenues. 
+
+17
+
+We face significant competition from global pharmaceutical and biotechnology companies, specialized pharmaceutical firms and generic drug manufacturers.
+
+New branded or generic products entering major markets affects our ability to maintain pricing and market share. Our products compete with other available products based primarily on efficacy, safety, tolerability, acceptance by doctors, ease of patient compliance, ease of use, price, insurance and other reimbursement coverage, distribution and marketing. A number of companies are pursuing the development of technologies which are competitive with our existing products or research programs. These competing companies include large pharmaceutical and biotechnology companies and specialized pharmaceutical firms acting either independently or together with other such companies. Furthermore, academic institutions, government agencies and other public and private organizations conducting research may seek patent protection or may establish collaborative arrangements for competitive products or programs. We may be adversely impacted if any of these competitors gain market share as a result of new technologies, commercialization strategies or otherwise.
+
+Our existing products are subject to reimbursement pressures from government agencies and other third parties, required rebates and other discounts on our products and other pricing pressures.
+
+Product Reimbursements
+
+Successful commercialization of our products depends, in part, on the availability of third-party payer reimbursement for the cost of such products and related treatments and medical services in the markets where we sell our products. Government health authorities, private health insurers and other organizations generally provide reimbursement. As our products mature, private insurers and government payers often reduce the amount they will reimburse patients for these products, which increases pressure on us to reduce prices. 
+
+Legislative and regulatory actions affecting government prescription drug procurement and reimbursement programs occur relatively frequently. For example, in September 2020, FDA issued a final rule implementing a pathway for the importation of certain prescription drugs from Canada. This rule is subject to ongoing litigation. In addition, in November 2020, the Centers for Medicare & Medicaid Services (“CMS”) issued an interim final rule that would substantially alter the Medicare Part B reimbursement system for physician-administered medicines as of January 1, 2021. This rule is subject to ongoing litigation and CMS has been preliminarily enjoined from implementing the rule. We may be adversely impacted by any such legislative and regulatory actions, though it is difficult to predict the impact, if any, on the use and reimbursement of our products.
+
+Product Pricing, Discounts and Rebates
+
+In the United States, the European Union and other significant or potentially significant markets for our products and product candidates, government authorities and third-party payers are increasingly attempting to limit or regulate the price of medical products and services. In the United States, the volume of drug pricing-related bills has dramatically increased in recent years. For example, Congress proposed bills to change the Medicare Part D benefit to impose an inflation-based rebate when list prices for drugs grow faster than inflation and to increase manufacturer contributions in some or all of the benefit phases. In addition, many state legislatures are considering, or have already passed into law, legislation that seeks to indirectly or directly regulate pharmaceutical drug pricing, such as requiring manufacturers to publicly report proprietary pricing information, creating review boards for prices to state agencies, and encouraging the use of generic drugs. Such initiatives and legislation may cause added pricing pressures on our products, and the resulting impact on our business is uncertain. Many countries outside the United States, including the European Union member states, have established complex and lengthy procedures to obtain price approvals, coverage reimbursement and periodically review their pricing and reimbursement decisions. The outcome of this review cannot be predicted and could have an adverse effect on the pricing and reimbursement of our medicinal products in the European Union member states. Reductions in the pricing of our medicinal products in one member state could affect the price in other member states and have a negative impact on our financial results. 
+
+A substantial portion of our product sales is subject to significant discounts from list price, including rebates that we may be required to pay state Medicaid agencies and discounts provided to 340B covered entities. Changes to the 340B program or the Medicaid program at the federal or state level could have a material adverse effect on our business. For example, in December 2020, CMS issued a final rule that will make certain changes to the calculation of rebates under the Medicaid Drug Rebate Program. Among other changes, effective January 1, 2023, the final rule will change the requirements for excluding manufacturer co-pay coupons from the Medicaid “best price.” If these changes go into effect, they could substantially increase our Medicaid rebate obligations and decrease the prices we charge 340B covered entities. The continued growth of the 340B program also limits the prices we may charge to an increasing number of customers.
+
+18
+
+In addition, standard reimbursement structures may not adequately reimburse for innovative therapies. For example, beginning in fiscal year 2021, CMS established a new severity adjusted diagnosis related group (“DRG”) 018 for Medicare inpatient reimbursement of CAR T products such as Yescarta and Tecartus. While the new DRG has a significantly higher base payment amount than the prior DRG 016, the payment available may not be sufficient to reimburse some hospitals for their cost of care for patients receiving Yescarta and Tecartus. When reimbursement is not aligned well to account for treatment costs, Medicare beneficiaries may be denied access as this misalignment could impact the willingness of some hospitals to offer the therapy and of doctors to recommend the therapy. Additionally, in the European Union, there are barriers to reimbursement in individual countries that could limit the uptake of Yescarta and Tecartus.
+
+In addition, we estimate the rebates we will be required to pay in connection with sales during a particular quarter based on claims data from prior quarters. In the United States, actual rebate claims are typically made by payers one to three quarters in arrears. Actual claims and payments may vary significantly from our estimates.
+
+We may experience adverse impacts resulting from imports from countries where our products are available at lower prices or imports of unapproved generic or counterfeit versions of our products.
+
+ 
+
+Prices for our products are based on local market economics and competition and sometimes differ from country to country. Our sales in countries with relatively higher prices may be reduced if products can be imported and resold into those countries from lower price markets. For example, U.S. sales could also be affected if FDA permits importation of drugs from Canada. We have entered into agreements with generic drug manufacturers as well as licensing agreements with the Medicines Patent Pool, a United Nations-backed public health organization, which allows generic drug manufacturers to manufacture generic versions of certain of our products for distribution in certain low- and middle-income countries. We may be adversely affected if any generic versions of our products, whether or not produced and/or distributed under these agreements, are exported to the United States, Europe or markets with higher prices. 
+
+In the European Union, we are required to permit products purchased in one European Union member state to be sold in another member state. Purchases of our products in countries where our selling prices are relatively low for resale in countries in which our selling prices are relatively high can affect the inventory level held by our wholesalers and can cause the relative sales levels in the various countries to fluctuate from quarter to quarter and not reflect the actual consumer demand in any given quarter. 
+
+Additionally, diverted products may be used in countries where they have not been approved and patients may source the diverted products outside the legitimate supply chain. These diverted products may be handled, shipped and stored inappropriately, which may affect the efficacy of the products and could harm patients, and adversely impact us.
+
+We are also aware of the existence of various “Buyers Clubs” around the world that promote the personal importation of generic versions of our products that have not been approved for use in the countries into which they are imported. As a result, patients may be at risk of taking unapproved medications which may not be what they purport to be, may not have the potency they claim to have or may contain harmful substances, which could adversely impact us. 
+
+Further, third parties may illegally distribute and sell counterfeit versions of our medicines, which do not meet the rigorous quality standards of our manufacturing and supply chain. Counterfeit medicines pose a serious risk to patient health and safety and may raise the risk of product recalls. Our actions to discourage the distribution and sale of counterfeit versions of our medicines around the world may not be successful, and we may be adversely affected as a result. 
+
+Product Development and Supply Chain Risks
+
+We face risks in our clinical trials, including the potential for unfavorable results, delays in anticipated timelines and disruption.
+
+We are required to demonstrate the safety and efficacy of products that we develop for each intended use through extensive preclinical studies and clinical trials. The results from preclinical and early clinical studies do not always accurately predict results in later, large-scale clinical trials. Even successfully completed large-scale clinical trials may not result in marketable products. If any of our product candidates fails to achieve its primary endpoint in clinical trials, if safety issues arise or if the results from our clinical trials are otherwise inadequate to support regulatory approval of our product candidates, commercialization of that product candidate could be delayed or halted. In addition, we may also face challenges in clinical trial protocol design.
+
+19
+
+We may be adversely impacted if the clinical trials for any of the product candidates in our pipeline are delayed or terminated. We face numerous risks and uncertainties with our product candidates that could prevent completion of development of these product candidates. These risks include our ability to enroll patients in clinical trials, the possibility of unfavorable results of our clinical trials, the need to modify or delay our clinical trials or to perform additional trials and the risk of failing to obtain FDA and other regulatory agency approvals. As a result, our product candidates may never be successfully commercialized. Further, we may make a strategic decision to discontinue development of our product candidates if, for example, we believe commercialization will be difficult relative to other opportunities in our pipeline. In 2021, our key anticipated milestones for our product candidates include, among others, Phase 3 data readouts for (1) sacituzumab govitecan-hziy for the treatment of hormone receptor positive, human epidermal growth factor receptor 2 negative, metastatic breast cancer patients and (2) axicabtagene ciloleucel for the treatment of second line diffuse large B cell lymphoma. We may be adversely impacted if we do not have favorable results from these studies and other programs in our pipeline cannot be completed on a timely basis or at all. In addition, clinical trials involving our commercial products could raise new safety issues for our existing products.
+
+In addition, we extensively outsource our clinical trial activities and usually perform only a small portion of the start-up activities in-house. We rely on independent third-party contract research organizations (“CROs”) to perform most of our clinical studies, including document preparation, site identification, screening and preparation, pre-study visits, training, program management, patient enrollment, ongoing monitoring, site management and bioanalytical analysis. Many important aspects of the services performed for us by the CROs are out of our direct control. If there is any dispute or disruption in our relationship with our CROs, our clinical trials may be delayed. Moreover, in our regulatory submissions, we rely on the quality and validity of the clinical work performed by third-party CROs. If any of our CROs’ processes, methodologies or results were determined to be invalid or inadequate, our own clinical data and results and related regulatory approvals may be adversely affected.
+
+We may face manufacturing difficulties, delays or interruptions, including at our third-party manufacturers and corporate partners.
+
+Our products, which are manufactured at our own facilities or by third-party manufacturers and corporate partners, are the result of complex, highly regulated manufacturing processes. We depend on third-party manufacturers and corporate partners to perform manufacturing activities effectively and on a timely basis for the majority of our active pharmaceutical ingredients and drug products. These third parties are independent entities subject to their own unique operational and financial risks that are out of our control. We and our third-party manufacturers and corporate partners are subject to Good Manufacturing Practices (“GMP”), which are extensive regulations governing manufacturing processes, stability testing, record keeping and quality standards as defined by FDA and the European Medicines Agency (“EMA”), as well as comparable regulations in other jurisdictions. Manufacturing operations are also subject to routine inspections by regulatory agencies.
+
+Any adverse developments affecting or resulting from our manufacturing operations or the operations of our third-party manufacturers and corporate partners may result in shipment delays, inventory shortages, lot failures, product withdrawals or recalls or other interruptions in the commercial supply of our products. We may also need to take inventory write-offs and incur other charges and expenses for products that fail to meet specifications and quality standards, undertake costly remediation efforts or seek more costly manufacturing alternatives. Such developments could increase our manufacturing costs, cause us to lose revenues or market share and damage our reputation. In addition, manufacturing issues may cause delays in our clinical trials and applications for regulatory approval. For example, if we are unable to remedy any deficiencies cited by FDA or other regulatory agencies in their inspections, our currently marketed products and the timing of regulatory approval of product candidates in development could be adversely affected. Further, there is risk that regulatory agencies in other countries where marketing applications are pending will undertake similar additional reviews or apply a heightened standard of review, which could delay the regulatory approvals for products in those countries. Our business may be adversely affected if approval of any of our product candidates were delayed or if production of our products were interrupted.
+
+We may not be able to obtain materials or supplies necessary to conduct clinical trials or to manufacture and sell our products, which could limit our ability to generate revenues.
+
+ 
+
+We need access to certain supplies and products to conduct our clinical trials and to manufacture and sell our products. If we are unable to purchase sufficient quantities of these materials or find suitable alternative materials in a timely manner, our development efforts for our product candidates may be delayed or our ability to manufacture our products could be limited.
+
+20
+
+Suppliers of key components and materials must be named in the new drug application or marketing authorization application filed with the regulatory authority for any product candidate for which we are seeking marketing approval, and significant delays can occur if the qualification of a new supplier is required. Even after a manufacturer is qualified by the regulatory authority, the manufacturer must continue to expend time, money and effort in the area of production and quality control to maintain full compliance with GMP. Manufacturers are subject to regular periodic inspections by regulatory authorities following initial approval. If, as a result of these inspections, a regulatory authority determines that the equipment, facilities, laboratories or processes do not comply with applicable regulations and conditions of product approval, the regulatory authority may suspend the manufacturing operations. If the manufacturing operations of any of the single suppliers for our products are suspended, we may be unable to generate sufficient quantities of commercial or clinical supplies of product to meet market demand. In addition, if deliveries of materials from our suppliers were interrupted for any reason, we may be unable to ship certain of our products for commercial supply or to supply our product candidates in development for clinical trials. Also, some of our products and the materials that we utilize in our operations are manufactured at only one facility, which we may not be able to replace in a timely manner and on commercially reasonable terms, or at all. Problems with any of the single suppliers we depend on, including in the event of a disaster, such as an earthquake, equipment failure or other difficulty, may negatively impact our development and commercialization efforts.
+
+A significant portion of the raw materials and intermediates used to manufacture our antiviral products are supplied by third-party manufacturers and corporate partners outside of the United States. As a result, any political or economic factors in a specific country or region, including any changes in or interpretations of trade regulations, compliance requirements or tax legislation, that would limit or prevent third parties outside of the United States from supplying these materials could adversely affect our ability to manufacture and supply our antiviral products to meet market needs and have a material and adverse effect on our operating results.
+
+If we were to encounter any of these difficulties, our ability to conduct clinical trials on product candidates and to manufacture and sell our products could be impaired.
+
+Regulatory and Other Legal Risks
+
+Our operations depend on compliance with complex FDA and comparable international regulations. Failure to obtain broad approvals on a timely basis or to maintain compliance could delay or halt commercialization of our products.
+
+The products we develop must be approved for marketing and sale by regulatory authorities and, once approved, are subject to extensive regulation by FDA, EMA and comparable regulatory agencies in other countries. We have filed, and anticipate that we will file, for marketing approval in additional countries and for additional indications and products over the next several years. These and any future marketing applications we file may not be approved by the regulatory authorities on a timely basis, or at all. Even if marketing approval is granted for these products, there may be significant limitations on their use. We cannot state with certainty when or whether any of our product candidates under development will be approved or launched; whether we will be able to develop, license or acquire additional product candidates or products; or whether any products, once launched, will be commercially successful. 
+
+Further, how we manufacture and sell our products is subject to extensive regulation and review. For example, under FDA rules, we are often required to conduct post-approval clinical studies to assess a known serious risk, signals of serious risk or to identify an unexpected serious risk. In certain circumstances, we may be required to implement a Risk Evaluation and Mitigation Strategy program for our products, which could include a medication guide, patient package insert, a communication plan to healthcare providers, restrictions on distribution or use of a product and other elements FDA deems necessary to assure safe use of the drug. Discovery of previously unknown problems with our marketed products or product candidates, including serious safety, resistance or drug interaction issues, or problems with our manufacturing, safety reporting or promotional activities may result in regulatory approvals being delayed, denied or granted with significant restrictions on our products, including limitations on or the withdrawal of the products from the market. 
+
+Failure to comply with these or other requirements imposed by FDA could result in significant civil monetary penalties, fines suspensions of regulatory approvals, product recalls, seizure of products and criminal prosecutions.
+
+21
+
+We are impacted by evolving laws, regulations and legislative or regulatory actions applicable to the health care industry. 
+
+The health care industry is subject to various federal, state and international laws and regulations pertaining to drug reimbursement, rebates, price reporting, health care fraud and abuse, and data privacy and security. In the United States, these laws include anti-kickback and false claims laws, laws and regulations relating to the Medicare and Medicaid programs and other federal and state programs, the Medicaid Rebate Statute, individual state laws relating to pricing and sales and marketing practices, the Health Insurance Portability and Accountability Act and other federal and state laws relating to the privacy and security of health information. Actual or alleged violations of these laws or any related regulations may be punishable by criminal and/or civil sanctions, including, in some instances, substantial fines, civil monetary penalties, exclusion from participation in federal and state health care programs, including Medicare, Medicaid and Department of Veterans Affairs and Department of Defense health programs, actions against executives overseeing our business and significant remediation measures, negative publicity or other consequences. These laws and regulations are broad in scope and subject to changing and evolving interpretations, which could require us to incur substantial costs associated with compliance or to alter one or more of our sales or marketing practices. For example, in the United States, a challenge to the Affordable Care Act (“ACA”) is currently pending before the U.S. Supreme Court, which has resulted in uncertainty regarding the ACA’s future viability and destabilization of the health insurance market. The resulting impact on our business is uncertain and could be material.
+
+In addition, government price reporting and payment regulations are complex and we are continually assessing the methods by which we calculate and report pricing in accordance with these obligations. Our methodologies for calculations are inherently subjective and may be subject to review and challenge by various government agencies, which may disagree with our interpretation. If the government disagrees with our reported calculations, we may need to restate previously reported data and could be subject to additional financial and legal liability.
+
+There also continues to be enhanced scrutiny of company-sponsored patient assistance programs, including co-pay assistance programs, and manufacturer donations to third-party charities that provide such assistance. There has also been enhanced scrutiny by governments on reimbursement support offerings, clinical education programs and promotional speaker programs. If we, or our agents and vendors, are deemed to have failed to comply with laws, regulations or government guidance in any of these areas, we could be subject to criminal or civil sanctions. Any similar violations by our competitors could also negatively impact our industry reputation and increase scrutiny over our business and our products.
+
+For a description of our government investigations and related litigation, see Note 14. Commitments and Contingencies of the Notes to Consolidated Financial Statements included in Part II, Item 8 of this Annual Report on Form 10-K.
+
+We are subject to risks if significant safety issues arise for our marketed products or our product candidates.
+
+As additional studies are conducted subsequent to obtaining marketing approval for our products, and as our products are used over longer periods of time by many patients, including patients with underlying health problems or patients taking other medicines, we expect to continue finding new issues related to safety, resistance or drug interactions. Any such issues may require changes to our product labels, such as additional warnings, contraindications or even narrowed indications, or to halt sales of a product.
+
+Regulatory authorities have been moving towards more active and transparent pharmacovigilance and are making greater amounts of stand-alone safety information and clinical trial data directly available to the public through websites and other means, such as periodic safety update report summaries, risk management plan summaries and various adverse event data. Safety information, without the appropriate context and expertise, may be misinterpreted and lead to misperception or legal action.
+
+Our success depends to a significant degree on our ability to obtain and defend our patents and other intellectual property rights both domestically and internationally, and to operate without infringing upon the patents or other proprietary rights of third parties. 
+
+Patents and other proprietary rights are very important to our business. As part of our business strategy, we actively seek patent protection both in the United States and internationally and file additional patent applications, when appropriate, to cover improvements in our compounds, products and technology. Our success depends to a significant degree on our ability to:
+
+•
+
+obtain patents and licenses to patent rights;
+
+•
+
+preserve trade secrets and internal know-how;
+
+•
+
+defend against infringement of our patents and efforts to invalidate them; and
+
+•
+
+operate without infringing on the intellectual property of others.
+
+22
+
+Since patent applications are confidential for a period of time before a patent is issued, we may not know if our competitors filed patent applications for technology covered by our pending applications or if we were the first to invent or first to file an application directed toward the technology that is the subject of our patent applications. If competitors file patent applications covering our technology, we may have to participate in litigation, post-grant proceedings before the U.S. Patent and Trademark Office or other proceedings to determine the right to a patent or validity of any patent granted. Such litigation and proceedings are unpredictable and expensive, and could divert management attention from other operations, such that, even if we are ultimately successful, we may be adversely impacted. 
+
+Generic manufacturers have sought, and may continue to seek, FDA approval to market generic versions of our products through an abbreviated new drug application (“ANDA”), the application process typically used by manufacturers seeking approval of a generic drug. For a description of our ANDA litigation, see 14. Commitments and Contingencies of the Notes to Consolidated Financial Statements included in Part II, Item 8 of this Annual Report on Form 10-K. The entry of generic versions of our products has, and may in the future, lead to market share and price erosion. 
+
+If we are found to infringe the valid patents of third parties, we may be required to pay significant monetary damages or we may be prevented from commercializing products or may be required to obtain licenses from these third parties. We may not be able to obtain alternative technologies or any required license on commercially reasonable terms or at all. If we fail to obtain these licenses or alternative technologies, we may be unable to develop or commercialize some or all of our products. 
+
+We are aware of patents and patent applications owned by third parties that such parties may claim cover the use of sofosbuvir, axicabtagene ciloleucel or bictegravir. For example, in February 2018, ViiV filed a lawsuit against us in the U.S. District Court of Delaware, alleging that the commercialization of bictegravir, sold commercially in combination with TAF and FTC as Biktarvy, infringes on ViiV’s U.S. Patent No. 8,129,385 (the “’385 patent”), covering ViiV’s dolutegravir. Bictegravir is structurally different from dolutegravir, and we believe that bictegravir does not infringe the claims of the ’385 patent. The court has set a trial date of January 2022 for this lawsuit. ViiV is seeking billions of dollars for alleged damages comprised of ViiV’s lost profits and a royalty on sales of bictegravir from launch through the trial. In addition, should a court find that we are liable for infringement, we expect ViiV will seek a royalty on sales after the trial. ViiV calculates these damages based on the cumulative U.S. revenues from Biktarvy since launch, which have totaled $11.46 billion through December 31, 2020 Although we cannot predict with certainty the ultimate outcome of this litigation, an adverse judgment could result in substantial monetary damages, including ViiV’s lost profits and royalties through trial, and a going-forward royalty stream on future sales. See a description of our litigation related to these and other matters in Note 14. Commitments and Contingencies of the Notes to Consolidated Financial Statements included in Part II, Item 8 of this Annual Report on Form 10-K.
+
+Furthermore, we also rely on unpatented trade secrets and improvements, unpatented internal know-how and technological innovation. For example, a great deal of our liposomal manufacturing expertise, which is a key component of our liposomal technology, is not covered by patents but is instead protected as a trade secret. We protect these rights mainly through confidentiality agreements with our corporate partners, employees, consultants and vendors. We cannot be certain that these parties will comply with these confidentiality agreements, that we have adequate remedies for any breach or that our trade secrets, internal know-how or technological innovation will not otherwise become known or be independently discovered by our competitors. Under some of our R&D agreements, inventions become jointly owned by us and our corporate partner and in other cases become the exclusive property of one party. In certain circumstances, it can be difficult to determine who owns a particular invention and disputes could arise regarding those inventions. We could be adversely affected if our trade secrets, internal know-how, technological innovation or confidential information become known or independently discovered by competitors or if we enter into disputes over ownership of inventions. 
+
+We face potentially significant liability and increased expenses from litigation and government investigations relating to our products and operations.
+
+We are involved in a number of litigation, investigation and other dispute-related matters that require us to expend substantial internal and financial resources, including ongoing litigation related to our Yescarta and Biktarvy products and ongoing product liability litigation related to our TDF products. These matters could require us to pay significant monetary damages, including royalty payments for past and future sales. We expect these matters will continue to require a high level of internal and financial resources for the foreseeable future. These matters have reduced, and are expected to continue to reduce, our earnings and require significant management attention. 
+
+In addition, the testing, manufacturing, marketing and use of our commercial products, as well as product candidates in development, involve substantial risk of product liability claims. These claims may be made directly by consumers, healthcare providers, pharmaceutical companies or others. We have limited insurance for product liabilities that may arise and claims may exceed our coverage.
+
+23
+
+For a description of our litigation, investigations and other dispute-related matters, see Note 14. Commitments and Contingencies of the Notes to Consolidated Financial Statements included in Part II, Item 8 of this Annual Report on Form 10-K. The outcome of such legal proceedings or any other legal proceedings that may be brought against us, the investigations or any other investigations that may be initiated and any other dispute-related matters, are inherently uncertain, and adverse developments or outcomes can result in significant expenses, monetary damages, penalties or injunctive relief against us.
+
+Operational Risks
+
+Our business has been, and may in the future be, adversely affected by outbreaks of epidemic, pandemic or contagious diseases, including the recent COVID-19 outbreak.
+
+Actual or threatened outbreaks of epidemic, pandemic or contagious diseases, such as COVID-19, may significantly disrupt our global operations and adversely affect our business, financial condition and results of operations. For example, the COVID-19 pandemic has caused significant volatility and uncertainty in U.S. and international markets and has resulted in increased risks to our operations. In addition to the developments discussed in Part II, Item 7 “Management's Discussion and Analysis of Financial Condition and Results of Operations,” we are monitoring a number of risks related to the pandemic, including the following:
+
+•
+
+Supply Chain: The pandemic could result in disruptions to our supply chain and distribution in the future. For example, quarantines, shelter-in-place and other governmental orders and policies, travel restrictions, airline capacity and route reductions, safety guidelines and health impacts of the pandemic, could impact the availability or productivity of products and personnel at manufacturers, distributors, freight carriers and other necessary components of our supply chain. In addition, there may be unfavorable changes in the availability or cost of raw materials, intermediates and other materials necessary for production, which may result in higher costs, disruptions in our supply chain and interruptions in our distribution capabilities.
+
+•
+
+Clinical Trials: This pandemic has adversely affected and may continue to adversely affect certain of our clinical trials, including our ability to initiate and complete our clinical trials within the anticipated timelines. For ongoing trials, clinical trial sites have imposed restrictions on patient visits to limit risks of possible COVID-19 exposure, and we may experience issues with participant compliance with clinical trial protocols as a result of quarantines, travel restrictions and interruptions to healthcare services. There is also a risk that closures at clinical sites may be necessary as the pandemic and related guidance and restrictions continue to evolve. For the foregoing reasons, we have experienced delays with new subject enrollment for most clinical trials, and may continue to experience overall delays in our clinical trials. There is also the risk of biased data collection if only certain clinical trial sites remain open. As a result of these challenges, our anticipated filing and marketing timelines for certain products may be adversely impacted.
+
+•
+
+Regulatory Reviews: The operations of FDA, EMA or other regulatory agencies may be adversely affected. We may also experience delays in necessary interactions with regulatory authorities around the world, including with respect to any anticipated filing, which together with other factors resulting from the pandemic may adversely impact our ability to launch new commercial products.
+
+•
+
+Patient Access: The pandemic has limited patients’ ability or willingness to access and seek care from healthcare providers and initiate new therapies, which has resulted in lower demand for our products, particularly with respect to HIV prevention and hepatitis C virus (“HCV”) treatment. For example, we have seen a reduction in prescription refills for HIV prevention as a result of higher discontinuations. In addition, with the rising unemployment, we have experienced a shift in payer mix towards more government-funded coverage and the uninsured segment.
+
+•
+
+Employees: We face risks related to the health, safety, morale and productivity of our employees, including the safe occupancy of our sites during the pandemic. Currently, most Gilead sites are requiring flexible location employees to work from home while physical location dependent workers and mixed location workers continue to work on Gilead sites. Our job site enhancements and risk protocols, which include health screenings and COVID-19 testing, do not guarantee that we can maintain the continued safe occupancy of our sites. On-site employees testing positive for COVID-19 could lead to mandatory quarantines and potential site shutdowns of office locations and manufacturing plants.
+
+24
+
+•
+
+Financial: The pandemic has had, and may continue to have, an adverse financial impact in the short-term and potentially beyond. As a result of reduced patient access and a shift in payer mix, our HCV treatment and HIV businesses have been adversely impacted. For example, our product sales, excluding Veklury, for the fourth quarter and full year 2020 decreased 7% and 3%, respectively, compared to the same periods in 2019, due in part to the continued effects of the pandemic on our HCV and HIV franchises. We may continue to experience fluctuating revenues from these businesses as infection rates rise and fall and as shelter in place restrictions are periodically tightened and eased. We have also experienced, and may continue to experience, volatility in our short-term revenues due to fluctuations in inventory channel purchases during the pandemic. We could also have additional unexpected expenses related to the pandemic, which could negatively affect our results of operations. These factors together with the overall uncertainty and disruption caused by the pandemic could result in increased volatility and decreased predictability in our results of operations and volatility in our stock price.
+
+The pandemic may also amplify many of the other risks described throughout the “Risk Factors” section of this Annual Report on Form 10-K. The extent to which the pandemic impacts our business and results will depend on future developments, which are uncertain and cannot be predicted with confidence, including any potential future waves of the pandemic, new variants of the virus that impact the severity and duration of the pandemic, the development, distribution, effectiveness and public acceptance of vaccines, and any other ongoing and future actions taken to contain the pandemic.
+
+We face risks associated with our global operations.
+
+Our global operations are accompanied by certain financial, political, economic and other risks, including those listed below:
+
+•
+
+Foreign Currency Exchange: For the year ended December 31, 2020, approximately 26% of our product sales were outside the United States. Because a significant percentage of our product sales is denominated in foreign currencies, primarily the Euro, we face exposure to adverse movements in foreign currency exchange rates. Overall, we are a net receiver of foreign currencies, and therefore, we benefit from a weaker U.S. dollar and are adversely affected by a stronger U.S. dollar. Our hedging program does not eliminate our exposure to currency fluctuations. We may be adversely impacted if the U.S. dollar appreciates significantly against certain currencies and our hedging program does not sufficiently offset the effects of such appreciation.
+
+•
+
+Anti-Bribery: We are subject to the U.S. Foreign Corrupt Practices Act and similar worldwide anti-bribery laws that govern our international operations with respect to payments to government officials. Our international operations are heavily regulated and require significant interaction with foreign officials. We operate in parts of the world that have experienced governmental corruption to some degree. In certain circumstances, strict compliance with anti-bribery laws may conflict with local customs and practices or may require us to interact with doctors and hospitals, some of which may be state controlled, in a manner that is different than local custom. It is possible that certain of our practices may be challenged under these laws. In addition, our internal control policies and procedures may not protect us from reckless or criminal acts committed by our employees and agents. Enforcement activities under anti-bribery laws could subject us to administrative and legal proceedings and actions, which could result in civil and criminal sanctions, including monetary penalties and exclusion from healthcare programs.
+
+Other risks inherent in conducting a global business include:
+
+•
+
+Restrictive government actions against our intellectual property and other foreign assets such as nationalization, expropriation or the imposition of compulsory licenses.
+
+•
+
+Protective economic policies taken by foreign governments, such as trade protection measures and import and export licensing requirements, which may result in the imposition of trade sanctions or similar restrictions by the United States or other governments.
+
+•
+
+Business interruptions stemming from natural or man-made disasters, such as climate change, earthquakes, hurricanes, flooding, fires or actual or threatened public health emergencies, or efforts taken by third parties to prevent or mitigate such disasters, such as public safety power shutoffs and facility shutdowns, for which we or they may be uninsured or inadequately insured. For example, our corporate headquarters in Foster City and certain R&D and manufacturing facilities are located in California, a seismically active region. In the event of a major earthquake, we may not carry adequate earthquake insurance and significant recovery time could be required to resume operations. 
+
+25
+
+•
+
+Political instability or disruption in a geographic region where we operate, regardless of cause, including war, terrorism, social unrest and political changes. For example, on January 31, 2020, the United Kingdom withdrew from the European Union, which initiated a transition period during which the United Kingdom and the European Union will negotiate their future relationship. There is uncertainty concerning any changes in the laws and regulations governing the conduct of clinical trials and marketing of medicinal products in the United Kingdom following the country’s exit from the European Union. This uncertainty may lead to significant complexity and risks for our company and our ability to research, develop and market medicinal products in the European Union and the United Kingdom.
+
+We depend on relationships with third parties for sales and marketing performance, technology, development, logistics and commercialization of products. Failure to maintain these relationships, poor performance by these companies or disputes with these third parties could negatively impact our business.
+
+We rely on a number of collaborative relationships with third parties for our sales and marketing performance in certain territories. For example, we have collaboration arrangements with Janssen Sciences Ireland UC for Odefsey, Complera/Eviplera and Symtuza. In some countries, we rely on international distributors for sales of certain of our products. Some of these relationships also involve the clinical development of these products by our partners. Reliance on collaborative relationships poses a number of risks, including the risk that:
+
+•
+
+we are unable to control the resources our corporate partners devote to our programs or products;
+
+•
+
+disputes may arise with respect to the ownership of rights to technology developed with our corporate partners;
+
+•
+
+disagreements with our corporate partners could cause delays in, or termination of, the research, development or commercialization of product candidates or result in litigation or arbitration;
+
+•
+
+contracts with our corporate partners may fail to provide significant protection or may fail to be effectively enforced if one of these partners fails to perform;
+
+•
+
+our corporate partners have considerable discretion in electing whether to pursue the development of any additional products and may pursue alternative technologies or products either on their own or in collaboration with our competitors;
+
+•
+
+our corporate partners with marketing rights may choose to pursue competing technologies or to devote fewer resources to the marketing of our products than they do to products of their own development; and
+
+•
+
+our distributors and our corporate partners may be unable to pay us.
+
+Given these risks, there is a great deal of uncertainty regarding the success of our current and future collaborative efforts. If these efforts fail, our product development or commercialization of new products could be delayed or revenues from products could decline.
+
+Due to the specialized and technical nature of our business, the failure to attract, develop and retain highly qualified personnel could adversely impact us.
+
+Our future success will depend in large part on our continued ability to attract, develop and retain highly qualified scientific, technical and management personnel, as well as personnel with expertise in clinical testing, governmental regulation and commercialization. Our ability to do so also depends in part on how well we maintain a strong workplace culture that is attractive to employees. In addition, competition for qualified personnel in the biopharmaceutical field is intense, and there is a limited pool of qualified potential employees to recruit. We face competition for personnel from other companies, universities, public and private research institutions, government entities and other organizations. Additionally, changes to U.S. immigration and work authorization laws and regulations could make it more difficult for employees to work in or transfer to one of the jurisdictions in which we operate. 
+
+26
+
+We are dependent on information technology systems, infrastructure and data, which may be subject to cyberattacks, security breaches and legal claims.
+
+We are dependent upon information technology systems, infrastructure and data, including our Kite Konnect platform, which is critical to maintain chain of identity and chain of custody of Yescarta. The multitude and complexity of our computer systems make them inherently vulnerable to service interruption or destruction, malicious intrusion and random attack. Likewise, data privacy or security breaches by employees or others pose a risk that sensitive data, including our intellectual property or trade secrets or the personal information of our employees, patients, customers or other business partners may be exposed to unauthorized persons or to the public. Cyberattacks are increasing in their frequency, sophistication and intensity, including during the pandemic. Cyberattacks include, for example, the deployment of harmful malware, denial-of-service, social engineering and other means to affect service reliability and threaten data confidentiality, integrity and availability. Our business and technology partners face similar risks and any security breach of their systems could adversely affect our security posture. There can be no assurance that our efforts, or the efforts of our partners and vendors, to invest in the protection of information technology infrastructure and data will prevent future service interruptions or identify breaches in our systems. Such interruptions or breaches could cause the loss of critical or sensitive information, including personal information. In addition, our insurance may not be sufficient in type or amount to cover the losses that may result from an interruption or breach of our systems.
+
+Regulators globally are also imposing new data privacy and security requirements, including new and greater monetary fines for privacy violations. For example, the General Data Protection Regulation (“GDPR”) that became effective in Europe in 2018 established regulations regarding the handling of personal data, and non-compliance with the GDPR may result in monetary penalties of up to four percent of worldwide revenue. In addition, new domestic data privacy and security laws, such as the California Consumer Privacy Act (“CCPA”) that became effective in January 2020, and others that may be passed, similarly introduce requirements with respect to personal information, and non-compliance with CCPA may result in liability through private actions (subject to statutorily defined damages in the event of certain data breaches) and enforcement. The GDPR, CCPA and other changes, or new laws or regulations associated with the enhanced protection of personal information, including in some cases healthcare data or other personal information, could greatly increase our cost of providing our products and services or even prevent us from offering certain services in jurisdictions in which we operate.
+
+Strategic and Financial Risks
+
+We are subject to risks associated with engaging in business acquisitions, licensing arrangements, collaborations, options, equity investments, asset divestitures and other strategic transactions.
+
+We have engaged in, and may in the future engage in, such transactions as part of our business strategy. We may not identify suitable transactions in the future and, if we do, we may not complete such transactions in a timely manner, on a cost-effective basis, or at all, and may not realize the expected benefits. If we are successful in making an acquisition or closing a licensing arrangement or collaboration, the products, intellectual property and technologies that are acquired or licensed may not be successful or may require significantly greater resources and investments than anticipated. As part of our annual impairment testing of our goodwill and other indefinite-lived intangible assets in the fourth quarter, and earlier if impairment indicators exist, as required under U.S. generally accepted accounting principles, we may need to recognize impairment charges if the products, intellectual property and technologies that are acquired or licensed are not successful. For option structured deals, there is no assurance that we will elect to exercise our option right, and it is possible that disagreements, uncertainties or other circumstances may arise, including with respect to whether our option rights have been appropriately triggered, which may hinder our ability to realize the expected benefits. For equity investments in our strategic transactions, such as in connection with our collaboration with Galapagos NV, the value of our equity investments may fluctuate and decline in value. If we are not successful in the execution or implementation of these transactions, our financial condition, cash flows and results of operations may be adversely affected, and our stock price could decline.
+
+We have paid substantial amounts of cash and incurred additional debt to finance our strategic transactions. Additional indebtedness and a lower cash balance could result in a downgrade of our credit ratings, limit our ability to borrow additional funds or refinance existing debt on favorable terms, increase our vulnerability to adverse economic or industry conditions, and reduce our financial flexibility to continue with our capital investments, stock repurchases and dividend payments. For example, as a result of the cash used and the debt issued in connection with our acquisition of Immunomedics in 2020, S&P downgraded our credit rating. We may be adversely impacted by any failure to overcome these additional risks.
+
+27
+
+Changes in our effective income tax rate could reduce our earnings.
+
+We are subject to income taxes and tax return audits in the United States and various foreign jurisdictions including Ireland. Due to economic and political conditions, various countries are actively considering and have made changes to existing tax laws, and we cannot predict the form or timing of such changes. There are differing interpretations of tax laws and regulations and, as a result, significant disputes may arise with these tax authorities involving issues of the timing and amount of deductions and allocations of income among various tax jurisdictions. We may be adversely affected by the resolution of one or more of these exposures in any reporting period.
+
+In addition, significant judgment is required in determining our worldwide provision for income taxes. Various factors may have favorable or unfavorable effects on our income tax rate including, but not limited to, our portion of the non-deductible annual branded prescription drug fee, the accounting for stock options and other share-based awards, mergers/acquisitions and restructurings, ability to maintain manufacturing and other operational activities in our Irish facilities, changes in the mix of earnings in the various tax jurisdictions in which we operate, changes in overall levels of pre-tax earnings, resolution of federal, state and foreign income tax audits. The impact on our income tax provision resulting from the above mentioned factors may be significant.
+
+ITEM  1B.
+
+    
+
+UNRESOLVED STAFF COMMENTS 
+
+Not applicable. 
+
+ITEM  2.
+
+    
+
+PROPERTIES 
+
+Our corporate headquarters are located in Foster City, California, where we house our administrative and certain of our R&D activities. We also have R&D facilities in Emeryville, Oceanside and Santa Monica, California; Gaithersburg, Maryland; Seattle, Washington; Morris Plains, New Jersey; Edmonton, Canada; and Dublin, Ireland. Our principal manufacturing facilities are in El Segundo, La Verne, Oceanside and San Dimas, California; Morris Plains, New Jersey; Edmonton, Canada; Cork, Ireland; and Hoofddorp, Netherlands. For more information about our manufacturing facilities, see Item 1 - Business “
+
+Our Manufacturing Facilities.
+
+” Our global operations include offices in Europe, North America, Asia, South America, Africa, Australia and the Middle East.
+
+We believe that our existing properties, including both owned and leased sites, are in good condition and suitable for the conduct of our business. We believe our capital resources are sufficient to purchase, lease or construct any additional facilities required to meet our expected long-term growth needs.
+
+ITEM  3.
+
+    
+
+LEGAL PROCEEDINGS
+
+ 
+
+For a description of our significant pending legal proceedings, please see Note 14. Commitments and Contingencies - Legal Proceedings of the Notes to Consolidated Financial Statements included in Part II, Item 8 of this Annual Report on Form 10-K.
+
+ITEM  4.
+
+    
+
+MINE SAFETY DISCLOSURES 
+
+Not applicable. 
+
+28
+
+PART II 
+
+ITEM  5.
+
+    
+
+MARKET FOR REGISTRANT’S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES 
+
+Our common stock is traded on the Nasdaq Global Select Market under the symbol “GILD.” 
+
+As of February 18, 2021, we had approximately 1,402 stockholders of record of our common stock.
+
+Performance Graph
+
+(1) 
+
+The following graph compares our cumulative total stockholder return for the past five years to two indices: the Standard & Poor’s 500 Stock Index (“S&P 500 Index”) and the Nasdaq Biotechnology Index (“NBI Index”). The stockholder return shown on the graph below is not necessarily indicative of future performance, and we do not make or endorse any predictions as to future stockholder returns. 
+
+Comparison of Cumulative Total Return on Investment for the Past Five Years
+
+ (2)
+
+ 
+
+______________________________________________________ 
+
+(1)
+
+    This section is not “soliciting material,” is not deemed “filed” with the SEC and is not to be incorporated by reference in any of our filings under the Securities Act or the Exchange Act whether made before or after the date hereof and irrespective of any general incorporation language in any such filing. 
+
+(2)
+
+    Shows the cumulative return on investment assuming an investment of $100 in our common stock, the NBI Index and the S&P 500 Index on December 31, 2015, and assuming that all dividends were reinvested.
+
+29
+
+Equity Compensation Plan Information
+
+The following table provides certain information with respect to our equity compensation plans in effect as of December 31, 2020:
+
+(in millions, except per share amounts)
+
+Number of Common Shares to be Issued Upon Exercise of Outstanding Options, Warrants and Rights
+
+(1)
+
+Weighted-average Exercise Price of Outstanding Options, Warrants and Rights
+
+(1)
+
+Number of Common Shares Remaining Available for Future Issuance Under Equity Compensation Plans (Excluding Securities Reflected in Column (a)) 
+
+Plan Category
+
+ (a)
+
+ (b)
+
+(c) 
+
+Equity Compensation plans approved by security holders:
+
+2004 Equity Incentive Plan
+
+(2)
+
+16.1 
+
+$
+
+69.43 
+
+85.9 
+
+Employee Stock Purchase Plan
+
+(3)
+
+7.1 
+
+Total equity compensation plans approved by security holders
+
+16.1 
+
+$
+
+69.43 
+
+93.0 
+
+Equity Compensation plans not approved by security holders
+
+(4)
+
+0.5 
+
+$
+
+68.57 
+
+10.3 
+
+Total
+
+16.6 
+
+$
+
+69.40 
+
+103.3 
+
+______________________________________________________ 
+
+(1)
+
+    Does not take into account
+
+ 
+
+20 million restricted stock units, performance share awards or units and phantom shares, which have no exercise price and were granted under our 2004 and 2018 Equity Incentive Plans.
+
+(2)
+
+    Includes awards and shares previously issuable under The Immunomedics, Inc. Amended and Restated 2014 Long-Term Incentive Plan (the “Immunomedics Plan”), which was assumed in connection with our acquisition of Immunomedics, Inc. and subsequently merged into the 2004 Equity Incentive Plan.
+
+(3)
+
+    Under our Employee Stock Purchase Plan, participants are permitted to purchase our common stock at a discount on certain dates through payroll deductions within a pre-determined purchase period. Accordingly, these numbers are not determinable.
+
+(4)
+
+    Includes awards and shares issuable under the Forty Seven, Inc. 2018 Equity Incentive Plan, which was assumed in connection with our acquisition of Forty Seven, Inc. (“Forty Seven”) and subsequently amended and restated as our 2018 Equity Incentive Plan.
+
+Material Features of the Gilead Sciences, Inc. 2018 Equity Incentive Plan
+
+The Forty Seven, Inc. 2018 Equity Incentive Plan was originally established by Forty Seven in June 2018. In connection with Gilead’s acquisition of Forty Seven in April 2020, Gilead assumed the Forty Seven, Inc. 2018 Equity Incentive Plan, and amended and restated it as the Gilead Sciences, Inc. 2018 Equity Incentive Plan (the “2018 Plan”). The 2018 Plan is intended to help the Company secure and retain the services of eligible award recipients, provide incentives for such persons to exert maximum efforts for the success of the Company and any affiliate, and provide a means by which the eligible recipients may benefit from increases in value of Gilead common stock. From and after April 7, 2020, only employees and consultants of Forty Seven as of immediately prior to such date and employees and consultants of Gilead hired on or following such date are eligible to receive grants of new awards under the 2018 Plan.
+
+The 2018 Plan provides for the award of incentive stock options and Nonstatutory stock options, each of which must generally have an exercise price equal to at least the fair market value of our common stock on the date of grant; stock appreciation rights; restricted stock awards; restricted stock unit awards; performance stock awards; other stock awards; and performance cash awards.
+
+As of April 7, 2020, the aggregate number of shares of common stock issuable under the 2018 Plan (from and after such date) was 12,069,378. From and after April 7, 2020, Gilead has granted restricted stock units and stock options under the 2018 Plan, and these are the only types of equity awards outstanding under the plan. As of December 31, 2020, 10.3 million shares of Gilead common stock remained available for issuance under the 2018 Plan.
+
+Issuer Purchases of Equity Securities 
+
+In the first quarter of 2016, our Board of Directors authorized a $12.0 billion stock repurchase program (“2016 Program”) under which repurchases may be made in the open market or in privately negotiated transactions. We made repurchases under the 2016 Program starting in April 2016. 
+
+In the first quarter of 2020, our Board of Directors authorized a new $5.0 billion stock repurchase program (“2020 Program”), which will commence upon the completion of the 2016 Program. Purchases under the 2020 Program may be made in the open market or in privately negotiated transactions.
+
+During 2020, we repurchased and retired 22 million shares of our common stock for $1.6 billion through open market transactions under the 2016 Program.
+
+As of December 31, 2020, the remaining authorized repurchase amount from both programs was $6.8 billion.
+
+30
+
+The table below summarizes our stock repurchase activity for the three months ended December 31, 2020:
+
+Total Number
+
+of Shares
+
+Purchased (in thousands)
+
+Average
+
+Price Paid
+
+per Share (in dollars)
+
+Total Number of
+
+Shares Purchased
+
+as Part of a Publicly
+
+Announced Program (in thousands)
+
+Maximum Fair
+
+Value of Shares
+
+that May Yet Be
+
+Purchased Under
+
+the Programs (in millions)
+
+October 1 - October 31, 2020
+
+27 
+
+$
+
+63.84 
+
+— 
+
+$
+
+6,816 
+
+November 1 - November 30, 2020
+
+171 
+
+$
+
+60.49 
+
+— 
+
+$
+
+6,816 
+
+December 1 - December 31, 2020
+
+34 
+
+$
+
+59.82 
+
+— 
+
+$
+
+6,816 
+
+Total
+
+232 
+
+(1)
+
+$
+
+60.78 
+
+— 
+
+(1)
+
+______________________________________________________ 
+
+(1)
+
+    A total of 232 thousand shares were transferred to us from employees in satisfaction of minimum tax withholding obligations associated with the vesting of restricted stock units during the period. We did not purchase any shares of our common stock in the open market pursuant to our repurchase program.
+
+ITEM  6. 
+
+    
+
+SELECTED FINANCIAL DATA 
+
+GILEAD SCIENCES, INC. 
+
+SELECTED CONSOLIDATED FINANCIAL DATA 
+
+Year Ended December 31,
+
+(in millions, except per share amounts) 
+
+2020
+
+2019
+
+2018
+
+2017
+
+2016
+
+CONSOLIDATED STATEMENT OF INCOME DATA
+
+(1)
+
+:
+
+Total revenues
+
+$
+
+24,689 
+
+$
+
+22,449 
+
+$
+
+22,127 
+
+$
+
+26,107 
+
+$
+
+30,390 
+
+Total costs and expenses
+
+(2)
+
+$
+
+20,618 
+
+$
+
+18,162 
+
+$
+
+13,927 
+
+$
+
+11,983 
+
+$
+
+12,757 
+
+Income from operations
+
+$
+
+4,071 
+
+$
+
+4,287 
+
+$
+
+8,200 
+
+$
+
+14,124 
+
+$
+
+17,633 
+
+Income tax expense (benefit)
+
+(3)
+
+$
+
+1,580 
+
+$
+
+(204)
+
+$
+
+2,339 
+
+$
+
+8,885 
+
+$
+
+3,609 
+
+Net income
+
+(2)(3)
+
+$
+
+89 
+
+$
+
+5,364 
+
+$
+
+5,460 
+
+$
+
+4,644 
+
+$
+
+13,488 
+
+Net income attributable to Gilead
+
+(2)(3)
+
+$
+
+123 
+
+$
+
+5,386 
+
+$
+
+5,455 
+
+$
+
+4,628 
+
+$
+
+13,501 
+
+Net income per share attributable to Gilead 
+
+ common stockholders - basic
+
+(2)(3)
+
+$
+
+0.10 
+
+$
+
+4.24 
+
+$
+
+4.20 
+
+$
+
+3.54 
+
+$
+
+10.08 
+
+Shares used in per share calculation - basic
+
+1,257 
+
+1,270 
+
+1,298 
+
+1,307 
+
+1,339 
+
+Net income per share attributable to Gilead 
+
+ common stockholders - diluted
+
+(2)(3)
+
+$
+
+0.10 
+
+$
+
+4.22 
+
+$
+
+4.17 
+
+$
+
+3.51 
+
+$
+
+9.94 
+
+Shares used in per share calculation - diluted
+
+1,263 
+
+1,277 
+
+1,308 
+
+1,319 
+
+1,358 
+
+Cash dividends declared per share
+
+$
+
+2.72 
+
+$
+
+2.52 
+
+$
+
+2.28 
+
+$
+
+2.08 
+
+$
+
+1.84 
+
+December 31,
+
+(in millions) 
+
+2020
+
+2019
+
+2018
+
+2017
+
+2016
+
+CONSOLIDATED BALANCE SHEET DATA
+
+(1)
+
+:
+
+Cash, cash equivalents and marketable debt securities
+
+(4)(5)
+
+$
+
+7,910 
+
+$
+
+25,840 
+
+$
+
+31,512 
+
+$
+
+36,694 
+
+$
+
+32,380 
+
+Working capital
+
+(3)(4)(5)
+
+$
+
+4,599 
+
+$
+
+20,537 
+
+$
+
+25,231 
+
+$
+
+20,188 
+
+$
+
+10,370 
+
+Total assets
+
+(4)(5)
+
+$
+
+68,407 
+
+$
+
+61,627 
+
+$
+
+63,675 
+
+$
+
+70,283 
+
+$
+
+56,977 
+
+Other long-term obligations
+
+$
+
+5,128 
+
+$
+
+1,009 
+
+$
+
+1,040 
+
+$
+
+558 
+
+$
+
+297 
+
+Long-term debt, including current portion
+
+(4)
+
+$
+
+31,402 
+
+$
+
+24,593 
+
+$
+
+27,322 
+
+$
+
+33,542 
+
+$
+
+26,346 
+
+Retained earnings
+
+(3)
+
+$
+
+14,381 
+
+$
+
+19,388 
+
+$
+
+19,024 
+
+$
+
+19,012 
+
+$
+
+18,154 
+
+Total stockholders’ equity
+
+(3)
+
+$
+
+18,221 
+
+$
+
+22,650 
+
+$
+
+21,534 
+
+$
+
+20,501 
+
+$
+
+19,363 
+
+_______________________________
+
+(1)
+
+    See Management’s Discussion and Analysis of Financial Condition and Results of Operations included in Item 7 of this Annual Report on Form 10-K for a description of our results of operations for 2020.
+
+(2)
+
+    In 2020, we recorded acquired in-process research and development (“IPR&D”) expenses of $5.9 billion primarily related to our acquisition of Forty Seven, Inc. (“Forty Seven”) as well as other collaborations and investments we entered into during the year. In 2019, we recorded acquired IPR&D expenses of $5.1 billion primarily due to $3.92 billion of upfront collaboration and licensing expenses related to our global research and development collaboration with Galapagos NV, and a pre-tax impairment charge of $800 million from assets obtained in our acquisition of Kite Pharma, Inc. (“Kite”).
+
+31
+
+(3)
+
+    In 2020, we recorded discrete tax benefits of $167 million related to settlements with taxing authorities. In 2019, we recorded a deferred tax benefit of $1.2 billion related to intangible asset transfers from a foreign subsidiary to Ireland and the United States. In 2018, we recorded a deferred tax charge of $588 million related to a transfer of acquired intangible assets from a foreign subsidiary to the United States. In December 2017, we recorded an estimated $5.5 billion net charge related to the enactment of the Tax Cuts and Jobs Act (“Tax Reform”). Tax Reform also lowered the corporate tax rate in the United States from 35% to 21% effective for tax years beginning after December 31, 2017.
+
+(4)
+
+    In 2020, in connection with the acquisition of Immunomedics, we issued $7.25 billion principal amount of senior unsecured notes and borrowed an aggregate principal amount of $1.0 billion under a three-year term loan facility. Also in 2020, we repaid $2.5 billion principal amount of our senior unsecured notes at maturity. In 2019, we repaid $2.8 billion principal amount of our senior unsecured notes at maturity. In 2018, we repaid $1.8 billion principal amount of our senior unsecured notes at maturity and repaid $4.5 billion of term loans borrowed in connection with our acquisition of Kite. In 2017, in connection with the acquisition of Kite, we issued $3.0 billion aggregate principal amount of senior unsecured notes and borrowed $6.0 billion aggregate principal amount term loan facility credit agreement, of which $1.5 billion was repaid in 2017. In 2016, we issued $5.0 billion principal amount of senior unsecured notes and repaid $285 million of principal balance of convertible senior notes and $700 million of principal balance of senior unsecured notes at maturity. See Note 12. Debt and Credit Facilities of the Notes to Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K for additional information.
+
+(5)
+
+    In 2020, we made cash payments of $25.7 billion primarily related to our acquisitions of Immunomedics in October 2020 and Forty Seven in April 2020. See Note 6. Acquisitions of the Notes to Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K for additional information.
+
+32
+
+ITEM  7. 
+
+    
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+The following Management’s Discussion and Analysis of Financial Condition and Results of Operations (“MD&A”) is intended to help the reader understand our results of operations and financial condition. MD&A is provided as a supplement to, and should be read in conjunction with, our audited Consolidated Financial Statements and the accompanying Notes to Consolidated Financial Statements and other disclosures included in this Annual Report on Form 10-K (including the disclosures under Part I, Item 1A, 
+
+“
+
+Risk Factors
+
+”
+
+). Additional i
+
+nformation related to the comparison of our 
+
+results of operations
+
+ between the years 2019 and 2018 is included in 
+
+“

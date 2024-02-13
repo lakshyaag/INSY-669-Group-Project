@@ -1,0 +1,55 @@
+>Item 7. MD&A - Glossary of Defined Terms
+
+Glossary of Defined Terms
+
+ASM 
+
+- Available Seat Mile. A measure of capacity. ASMs equal the total number of seats available for transporting passengers during a reporting period multiplied by the total number of miles flown during that period.
+
+CASM 
+
+- (Total Operating) Cost per Available Seat Mile. The amount of operating cost incurred per ASM during a reporting period. CASM is also referred to as "unit cost."
+
+CASM-Ex 
+
+- The amount of operating cost incurred per ASM during a reporting period, adjusted for restructuring charges, government grant recognition, aircraft fuel and related taxes, third-party refinery sales, profit sharing expenses and Delta Private Jets.
+
+Consolidated CASM, adjusted 
+
+-
+
+ 
+
+The amount of operating cost incurred per ASM during a reporting period, adjusted for restructuring charges, government grant recognition, MTM adjustments and settlements on hedges, third-party refinery sales and Delta Private Jets.
+
+Free Cash Flow
+
+ - Represents the cash available for use for debt service or general corporate initiatives. 
+
+Load Factor 
+
+- A measure of utilized available seating capacity calculated by dividing RPMs by ASMs for a reporting period.
+
+Passenger Mile Yield or Yield 
+
+- The amount of passenger revenue earned per RPM during a reporting period.
+
+PRASM 
+
+- Passenger Revenue per ASM. The amount of passenger revenue earned per ASM during a reporting period. PRASM is also referred to as "unit revenue."
+
+RPM 
+
+- Revenue Passenger Mile. One revenue-paying passenger transported one mile. RPMs equal the number of revenue passengers during a reporting period multiplied by the number of miles flown by those passengers during that period. RPMs are also referred to as "traffic."
+
+TRASM 
+
+- Total Revenue per ASM. The amount of total revenue earned per ASM during a reporting period. 
+
+TRASM, adjusted
+
+ - The amount of total revenue earned per ASM during a reporting period, adjusted for third-party refinery sales and Delta Private Jets.
+
+Delta Air Lines, Inc. 2020 Form 10-K                                               55
+
+Item 7A. Market Risk

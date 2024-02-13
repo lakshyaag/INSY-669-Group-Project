@@ -1,0 +1,117 @@
+>Item 7.
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS (Continued)
+
+Goodwill and Other Intangible Assets
+
+Goodwill and intangible assets deemed to have indefinite lives are not amortized but are subject to annual impairment tests.  The Company evaluates goodwill for impairment at the reporting unit level annually on October 1 or whenever there are indicators that the carrying value may not be fully recoverable.  The Company adopted the provisions of ASC 350, 
+
+Intangibles - Goodwill and Other
+
+, which permits, but does not require, a company to qualitatively assess indicators of a reporting unit’s fair value.  If after completing the qualitative assessment, a company believes it is likely that a reporting unit is impaired, a discounted cash flow analysis is prepared to estimate fair value.  Critical estimates in the determination of the fair value of each reporting unit include, but are not limited to, future expected cash flows and discount rates.  During the year ended December 31, 2020, the Company evaluated goodwill for impairment using a qualitative assessment in six reporting units and using a quantitative assessment in one reporting unit.  The estimated fair value of the reporting unit evaluated for impairment using a quantitative assessment was substantially in excess of its carrying value.  Definite-lived intangible assets, including capitalized expenses related to the Company’s 1ADM program, are amortized over their estimated useful lives of 1 to 50 years and are reviewed for impairment whenever there are indicators that the carrying values may not be fully recoverable.  The Company recorded impairment charges totaling $26 million related to customer lists, $11 million related to goodwill and intangibles, and $9 million related customer lists during the years ended December 31, 2020, 2019, and 2018, respectively (see Note 18 in Item 8 for more information).  If management used different estimates and assumptions in its impairment tests, then the Company could recognize different amounts of expense over future periods.
+
+Employee Benefit Plans
+
+The Company provides substantially all U.S. employees and employees at certain international subsidiaries with retirement benefits including defined benefit pension plans and defined contribution plans.  The Company provides certain eligible U.S. employees who retire under qualifying conditions with subsidized postretirement health care coverage or Health Care Reimbursement Accounts.
+
+In order to measure the expense and funded status of these employee benefit plans, management makes several estimates and assumptions, including interest rates used to discount certain liabilities, rates of return on assets set aside to fund these plans, rates of compensation increases, employee turnover rates, anticipated mortality rates, and anticipated future health care costs.  These estimates and assumptions are based on the Company’s historical experience combined with management’s knowledge and understanding of current facts and circumstances.  Management also uses third-party actuaries to assist in measuring the expense and funded status of these employee benefit plans.  If management used different estimates and assumptions regarding these plans, the funded status of the plans could vary significantly, and the Company could recognize different amounts of expense over future periods.
+
+The Company uses the corridor approach when amortizing actuarial losses.  Under the corridor approach, net unrecognized actuarial losses in excess of 10% of the greater of the projected benefit obligation or the market related value of plan assets are amortized over future periods.  For plans with little to no active participants, the amortization period is the remaining average life expectancy of the participants.  For plans with active participants, the amortization period is the remaining average service period of the active participants.  The amortization periods range from 2 to 36 years for the Company’s defined benefit pension plans and from 6 to 24 years for the Company’s postretirement benefit plans. 
+
+Item 7A.
+
+QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+The market risk inherent in the Company’s market risk sensitive instruments and positions is the potential loss arising from adverse changes in: commodity market prices as they relate to the Company’s net commodity position, foreign currency exchange rates, and interest rates as described below.
+
+Commodities
+
+The availability and prices of agricultural commodities are subject to wide fluctuations due to factors such as changes in weather conditions, crop disease, plantings, government programs and policies, competition, changes in global demand, changes in customer preferences and standards of living, and global production of similar and competitive crops.
+
+54
+
+Item 7A.
+
+QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK (Continued)
+
+The Company manages its exposure to adverse price movements of agricultural commodities used for, and produced in, its business operations, by entering into derivative and non-derivative contracts which reduce the Company’s overall short or long commodity position.  Additionally, the Company uses exchange-traded futures and exchange-traded and over-the-counter option contracts as components of merchandising strategies designed to enhance margins.  The results of these strategies can be significantly impacted by factors such as the correlation between the value of exchange-traded commodities futures contracts and the cash prices of the underlying commodities, counterparty contract defaults, and volatility of freight markets. In addition, the Company, from time-to-time, enters into derivative contracts which are designated as hedges of specific volumes of commodities that will be purchased and processed, or sold, in a future month. The changes in the market value of such futures contracts have historically been, and are expected to continue to be, highly effective at offsetting changes in price movements of the hedged item. Gains and losses arising from open and closed designated hedging transactions are deferred in other comprehensive income, net of applicable taxes, and recognized as a component of cost of products sold or revenues in the statement of earnings when the hedged item is recognized.
+
+The Company’s commodity position consists of merchandisable agricultural commodity inventories, related purchase and sales contracts, energy and freight contracts, and exchange-traded futures and exchange-traded and over-the-counter option contracts including contracts used to hedge portions of production requirements, net of sales.
+
+The fair value of the Company’s commodity position is a summation of the fair values calculated for each commodity by valuing all of the commodity positions at quoted market prices for the period, where available, or utilizing a close proxy.  The Company has established metrics to monitor the amount of market risk exposure, which consist of volumetric limits, and value-at-risk (VaR) limits. VaR measures the potential loss, at a 95% confidence level, that could be incurred over a one year period.  Volumetric limits are monitored daily and VaR calculations and sensitivity analysis are monitored weekly.
+
+In addition to measuring the hypothetical loss resulting from an adverse two standard deviation move in market prices (assuming no correlations) over a one year period using VaR, sensitivity analysis is performed measuring the potential loss in fair value resulting from a hypothetical 10% adverse change in market prices.  The highest, lowest, and average weekly position for the years ended December 31, 2020 and 2019 together with the market risk from a hypothetical 10% adverse price change is as follows:
+
+ 
+
+December 31, 2020
+
+December 31, 2019
+
+Long/(Short)
+
+Fair Value
+
+Market Risk
+
+Fair Value
+
+Market Risk
+
+ 
+
+(In millions)
+
+Highest position
+
+$
+
+966
+
+ 
+
+$
+
+97
+
+ 
+
+$
+
+576 
+
+$
+
+58 
+
+Lowest position
+
+(842)
+
+(84)
+
+(83)
+
+(8)
+
+Average position
+
+111
+
+ 
+
+11
+
+ 
+
+280 
+
+28 
+
+The change in fair value of the average position was principally the result of a decrease in quantities. 
+
+Currencies
+
+The Company has consolidated subsidiaries in more than 70 countries.  For the majority of the Company’s subsidiaries located outside the United States, the local currency is the functional currency except certain significant subsidiaries in Switzerland where Euro is the functional currency, and Brazil and Argentina where U.S. dollar is the functional currency.  To reduce the risks associated with foreign currency exchange rate fluctuations, the Company enters into currency exchange contracts to minimize its foreign currency position related to transactions denominated primarily in Euro, British pound, Canadian dollar, and Brazilian real currencies.  These currencies represent the major functional or local currencies in which recurring business transactions occur.  The Company also uses currency exchange contracts as hedges against amounts indefinitely invested in foreign subsidiaries and affiliates.  The currency exchange contracts used are forward contracts, swaps with banks, exchange-traded futures contracts, and over-the-counter options.  The changes in market value of such contracts have a high correlation to the price changes in the currency of the related transactions. The potential loss in fair value for such net currency position resulting from a hypothetical 10% adverse change in foreign currency exchange rates is not material.
+
+55

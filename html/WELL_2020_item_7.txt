@@ -1,0 +1,23 @@
+>Item 7.
+
+ 
+
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+Nature of Critical
+
+Accounting Estimate
+
+Assumptions/Approach
+
+Used
+
+Allowance for Credit Losses on Loans Receivable
+
+The allowance for credit losses is maintained at a level believed adequate to absorb potential losses in our loans receivable. The determination of the credit allowance is based on a quarterly evaluation of all outstanding loans, including general economic conditions and estimated collectability of loan payments. 
+
+ 
+
+The determination of the allowance for credit losses is based on a quarterly evaluation of all outstanding loans, including general economic conditions and estimated collectability of loan payments. We evaluate the collectability of our loans receivable based on a combination of factors, including, but not limited to, payment status, historical loan charge-offs, financial strength of the borrower and guarantors, and nature, extent and value of the underlying collateral. A loan is considered to have deteriorated credit quality when, based on current information and events, it is probable that we will be unable to collect all amounts due as scheduled according to the contractual terms of the loan agreement. For those loans we identified as having deteriorated credit quality, we determine the amount of credit loss on an individual basis. Placement on non-accrual status may be required. Consistent with this definition, all loans on non-accrual are deemed to have deteriorated credit quality. To the extent circumstances improve and the risk of collectability is diminished, we may return these loans to income accrual status. While a loan is on non-accrual status, any cash receipts are applied against the outstanding principal balance. For the remaining loans, we assess credit loss on a collective pool basis and use our historical loss experience for similar loans to determine the reserve for credit losses.
+
+67

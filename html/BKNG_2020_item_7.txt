@@ -1,0 +1,211 @@
+>Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations
+
+, of our Annual Report on Form 10-K for the fiscal year ended December 31, 2019, filed with the SEC on February 26, 2020.
+
+Contingencies
+
+French tax authorities conducted audits of Booking.com for the years 2003 through 2012 and years 2013 through 2015 and currently are conducting an audit for the years 2016 through 2018.  In December 2015, the French tax authorities issued Booking.com assessments for unpaid income and value added taxes ("VAT") related to tax years 2006 through 2012 for approximately 356 million Euros ($403 million), the majority of which represents penalties and interest.  The assessments assert that Booking.com had a permanent establishment in France.  In December 2019, the French tax authorities issued an additional assessment of 70 million Euros ($86 million), including interest and penalties, for the 2013 year asserting that Booking.com had taxable income attributable to a permanent establishment in France.  The French tax authorities also have issued assessments totaling 39 million Euros ($48 million), including interest and penalties, for certain tax years between 2011 
+
+63
+
+and 2015 on Booking.com's French subsidiary asserting that the subsidiary did not receive sufficient compensation for the services it rendered to Booking.com in the Netherlands.  As a result of a formal demand from the French tax authorities for payment of the amounts assessed against Booking.com for the years 2006 through 2012, in January 2019, we paid the assessments of approximately 356 million Euros ($403 million) in order to preserve our right to contest those assessments in court.  The payment, which is included in "Other assets, net" in the Consolidated Balance Sheets at December 31, 2020 and 2019, does not constitute an admission that we owe the taxes and will be refunded (with interest) to us to the extent we prevail.  In December 2019 and October 2020, we initiated court proceedings with respect to certain of the assessments.  Although we believe that Booking.com has been, and continues to be, in compliance with French tax law, and we are contesting the assessments,
+
+ 
+
+during the three months ended September 30, 2020, we contacted the French tax authorities regarding the potential to achieve resolution of the matter through a settlement.  After assessing several potential outcomes and potential settlement amounts and terms, an unrecognized tax benefit in the amount of 50 million Euros ($61 million) has been recorded during the year ended December 31, 2020, of which the majority has been included as a partial reduction to the tax payment recorded in "Other Assets, net" in the Consolidated Balance Sheet at December 31, 2020.  In December 2020, the French Administrative Court (Conseil d’Etat) delivered a decision in the "ValueClick" case that could have an impact on the outcome in our case.  After considering the potential impact of the new decision on the potential outcomes for the Booking.com assessments, we currently estimate that the reasonably possible loss related to VAT is approximately 20 million Euros ($24 million).  Additional assessments could result when the French tax authorities complete the outstanding audits.  For additional information related to the French tax assessments, see Note 16 to our Consolidated Financial Statements and Part I, Item 1A, Risk Factors - "
+
+We may have exposure to additional tax liabilities.
+
+"
+
+Beginning in 2014, Booking.com received several letters from the Netherlands Pension Fund for the Travel Industry (Reiswerk) (“BPF”) claiming that Booking.com is required to participate in the mandatory pension scheme of the BPF with retroactive effect to 1999, which has a higher contribution rate than the pension scheme in which Booking.com is currently participating.  BPF instituted legal proceedings against Booking.com and in 2016 the District Court of Amsterdam rejected all of BPF’s claims.  BPF appealed the decision to the Court of Appeal, and, in May 2019, the Court of Appeal also rejected all of BPF’s claims, in each case by ruling that Booking.com does not meet the definition of a travel intermediary for purposes of the mandatory pension scheme.  BPF has appealed to the Netherlands Supreme Court.  In October 2020, the Dutch Advocate General issued an opinion to the Supreme Court stating that the Dutch Advocate General believes the decision of the Court of Appeal to be incorrect based on her interpretation of the pension scheme requirements.  We have submitted to the Supreme Court a response to the Advocate General's opinion.  While we continue to believe that Booking.com is in compliance with its pension obligations and that the Dutch Supreme Court should uphold the ruling of the Court of Appeal, based on the significant influence the Dutch Advocate General’s opinion typically has on the Supreme Court, we have reevaluated the probability of a loss and believe it is probable that we have incurred a loss related to this matter.  We expect the Dutch Supreme Court to rule in the first quarter of 2021.  In the event the Supreme Court overturns the decision of the Court of Appeal and remands the case to a lower court, we intend to pursue a number of defenses in any subsequent proceedings and may ultimately prevail in whole or in part.  We are not able to reasonably estimate a loss or a range of loss because the litigation is ongoing and there are significant factual and legal questions yet to be determined.  As a result, as of December 31, 2020, we have not recorded a liability in connection with a potential adverse outcome to this litigation.  However, if Booking.com were to ultimately lose and all of BPF’s claims were to be accepted (including with retroactive effect to 1999), we estimate that as of December 31, 2020, the maximum loss, not including any potential interest or penalties, would be approximately $290 million.  Such estimated potential loss increases as Booking.com continues not to contribute to the BPF and depends on Booking.com’s applicable employee compensation after December 31, 2020.  
+
+For additional information related to the pension matter and our other contingent liabilities, see Note 16 to our Consolidated Financial Statements. 
+
+64
+
+Contractual Obligations and Commercial Commitments
+
+The following table represents our material contractual obligations and commercial commitments at December 31, 2020: 
+
+ 
+
+By Period (in millions)
+
+Total
+
+Less than
+
+1 Year
+
+1 to 3
+
+Years
+
+3 to 5 Years
+
+More than 5 Years
+
+Operating lease obligations
+
+(1)
+
+$
+
+585 
+
+$
+
+168 
+
+$
+
+196 
+
+$
+
+85 
+
+$
+
+136 
+
+Building construction obligation
+
+(2)
+
+103 
+
+87 
+
+16 
+
+— 
+
+— 
+
+Purchase obligations 
+
+(3)
+
+193 
+
+77 
+
+73 
+
+43 
+
+— 
+
+Senior notes
+
+(4)
+
+13,991 
+
+1,323 
+
+3,225 
+
+4,049 
+
+5,394 
+
+U.S. transition tax liability
+
+1,013 
+
+90 
+
+212 
+
+453 
+
+258 
+
+Letters of credit and bank guarantees
+
+(5)
+
+138 
+
+110 
+
+6 
+
+2 
+
+20 
+
+Revolving credit facility and other
+
+(6)
+
+11 
+
+4 
+
+6 
+
+1 
+
+— 
+
+Total
+
+(7) (8)
+
+$
+
+16,034 
+
+$
+
+1,859 
+
+$
+
+3,734 
+
+$
+
+4,633 
+
+$
+
+5,808 
+
+    
+
+(1)    Includes the land lease for Booking.com's future headquarters.  See Notes 10 and 16 to our Consolidated Financial Statements for further details.
+
+(2)    Includes 
+
+commitments 
+
+to vendors to fit out and furnish the office space.  See Note 16 to our Consolidated Financial Statements for further details.
+
+(3)    Represents significant noncancellable contractual obligations individually greater than $10 million.  The obligations are primarily related to sponsorship and cloud hosting arrangements.  Purchase obligations included here are those related to agreements to purchase goods and services that are enforceable and legally binding, that specify all significant terms, including the quantities to be purchased, price provisions and the approximate timing of the transaction.
+
+(4)    Represents the aggregate principal amount of our senior notes outstanding at December 31, 2020 and cumulative interest to maturity of $1.8 billion.  Convertible debt does not reflect the market value in excess of the outstanding principal amount because we can settle the conversion premium amount in cash or shares of common stock at our option.  See Note 12 to our Consolidated Financial Statements.
+
+(5)    Standby letters of credit and bank guarantees issued on behalf of the Company at December 31, 2020 are primarily related to payment guarantees to third-party payment processors (see Notes 12 and 16 to our Consolidated Financial Statements). 
+
+(6)    Includes commitment fees on undrawn balances available under the revolving credit facility and fees on outstanding letters of credit at December 31, 2020.
+
+(7)    We reported "Other long-term liabilities" of $111 million in the Consolidated Balance Sheet at December 31, 2020, the majority of which relates to unrecognized tax benefits of $57 million (see Note 15 to our Consolidated Financial Statements).  We have excluded these long-term liabilities from the contractual obligations table above as a variety of factors could affect the timing of payments for the liabilities; therefore, we cannot reasonably estimate the timing of such payments.  We believe that these matters will likely not be resolved in the next twelve months and, accordingly, we have classified the estimated liability as non-current in the Consolidated Balance Sheet.  
+
+(8)    In 2018, we entered into an agreement to sign a future lease related to approximately 222,000 square feet of office space in the city of Manchester in the United Kingdom for the future headquarters of Rentalcars.com.  Our obligation to execute the lease is conditional upon the lessor completing certain activities, which are expected to be completed in 2021.  If these activities are completed, the lease will commence for a term of approximately 13 years and we will have a lease obligation of approximately 65 million British Pounds Sterling (
+
+$88 million
+
+), excluding lease incentives.  We will also make capital expenditures to fit out and furnish the office space.  The obligation is not included in the table of contractual obligations presented above. 
+
+Off-Balance Sheet Arrangements
+
+ 
+
+At December 31, 2020, we did not have any off-balance sheet arrangements that have, or are reasonably likely to have, a material current or future effect on our financial condition, results of operations, liquidity, capital expenditures or capital resources.
+
+65

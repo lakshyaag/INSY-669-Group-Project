@@ -1,0 +1,5995 @@
+>Item 7
+
+ 
+
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+ 22
+
+ 
+
+ 
+
+Introduction
+
+ 22
+
+ 
+
+ 
+
+Financial Measures
+
+ 22
+
+ 
+
+ 
+
+Revenues-Defined
+
+ 23
+
+ 
+
+ 
+
+General Overview & Executive Summary
+
+ 23
+
+ 
+
+ 
+
+Non-GAAP Financial Measures
+
+ 25
+
+ 
+
+ 
+
+Results of Operations
+
+ 25
+
+ 
+
+ 
+
+Liquidity and Capital Resources
+
+ 30
+
+ 
+
+ 
+
+Capital Expenditures
+
+ 33
+
+ 
+
+ 
+
+Contractual and Commercial Commitments
+
+ 33
+
+ 
+
+ 
+
+Critical Accounting Policies, Estimates, and Assumptions
+
+ 34
+
+ 
+
+ 
+
+Recently Issued Accounting Standards Impacting the Company
+
+ 39
+
+ 
+
+ 
+
+Inflation
+
+ 39
+
+ 
+
+ 
+
+Forward-Looking Statements
+
+ 39
+
+Item 7A
+
+ 
+
+Quantitative and Qualitative Disclosures About Market Risk
+
+ 41
+
+ 
+
+ 
+
+Interest Rate Risk
+
+ 41
+
+ 
+
+ 
+
+Foreign Currency Risk
+
+ 41
+
+ 
+
+ 
+
+Commodity Risk
+
+ 41
+
+Item 8
+
+ 
+
+Financial Statements and Supplementary Data
+
+ 42
+
+Item 9
+
+ 
+
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure
+
+ 92
+
+Item 9A
+
+ 
+
+Controls and Procedures
+
+ 92
+
+Item 9B
+
+ 
+
+Other Information
+
+ 94
+
+Part III
+
+Item 10
+
+ 
+
+Directors, Executive Officers and Corporate Governance
+
+ 95
+
+Item 11
+
+ 
+
+Executive Compensation
+
+ 95
+
+Item 12
+
+ 
+
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+
+ 95
+
+Item 13
+
+ 
+
+Certain Relationships and Related Transactions, and Director Independence
+
+ 95
+
+Item 14
+
+ 
+
+Principal Accountant Fees and Services
+
+ 96
+
+Part IV
+
+Item 15
+
+ 
+
+Exhibits and Financial Statement Schedule
+
+ 97
+
+ 
+
+ 
+
+Signatures
+
+ 104
+
+ 2
+
+Table of Contents
+
+PART I   
+
+Throughout this Annual Report, references to STERIS plc, "STERIS," "us," or "our," mean STERIS Ireland and its subsidiaries for periods from and after the Redomiciliation and STERIS UK and its subsidiaries for periods prior to the Redomiciliation (as such terms are hereinafter defined), unless otherwise noted. References in this Annual Report to a particular "year," "fiscal," "fiscal year," or "year-end" mean our fiscal year, which ends on March 31. For example, fiscal year 
+
+2020
+
+ ended on 
+
+March 31, 2020
+
+.
+
+ITEM 1.
+
+BUSINESS
+
+INTRODUCTION 
+
+STERIS plc is a leading provider of infection prevention and other procedural products and services. Our MISSION IS TO HELP OUR CUSTOMERS CREATE A HEALTHIER AND SAFER WORLD by providing innovative healthcare and life science product and service solutions around the globe. We offer our Customers a unique mix of innovative capital equipment products, such as sterilizers and washers, surgical tables, lights and equipment management systems and connectivity solutions such as operating room integration; consumable products including detergents and gastrointestinal endoscopy accessories and other products and services, including equipment installation and maintenance, microbial reduction of medical devices, instrument and scope repair solutions, laboratory services and outsourced instrument reprocessing.
+
+On March 28, 2019, STERIS plc, a public limited company organized under the laws of England and Wales (“STERIS UK”), completed a redomiciliation from the United Kingdom to Ireland (the “Redomiciliation”). The Redomiciliation was achieved through the insertion of a new Irish public limited holding company (“STERIS Ireland”) on top of STERIS UK pursuant to a court-approved scheme of arrangement under English law (the “Scheme”).  Following the Scheme effectiveness, STERIS UK was re-registered as a private limited company with the name STERIS Limited, and STERIS Emerald IE Limited, a company established in Ireland and a wholly-owned direct subsidiary of STERIS Ireland, was interposed as the direct parent company of STERIS UK.
+
+STERIS plc's registered office is located in Dublin, Ireland. STERIS plc has approximately 13,000 employees worldwide. Through our field sales and service and a network of dealers and distributors, we serve Customers in more than 100 countries around the world.
+
+We operate and report in four reportable business segments: Healthcare Products, Healthcare Specialty Services, Life Sciences, and Applied Sterilization Technologies.
+
+ 
+
+We disclose a measure of segment income that is consistent with the way management operates and views the business. The accounting policies for reportable segments are the same as those for the consolidated Company. In fiscal 2019, we ceased the allocation of certain corporate costs to our segments to align with internal management measures. The fiscal 2018 period operating income measures have been recast for comparability.
+
+The bulk of our revenues are derived from healthcare provider, pharmaceutical and medical device Customers. Much of the growth in these industries is driven by the aging of the population throughout the world, as an increasing number of individuals are entering their prime healthcare consumption years, and are dependent upon advancement in healthcare delivery, acceptance of new technologies, government policies, and general economic conditions. The pharmaceutical industry has been impacted by increased regulatory scrutiny of cleaning and validation processes, mandating that manufacturers improve their processes. Within healthcare, there is concern regarding the level of hospital acquired infections around the world; increased demand for medical procedures, including preventive screenings such as endoscopies and colonoscopies; and a desire by our Customers to operate more efficiently, all of which are driving increased demand for many of our products and services. The COVID-19 pandemic is resulting in the deferral of certain elective medical procedures, which is negatively impacting the demand for some of our products and services. 
+
+INFORMATION RELATED TO BUSINESS SEGMENTS 
+
+Our chief operating decision maker is our President and Chief Executive Officer (“CEO”). The CEO is responsible for performance assessment and resource allocation. The CEO regularly receives discrete financial information about each reportable segment and uses this information to assess performance and allocate resources. The accounting policies of the reportable segments are the same as those described in 
+
+Note 1
+
+ to the Consolidated Financial Statements titled, “Nature of Operations and Summary of Significant Accounting Policies,” of this Annual Report.
+
+HEALTHCARE PRODUCTS SEGMENT
+
+Description of Business.
+
+ Our Healthcare Products segment provides a broad portfolio of infection prevention, procedural and GI solutions including: consumable products, equipment maintenance and installation services, and capital equipment to acute care hospitals, ambulatory surgery centers and GI clinics. These solutions aid our Customers in improving the safety, quality, productivity, and utility consumption of their surgical, sterile processing, gastrointestinal, and emergency environments.
+
+ 3
+
+Table of Contents
+
+Products Offered.
+
+ Our solutions include cleaning chemistries and sterility assurance products, accessories for GI procedures, washers, sterilizers and other pieces of capital equipment essential to the operations of a sterile processing department ("SPD") and equipment used directly in the operating room, including surgical tables, lights, equipment management services, and connectivity solutions.
+
+Services Offered. 
+
+Our Healthcare Products segment service associates install, maintain, upgrade, repair, and troubleshoot capital equipment throughout the world. We offer various preventive maintenance programs and repair services to support the effective operation of capital equipment over its lifetime. 
+
+Customer Concentration.
+
+ Our Healthcare Products segment sells consumables, services and capital equipment, to Customers in many countries throughout the world. For the year ended 
+
+March 31, 2020
+
+, no Customer represented more than 10% of the Healthcare Product segment's total revenues.
+
+Competition.
+
+ We compete with a number of large companies that have significant product portfolios and global reach, as well as a number of small companies with very limited product offerings and operations in one or a limited number of countries. On a product basis, competitors include 3M, Belimed, Cantel Medical, Ecolab, Getinge, Hill-Rom, Fortive, Stryker and Skytron. 
+
+HEALTHCARE SPECIALTY SERVICES SEGMENT
+
+Description of Business.
+
+ Our Healthcare Specialty Services segment provides a range of solutions and managed services including: hospital sterilization services and instrument and scope repairs to acute care hospitals and other healthcare settings that aid our Customers in improving the safety, quality and productivity of their operations. 
+
+Services Offered. 
+
+Our Healthcare Specialty Services segment provides comprehensive instrument and endoscope repair and maintenance solutions (on-site or at one of our dedicated facilities), custom process improvement consulting and outsourced instrument sterile processing (on-site at the hospital and in off-site reprocessing centers). 
+
+Customer Concentration.
+
+ Our Healthcare Specialty Services segment offers an array of services to Customers in many countries throughout the world. For the year ended 
+
+March 31, 2020
+
+, no Customer represented more than 10% of the Healthcare Specialty Services segment's total revenues.
+
+Competition.
+
+ We compete with a number of large companies that have significant product portfolios and global reach, as well as a number of small companies with very limited service offerings and operations in one or a limited number of countries. On a service line basis, competitors include BBraun, Berendsen plc, CleanLease (Clean Lease Fortex), Karl Storz, Mobile, Northfield, Olympus, Owens & Minor, Pentax, Rentex Awé and Rentex Floren and Sterilog Limited.
+
+LIFE SCIENCES SEGMENT
+
+Description of Business. 
+
+ Our Life Sciences segment designs, manufactures and sells consumable products, equipment maintenance, specialty services and capital equipment primarily to pharmaceutical manufacturers around the world.
+
+Products Offered. 
+
+ These solutions include formulated cleaning chemistries, barrier products, sterility assurance products, steam and vaporized hydrogen peroxide sterilizers and washer disinfectors.
+
+Services Offered.  
+
+Our Life Sciences segment service associates install, maintain, upgrade, repair, and troubleshoot equipment throughout the world. We offer various preventive maintenance programs and repair services to support the effective operation of capital equipment over its lifetime. 
+
+Customer Concentration.
+
+  Our Life Sciences segment sells consumables, services and capital equipment, to Customers in many countries throughout the world. For the year ended 
+
+March 31, 2020
+
+, no Customer represented more than 10% of the Life Sciences segment’s total revenues.
+
+Competition.
+
+  Our Life Sciences segment operates in highly regulated environments where the most intense competition results from technological innovations, product performance, convenience and ease of use, and overall cost-effectiveness. We compete for pharmaceutical Customers with a number of large companies that have significant product portfolios and global reach, as well as a number of small companies with very limited product offerings and operations in one or a limited number of countries. Competitors include Belimed, Ecolab, Fedegari, Getinge, MECO, Stilmas, and Techniplast.
+
+APPLIED STERILIZATION TECHNOLOGIES SEGMENT
+
+Description of Business. 
+
+Our Applied Sterilization Technologies ("AST") segment provides contract sterilization and testing services for medical device and pharmaceutical manufacturers. As a technology neutral service provider, we offer unbiased technology assessments dependent on the individual requirements of each product. Our Customers are primarily medical device and pharmaceutical manufacturers. 
+
+Services Offered.
+
+ We offer a wide range of sterilization modalities as well as an array of testing services that complements the manufacturing of sterile products. Our locations are in major population centers and core distribution corridors throughout the 
+
+ 4
+
+Table of Contents
+
+Americas, Europe and Asia. Our technical services group supports Customers in all phases of product development, materials testing, and process validation.
+
+Customer Concentration.
+
+  Our Applied Sterilization Technologies segment’s services are offered to Customers throughout the world. For the year ended 
+
+March 31, 2020
+
+, no Customer represented more than 10% of the segment’s revenues.
+
+Competition. 
+
+ Applied Sterilization Technologies operates in a highly regulated industry and competes with Sterigenics International, Inc., other smaller contract sterilization companies and manufacturers that sterilize products in-house.
+
+INFORMATION WITH RESPECT TO OUR BUSINESS IN GENERAL
+
+Sources and Availability of Raw Materials. 
+
+ We purchase raw materials, sub-assemblies, components, and other supplies needed in our operations from numerous suppliers in the United States and internationally. The principal raw materials and supplies used in our operations include stainless and carbon steel, organic and inorganic chemicals, fuel, and plastic components. These raw materials and supplies are generally available from several suppliers and in sufficient quantities that we do not currently expect any significant sourcing problems in fiscal 
+
+2021
+
+. We have long-term supply contracts for certain materials for which there are few suppliers, or those that are single-sourced in certain regions of the world, such as EO and cobalt-60, which are necessary to our AST operations. In addition, we have developed a plan to expand our irradiation processing capacity with accelerator-based technologies, which may reduce the potential supply risk. 
+
+Intellectual Property. 
+
+ We protect our technology and products by, among other means, obtaining United States and foreign patents. There can be no assurance, however, that any patent will provide adequate protection for the technology, system, product, service, or process it covers. In addition, the process of obtaining and protecting patents can be long and expensive. We also rely upon trade secrets, technical know-how, and continuing technological innovation to develop and maintain our competitive position.
+
+As of 
+
+March 31, 2020
+
+, we held approximately 410 United States patents and approximately 1,640 in other jurisdictions and had approximately 145 United States patent applications and 360 patent applications pending in other jurisdictions. Patents for individual products extend for varying periods according to the date of filing or grant and legal term of patents in various countries where a patent is obtained. The actual protection a patent provides varies from country to country and depends in part upon the type of patent, the scope of its coverage, and the availability of legal remedies in each country.
+
+Our products are sold around the world under various brand names and trademarks. We consider our brand names and trademarks to be valuable in the marketing of our products. As of 
+
+March 31, 2020
+
+, we had a total of approximately 1,430 trademark registrations worldwide.
+
+Quality Assurance. 
+
+ We manufacture, assemble, and package products in several countries. Each of our production facilities are dedicated to particular processes and products. Our success depends upon Customer confidence in the quality of our production process and the integrity of the data that supports our product safety and effectiveness. We have implemented quality assurance procedures to support the quality and integrity of scientific information and production processes. 
+
+Government Regulation. 
+
+ Our business is subject to various degrees of governmental regulation in the countries in which we operate. In the United States, the United States Food and Drug Administration (“FDA”), the United States Environmental Protection Agency (“EPA”), the United States Nuclear Regulatory Commission (“NRC”), and other governmental authorities regulate the development, manufacture, sale, and distribution of our products and services. Our international operations also are subject to a significant amount of government regulation, including country-specific rules and regulations and U.S. regulations applicable to our international operations. Government regulations include detailed inspection of, and controls over, research and development, clinical investigations, product approvals and manufacturing, marketing and promotion, sampling, distribution, record-keeping, storage, and disposal practices.
+
+Compliance with applicable regulations is a significant expense for us. Past, current or future regulations, their interpretation, or their application could have a material adverse impact on our operations. Also, additional governmental regulation may be passed that could prevent, delay, revoke, or result in the rejection of regulatory clearance of our products. We cannot predict the effect on our operations resulting from current or future governmental regulation or the interpretation or application of these regulations.
+
+If we fail to comply with any applicable regulatory requirements, sanctions could be imposed on us. For more information about the risks we face regarding regulatory requirements, see Part I, Item 1A of this Annual Report titled, "Risk Factors". We are subject to extensive regulatory requirements and must receive and maintain regulatory clearance or approval for many products and operations. Failure to receive or maintain, or delays in receiving, clearance or approvals may hurt our revenues, profitability, financial condition, or value.
+
+In the past, we have received warning letters, paid civil penalties, conducted product recalls and field corrections, and been subject to other regulatory sanctions. We believe that we are currently compliant in all material respects with applicable 
+
+ 5
+
+Table of Contents
+
+regulatory requirements. However, there can be no assurance that future or current regulatory, governmental, or private action will not have a material adverse affect on us or on our performance, results, or financial condition.
+
+Environmental Matters.
+
+  We are subject to various laws and governmental regulations concerning environmental matters and employee safety and health in Ireland, the United States and other countries. We have made, and continue to make, significant investments to comply with these laws and regulations. We cannot predict the future capital expenditures or operating costs required to comply with environmental laws and regulations. We believe that we are currently compliant with applicable environmental, health, and safety requirements in all material respects. However, there can be no assurance that future or current regulatory, governmental, or private action will not have a material adverse affect on our performance, results, or financial condition. Please refer to 
+
+Note 10
+
+ of our consolidated financial statements titled, "Commitments and Contingencies" for further information.
+
+In the future, if a loss contingency related to environmental matters, employee safety, health or conditional asset retirement obligations is significantly greater than the current estimated amount, we would record a liability for the obligation and it may result in a material impact on net income for the annual or interim period during which the liability is recorded. The investigation and remediation of environmental obligations generally occur over an extended period of time, and therefore we do not know if these events would have a material adverse affect on our financial condition, liquidity, or cash flow, nor can there be any assurance that such liabilities would not have a material adverse affect on our performance, results, or financial condition.
+
+Competition.
+
+  The markets in which we operate are highly competitive and generally highly regulated. Competition is intense in all of our business segments and includes many large and small competitors. Brand, design, quality, safety, ease of use, serviceability, price, product features, warranty, delivery, service, and technical support are important competitive factors to us. We expect to face continued competition in the future as new infection prevention, sterile processing, contamination control, gastrointestinal and surgical support products and services enter the market. We believe many organizations are working with a variety of technologies and sterilizing agents. Also, a number of companies have developed disposable medical instruments and other devices designed to address the risk of contamination.
+
+We believe that our long-term competitive position depends on our success in discovering, developing, and marketing innovative, cost-effective products and services. We devote significant resources to research and development efforts and we believe STERIS is positioned as a global competitor in the search for technological innovations. In addition to research and development, we invest in quality control, Customer programs, distribution systems, technical services, and other information services.
+
+There can be no assurance that we will develop significant new products or services, or that the new products or services we provide or develop in the future will be more commercially successful than those provided or developed by our competitors. In addition, some of our existing or potential competitors may have greater resources than us. Therefore, a competitor may succeed in developing and commercializing products more rapidly than we do. Competition, as it relates to our business segments and product categories, is discussed in more detail in the section above titled, “Information Related to Business Segments.”
+
+Employees. 
+
+ As of 
+
+March 31, 2020
+
+, we had approximately 13,000 employees throughout the world including certain locations subject to collective bargaining agreements and works council representation. We believe we generally have good relations with our employees.
+
+Methods of Distribution. 
+
+ Sales and service activities are supported by a staff of regionally based clinical specialists, system planners, corporate account managers, and in-house Customer service and field support departments. We also contract with distributors and dealers in select markets.
+
+Customer training is important to our business. We provide a variety of courses at Customer locations, at our training and education centers, and over the internet. Our training programs help Customers understand the science, technology, and operation of our products and services. Many of our operator training programs are approved by professional certifying organizations and offer continuing education credits to eligible course participants.
+
+Seasonality.
+
+  Our financial results have been, from time to time, subject to seasonal patterns. We cannot assure you that these patterns will continue.
+
+Backlog.
+
+  We define backlog as the amount of unfilled capital equipment purchase orders at a point in time. At 
+
+March 31, 2020
+
+, we had a backlog of 
+
+$242.5 million
+
+. Of this amount, 
+
+$170.1 million
+
+ and 
+
+$72.4 million
+
+ related to our Healthcare Products and Life Sciences segments, respectively. At 
+
+March 31, 2019
+
+, we had backlog orders of 
+
+$215.2 million
+
+. Of this amount, 
+
+$154.5 million
+
+ and 
+
+$60.7 million
+
+ 
+
+related to our Healthcare Products and Life Sciences segments, respectively. 
+
+Availability of Securities and Exchange Commission Filings.
+
+  We make available free of charge on or through our website our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, and Current Reports on Form 8-K, and amendments to 
+
+ 6
+
+Table of Contents
+
+these reports, as soon as reasonably practicable after we electronically file such material with, or furnish such material to, the Securities and Exchange Commission (“SEC”). You may access these documents, as well as other SEC filings related to the Company, on the Investor Relations page of our website at 
+
+http://www.steris-ir.com
+
+. You may also obtain copies of these documents by accessing the SEC’s website at 
+
+http://www.sec.gov
+
+. The content on or accessible through any website referred to in this Annual Report on Form 10-K is not incorporated by reference into this Form 10-K unless expressly noted.
+
+We also make available free of charge on our website our Corporate Governance Guidelines, our Director Code of Ethics, and our Code of Business Conduct, as well as the Charters of the Audit Committee, the Compensation and Organization Development Committee, the Nominating and Governance Committee, and the Compliance Committee of the Company’s Board of Directors.
+
+INFORMATION ABOUT OUR EXECUTIVE OFFICERS
+
+ 
+
+The following table presents certain information regarding our executive officers at 
+
+March 31, 2020
+
+. All executive officers serve at the pleasure of the Board of Directors.
+
+Name
+
+ 
+
+Age
+
+ 
+
+Position
+
+Karen L. Burton
+
+ 
+
+52
+
+ 
+
+Vice President, Controller and Chief Accounting Officer
+
+Daniel A. Carestio
+
+ 
+
+47
+
+ 
+
+Senior Vice President and Chief Operating Officer
+
+Cary L. Majors
+
+ 
+
+45
+
+ 
+
+Senior Vice President, North America Commercial Operations
+
+Walter M Rosebrough, Jr.
+
+ 
+
+66
+
+ 
+
+President and Chief Executive Officer
+
+Renato G. Tamaro
+
+ 
+
+51
+
+ 
+
+Vice President and Corporate Treasurer
+
+Michael J. Tokich
+
+ 
+
+51
+
+ 
+
+Senior Vice President and Chief Financial Officer
+
+J. Adam Zangerle
+
+ 
+
+53
+
+ 
+
+Senior Vice President, General Counsel, and Secretary
+
+The following discussion provides a summary of each executive officer's recent business experience through 
+
+March 31, 2020
+
+:
+
+Karen L. Burton 
+
+serves as Vice President, Controller and Chief Accounting Officer. She assumed this role in January 2017. She served as Vice President, Corporate Controller from May 2008 to January 2017.
+
+Daniel A. Carestio
+
+ serves as Senior Vice President and Chief Operating Officer. He assumed this role in August 2018.
+
+ 
+
+From February 2018 to August 2018 he served as Senior Vice President, Sterilization and Disinfection. From August 2015 to February 2018, he served as Senior Vice President, STERIS Applied Sterilization Technologies and Life Sciences. From 2011 to August 2015, he served as Vice President, Sales and Marketing for Isomedix Services and General Manager of Life Sciences.
+
+Cary L. Majors 
+
+serves as Senior Vice President, North America Commercial Operations. He assumed this role in August 2019. From April 2014 to August 2019 he
+
+ 
+
+served as Vice President, North America Commercial Operations. 
+
+Walter M Rosebrough, Jr.
+
+ serves as President and Chief Executive Officer. He assumed this role when he joined STERIS in October 2007. Mr. Rosebrough is also a Director of STERIS plc and Varex Imaging Corporation. 
+
+Renato G. Tamaro
+
+ serves as Vice President and Corporate Treasurer. He assumed this role in August 2017. From March 2006 to July 2017, he served as Assistant Treasurer.  
+
+Michael J. Tokich
+
+ serves as Senior Vice President and Chief Financial Officer. He assumed this role in August 2017. From   February 2014 to July 2017, he served as the Senior Vice President, Chief Financial Officer and Treasurer. 
+
+J. Adam Zangerle
+
+ serves as Senior Vice President, General Counsel, and Secretary. He assumed this role in July 2018. From July 2013 to July 2018 he served as Vice President, General Counsel, and Secretary. 
+
+ 7
+
+Table of Contents
+
+ITEM 1A.
+
+RISK FACTORS
+
+This section describes certain risk factors that could affect our business, financial condition and results of operations. You should consider these risk factors when evaluating the forward-looking statements contained in this Annual Report on Form 10-K, because our actual results and financial condition might differ materially from those projected in the forward-looking statements should these risks occur. We face other risks besides those highlighted below. These other risks include additional uncertainties not presently known to us or that we currently believe are immaterial, but may ultimately have a significant impact. In addition, the impact of the COVID-19 pandemic may also exacerbate any of these risks, which could have a material effect on us. Should any of these risks, described below or otherwise, actually occur, our business, financial condition, performance, prospects, value, or results of operations could be negatively affected.
+
+MARKET RISKS
+
+Risk or uncertainty
+
+Discussion
+
+Doing business internationally
+
+ 
+
+We conduct manufacturing, sales and distribution operations on a worldwide basis and are subject to a variety of risks associated with doing business internationally. Implementation and achievement of international growth objectives also may be impeded by political, social, and economic uncertainties or unrest in countries in which we conduct operations or market or distribute our products.
+
+We maintain significant international operations, including operations in the U.S., Canada, Mexico, Europe, Asia Pacific and Latin America. As a result, we are subject to a number of risks and complications associated with international manufacturing, sales, services, and other operations. These include: risks associated with currency exchange rate fluctuations; difficulties in enforcing agreements and collecting receivables through some foreign legal systems; enhanced credit risks in certain European countries as well as emerging market regions; Customers with longer payment cycles than Customers in the United States; significant variations in tax rates among the countries in which we do business, and tax withholding obligations in respect of our earnings; tax laws that restrict our ability to use tax credits, offset gains, or repatriate funds; tariffs, exchange controls or other trade restrictions including transfer pricing restrictions when products produced in one country are sold to an affiliated entity in another country; the impact of the COVID-19 pandemic on our supply chain and the industries in which we operate; general economic and political conditions in countries where we operate or where end users of our products are situated, including the potential implications of the COVID-19 pandemic, the U.K. “Brexit”, for the U.K. and/or regional or global economies, or the withdrawal from the EU of other member countries; difficulties associated with managing a large organization spread throughout various countries; difficulties in enforcing intellectual property rights or weaker intellectual property right protections in some countries and difficulties associated with compliance with a variety of laws and regulations governing international trade, including the U.S. Foreign Corrupt Practices Act and the U.K. Bribery Act and laws and regulations dealing with trade with persons in sanctioned countries.
+
+Compliance with multiple, and potentially conflicting, international laws and regulations, import and export limitations, anti-corruption laws, and exchange controls may be difficult, burdensome or expensive.
+
+We are subject to compliance with various laws and regulations, including the U.S. Foreign Corrupt Practices Act, the U.K. Bribery Act, and similar anti-bribery laws, which generally prohibit companies and their intermediaries from making improper payments to officials for the purpose of obtaining or retaining business. We are also subject to limitations on trade with persons in sanctioned countries. While our employees and agents are required to comply with these laws, we cannot assure you that our internal policies and procedures will always protect us from violations of these laws, despite our commitment to legal compliance and corporate ethics.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 8
+
+Table of Contents
+
+ 
+
+ 
+
+ 
+
+ 
+
+Risk or uncertainty
+
+Discussion
+
+Economic conditions and financial market access
+
+ 
+
+The COVID-19 pandemic has disrupted our operations and could have a material adverse effect on our business and financial condition.
+
+The COVID-19 pandemic, along with the response to the pandemic by governmental and other actors, has disrupted our operations. We have experienced temporary mandatory and voluntary facility closures in certain jurisdictions in which we operate. Furthermore, we have experienced less demand for some of our products and services as a result of official prohibitions or voluntary deferrals of certain medical procedures, and other factors, which we believe has been exacerbated by the impact of stay-at-home orders. Additionally, the COVID-19 outbreak has, caused temporary disruptions in our supply chain. 
+
+Long-term facility closures or other restrictions could materially adversely affect our ability to adequately staff, supply or otherwise maintain our operations. Such restrictions also may have a substantial impact on our Customers and our sales cycles. The COVID-19 pandemic may put pressure on overall spending for our products and services, and may cause our Customers to modify spending priorities or delay or abandon purchasing decisions. Moreover, because a large number of our employees have transitioned to working from home, we may be subject to increased vulnerability to cyber and other information technology risks. We have modified, and may further modify, our business practices in response to the risks and negative impacts associated with the COVID-19 pandemic. However, there can be no assurance that these measures will be temporary or successful.   
+
+The impact of the COVID-19 pandemic continues to evolve and its ultimate duration, severity and disruption to our business, Customers and supply chain, and the related financial impact to us, cannot be accurately forecasted at this time. Should such disruption continue for an extended period, the adverse effect on our business, results of operations and financial condition could be more severe. Additionally, continued weak economic conditions generally could result in extended weak demand for our products and services. Furthermore, future public health crises are possible and could involve some or all of the risks discussed above.
+
+ 9
+
+Table of Contents
+
+Changes in economic climate may adversely affect us.
+
+Adverse economic cycles or conditions, and Customer, regulatory or government response to those cycles or conditions, have affected and could further affect our results of operations. The onset of these cycles or conditions may not be foreseeable and there can be no assurance when they will begin to improve after they occur. There also can be no assurance as to the strength or length of any recovery from a business downturn or recession. Credit and liquidity problems may make it difficult for some businesses to access credit markets and obtain financing and may cause some businesses to curtail spending to conserve cash in anticipation of persistent business slowdowns and liquidity needs. If our Customers have difficulty financing their purchases due to tight credit markets or related factors or because of other operational or utilization problems they may be experiencing or otherwise decide to curtail their purchases, our business could be adversely affected. Our exposure to bad debt losses could also increase if Customers are unable to pay for products previously ordered and delivered.
+
+Many of our Customers are governmental entities or other entities that rely on government healthcare systems or government funding. If government funding for healthcare becomes limited or restricted in countries in which we operate, including as a result of the impacts of the COVID-19 pandemic, our Customers may be unable to pay their obligations on a timely basis or to make payment in full and it may become necessary to increase reserves. In addition, there can be no assurance that there will not be an increase in collection difficulties. Prospectively, additional adverse effects resulting from these conditions may include decreased healthcare utilization, further pricing pressure on our products and services, and/or weaker overall demand for our products and services, particularly capital products. 
+
+Our acquisition activity and ability to grow organically may be adversely affected if we are unable to continue to access the financial markets.
+
+Our recent acquisitions have been financed largely through cash on hand and borrowings under our bank credit facilities. Future acquisitions or other capital requirements will necessitate additional cash.  To the extent our existing sources of cash are insufficient to fund these or other future activities, we may need to raise additional funds through new or expanded borrowing arrangements or equity.  There can be no assurance that we will be able to obtain additional funds beyond those available under existing bank credit facilities on terms favorable to us, or at all, or that such facilities can be replaced when they terminate.
+
+ 10
+
+Table of Contents
+
+LEGAL, REGULATORY AND TAX RISKS
+
+Risk or uncertainty
+
+Discussion
+
+Healthcare laws and reimbursement
+
+ 
+
+Changes in healthcare laws or government and other third-party payor reimbursement levels to healthcare providers, or failure to meet healthcare reimbursement or other requirements, might negatively impact our business.
+
+We sell many of our products and services to hospitals and other healthcare providers and pharmaceutical manufacturers. Many of these Customers are subject to or supported by government programs or receive reimbursement for services from third-party payors, such as government programs, including Medicare and Medicaid in the U.S., private insurance plans, and managed care programs. Reimbursement systems vary significantly by country. Government-managed healthcare systems control reimbursement for healthcare services in many countries. Public budgetary constraints may significantly impact the ability of hospitals, pharmaceutical manufacturers, and other Customers supported by such systems to purchase our products. Government or other third-party payors may deny or change coverage, reduce their current levels of reimbursement for healthcare services, or otherwise implement measures to regulate pricing or contain costs. In addition, our costs may increase more rapidly than reimbursement levels or permissible pricing increases or we may not satisfy the standards or requirements for reimbursement. 
+
+Among other provisions, the U.S. Patient Protection and Affordable Care Act, as amended by the Health Care and Education Affordability Reconciliation Act, imposed an excise tax on medical devices manufactured or offered for sale in the United States. Late in 2019, U.S. Congress enacted legislation that repealed the excise tax, which had been suspended during calendar years 2016 through 2019. In addition, we have been required to commit significant resources to “Sunshine Act” compliance. Various additional health care reform proposals have emerged at the federal and state level, and we are unable to predict which, if any, of those proposals will be enacted.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 11
+
+Table of Contents
+
+ 
+
+ 
+
+Risk or uncertainty
+
+Discussion
+
+Product and service related regulations and claims
+
+ 
+
+We are subject to extensive regulatory requirements and must receive and maintain regulatory clearance or approval for many products and operations. Failure to receive or maintain, or delays in receiving, clearance or approvals may hurt our revenues, profitability, financial condition, or value.
+
+Our operations are subject to extensive regulation in the countries where we do business.  In the United States, our products and services are regulated by the FDA and other regulatory authorities. In many foreign countries, sales of our products and services are subject to extensive regulations that may or may not be comparable to those of the FDA. In Europe, our products are regulated primarily by country and community regulations of those countries within the European Economic Area and must conform to the requirements of those authorities.
+
+Government regulation applies to nearly all aspects of testing, manufacturing, safety, labeling, storing, recordkeeping, reporting, promoting, distributing, and importing or exporting of medical devices, products, and services. In general, unless an exemption applies, a sterilization, decontamination or medical device or product or service must receive regulatory approval or clearance before it can be marketed or sold. Modifications to existing products or the marketing of new uses for existing products also may require regulatory approvals, approval supplements or clearances. If we are unable to obtain any required approvals, approval supplements or clearances for any modification to a previously cleared or approved device, we may be required to cease manufacturing and sale, or recall or restrict the use of such modified device, pay fines, or take other action until such time as appropriate clearance or approval is obtained.
+
+Regulatory agencies may refuse to grant approval or clearance, or review and disagree with our interpretation of approvals or clearances, or with our decision that regulatory approval is not required or has been maintained. Regulatory submissions may require the provision of additional data and may be time consuming and costly, and their outcome is uncertain. Regulatory agencies may also change policies, adopt additional regulations, or revise existing regulations, each of which could prevent or delay approval or clearance of devices, or could impact our ability to market a previously cleared, approved, or unregulated device. Our failure to comply with the regulatory requirements of the FDA or other applicable regulatory requirements in the United States or elsewhere might subject us to administratively or judicially imposed sanctions. These sanctions include, among others, warning letters, fines, civil penalties, criminal penalties, injunctions, debarment, product seizure or detention, product recalls and total or partial suspension of production, sale and/or promotion.
+
+ 
+
+ 
+
+ The COVID-19 pandemic may disrupt the operations of regulatory bodies with responsibility for oversight of healthcare and health and medical products. Such disruptions could result in the focus and prioritization of regulatory resources on emergent matters, which could divert regulatory resources away from more routine regulatory matters that are not COVID-19 related but that have the potential to impact our business. For example, there could be delays in FDA review of applications for marketing authorization, including those which may be necessary for or in connection with proposed changes to our products or the changes to the processes by which they are manufactured. It is unknown how long these disruptions could continue, were they to occur. Any elongation or de-prioritization or delay in regulatory review resulting from such disruptions could materially affect our ongoing device design, development, and commercialization plans.
+
+ 12
+
+Table of Contents
+
+Our products are subject to recalls and restrictions, even after receiving United States or foreign regulatory clearance or approval.
+
+Ongoing medical device reporting regulations require that we report to appropriate governmental authorities in the United States and/or other countries when our products cause or contribute to a death or serious injury or malfunction in a way that would be reasonably likely to contribute to a death or serious injury if the malfunction were to recur. Governmental authorities can require product recalls or impose restrictions for product design, manufacturing, labeling, clearance, or other issues. For the same reasons, we may voluntarily elect to recall or restrict the use of a product. Any recall or restriction could divert managerial and financial resources and might harm our reputation among our Customers and other healthcare professionals who use or recommend our products and services. 
+
+We may be adversely affected by product liability claims or other legal actions or regulatory or compliance matters.
+
+We face an inherent business risk of exposure to product liability claims and other legal and regulatory actions. A significant increase in the number, severity, amount, or scope of these claims and actions may, as described above with respect to recalls and restrictions, result in substantial costs and harm our reputation or otherwise adversely affect product sales and our business. Product liability claims and other legal and regulatory actions may also distract management from other business responsibilities.
+
+We are also subject to a variety of other types of claims, proceedings, investigations, and litigation initiated by government agencies or third parties and other potential risks and liabilities. These include compliance matters, product regulation or safety, taxes, employee benefit plans, employment discrimination, health and safety, environmental, antitrust, customs, import/export, government contract compliance, financial controls or reporting, intellectual property, allegations of misrepresentation, false claims or false statements, commercial claims, claims regarding promotion of our products and services, or other similar or different matters. Any such claims, proceedings, investigations or litigation, regardless of the merits, might result in substantial costs, restrictions on product use or sales, or otherwise injure our business.
+
+Administratively or judicially imposed or agreed sanctions might include warning letters, fines, civil penalties, criminal penalties, loss of tax benefits, injunctions, product seizure, recalls, suspensions or restrictions, re-labeling, detention, and/or debarment. We also might be required to take actions such as payment of substantial amounts, or revision of financial statements, or to take, or be subject to, the following types of actions with respect to our products, services, or business: redesign, re-label, restrict, or recall products; cease manufacturing and selling products; seizure of product inventory; comply with a court injunction restricting or prohibiting further marketing and sale of products or services; comply with a consent decree, which could result in further regulatory constraints; dedication of significant internal and external resources and costs to respond to and comply with legal and regulatory issues and constraints; respond to claims, litigation, and other proceedings brought by Customers, users, governmental agencies, and others; disruption of product improvements and product launches; discontinuation of certain product lines or services; or other restrictions or limitations on product sales, use or operation, or other activities or business practices.
+
+Some product replacements or substitutions may not be possible or may be prohibitively costly or time consuming. The impact of any legal, regulatory, or compliance claims, proceeding, investigation, or litigation, is difficult to predict.  
+
+We maintain product liability and other insurance with coverages believed to be adequate. However, product liability or other claims may exceed insurance coverage limits, fines, penalties and regulatory sanctions may not be covered by insurance, or insurance may not continue to be available or available on commercially reasonable terms. Additionally, our insurers might deny claim coverage for valid or other reasons or may become insolvent.
+
+ 13
+
+Table of Contents
+
+Our business and financial condition could be adversely affected by difficulties in acquiring or maintaining a proprietary intellectual ownership position.
+
+To maintain our competitive position for our products, we need to obtain patent or other proprietary rights for new and improved products and to maintain and enforce our existing patents and other proprietary rights. We typically apply for patents in the United States and in strategic other countries. We may also acquire patents through acquisitions. We may encounter difficulties in obtaining or protecting patents.
+
+We rely on a combination of patents, trademarks, trade secrets, know-how, and confidentiality agreements to protect the proprietary aspects of our technology. These measures afford only limited protection, and competitors may gain access to our intellectual property and proprietary information. Litigation may be necessary to enforce or defend our intellectual property rights, to protect our trade secrets, and to determine the validity and scope of our proprietary rights. Litigation may also be brought against us claiming that we have violated the intellectual property rights of others. Litigation may be costly and may divert management’s attention from other matters. Additionally, in some foreign countries with weaker intellectual property rights, it may be difficult to maintain and enforce patents and other proprietary rights or defend against claims of infringement. 
+
+Tax and trade risks
+
+ 
+
+Current economic and political conditions make tax rules in any jurisdiction subject to significant change.
+
+The U.S. Tax Cuts and Jobs Act (“TCJA”) was signed into law on December 22, 2017. Guidance continues to be issued clarifying the application of this new legislation. We cannot predict the overall impact that the additional guidance may have on our business. It is reasonable to expect that global taxing authorities will be reviewing current legislation for potential modifications in reaction to the implementation of the TCJA. In addition, further changes in the tax laws of other jurisdictions could arise, including as a result of the base erosion and profit shifting (BEPS) project undertaken by the Organization for Economic Cooperation and Development (OECD). The OECD, which represents a coalition of member countries, has issued recommendations that, in some cases, would make substantial changes to numerous long-standing tax positions and principles. These contemplated changes, to the extent adopted by OECD members and/or other countries, could increase tax uncertainty and may adversely impact our provision for income taxes.
+
+Our tax rate is uncertain and may vary from expectations, which could have a material impact on our results of operations and earnings per share.
+
+There can be no assurance that we will be able to maintain any particular worldwide effective corporate tax rate. We cannot give any assurance as to what our effective tax rate will be in the future because of, among other things, uncertainty regarding the tax policies of the jurisdictions in which we and our affiliates operate. Our actual effective tax rate may vary from our expectations, and such variance may be material. Additionally, tax laws or their implementation and applicable tax authority practices in any particular jurisdiction could change in the future, possibly on a retroactive basis, and any such change could have a material adverse impact on us and our affiliates.
+
+Changes in tax treaties and trade agreements could negatively impact our costs, results of operations and earnings per share.
+
+Legislative and regulatory action may be taken in the U.S. which, if ultimately adopted, could override or otherwise adversely impact tax treaties upon which we rely or broaden the circumstances under which STERIS plc would be considered a U.S. resident, each of which could materially and adversely affect our tax obligations. We cannot predict the outcome of any specific legislative or regulatory proposals. However, if proposals were adopted that had the effect of disregarding our organization in Ireland or limiting our ability as an Irish company to take advantage of tax treaties with the U.S., we could be subject to increased taxation and/or potentially significant expense.
+
+Existing free trade laws and regulations provide certain beneficial duties and tariffs for qualifying imports and exports, subject to compliance with the applicable classification and other requirements. Changes in laws and regulations or policies governing the terms of foreign trade, and in particular, increased trade restrictions, including as a result of the COVID-19 pandemic, tariffs or taxes on imports from countries where we manufacture products could have a material adverse impact on our business and financial results.
+
+ 14
+
+Table of Contents
+
+Proposed legislation relating to the denial of U.S. federal or state governmental contracts to U.S. companies that redomicile abroad could adversely affect our business.
+
+Various U.S. federal and state legislative proposals that would deny governmental contracts to redomiciled companies may adversely affect us if adopted into law. We are unable to predict the likelihood that any such proposed legislation might become law, the nature of regulations that may be promulgated under any future legislative enactments, or the effect such enactments or increased regulatory scrutiny could have on our business.
+
+The U.S. Internal Revenue Service (the “IRS”) may not agree that we are a foreign corporation for U.S. federal tax purposes.
+
+Although we are organized under the laws of Ireland and are a tax resident in Ireland for Irish tax purposes, the IRS may assert that we should be treated as a U.S. corporation (and, therefore, a U.S. tax resident) for U.S. federal tax purposes pursuant to Section 7874 of the Internal Revenue Code of 1986, as amended (the “Code” and such Section, “Section 7874”). For U.S. federal tax purposes, a company generally is considered to be a tax resident in the jurisdiction of its organization. Because we are organized under the laws of Ireland, we would generally be classified as a non-U.S. corporation (and, therefore, a non-U.S. tax resident) under these rules. Section 7874, however, provides an exception to this general rule under which a non-U.S. organized entity may be treated as a U.S. corporation for U.S. federal tax purposes.
+
+If we were to be treated as a U.S. corporation for U.S. federal tax purposes, we could be subject to substantial additional U.S. tax liability. Additionally, if we were treated as a U.S. corporation for U.S. federal tax purposes, non-U.S. holders of our ordinary shares would be subject to U.S. withholding tax on the gross amount of any dividends we paid to such shareholders. For Irish tax purposes, we are expected, regardless of any application of Section 7874, to be treated as an Ireland tax resident. Consequently, if we are treated as a U.S. corporation for U.S. federal tax purposes under Section 7874, we could be liable for both U.S. and Ireland taxes, which could have a material adverse effect on our financial condition and results of operations.
+
+BUSINESS AND OPERATIONAL RISKS
+
+Risk or uncertainty
+
+Discussion
+
+Competition
+
+ 
+
+Our businesses are highly competitive, and if we fail to compete successfully, our revenues and results of operations may be hurt.
+
+We operate in a highly competitive global environment. Our businesses compete with other broad-line manufacturers, as well as many smaller businesses specializing in particular products or services, primarily on the basis of brand, design, quality, safety, ease of use, serviceability, price, product features, warranty, delivery, service, and technical support. We face increased competition from new infection prevention, sterile processing, contamination control, surgical support, cleaning consumables, gastrointestinal endoscopy accessories, contract sterilization, and other products and services entering the market. Competitors and potential competitors also are attempting to develop alternate technologies and sterilizing agents, as well as disposable medical instruments and other devices designed to address the risk of contamination.
+
+Consolidations among our healthcare and pharmaceutical Customers may result in a loss of Customers or more significant pricing pressures.
+
+A number of our Customers have consolidated. These consolidations are due in part to healthcare cost reduction measures initiated by competitive pressures as well as legislators, regulators and third-party payors. This may result in greater pricing pressures on us and in some cases loss of Customers. Additional consolidations could result in a loss of Customers or more significant pricing pressures.
+
+ 15
+
+Table of Contents
+
+Decreased availability or increased costs of raw materials or energy supplies or other supplies might increase our production costs or limit our production capabilities or curtail our operations.
+
+We purchase raw materials, fabricated and other components, and energy supplies from a variety of suppliers. Key materials include stainless steel, organic and inorganic chemicals, fuel, cobalt-60, EO, and plastic components. The availability and prices of raw materials and energy supplies are subject to volatility and are influenced by worldwide economic conditions, speculative action, world supply and demand balances, inventory levels, availability of substitute materials, currency exchange rates, anticipated or perceived shortages, and other factors. Also, certain of our key materials and components have a limited number of suppliers. Some are single-sourced in certain regions of the world, such as cobalt-60 and EO, which are necessary to our AST operations. Changes in regulatory requirements regarding the use of, the unavailability or short supply of these products might disrupt or cause shutdowns of portions of our AST operations or have other adverse consequences. We have developed a plan to expand our irradiation processing capacity with accelerator-based technologies which may reduce the potential supply risk. Shortages in supply, increased regulatory or security requirements, or increases in the price of raw materials, components and energy supplies may adversely affect us. 
+
+Our operations, and those of our suppliers, are subject to a variety of business continuity hazards and risks, any of which could interrupt production or operations or otherwise adversely affect our performance, results, or value.
+
+Business continuity hazards and other risks include: explosions, fires, earthquakes, public health crises, inclement weather, and other disasters;  utility or other mechanical failures; unscheduled downtime; labor difficulties; inability to obtain or maintain any required licenses or permits; disruption of communications; data security, preservation and redundancy disruptions; inability to hire or retain key management or employees; disruption of supply or distribution; and regulation of the safety, security or other aspects of our operations.
+
+The occurrence of these types of events has disrupted and may in the future disrupt or shut down operations, or otherwise adversely impact the production or profitability of a particular facility, or our operations as a whole. Certain casualties also might cause personal injury and loss of life, or severe damage to or destruction of property and equipment, and for casualties occurring at our facilities, result in liability claims against us. Although we maintain property and casualty insurance and liability and similar insurance of the types and in the amounts that we believe are customary for our industries, our insurance coverages have limits and we are not fully insured against all potential hazards and risks incident to our business. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 16
+
+Table of Contents
+
+ 
+
+ 
+
+Our operations are subject to regulations and permitting, which may be changed or amended by the relevant authorities, and which may limit or eliminate our current operations or increase the complexity, burden, or expense of compliance and regulated materials or processes that we use in our operations may become the focus of litigation.
+
+Our Applied Sterilization Technologies (“AST”) segment is a technology-neutral contract sterilization service that offers our Customers a wide range of sterilization modalities through a worldwide network of over 50 contract sterilization and laboratory facilities. One of the modalities offered by our AST operations is Ethylene Oxide (“EO”) sterilization. In the United States, several regulators, including the U.S. Environmental Protection Agency (“EPA”), U.S. Food and Drug Administration (“FDA”), and agencies at the state and local level, play a role in regulating the use of EO sterilization. In 2016, the EPA changed the cancer risk basis for EO and determined that EO is carcinogenic to humans. Recent announcements of the temporary or permanent closure of EO sterilization facilities operated by others have been associated with state and/or local regulatory or other legal action related to EO emissions at those facilities. Our AST operations have taken and will continue to take measures to comply with all applicable emissions regulations and to reduce emissions. However, no assurance can be given that current or future legislative or regulatory action, or current or future litigation to which we are or may become a party, will not significantly increase the costs of conducting our EO contract sterilization operations or curtail or eliminate the use of EO in our contract sterilization operations. A significant reduction in our EO contract sterilization activities may have a material adverse effect on our financial condition and results of operations. Further, we could be liable for damages and fines as a result of legislative or regulatory action or litigation, and any liability could exceed our insurance and indemnification coverage, if any, and have a material adverse effect on our financial condition. Additionally, for many medical devices, EO sterilization may be the only current method of sterilization that effectively sterilizes and does not damage the device during the sterilization process. In the event of regulatory, legislative, or legal action that curtails or eliminates EO sterilization, there could be a shortage of medical devices and consequently a decline in surgical procedures. A decline in surgical procedures could result in a decline in demand for the products and services provided by our Healthcare Products and Healthcare Specialty Services businesses, which may have a material adverse effect on our financial condition and results of operations.
+
+We engage in acquisitions and affiliations, divestitures, and other business arrangements. Our growth may be adversely affected if we are unable to successfully identify, price, and integrate strategic business candidates or otherwise optimize our business portfolio.
+
+Our success depends, in part, on strategic acquisitions and joint ventures, which are intended to complement or expand our businesses, divestiture of non-strategic businesses, and other actions intended to optimize our portfolio of businesses. This strategy depends upon our ability to identify, appropriately price, and complete these types of business development transactions or arrangements and to obtain any necessary financing. In the last several fiscal years we have made a number of acquisitions. We also completed several divestitures of non-strategic businesses or product lines during the last several years.
+
+Our success with respect to these recent and future acquisitions will depend on our ability to integrate the businesses acquired, retain key personnel, realize identified cost synergies and otherwise execute our strategies. Our success will also depend on our ability to develop satisfactory working arrangements with our strategic partners in joint ventures or other affiliations, or to divest or realign businesses. Competition for strategic business candidates may result in increases in costs and price for acquisition candidates and market valuation issues may reduce the value available for divestiture of non-strategic businesses. These types of transactions are also subject to a number of other risks and uncertainties, including: delays in realizing or failure to realize anticipated benefits of the transactions; diversion of management’s time and attention from other business concerns; difficulties in retaining key employees, Customers, or suppliers of the acquired or divested businesses; difficulties in maintaining uniform standards, controls, procedures and policies, or other integration or divestiture difficulties; adverse effects on existing business relationships with suppliers or Customers; other events contributing to difficulties in generating future cash flows; risks associated with the assumption of contingent or other liabilities of acquisition targets or retention of liabilities for divested businesses and difficulties in obtaining financing. 
+
+If our continuing efforts to create a lean business and in-source production to reduce costs are not successful, our profitability may be hurt or our business otherwise might be adversely affected.
+
+We have undertaken various activities to create a lean business, including in-sourcing.  We continue to look for opportunities to in-source production that is currently provided by third parties.These activities may not produce the full efficiencies and cost reduction benefits that we expect or efficiencies and benefits might be delayed. Implementation costs also might exceed expectations.
+
+ 17
+
+Table of Contents
+
+The COVID-19 pandemic or similar public health crises could have a material adverse impact on ability to staff our operations.
+
+As supplier to Healthcare and Life Sciences Customers, we fall within a “critical infrastructure” sector, and are also considered an essential business and therefore exempt under various stay at home/shelter in place orders. Accordingly, our employees continue to work because of the importance of our operations to the health and well-being of citizens in the countries in which we operate. We have implemented telework policies wherever possible for appropriate categories of employees. However, our employees that are unable to telework continue to work at our facilities and those of our Customers, and we have implemented appropriate safety measures, such as social distancing and increased cleaning protocols. While we believe that we have taken appropriate measures to ensure the health and well-being of our employees, there can be no assurances that our measures will be sufficient to protect our employees in our workplace or that they may not otherwise be exposed to COVID-19 outside of our workplace. If a number of our essential employees become ill, incapacitated or are otherwise unable or unwilling to continue working during the current or any future health crises, our operations may be adversely impacted.
+
+Our business and results of operations may be adversely affected if we are unable to recruit and retain qualified management and other personnel or other compliance matters adversely impact our personnel.
+
+Our continued success depends, in large part, on our ability to hire and retain highly qualified people and if we are unable to do so, our business and operations may be impaired or disrupted. Competition for highly qualified people is intense and there is no assurance that we will be successful in attracting or retaining replacements to fill vacant positions, successors to fill retirements or employees moving to new positions, or other highly qualified personnel. In addition, legal, regulatory or compliance matters create significant distraction or diversion of significant or unanticipated resources or attention that could have a material adverse effect on the responsibilities and retention of qualified employees.
+
+We could experience a failure of a key information technology system, process or site or a breach of information security, including a cybersecurity breach or failure of one or more key information technology systems, networks, processes, associated sites or service providers.
+
+We rely extensively on information technology (IT) systems to conduct business. In addition, we rely on networks and services, including internet sites, data hosting and processing facilities and tools and other hardware, software and technical applications and platforms, some of which are managed, hosted, provided and/or used by third-parties or their vendors, to assist in conducting our business. Numerous and evolving cybersecurity threats pose potential risks to the security of our IT systems, networks and services, as well as the confidentiality, availability and integrity of our data. While we have made investments seeking to address these threats, including monitoring of networks and systems, hiring of experts, employee training and security policies for employees and third-party providers, the techniques used in these attacks change frequently and may be difficult to detect for periods of time and we may face difficulties in anticipating and implementing adequate preventative measures. If our IT systems are damaged or cease to function properly, the networks or service providers we rely upon fail to function properly, or we or one of our third-party providers suffer a loss or disclosure of our business or stakeholder information due to any number of causes ranging from catastrophic events or power outages to improper data handling or security breaches and our business continuity plans do not effectively address these failures on a timely basis, we may be exposed to reputational, competitive and business harm as well as litigation and regulatory action. In addition, the COVID-19 pandemic may increase the risk of such vulnerability and attacks, including unauthorized access or attacks exploiting the fact that a large number of employees are working remotely during government shutdowns and closures. Enforcement of the General Data Protection Regulation (“GDPR”) was effective as of May 2018. The GDPR is focused on the protection of personal data not merely the privacy of personal data. The GDPR creates a range of new compliance obligations and will significantly increase financial penalties for noncompliance (including possible fines of up to 4% of global annual revenues for the preceding financial year or €20 million (whichever is higher) for the most serious infringements).
+
+ITEM 1B.
+
+UNRESOLVED STAFF COMMENTS
+
+None. 
+
+ 18
+
+Table of Contents
+
+ITEM 2.       PROPERTIES 
+
+The following discussion sets forth materially important properties of the Company and its subsidiaries as of March 31, 2020. The Company believes that its facilities are adequate for operations and are maintained in good condition. The Company is confident that, if needed, it will be able to acquire additional facilities at commercially reasonable rates. In the following discussion “International” is defined as all countries other than Ireland and the United States.
+
+The Company’s principal executive office is located in Dublin, Ireland and its primary administrative offices are located in Mentor, OH (U.S.). 
+
+The Company owns 44 and leases 11 contact sterilization locations, utilized in the Applied Sterilization Technologies Segment that are located in major population centers and core distribution corridors throughout the Americas, Europe and Asia.
+
+The Company operates over 75 locations representing sales, administrative and operational locations in the U.S. and 19 other countries, the majority of which are leased and support one or multiple business segments. Operational locations are primarily comprised of service centers and distribution warehouses. Our locations are geographically spread to be in close proximity to our Customers to ensure timely delivery of products and services.
+
+The Company owns and leases several material manufacturing locations that support one or more of our Healthcare Products, Healthcare Specialty Services and Life Sciences segments, which are disclosed in the following table:
+
+Location
+
+  
+
+U.S./INTL*
+
+  
+
+Leased/Owned
+
+Montgomery, AL
+
+ 
+
+U.S.
+
+ 
+
+Owned/Leased
+
+St. Louis, MO
+
+ 
+
+U.S.
+
+ 
+
+Owned/Leased
+
+Mentor, OH
+
+ 
+
+U.S.
+
+ 
+
+Owned/Leased
+
+Sharon Hill, PA
+
+ 
+
+U.S.
+
+ 
+
+Owned
+
+Franklin Park, IL
+
+ 
+
+U.S.
+
+ 
+
+Leased
+
+Point Richmond, CA
+
+ 
+
+U.S.
+
+ 
+
+Leased
+
+Quebec City, Canada
+
+ 
+
+INTL
+
+ 
+
+Owned
+
+Tuusula, Finland
+
+ 
+
+INTL
+
+ 
+
+Owned/Leased
+
+Bordeaux, France
+
+ 
+
+INTL
+
+ 
+
+Owned
+
+Leicester, England
+
+ 
+
+INTL
+
+ 
+
+Owned/Leased
+
+Shanghai, China
+
+ 
+
+INTL
+
+ 
+
+Leased
+
+Guadalupe, Mexico
+
+ 
+
+INTL
+
+ 
+
+Leased
+
+Bishop Stortford, England
+
+ 
+
+INTL
+
+ 
+
+Leased
+
+* International includes all countries other than Ireland and the U.S.
+
+ITEM 3.
+
+LEGAL PROCEEDINGS
+
+Information regarding our legal proceedings is included in Item 7 of Part II, Management's Discussion and Analysis ("MD&A"), and 
+
+Note 10
+
+ of our consolidated financial statements titled, "Commitments and Contingencies," and is incorporated herein by reference thereto.
+
+ITEM 4.    MINE SAFETY DISCLOSURES
+
+None.
+
+ 19
+
+Table of Contents
+
+PART II
+
+ITEM 5.
+
+MARKET FOR REGISTRANT’S ORDINARY EQUITY, RELATED SHAREHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES
+
+Market Information. 
+
+Our ordinary shares are traded on the New York Stock Exchange under the symbol “STE.”
+
+Holders.
+
+ As of 
+
+March 31, 2020
+
+, there were approximately 1,040 holders of record of our ordinary shares. 
+
+Dividend Policy.
+
+ The Company’s Board of Directors decides the timing and amount of any dividends we may pay. The Board expects to be able to continue to pay cash dividends for the foreseeable future.
+
+Purchases of Equity Securities by the Issuer and Affiliated Purchasers.
+
+ On August 9, 2016, STERIS UK announced that its Board of Directors had authorized the purchase of up to 
+
+$300.0 million
+
+ (net of taxes, fees and commissions) of our ordinary shares. As a result of the Redomiciliation, this authorization terminated. 
+
+On May 7, 2019, our Board of Directors authorized the continuation of the foregoing share repurchase program by STERIS plc, resulting in a share repurchase authorization of 
+
+$79.0 million
+
+ (net of taxes, fees and commissions). On July 30, 2019, our Board of Directors approved an increase in the May 7, 2019 authorization of an additional amount of $300.0 million (net of taxes, fees and commissions).
+
+ As of  March 31, 2020, there was approximately 
+
+$339.0 million
+
+ (net of taxes, fees and commissions) of remaining availability under the authorizations. 
+
+Under the authorizations, shares may be repurchased from time to time through open market transactions, including 10b5-1 plans. Any repurchase program may be activated, suspended or discontinued at any time.
+
+We purchased 273,259 of our ordinary shares during fiscal 
+
+2020
+
+ for the aggregate amount of $40.0 million, pursuant to the 2019 authorizations.
+
+The following table presents information with respect to purchases STERIS made of its ordinary shares during the fourth quarter of fiscal year 
+
+2020
+
+:
+
+ 
+
+ 
+
+(a)
+
+Total Number of
+
+Shares Purchased
+
+ 
+
+(b)
+
+Average Price Paid
+
+Per Share
+
+ 
+
+(c)
+
+Total Number of
+
+Shares Purchased as
+
+Part of Publicly
+
+Announced Plans
+
+ 
+
+(d)
+
+Maximum Dollar Value  of Shares that May Yet Be Purchased Under the
+
+Plans at Period End (dollars in thousands)
+
+January 1-31
+
+ 
+
+—
+
+  
+
+$
+
+—
+
+  
+
+—
+
+ 
+
+$
+
+348,979
+
+February 1-29
+
+ 
+
+22,500
+
+  
+
+166.20
+
+  
+
+22,500
+
+ 
+
+345,239
+
+March 1-31
+
+ 
+
+45,700
+
+  
+
+136.55
+
+  
+
+45,700
+
+ 
+
+338,979
+
+Total
+
+ 
+
+68,200
+
+(1)
+
+ 
+
+$
+
+146.08
+
+(1)
+
+ 
+
+68,200
+
+ 
+
+$
+
+338,979
+
+(1)
+
+ Does not include 8 shares purchased during the quarter at an average price of $151.44 per share by the STERIS Corporation 401(k) Plan on behalf of an executive officer of the Company who may be deemed to be an affiliated purchaser.
+
+ 20
+
+Table of Contents
+
+ITEM 6.    SELECTED FINANCIAL DATA
+
+ 
+
+ 
+
+Years Ended March 31,
+
+(in thousands, except per share data)
+
+ 
+
+2020 
+
+(1) 
+
+ 
+
+2019 
+
+(1) (2)
+
+ 
+
+2018
+
+ (2)
+
+ 
+
+2017
+
+ (2) 
+
+ 
+
+2016 
+
+(2)
+
+Statements of Income Data:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Revenues
+
+ 
+
+$
+
+3,030,895
+
+ 
+
+$
+
+2,782,170
+
+ 
+
+$
+
+2,619,996
+
+ 
+
+$
+
+2,612,756
+
+ 
+
+$
+
+2,238,764
+
+Gross profit
+
+ 
+
+1,319,923
+
+ 
+
+1,175,427
+
+ 
+
+1,092,746
+
+ 
+
+1,026,213
+
+ 
+
+895,348
+
+Restructuring expenses
+
+ 
+
+673
+
+ 
+
+30,987
+
+ 
+
+103
+
+ 
+
+215
+
+ 
+
+(820
+
+)
+
+Income from continuing operations
+
+ 
+
+536,973
+
+ 
+
+411,465
+
+ 
+
+399,883
+
+ 
+
+226,206
+
+ 
+
+237,576
+
+Income taxes
+
+ 
+
+90,876
+
+ 
+
+64,394
+
+ 
+
+63,360
+
+ 
+
+74,015
+
+ 
+
+60,299
+
+Net income attributable to shareholders
+
+ 
+
+407,605
+
+ 
+
+304,051
+
+ 
+
+290,915
+
+ 
+
+109,965
+
+ 
+
+110,763
+
+Basic income per ordinary share:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Net income
+
+ 
+
+$
+
+4.81
+
+ 
+
+$
+
+3.59
+
+ 
+
+$
+
+3.42
+
+ 
+
+$
+
+1.29
+
+ 
+
+$
+
+1.57
+
+Shares used in computing net income per ordinary share – basic
+
+ 
+
+84,778
+
+ 
+
+84,577
+
+ 
+
+85,028
+
+ 
+
+85,473
+
+ 
+
+70,698
+
+Diluted income per ordinary share:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Net income
+
+ 
+
+$
+
+4.76
+
+ 
+
+$
+
+3.56
+
+ 
+
+$
+
+3.39
+
+ 
+
+$
+
+1.28
+
+ 
+
+$
+
+1.56
+
+Shares used in computing net income per ordinary share – diluted
+
+ 
+
+85,641
+
+ 
+
+85,468
+
+ 
+
+85,713
+
+ 
+
+86,094
+
+ 
+
+71,184
+
+Dividends per ordinary share
+
+ 
+
+$
+
+1.45
+
+ 
+
+$
+
+1.33
+
+ 
+
+$
+
+1.21
+
+ 
+
+$
+
+1.09
+
+ 
+
+$
+
+0.98
+
+Balance Sheets Data:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Working capital
+
+ 
+
+$
+
+705,144
+
+ 
+
+$
+
+588,539
+
+ 
+
+$
+
+591,195
+
+ 
+
+$
+
+636,219
+
+ 
+
+$
+
+571,919
+
+Total assets
+
+ 
+
+5,425,582
+
+ 
+
+5,073,071
+
+ 
+
+5,200,334
+
+ 
+
+4,924,555
+
+ 
+
+5,346,416
+
+Long-term indebtedness
+
+ 
+
+1,150,521
+
+ 
+
+1,183,227
+
+ 
+
+1,316,001
+
+ 
+
+1,478,361
+
+ 
+
+1,567,796
+
+Total liabilities
+
+ 
+
+2,018,858
+
+ 
+
+1,887,273
+
+ 
+
+1,983,034
+
+ 
+
+2,114,422
+
+ 
+
+2,307,524
+
+Total shareholders’ equity
+
+ 
+
+$
+
+3,393,876
+
+ 
+
+$
+
+3,177,810
+
+ 
+
+$
+
+3,205,960
+
+ 
+
+$
+
+2,798,602
+
+ 
+
+$
+
+3,023,034
+
+(1)
+
+ See “Management’s Discussion and Analysis of Financial Condition and Results of Operations.”
+
+(2)
+
+ As a result of our adoption of ASU 2017-07, prior year amounts on our Consolidated Statements of Income have been reclassified to retroactively apply the components of the net periodic benefit cost of our defined benefit pension plans and our other post-retirements benefit plan. 
+
+.
+
+ 21
+
+Table of Contents
+
+ITEM 7.
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL  CONDITION AND RESULTS OF OPERATIONS 
+
+INTRODUCTION
+
+In Management’s Discussion and Analysis (“MD&A”), we explain the general financial condition and the results of operations for STERIS and its subsidiaries including:
+
+•
+
+what factors affect our business;
+
+•
+
+what our earnings and costs were;
+
+•
+
+why those earnings and costs were different from the year before;
+
+•
+
+where our earnings came from;
+
+•
+
+how this affects our overall financial condition;
+
+•
+
+what our expenditures for capital projects were; and
+
+•
+
+where cash will come from to fund future debt principal repayments, growth outside of core operations, repurchase ordinary shares, pay cash dividends and fund future working capital needs.
+
+The MD&A also analyzes and explains the annual changes in the specific line items in the Consolidated Statements of Income. As you read the MD&A, it may be helpful to refer to information in Item 1, “Business,” Item 6, “Selected Financial Data,” and our consolidated financial statements, which present the results of our operations for fiscal 
+
+2020
+
+, 
+
+2019
+
+ and 2018 as well as Part I, Item 1A, “Risk Factors” and 
+
+Note 10
+
+ of our consolidated financial statements titled, "Commitments and Contingencies" for a discussion of some of the matters that can adversely affect our business and results of operations. This information, discussion, and disclosure may be important to you in making decisions about your investments in STERIS.
+
+Information on our financial condition and results of our operations for our 2018 fiscal year period can be found in Item 7 titled, “Management’s Discussion and Analysis of Financial Condition and Results of Operations", of our Annual Report on Form 10-K for the fiscal year ended March 31, 2019, filed with the SEC on May 30, 2019. 
+
+FINANCIAL MEASURES
+
+In the following sections of the MD&A, we may, at times, refer to financial measures that are not required to be presented in the consolidated financial statements under U.S. GAAP. We sometimes use the following financial measures in the context of this report: backlog; debt-to-total capital; and days sales outstanding. We define these financial measures as follows:
+
+•
+
+Backlog
+
+ – We define backlog as the amount of unfilled capital equipment purchase orders at a point in time. We use this figure as a measure to assist in the projection of short-term financial results and inventory requirements.
+
+•
+
+Debt-to-total capital
+
+ – We define debt-to-total capital as total debt divided by the sum of total debt and shareholders’ equity. We use this figure as a financial liquidity measure to gauge our ability to borrow and fund growth.
+
+•
+
+Days sales outstanding (“DSO”)
+
+ – We define DSO as the average collection period for accounts receivable. It is calculated as net accounts receivable divided by the trailing four quarters’ revenues, multiplied by 365 days. We use this figure to help gauge the quality of accounts receivable and expected time to collect.
+
+We, at times, may also refer to financial measures which are considered to be “non-GAAP financial measures” under SEC rules. We have presented these financial measures because we believe that meaningful analysis of our financial performance is enhanced by an understanding of certain additional factors underlying that performance. These financial measures should not be considered an alternative to measures required by accounting principles generally accepted in the United States. Our calculations of these measures may differ from calculations of similar measures used by other companies and you should be careful when comparing these financial measures to those of other companies. Additional information regarding these financial measures, including reconciliations of each non- GAAP financial measure, is available in the subsection of MD&A titled, "Non-GAAP Financial Measures."
+
+ 22
+
+Table of Contents
+
+REVENUES– DEFINED
+
+As required by Regulation S-X, we separately present revenues generated as either product revenues or service revenues on our Consolidated Statements of Income for each period presented. When we discuss revenues, we may, at times, refer to revenues summarized differently than the Regulation S-X requirements. The terminology, definitions, and applications of terms that we use to describe revenues may be different from terms used by other companies. We use the following terms to describe revenues:
+
+•
+
+Revenues
+
+ – Our revenues are presented net of sales returns and allowances.
+
+•
+
+Product Revenues
+
+ – We define product revenues as revenues generated from sales of consumable and capital equipment products.
+
+•
+
+Service Revenues
+
+ – We define service revenues as revenues generated from parts and labor associated with the maintenance, repair, and installation of our capital equipment. Service revenues also include hospital sterilization services, instrument and scope repairs, and linen management as well as revenues generated from contract sterilization and laboratory services offered through our Applied Sterilization Technologies segment. 
+
+•
+
+Capital Equipment Revenues
+
+ – We define capital equipment revenues as revenues generated from sales of capital equipment, which includes steam sterilizers, low temperature liquid chemical sterilant processing systems, including SYSTEM 1 and 1E, washing systems, VHP
+
+®
+
+ technology, water stills, and pure steam generators; surgical lights and tables; and integrated OR.
+
+•
+
+Consumable Revenues
+
+ – We define consumable revenues as revenues generated from sales of the consumable family of products, which includes SYSTEM 1 and 1E consumables, V-PRO consumables, gastrointestinal endoscopy accessories, sterility assurance products, skin care products, cleaning consumables, barrier product solutions and surgical instruments. 
+
+•
+
+Recurring Revenues
+
+ – We define recurring revenues as revenues generated from sales of consumable products and service revenues.
+
+GENERAL OVERVIEW AND EXECUTIVE SUMMARY
+
+STERIS plc is a leading provider of infection prevention and other procedural products and services. Our MISSION IS TO HELP OUR CUSTOMERS CREATE A HEALTHIER AND SAFER WORLD by providing innovative healthcare and life science product and service solutions around the globe. We offer our Customers a unique mix of innovative consumable products, such as detergents, gastrointestinal ("GI") endoscopy accessories, barrier product solutions, and other products and services, including: equipment installation and maintenance, microbial reduction of medical devices, instrument and scope repair solutions, laboratory testing services, on-site and off-site reprocessing, and capital equipment products, such as sterilizers and surgical tables, and connectivity solutions such as operating room (“OR”) integration.
+
+On March 28, 2019, STERIS plc, a public limited company organized under the laws of England and Wales (“STERIS UK”), completed a redomiciliation from the United Kingdom to Ireland (the “Redomiciliation”). The Redomiciliation was achieved through the insertion of a new Irish public limited holding company (“STERIS Ireland”) on top of STERIS UK pursuant to a court-approved scheme of arrangement under English law (the “Scheme”).  Following the Scheme effectiveness, STERIS UK was re-registered as a private limited company with the name STERIS Limited, and STERIS Emerald IE Limited, a company established in Ireland and a wholly-owned direct subsidiary of STERIS Ireland, was interposed as the direct parent company of STERIS UK.
+
+We operate and report in four reportable business segments: Healthcare Products, Healthcare Specialty Services, Life Sciences, and Applied Sterilization Technologies. We describe our business segments in 
+
+Note 11
+
+ to our consolidated financial statements, titled "Business Segment Information."
+
+The bulk of our revenues are derived from the healthcare, medical device and pharmaceutical industries. Much of the growth in these industries is driven by the aging of the population throughout the world, as an increasing number of individuals are entering their prime healthcare consumption years, and is dependent upon advancement in healthcare delivery, acceptance of new technologies, government policies, and general economic conditions. The pharmaceutical industry has been impacted by increased regulatory scrutiny of cleaning and validation processes, mandating that manufacturers improve their processes. Within healthcare, there is increased concern regarding the level of hospital acquired infections around the world; increased demand for medical procedures, including preventive screenings such as endoscopies and colonoscopies; and a desire by our Customers to operate more efficiently, all which are driving increased demand for many of our products and services. The COVID-19 pandemic is resulting in the deferral of certain elective medical procedures, which is negatively impacting the demand for some of our products and services.  
+
+ We completed several tuck in acquisitions and asset purchases in fiscal 2020 and 2019 that expanded our product and service offerings to our Customers.
+
+ 23
+
+Table of Contents
+
+During fiscal 2020, we sold the operations of our Healthcare Specialty Services business that were located in China with annual revenues of approximately $5.0 million. 
+
+We continue to invest in manufacturing in-sourcing projects and lean process improvements for the purpose of improving quality, cost and delivery of our products to our Customers.
+
+U.S. Tax Reform. 
+
+On December 22, 2017, the U.S. government enacted comprehensive tax legislation commonly referred to as the Tax Cuts and Jobs Act (the “TCJA”). The TCJA made broad and complex changes to the U.S. tax code including, but not limited to, (1) reduction of the U.S. federal corporate income tax rate; (2) elimination of the corporate alternative minimum tax ("AMT"); (3) the creation of the base erosion anti-abuse tax ("BEAT"), a new minimum tax; (4) a general elimination of U.S. federal income taxes on dividends from non-U.S. subsidiaries; (5) a new provision designed to tax global intangible low-taxed income ("GILTI"), which allows for the possibility of using foreign tax credits ("FTCs") and a deduction of up to 50 percent to offset the income tax liability (subject to some limitations); (6) a new limitation on deductible interest expense; (7) the repeal of the domestic production activity deduction; (8) limitations on the deductibility of certain executive compensation; (9) limitations on the use of FTCs to reduce the U.S. income tax liability; and (10) limitations on net operating losses ("NOLs") generated after December 31, 2017, to 80.0 percent of taxable income.
+
+Fiscal 2019 Restructuring Plan. 
+
+During the third quarter of fiscal year 2019, we adopted and announced a targeted restructuring plan (the “Fiscal 2019 Restructuring Plan”), which included the closure of two manufacturing facilities, one in Brazil and one in England, as well as other actions including, the rationalization of certain products. Fewer than 200 positions were eliminated. The Company has relocated the production of certain impacted products to other existing manufacturing operations during fiscal 2020. These restructuring actions were designed to enhance profitability and improve efficiency. For additional information on restructuring see the subsection titled "Restructuring Expenses", located in the Results of Operations section of this MD&A, or Note 2 of our Consolidated Financial Statements, titled "Restructuring".
+
+Highlights. 
+
+ Revenues increased 
+
+$248.7 million
+
+, or 
+
+8.9%
+
+, to 
+
+$3,030.9 million
+
+ for the year ended 
+
+March 31, 2020
+
+, as compared to 
+
+$2,782.2 million
+
+ for the year ended 
+
+March 31, 2019
+
+. This increase reflects organic growth in all business segments, which was partially offset by unfavorable fluctuations in currencies.
+
+Fiscal 2020 operating income increased 
+
+30.5%
+
+ to 
+
+$537.0 million
+
+ over fiscal 2019 operating income of 
+
+$411.5 million
+
+. The increase is primarily attributable to lower restructuring expenses, increased revenue volumes and higher gross margin attainment in fiscal 2020 over fiscal 2019.
+
+ Net cash flows from operations were 
+
+$590.6 million
+
+ and free cash flow was 
+
+$380.2 million
+
+ in fiscal 2020 compared to net cash flows from operations of 
+
+$539.5 million
+
+ and free cash flow of 
+
+$355.4 million
+
+ in fiscal 2019 (see subsection of MD&A titled, "Non-GAAP Financial Measures" for additional information and related reconciliation of non-GAAP financial measures to the most comparable GAAP measures). The increase in free cash flow is primarily due to the improvement in cash from operations.
+
+ Our debt-to-total capital ratio was 
+
+25.3%
+
+ at 
+
+March 31, 2020
+
+. During the year, we increased our quarterly dividend for the fourteenth consecutive year to $0.37 per share per quarter.
+
+Outlook.
+
+  In fiscal 2021 and beyond, we expect to continue to manage our costs, grow our business with internal product and service development, invest in greater capacity, and augment these value creating methods with potential acquisitions of additional products and services.
+
+However, the COVID-19 pandemic began to impact our business late in fiscal 2020. The coronavirus pandemic and related public health recommendations and mandated precautions to mitigate the spread of COVID-19, including deferral of medical procedures and treatments and shelter-in-place orders or similar measures, is negatively affecting, and is expected to continue to affect some of our operations which would impact our financial position and cash flows in fiscal 2021. We have experienced and expect to continue to experience unpredictable fluctuations in demand for certain of our products and services, including some products and services that are experiencing increased demand.  
+
+We cannot predict the ultimate impact that the COVID-19 pandemic and related actions will have on our Customers’ operations, financial position and cash flows and therefore, on the demand for our products and services.  
+
+Further, the broader economic impact of the COVID-19 pandemic response could cause interest rate variability and generate unanticipated fluctuations in currency rates that impact our revenues and costs outside of the United States, creating variability in our results.
+
+As a result, we are unable to estimate the ultimate impact of the COVID-19 pandemic to our consolidated results of operations, financial position and cash flows for fiscal 2021 and beyond.
+
+ 24
+
+Table of Contents
+
+NON-GAAP FINANCIAL MEASURES
+
+We, at times, refer to financial measures which are considered to be “non-GAAP financial measures” under SEC rules. We, at times, also refer to our results of operations excluding certain transactions or amounts that are non-recurring or are not indicative of future results, in order to provide meaningful comparisons between the periods presented.
+
+These non-GAAP financial measures are not intended to be, and should not be, considered separately from or as an alternative to the most directly comparable GAAP financial measures.
+
+These non-GAAP financial measures are presented with the intent of providing greater transparency to supplemental financial information used by management and the Board of Directors in their financial analysis and operational decision-making. These amounts are disclosed so that the reader has the same financial data that management uses with the belief that it will assist investors and other readers in making comparisons to our historical operating results and analyzing the underlying performance of our operations for the periods presented.
+
+We believe that the presentation of these non-GAAP financial measures, when considered along with our GAAP financial measures and the reconciliation to the corresponding GAAP financial measures, provide the reader with a more complete understanding of the factors and trends affecting our business than could be obtained absent this disclosure. It is important for the reader to note that the non-GAAP financial measure used may be calculated differently from, and therefore may not be comparable to, a similarly titled measure used by other companies.
+
+We define free cash flow as net cash provided by operating activities as presented in the Consolidated Statements of Cash Flows less purchases of property, plant, equipment, and intangibles plus proceeds from the sale of property, plant, equipment, and intangibles, which are also presented within investing activities in the Consolidated Statements of Cash Flows. We use this as a measure to gauge our ability to pay cash dividends, fund growth outside of core operations, fund future debt principal repayments, and repurchase shares. The following table summarizes the calculation of our free cash flow for the years ended 
+
+March 31, 2020
+
+ and 
+
+2019
+
+:
+
+ 
+
+ 
+
+Years Ended March 31,
+
+(dollars in thousands)
+
+ 
+
+2020
+
+ 
+
+2019
+
+Net cash flows provided by operating activities
+
+ 
+
+$
+
+590,559
+
+ 
+
+$
+
+539,505
+
+Purchases of property, plant, equipment and intangibles, net
+
+ 
+
+(214,516
+
+)
+
+ 
+
+(189,715
+
+)
+
+Proceeds from the sale of property, plant, equipment and intangibles
+
+ 
+
+4,156
+
+ 
+
+5,567
+
+Free cash flow
+
+ 
+
+$
+
+380,199
+
+ 
+
+$
+
+355,357
+
+RESULTS OF OPERATIONS
+
+The COVID-19 pandemic began to impact our business late in fiscal 2020 and therefore did not have a material impact on our fiscal 2020 results of operations.
+
+In the following subsections, we discuss our earnings and the factors affecting them. We begin with a general overview of our operating results and then separately discuss earnings for our operating segments.
+
+ 25
+
+Table of Contents
+
+FISCAL 2020 AS COMPARED TO FISCAL 2019
+
+Revenues.
+
+ The following table compares our revenues, in total and by type and geography, for the year ended 
+
+March 31, 2020
+
+ to the year ended 
+
+March 31, 2019
+
+:
+
+ 
+
+ 
+
+Years Ended March 31,
+
+ 
+
+ 
+
+ 
+
+Percent
+
+(dollars in thousands)
+
+ 
+
+2020
+
+ 
+
+2019
+
+ 
+
+Change
+
+ 
+
+Change
+
+Total revenues
+
+ 
+
+$
+
+3,030,895
+
+ 
+
+$
+
+2,782,170
+
+ 
+
+$
+
+248,725
+
+ 
+
+8.9
+
+%
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Revenues by type:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Service revenues
+
+ 
+
+1,628,107
+
+ 
+
+1,486,145
+
+ 
+
+141,962
+
+ 
+
+9.6
+
+%
+
+Consumable revenues
+
+ 
+
+672,329
+
+ 
+
+605,631
+
+ 
+
+66,698
+
+ 
+
+11.0
+
+%
+
+Capital equipment revenues
+
+ 
+
+730,459
+
+ 
+
+690,394
+
+ 
+
+40,065
+
+ 
+
+5.8
+
+%
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Revenues by geography:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ireland revenues
+
+ 
+
+63,821
+
+ 
+
+56,784
+
+ 
+
+7,037
+
+ 
+
+12.4
+
+%
+
+United States revenues
+
+ 
+
+2,211,722
+
+ 
+
+1,976,814
+
+ 
+
+234,908
+
+ 
+
+11.9
+
+%
+
+Other foreign revenues
+
+ 
+
+755,352
+
+ 
+
+748,572
+
+ 
+
+6,780
+
+ 
+
+0.9
+
+%
+
+Revenues increased 
+
+$248.7 million
+
+, or 
+
+8.9%
+
+, to 
+
+$3,030.9 million
+
+ for the year ended 
+
+March 31, 2020
+
+, as compared to 
+
+$2,782.2 million
+
+ for the year ended 
+
+March 31, 2019
+
+. This increase reflects organic growth in all business segments and favorable pricing, which was partially offset by unfavorable fluctuations in currencies.
+
+Service revenues for fiscal 
+
+2020
+
+ increased 
+
+$142.0 million
+
+, or 
+
+9.6%
+
+ over fiscal 
+
+2019
+
+, reflecting growth in all business segments. Consumable revenues for fiscal 
+
+2020
+
+ increased 
+
+$66.7 million
+
+, or 
+
+11.0%
+
+, over fiscal 
+
+2019
+
+, reflecting growth in the Healthcare Products and Life Sciences segments. Capital equipment revenues for fiscal 
+
+2020
+
+ increased by 
+
+$40.1 million
+
+, or 
+
+5.8%
+
+, over fiscal 
+
+2019
+
+, reflecting strong shipment volumes in the Healthcare Products and Life Science business segments.
+
+Ireland revenues for fiscal 
+
+2020
+
+ were 
+
+$63.8 million
+
+, representing an increase of 
+
+$7.0 million
+
+, or 
+
+12.4%
+
+, over fiscal 
+
+2019
+
+ revenues of 
+
+$56.8 million
+
+, reflecting strong growth in service revenues.
+
+United States revenues for fiscal 
+
+2020
+
+ were 
+
+$2,211.7 million
+
+, representing an increase of 
+
+$234.9 million
+
+, or 
+
+11.9%
+
+, over fiscal 
+
+2019
+
+ revenues of 
+
+$1,976.8 million
+
+, reflecting double digit growth in service, consumable and capital equipment revenues. 
+
+Revenues from other foreign locations for fiscal 
+
+2020
+
+ were 
+
+$755.4 million
+
+, representing an increase of 
+
+0.9%
+
+ over the fiscal 
+
+2019
+
+ revenues of 
+
+$748.6 million
+
+, reflecting strength in Canada and the Latin America region. The Europe, Middle East and Africa ("EMEA") region slightly declined primarily due to actions taken in conjunction with the 2019 Restructuring Plan.
+
+Gross Profit.
+
+ The following table compares our gross profit for the year ended 
+
+March 31, 2020
+
+ to the year ended 
+
+March 31, 2019
+
+:
+
+ 
+
+ 
+
+ 
+
+Years Ended March 31,
+
+ 
+
+Change
+
+ 
+
+Percent
+
+Change
+
+(dollars in thousands)
+
+ 
+
+2020
+
+ 
+
+2019
+
+ 
+
+Gross profit:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Product
+
+ 
+
+$
+
+652,586
+
+ 
+
+$
+
+593,730
+
+ 
+
+$
+
+58,856
+
+ 
+
+9.9
+
+%
+
+Service
+
+ 
+
+667,337
+
+ 
+
+581,697
+
+ 
+
+85,640
+
+ 
+
+14.7
+
+%
+
+Total gross profit
+
+ 
+
+$
+
+1,319,923
+
+ 
+
+$
+
+1,175,427
+
+ 
+
+$
+
+144,496
+
+ 
+
+12.3
+
+%
+
+Gross profit percentage:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Product
+
+ 
+
+46.5
+
+%
+
+ 
+
+45.8
+
+%
+
+ 
+
+ 
+
+ 
+
+ 
+
+Service
+
+ 
+
+41.0
+
+%
+
+ 
+
+39.1
+
+%
+
+ 
+
+ 
+
+ 
+
+ 
+
+Total gross profit percentage
+
+ 
+
+43.5
+
+%
+
+ 
+
+42.2
+
+%
+
+ 
+
+ 
+
+ 
+
+ 
+
+Our gross profit is affected by the volume, pricing and mix of sales of our products and services, as well as the costs associated with the products and services that are sold. Our gross profit increased 
+
+$144.5 million
+
+ and gross profit percentage increased 130 basis points to 
+
+43.5%
+
+ for fiscal 
+
+2020
+
+ as compared to 
+
+42.2%
+
+ for fiscal 
+
+2019
+
+. The increase in gross margin percentage is primarily due to the favorable impact of pricing (50 basis points), lower current period expenses related to the Fiscal 2019 Restructuring Plan (20 basis points), our recent divestitures (10 basis points) and mix and other adjustments (50 basis points). Productivity enhancements fully offset material, labor and facility cost increases. 
+
+ 26
+
+Table of Contents
+
+Operating Expenses.
+
+ The following table compares our operating expenses for the year ended 
+
+March 31, 2020
+
+ to the year ended 
+
+March 31, 2019
+
+:
+
+ 
+
+ 
+
+Years Ended March 31,
+
+ 
+
+Change
+
+ 
+
+Percent
+
+Change
+
+(dollars in thousands)
+
+ 
+
+2020
+
+ 
+
+2019
+
+ 
+
+Operating expenses:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Selling, general, and administrative
+
+ 
+
+$
+
+716,731
+
+ 
+
+$
+
+669,937
+
+ 
+
+$
+
+46,794
+
+ 
+
+7.0
+
+%
+
+Research and development
+
+ 
+
+65,546
+
+ 
+
+63,038
+
+ 
+
+2,508
+
+ 
+
+4.0
+
+%
+
+Restructuring expenses
+
+ 
+
+673
+
+ 
+
+30,987
+
+ 
+
+(30,314
+
+)
+
+ 
+
+NM
+
+Total operating expenses
+
+ 
+
+$
+
+782,950
+
+ 
+
+$
+
+763,962
+
+ 
+
+$
+
+18,988
+
+ 
+
+2.5
+
+%
+
+NM - Not meaningful
+
+Selling, General, and Administrative Expenses. 
+
+Significant components of total selling, general, and administrative expenses (“SG&A”) are compensation and benefit costs, fees for professional services, travel and entertainment, facilities costs, gains or losses from divestitures, and other general and administrative expenses. SG&A increased 
+
+7.0%
+
+ in fiscal 
+
+2020
+
+ over fiscal 
+
+2019
+
+. Volume sensitive costs like commissions and third party purchasing organization fees increased 15% in fiscal 2020 over fiscal 2019, but continue to be approximately 3% of revenues. Higher compensation costs related to our annual employee bonus and additional operating expenses from our newly acquired businesses also contributed to the fiscal 2020 increase.
+
+Research and Development. 
+
+Research and development expenses increased 
+
+$2.5 million
+
+ during fiscal 
+
+2020
+
+, as compared to fiscal 
+
+2019
+
+, due primarily to increased spending within the Healthcare Products segment. Research and development expenses are influenced by the number and timing of in-process projects and labor hours and other costs associated with these projects. Our research and development initiatives continue to emphasize new product development, product improvements, and the development of new technological platform innovations. During fiscal 
+
+2020
+
+, our investments in research and development continued to be focused on, but were not limited to, enhancing capabilities of sterile processing combination technologies, procedural products and accessories, and devices and support accessories used in gastrointestinal endoscopy procedures.
+
+Restructuring Expenses
+
+.  
+
+During the third quarter of fiscal 2019, we adopted and announced a targeted restructuring plan (the "Fiscal 2019 Restructuring Plan"), which included the closure of two manufacturing facilities, one in Brazil and one in England, as well as other actions including the rationalization of certain products. Fewer than 
+
+200
+
+ positions were eliminated. The Company has relocated the production of certain impacted products to other existing manufacturing operations during fiscal 2020. These restructuring actions were designed to enhance profitability and improve efficiency. 
+
+We have incurred pre-tax expenses totaling 
+
+$43.9 million
+
+ related to these restructuring actions, of which 
+
+$31.7 million
+
+ was recorded as restructuring expenses and 
+
+$12.2 million
+
+ was recorded in cost of revenues, with a total of 
+
+$31.2 million
+
+, 
+
+$2.5 million
+
+, 
+
+$0.7 million
+
+, and 
+
+$7.8 million
+
+ related to the Healthcare Products, Healthcare Specialty Services, Life Sciences, and Applied Sterilization Technologies segments, respectively. Corporate related restructuring charges were 
+
+$1.7 million
+
+. Additional restructuring expenses related to this plan are not expected to be material to our results of operations.
+
+ 
+
+The following table summarizes our total pre-tax restructuring expenses for fiscal 2020 and 2019:
+
+Fiscal 2019 Restructuring Plan
+
+Year Ended March 31, 2020
+
+Year Ended March 31, 2019
+
+(dollars in thousands)
+
+ 
+
+ 
+
+Severance and other compensation related costs
+
+$
+
+1,554
+
+$
+
+5,651
+
+         Accelerated depreciation and amortization
+
+—
+
+16,194
+
+        (Gain) on disposal of asset
+
+(1,164
+
+)
+
+—
+
+         Asset impairment
+
+—
+
+4,312
+
+Lease termination costs and other
+
+283
+
+4,830
+
+Product rationalization 
+
+(1)
+
+2,470
+
+9,721
+
+Total restructuring expenses 
+
+$
+
+3,143
+
+$
+
+40,708
+
+(1) Recorded in cost of revenues on the Consolidated Statements of Income.
+
+Non-Operating Expenses, Net.
+
+ Non-operating expense (income), net consists of interest expense on debt, offset by interest earned on cash, cash equivalents, short-term investment balances, and other miscellaneous expense. The following table 
+
+ 27
+
+Table of Contents
+
+compares our non-operating expense (income), net for the year ended 
+
+March 31, 2020
+
+ to the year ended 
+
+March 31, 2019
+
+:
+
+ 
+
+ 
+
+Years Ended March 31,
+
+ 
+
+ 
+
+(dollars in thousands)
+
+ 
+
+2020
+
+ 
+
+2019
+
+ 
+
+Change
+
+Non-operating expenses, net:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Interest expense
+
+ 
+
+$
+
+40,279
+
+ 
+
+$
+
+45,015
+
+ 
+
+$
+
+(4,736
+
+)
+
+Interest income and miscellaneous expense
+
+ 
+
+(1,987
+
+)
+
+ 
+
+(3,020
+
+)
+
+ 
+
+1,033
+
+Non-operating expenses, net
+
+ 
+
+$
+
+38,292
+
+ 
+
+$
+
+41,995
+
+ 
+
+$
+
+(3,703
+
+)
+
+Interest expense decreased 
+
+$4.7 million
+
+ during fiscal 
+
+2020
+
+, as compared to fiscal 
+
+2019
+
+, primarily due to lower outstanding debt levels in the fiscal 2020 period as compared to the same prior year period (refer to our 
+
+Note 6
+
+ to our consolidated financial statements, titled "Debt", for more information). Interest income and miscellaneous expense is not material. 
+
+Additional information regarding our outstanding debt is included in 
+
+Note 6
+
+ to our consolidated financial statements titled, “Debt,” and in the subsection of this MD&A titled, “Liquidity and Capital Resources.”
+
+Income Tax Expense.
+
+ The following table compares our income tax expense and effective income tax rates for the years ended 
+
+March 31, 2020
+
+ and 
+
+March 31, 2019
+
+:
+
+ 
+
+ 
+
+Years Ended March 31,
+
+ 
+
+Change
+
+ 
+
+Percent
+
+Change
+
+(dollars in thousands)
+
+ 
+
+2020
+
+ 
+
+2019
+
+ 
+
+Income tax expense
+
+ 
+
+$
+
+90,876
+
+ 
+
+$
+
+64,394
+
+ 
+
+$
+
+26,482
+
+ 
+
+41.1%
+
+Effective income tax rate
+
+ 
+
+18.2
+
+%
+
+ 
+
+17.4
+
+%
+
+ 
+
+ 
+
+ 
+
+ 
+
+The effective income tax rate for fiscal 2020 was 
+
+18.2%
+
+ as compared to 
+
+17.4%
+
+ for fiscal 2019. The fiscal 2020 effective tax rate increased when compared to fiscal 2019 primarily due to an increased percentage of profits earned and taxed in jurisdictions with a higher tax rate.
+
+Business Segment Results of Operations.
+
+ We operate and report in four reportable business segments: Healthcare Products, Healthcare Specialty Services, Life Sciences, and Applied Sterilization Technologies. Non-allocated operating costs that support the entire Company and items not indicative of operating trends are excluded from segment operating income.  
+
+Our Healthcare Products segment offers infection prevention and procedural solutions for healthcare providers worldwide, including consumable products, equipment maintenance and installation services, and capital equipment. 
+
+Our Healthcare Specialty Services segment provides a range of specialty services for healthcare providers including hospital sterilization services and instrument and scope repairs. 
+
+Our Life Sciences segment offers consumable products, equipment maintenance, specialty services and capital equipment primarily for pharmaceutical manufacturers.
+
+Our Applied Sterilization Technologies ("AST") segment provides contract sterilization and testing services for medical device and pharmaceutical manufacturers.
+
+We disclose a measure of segment income that is consistent with the way management operates and views the business. The accounting policies for reportable segments are the same as those for the consolidated Company. 
+
+For more information regarding our segments please refer to 
+
+Note 11
+
+ to our consolidated financial statements titled “Business Segment Information,” and Item 1, “Business”.
+
+ 28
+
+Table of Contents
+
+The following table compares business segment and Corporate and other revenues and operating income for the year ended 
+
+March 31, 2020
+
+ to the year ended 
+
+March 31, 2019
+
+:
+
+ 
+
+ 
+
+Years ended March 31,
+
+ 
+
+ 
+
+ 
+
+Percent
+
+(dollars in thousands)
+
+ 
+
+2020
+
+ 
+
+2019
+
+ 
+
+Change
+
+ 
+
+Change
+
+Revenues:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Healthcare Products
+
+ 
+
+$
+
+1,423,198
+
+ 
+
+$
+
+1,338,428
+
+ 
+
+$
+
+84,770
+
+ 
+
+6.3
+
+ %
+
+Healthcare Specialty Services
+
+ 
+
+563,611
+
+ 
+
+510,057
+
+ 
+
+53,554
+
+ 
+
+10.5
+
+ %
+
+Life Sciences
+
+ 
+
+416,939
+
+ 
+
+378,558
+
+ 
+
+38,381
+
+ 
+
+10.1
+
+ %
+
+Applied Sterilization Technologies
+
+ 
+
+627,147
+
+ 
+
+555,127
+
+ 
+
+72,020
+
+ 
+
+13.0
+
+ %
+
+Total revenues
+
+ 
+
+$
+
+3,030,895
+
+ 
+
+$
+
+2,782,170
+
+ 
+
+$
+
+248,725
+
+ 
+
+8.9
+
+ %
+
+Operating income (loss):
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Healthcare Products
+
+ 
+
+356,419
+
+ 
+
+323,684
+
+ 
+
+32,735
+
+ 
+
+10.1
+
+ %
+
+Healthcare Specialty Services
+
+ 
+
+64,217
+
+ 
+
+64,222
+
+ 
+
+(5
+
+)
+
+ 
+
+—
+
+ %
+
+Life Sciences
+
+ 
+
+144,088
+
+ 
+
+132,129
+
+ 
+
+11,959
+
+ 
+
+9.1
+
+ %
+
+Applied Sterilization Technologies
+
+ 
+
+270,917
+
+ 
+
+221,828
+
+ 
+
+49,089
+
+ 
+
+22.1
+
+ %
+
+          Corporate
+
+ 
+
+(207,015
+
+)
+
+ 
+
+(184,900
+
+)
+
+ 
+
+(22,115
+
+)
+
+ 
+
+12.0
+
+ %
+
+Total operating income before adjustments
+
+ 
+
+$
+
+628,626
+
+ 
+
+$
+
+556,963
+
+ 
+
+$
+
+71,663
+
+ 
+
+12.9
+
+ %
+
+Less: Adjustments
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Amortization of acquired intangible assets 
+
+(1)
+
+ 
+
+71,675
+
+ 
+
+86,878
+
+ 
+
+ 
+
+ 
+
+ 
+
+Acquisition and integration related charges 
+
+(2)
+
+ 
+
+8,225
+
+ 
+
+8,901
+
+ 
+
+ 
+
+ 
+
+ 
+
+Redomiciliation and tax restructuring costs 
+
+(3)
+
+ 
+
+3,699
+
+ 
+
+8,783
+
+ 
+
+ 
+
+ 
+
+ 
+
+(Gain) on fair value adjustment of acquisition related contingent consideration 
+
+(1)
+
+ 
+
+—
+
+ 
+
+(842
+
+)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Net loss (gain) on divestiture of businesses 
+
+(1)
+
+ 
+
+1,770
+
+ 
+
+(1,370
+
+)
+
+ 
+
+ 
+
+ 
+
+ 
+
+Amortization of property "step up" to fair value 
+
+(1)
+
+ 
+
+2,392
+
+ 
+
+2,440
+
+ 
+
+ 
+
+ 
+
+ 
+
+Restructuring charges 
+
+(4)
+
+ 
+
+3,143
+
+ 
+
+40,708
+
+ 
+
+ 
+
+ 
+
+ 
+
+COVID-19 incremental costs 
+
+(5)
+
+ 
+
+749
+
+ 
+
+—
+
+ 
+
+ 
+
+ 
+
+ 
+
+Total operating income
+
+ 
+
+$
+
+536,973
+
+ 
+
+$
+
+411,465
+
+ 
+
+ 
+
+ 
+
+ 
+
+(1) 
+
+For more information regarding our recent acquisitions and divestitures see 
+
+Note 18
+
+ titled, "Business Acquisitions and Divestitures".  Amortization of purchased intangible assets fiscal 2019 total includes an impairment charge of 
+
+$16.2 million
+
+, see 
+
+Note 3
+
+ titled, "Goodwill and Intangible Assets", for more information.
+
+(2)
+
+ Acquisition and integration related charges include transaction costs and integration expenses associated with acquisitions.
+
+(3)
+
+ Costs incurred in connection with the Redomiciliation and subsequent tax restructuring. 
+
+(4)
+
+ For more information regarding our restructuring activities see Note 2 titled, "Restructuring".
+
+(5) 
+
+COVID-19 incremental costs includes the additional costs attributable to COVID-19 such as enhanced cleaning protocols, personal protective equipment for our employees, event cancellation fees, and payroll costs associated with our response to COVID-19, net of any government subsidies available. 
+
+Healthcare Products revenues increased 
+
+6.3%
+
+ in fiscal 2020, as compared to fiscal 2019, reflecting growth in consumable, service and capital equipment revenues of 9.5%, 6.1% and 4.2%, respectively.  The increase reflects organic growth, which was partially offset by unfavorable fluctuations in currencies.  At March 31, 2020, the Healthcare Products segment’s backlog amounted to $170.1 million, increasing $15.6 million, or 10.1%, as compared to the backlog of $154.5 million at March 31, 2019.
+
+Healthcare Specialty Services revenues increased 
+
+10.5%
+
+ in fiscal 2020, as compared to fiscal 2019. The increase reflects organic growth, which was partially offset by the divestiture of our Healthcare Specialty Services business in China and unfavorable fluctuations in currencies.
+
+Life Sciences revenues increased 
+
+10.1%
+
+ in fiscal 2020, as compared to fiscal 2019, reflecting growth in consumable, capital equipment and service revenues of 14.9%, 9.8% and 3.7%, respectively.
+
+ 
+
+ The increase reflects organic growth and favorable pricing, which were partially offset by unfavorable fluctuations in currencies. Life Sciences backlog at March 31, 2020 amounted to $72.4 million, increasing $11.7 million, or 19.3%, as compared to backlog of $60.7 million at March 31, 2019. 
+
+Applied Sterilization Technologies revenues increased 
+
+13.0%
+
+ in fiscal 2020, as compared to fiscal 2019. The increase reflects organic growth, which was primarily attributable to increased demand from medical device Customers, which was partially offset by unfavorable fluctuations in currencies.  
+
+ 29
+
+Table of Contents
+
+The Healthcare Products segment’s operating income increased 
+
+$32.7 million
+
+ to 
+
+$356.4 million
+
+ in fiscal year 2020, as compared to 
+
+$323.7 million
+
+ in fiscal year 2019. The segment's operating margins were 25.0% for fiscal year 2020 and 24.2% for fiscal year 2019. The increases in the fiscal 2020 period were primarily due to increased volumes and favorable product mix.
+
+The Healthcare Specialty Services segment’s operating income was flat at 
+
+$64.2 million
+
+ in fiscal years 2020 and 2019. The segment’s operating margins were 11.4% for fiscal year 2020 and 12.6% for fiscal year 2019. The fiscal 2020 operating margin benefited from increased volumes, which were more than offset by investments being made to add capacity in anticipation of continuing demand.
+
+The Life Sciences business segment’s operating income increased 
+
+$12.0 million
+
+ to 
+
+$144.1 million
+
+ in fiscal year 2020, as compared to 
+
+$132.1 million
+
+ in fiscal year 2019,  primarily due to increased volumes. The segment’s operating margins were 34.6% for fiscal year 2020 and 34.9% for fiscal year 2019. The decline in the fiscal 2020 operating margin was primarily due to unfavorable product mix.
+
+The Applied Sterilization Technologies segment’s operating income increased 
+
+$49.1 million
+
+ to 
+
+$270.9 million
+
+ in fiscal year 2020, as compared to 
+
+$221.8 million
+
+ in fiscal year 2019. The Applied Sterilization Technologies segment's operating margins were 43.2% for fiscal year 2020 and 40.0% for fiscal year 2019. The increases in the fiscal 2020 period were primarily due to increased volumes.
+
+Effective April 1, 2020, and consistent with the way management will operate and view the business, the current Healthcare Products and Healthcare Specialty Services segments will be combined and reported as one segment, simply called Healthcare. Going forward we will operate and report in three business segments: Healthcare, Life Sciences and Applied Sterilization Technologies. Corporate will continue to be presented separately and contain the costs that are associated with being a publicly traded company and certain other corporate costs.  
+
+LIQUIDITY AND CAPITAL RESOURCES  
+
+The following table summarizes significant components of our cash flows for the years ended March 31, 
+
+2020
+
+ and 
+
+2019
+
+: 
+
+ 
+
+ 
+
+Years Ended March 31,
+
+(dollars in thousands)
+
+ 
+
+2020
+
+ 
+
+2019
+
+Net cash provided by operating activities
+
+ 
+
+$
+
+590,559
+
+ 
+
+$
+
+539,505
+
+Net cash used in investing activities
+
+ 
+
+(319,735
+
+)
+
+ 
+
+(213,224
+
+)
+
+Net cash used in financing activities
+
+ 
+
+(163,146
+
+)
+
+ 
+
+(294,792
+
+)
+
+Debt-to-total capital ratio
+
+ 
+
+25.3
+
+%
+
+ 
+
+27.1
+
+%
+
+Free cash flow
+
+ 
+
+$
+
+380,199
+
+ 
+
+$
+
+355,357
+
+Net Cash Provided By Operating Activities 
+
+– The net cash provided by our operating activities was 
+
+$590.6 million
+
+ for the year ended 
+
+March 31, 2020
+
+ compared to 
+
+$539.5 million
+
+ for the year ended 
+
+March 31, 2019
+
+. The following discussion summarizes the significant changes in our operating cash flows for the years ended 
+
+March 31, 2020
+
+ and 
+
+2019
+
+:
+
+•
+
+Net cash provided by operating activities increased in fiscal 2020 by 
+
+9.5%
+
+, as compared to fiscal 2019, primarily due to higher net income attainment in the fiscal 2020 period, which was partially offset by higher cash requirements to fund operating assets and liabilities. 
+
+Net Cash Used In Investing Activities
+
+ – The net cash used in our investing activities was 
+
+$319.7 million
+
+ for the year ended 
+
+March 31, 2020
+
+, compared to 
+
+$213.2 million
+
+ for the year ended 
+
+March 31, 2019
+
+. The following discussion summarizes the significant changes in our investing cash flows for the years ended 
+
+March 31, 2020
+
+ and 
+
+2019
+
+:
+
+•
+
+Purchases of property, plant, equipment, and intangibles, net
+
+ – Capital expenditures totaled 
+
+$214.5 million
+
+ and 
+
+$189.7 million
+
+ for fiscal 
+
+2020
+
+ and 
+
+2019
+
+, respectively. The fiscal 2020 increase was primarily due to our previously announced expansion projects in the Applied Sterilization Technologies and Healthcare Specialty Services segments.
+
+•
+
+Proceeds from the sale of property, plant, equipment and intangibles
+
+ – During fiscal 2020 and 2019 we received $4.2 million and $5.6 million respectively, for proceeds from the sale of property, plant, equipment and intangibles. The majority of the fiscal 2020 and fiscal 2019 proceeds were related to the sale of Healthcare Products facilities located in the U.K. 
+
+•
+
+Proceeds from the sale of business
+
+  – During fiscal 2020 and 2019 we received 
+
+$0.4 million
+
+ and $2.5 million, respectively, for proceeds from the sale of certain non-core businesses. For more information, refer to our 
+
+Note 18
+
+ to our consolidated financial statements, titled "Business Acquisitions and Divestitures".
+
+ 30
+
+Table of Contents
+
+•
+
+Purchases of investments
+
+ – During fiscal 2019, we completed an equity investment for approximately $5.0 million.
+
+•
+
+Investments in business, net of cash acquired
+
+ – During fiscal 2020 and 2019, we used 
+
+$109.8 million
+
+ and $13.3 million, respectively, for acquisitions. For more information on these acquisitions refer to 
+
+Note 18
+
+ to our consolidated financial statements titled, "Business Acquisitions and Divestitures". 
+
+•
+
+Other
+
+ – During fiscal 2019 we provided approximately $13.4 million under borrowing agreements. For more information on these agreements refer to our 
+
+Note 18
+
+ to our consolidated financial statements, titled "Business Acquisitions and Divestitures".
+
+Net Cash Used In Financing Activities
+
+ – Net cash used in financing activities was 
+
+$163.1 million
+
+ for the year ended 
+
+March 31, 2020
+
+, compared to net cash used in financing activities of 
+
+$294.8 million
+
+ for the year ended 
+
+March 31, 2019
+
+. The following discussion summarizes the significant changes in our financing cash flows for the years ended 
+
+March 31, 2020
+
+ and 
+
+2019
+
+: 
+
+•
+
+Payments on long-term obligations
+
+ – During fiscal 2019 we repaid $85.0 million in private placement notes that matured on August 15, 2018. For more information on our debt refer to 
+
+Note 6
+
+ to our consolidated financial statements titled, "Debt". 
+
+•
+
+(Payments) proceeds under credit facilities, net
+
+ – At the end of fiscal 
+
+2020
+
+, 
+
+$275.4 million
+
+ of debt was outstanding under our bank credit facility, compared to $301.8 million of debt outstanding under this facility at the end of fiscal 2019. We provide additional information about our bank credit facility in 
+
+Note 6
+
+ to our consolidated financial statements titled, “Debt”.
+
+•
+
+Repurchases of shares
+
+ – During fiscal 
+
+2020
+
+, we purchased 
+
+273,259
+
+ of our ordinary shares in the aggregate amount of $40.0 million. We also obtained 
+
+122,884
+
+ of our ordinary shares in connection with our stock-based compensation award programs in the amount of 
+
+$11.2 million
+
+. During fiscal 2019, we purchased 659,393 of our ordinary shares in the aggregate amount of $73.2 million, which included $0.4 million of taxes and commissions. We also obtained 112,356 of our ordinary shares in connection with our stock-based compensation award programs in the amount $8.3 million. We provide additional information about our share repurchases in 
+
+Note 13
+
+ to our consolidated financial statements titled, “Repurchases of Ordinary Shares.”
+
+•
+
+Deferred financing fees and debt issuance costs
+
+ 
+
+ – We paid 
+
+$1.3 million
+
+ and $0.5 million in fiscal 2020 and 2019 respectively, for financing fees and debt issuance costs related to our Credit Agreement and Private Placement debt. For more information on our debt refer to 
+
+Note 6
+
+ to our consolidated financial statements titled, "Debt". 
+
+•
+
+Cash dividends paid to ordinary shareholders
+
+ – During fiscal 
+
+2020
+
+, we paid cash dividends totaling 
+
+$123.0 million
+
+ or 
+
+$1.45
+
+ per outstanding share. During fiscal 
+
+2019
+
+, we paid cash dividends totaling $112.5 million or $1.33 per outstanding share. 
+
+•
+
+Stock option and other equity transactions, net
+
+ – We generally receive cash for issuing shares upon the exercise of options under our employee stock option program. During fiscal 
+
+2020
+
+ and fiscal 
+
+2019
+
+, we received cash proceeds totaling $34.7 million and $13.3 million, respectively, under these programs. During fiscal 2020, we received contributions from noncontrolling interest holders of $6.1 million and paid $1.2 million in distributions to noncontrolling interest holders. During fiscal 2019 we paid $0.3 million in distributions to noncontrolling interest holders.
+
+Cash Flow Measures.
+
+ Free cash flow was 
+
+$380.2 million
+
+ in fiscal 
+
+2020
+
+ compared to 
+
+$355.4 million
+
+ in fiscal 
+
+2019
+
+. The increase in free cash flow is primarily due to the improvement in cash from operations.
+
+ Our debt-to-total capital ratio was 
+
+25.3%
+
+ at 
+
+March 31, 2020
+
+ and 
+
+27.1%
+
+ at March 31, 
+
+2019
+
+.
+
+Cash Requirements.
+
+ 
+
+We intend to use our existing cash and cash equivalent balances and cash generated from operations to fund capital expenditures and meet our other liquidity needs. Our capital requirements depend on many uncertain factors, including our rate of sales growth, our Customers’ acceptance of our products and services, the costs of obtaining adequate manufacturing capacities, the timing and extent of our research and development projects, changes in our operating expenses and other factors. To the extent that existing and anticipated sources of cash are not sufficient to fund our future activities, we may need to raise additional funds through additional borrowings or the sale of equity securities. There can be no assurance that our financing arrangements will provide us with sufficient funds or that we will be able to obtain any additional funds on terms favorable to us or at all.
+
+ 31
+
+Table of Contents
+
+Sources of Credit.
+
+  Our sources of credit as of 
+
+March 31, 2020
+
+ are summarized in the following table:
+
+(dollars in thousands)
+
+Maximum
+
+Amounts
+
+Available
+
+ 
+
+Reductions in
+
+Available Credit
+
+Facility for Other
+
+Financial  Instruments
+
+ 
+
+March 31, 2020 Amounts
+
+Outstanding
+
+ 
+
+March 31, 2020 Amounts
+
+Available
+
+Sources of Credit
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Private placement
+
+$
+
+878,409
+
+ 
+
+$
+
+—
+
+ 
+
+$
+
+878,409
+
+ 
+
+$
+
+—
+
+Credit Agreement 
+
+(1)
+
+1,000,000
+
+ 
+
+6,768
+
+ 
+
+275,449
+
+ 
+
+717,783
+
+Total Sources of Credit
+
+$
+
+1,878,409
+
+ 
+
+$
+
+6,768
+
+$
+
+1,153,858
+
+$
+
+717,783
+
+(1) 
+
+At March 31, 2020, there was $
+
+6.8 million
+
+ of letters of credit outstanding under the Credit Agreement. 
+
+Our sources of funding from credit as of 
+
+March 31, 2020
+
+ are summarized below:
+
+•
+
+On March 23, 2018, STERIS UK and certain of its subsidiaries entered into a Credit Agreement (the "Credit Agreement") with various financial institutions as lenders, and JPMorgan Chase Bank, N.A., as Administrative Agent. STERIS Ireland subsequently became a borrower and guarantor under the Credit Agreement. The Credit Agreement replaced a bank credit facility dated March 31, 2015. The Credit Agreement provides up to 
+
+$1.0 billion
+
+ of credit, in the form of a revolver facility, which may be utilized for revolving credit borrowings, swing line borrowings and letters of credit, with sublimits for swing line borrowings and letters of credit. The revolver facility may be increased in specified circumstances by up to 
+
+$500.0 million
+
+. The Credit Agreement will mature on March 23, 2023, and all unpaid borrowings, together with accrued and unpaid interest thereon, are repayable on that date. The Credit Agreement contains leverage and interest coverage covenants. Borrowings may be taken in U.S. dollars, euros, and pounds sterling and certain other specified currencies and bear interest at our option based upon either the Base Rate or the Eurocurrency Rate, plus the Applicable Margin in effect from time to time under the Credit Agreement. The Applicable Margin is determined based on the ratio of Consolidated Total Debt to Consolidated EBITDA (as such terms are defined in the Credit Agreement). Interest on Base Rate Advances is payable quarterly in arrears and interest on Eurocurrency Rate Advances is payable at the end of the relevant interest period therefor, but in no event less frequently than every three months. Borrowings at closing were used to repay outstanding balances of debt outstanding under the former bank credit facility dated March 31, 2015 that was scheduled to mature on March 31, 2020 and for other general corporate purposes. 
+
+•
+
+The Credit Agreement was amended in March 2019, in connection with the Redomiciliation to permit the Redomiciliation. The amendments did not effect any material changes in the terms of the Credit Agreement regarding borrowings or the issuance of letters of credit. 
+
+Our outstanding Senior Notes at March 31, 2020 were as follows:
+
+(dollars in thousands)
+
+ 
+
+Applicable Note Purchase Agreement
+
+ 
+
+Maturity Date
+
+ 
+
+U.S. Dollar Value at March 31, 2020
+
+$35,000 Senior notes at 6.43%
+
+ 
+
+2008  Private Placement
+
+ 
+
+August 2020
+
+ 
+
+35,000
+
+$91,000 Senior notes at 3.20%
+
+ 
+
+2012  Private Placement
+
+ 
+
+December 2022
+
+ 
+
+91,000
+
+$80,000 Senior notes at 3.35%
+
+ 
+
+2012  Private Placement
+
+ 
+
+December 2024
+
+ 
+
+80,000
+
+$25,000 Senior notes at 3.55%
+
+ 
+
+2012  Private Placement
+
+ 
+
+December 2027
+
+ 
+
+25,000
+
+$125,000 Senior notes at 3.45%
+
+ 
+
+2015  Private Placement
+
+ 
+
+May 2025
+
+ 
+
+125,000
+
+$125,000 Senior notes at 3.55%
+
+ 
+
+2015  Private Placement
+
+ 
+
+May 2027
+
+ 
+
+125,000
+
+$100,000 Senior notes at 3.70%
+
+ 
+
+2015  Private Placement
+
+ 
+
+May 2030
+
+ 
+
+100,000
+
+$50,000 Senior notes at 3.93%
+
+ 
+
+2017  Private Placement
+
+ 
+
+February 2027
+
+ 
+
+50,000
+
+€60,000 Senior notes at 1.86% 
+
+ 
+
+2017  Private Placement
+
+ 
+
+February 2027
+
+ 
+
+66,342
+
+$45,000 Senior notes at 4.03% 
+
+ 
+
+2017  Private Placement
+
+ 
+
+February 2029
+
+ 
+
+45,000
+
+€20,000 Senior notes at 2.04% 
+
+ 
+
+2017  Private Placement
+
+ 
+
+February 2029
+
+ 
+
+22,114
+
+£45,000 Senior notes at 3.04%
+
+ 
+
+2017  Private Placement
+
+ 
+
+February 2029
+
+ 
+
+55,767
+
+€19,000 Senior notes at 2.30%
+
+ 
+
+2017  Private Placement
+
+ 
+
+February 2032
+
+ 
+
+21,008
+
+£30,000 Senior notes at 3.17% 
+
+ 
+
+2017  Private Placement
+
+ 
+
+February 2032
+
+ 
+
+37,178
+
+Total Senior Notes
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+$
+
+878,409
+
+ 32
+
+Table of Contents
+
+•
+
+On February 27, 2017, STERIS UK issued and sold an aggregate principal amount of 
+
+$95.0 million
+
+, 
+
+€99.0 million
+
+, and 
+
+£75.0 million
+
+, of senior notes in a private placement to certain institutional investors in an offering that was exempt from the registration requirements of the Securities Act of 1933.  These notes have maturities of between 
+
+10
+
+ and 15 years from the issue date. The agreement governing these notes contains leverage and interest coverage covenants. 
+
+•
+
+On May 15, 2015, STERIS Corporation issued and sold 
+
+$350.0 million
+
+ of senior notes, in a private placement to certain institutional investors in an offering that was exempt from the registration requirements of the Securities Act of 1933. These notes have maturities of 
+
+10
+
+ to 
+
+15
+
+ years from the issue date. The agreement governing these notes contains leverage and interest coverage covenants. 
+
+•
+
+The agreements governing certain senior notes issued and sold in February 2013, December 2012, and August 2008, were amended and restated in their entirety on March 31, 2015. All of these notes were issued and sold in private placements to certain institutional investors in offerings that were exempt from the registration requirements of the Securities Act of 1933. The amended and restated agreements, which have been consolidated into a single agreement for the 2013 and 2012 notes, and a separate single agreement for the 2008 notes, contain leverage and interest coverage covenants.
+
+•
+
+All of the note agreements were amended in March 2019, in connection with the Redomiciliation. The amendments waived certain repurchase rights of the note holders and increased the size of certain baskets to more closely align with Credit Agreement baskets.
+
+As of 
+
+March 31, 2020
+
+, a total of 
+
+$275.4 million
+
+ was outstanding under the Credit Agreement, based on currency exchange rates as of 
+
+March 31, 2020
+
+.  At 
+
+March 31, 2020
+
+, we had 
+
+$717.8 million
+
+ of unused funding available under the Credit Agreement. The Credit Agreement includes a sub-limit that reduces the maximum amount available to us by letters of credit outstanding. At 
+
+March 31, 2020
+
+, there was 
+
+$6.8 million
+
+ in letters of credit outstanding under the Credit Agreement.
+
+At 
+
+March 31, 2020
+
+, we were in compliance with all financial covenants associated with our indebtedness. We provide additional information regarding our debt structure and payment obligations in the section of the MD&A titled, “Liquidity and Capital Resources” in the subsection titled, “Contractual and Commercial Commitments” and in 
+
+Note 6
+
+ to our consolidated financial statements titled, “Debt.”
+
+CAPITAL EXPENDITURES
+
+Our capital expenditure program is a component of our long-term strategy. This program includes, among other things, investments in new and existing facilities, business expansion projects, radioisotope (cobalt-60), and information technology enhancements and research and development advances. During fiscal 
+
+2020
+
+, our capital expenditures amounted to 
+
+$214.5 million
+
+. We use cash provided by operating activities and our cash and cash equivalent balances to fund capital expenditures. In fiscal 
+
+2021
+
+, we expect to continue to invest in facility expansions, particularly within the Applied Sterilization Technologies segment and in ongoing maintenance for existing facilities. The outbreak of COVID-19 has become a global pandemic. We may choose to temporarily defer planned capital expenditures due to fluctuations in demand for our products and services resulting from the COVID-19 pandemic and our Customers' needs.
+
+CONTRACTUAL AND COMMERCIAL COMMITMENTS
+
+At 
+
+March 31, 2020
+
+, we had commitments under non-cancelable operating leases totaling 
+
+$173.9 million
+
+.
+
+ 33
+
+Table of Contents
+
+Our contractual obligations and commercial commitments as of 
+
+March 31, 2020
+
+ are presented in the following tables. Commercial commitments include standby letters of credit, letters of credit required as security under our self-insured risk retention policies, and other potential cash outflows resulting from events that require us to fulfill commitments.
+
+ 
+
+ 
+
+Payments due by March 31,
+
+ 
+
+ 
+
+(dollars in thousands)
+
+ 
+
+2021
+
+ 
+
+2022
+
+ 
+
+2023
+
+ 
+
+2024
+
+ 
+
+2025 and thereafter
+
+ 
+
+Total
+
+Contractual Obligations:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Debt
+
+ 
+
+$
+
+35,000
+
+ 
+
+$
+
+—
+
+ 
+
+$
+
+366,449
+
+ 
+
+$
+
+—
+
+ 
+
+$
+
+752,409
+
+ 
+
+$
+
+1,153,858
+
+Operating leases
+
+ 
+
+25,302
+
+ 
+
+21,064
+
+ 
+
+17,271
+
+ 
+
+14,045
+
+ 
+
+96,249
+
+ 
+
+173,931
+
+Purchase obligations
+
+ 
+
+67,866
+
+ 
+
+75,968
+
+ 
+
+10,297
+
+ 
+
+—
+
+ 
+
+—
+
+ 
+
+154,131
+
+Benefit payments under defined benefit plans
+
+ 
+
+5,872
+
+ 
+
+6,025
+
+ 
+
+6,600
+
+ 
+
+6,336
+
+ 
+
+41,810
+
+ 
+
+66,643
+
+Trust assets available for benefit payments under defined benefit plans
+
+ 
+
+(5,872
+
+)
+
+ 
+
+(6,025
+
+)
+
+ 
+
+(6,600
+
+)
+
+ 
+
+(6,336
+
+)
+
+ 
+
+(41,810
+
+)
+
+ 
+
+(66,643
+
+)
+
+Benefit payments under other post-retirement benefits plans
+
+ 
+
+1,510
+
+ 
+
+1,392
+
+ 
+
+1,252
+
+ 
+
+1,115
+
+ 
+
+4,733
+
+ 
+
+10,002
+
+Expected contributions to defined benefit plans
+
+ 
+
+3,839
+
+ 
+
+3,954
+
+ 
+
+1,991
+
+ 
+
+—
+
+ 
+
+—
+
+ 
+
+9,784
+
+Total Contractual Obligations
+
+ 
+
+$
+
+133,517
+
+ 
+
+$
+
+102,378
+
+ 
+
+$
+
+397,260
+
+ 
+
+$
+
+15,160
+
+ 
+
+$
+
+853,391
+
+ 
+
+$
+
+1,501,706
+
+The table above includes only the principal amounts of our contractual obligations. We provide information about the interest component of our long-term debt in the subsection of MD&A titled, “Liquidity and Capital Resources,” and in 
+
+Note 6
+
+ to our consolidated financial statements titled, “Debt.”
+
+Purchase obligations shown in the table above relate to minimum purchase commitments with suppliers for materials purchases and long term construction contracts.
+
+The table above excludes contributions we make to our defined contribution plans. Our future contributions to the defined contribution plans depend on uncertain factors, such as the amount and timing of employee contributions and discretionary employer contributions. We provide additional information about our defined benefit pension plans, defined contribution plan, and other post-retirement benefits plan in 
+
+Note 9
+
+ to our consolidated financial statements titled, “Benefit Plans."
+
+ 
+
+ 
+
+Amount of Commitment Expiring March 31,
+
+ 
+
+ 
+
+(dollars in thousands)
+
+ 
+
+2021
+
+ 
+
+2022
+
+ 
+
+2023
+
+ 
+
+2024
+
+ 
+
+2025 and thereafter
+
+ 
+
+Totals
+
+Commercial Commitments:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Letters of credit and surety bonds
+
+ 
+
+$
+
+56,899
+
+ 
+
+$
+
+7,062
+
+ 
+
+$
+
+1,118
+
+ 
+
+$
+
+353
+
+ 
+
+$
+
+2,324
+
+ 
+
+$
+
+67,756
+
+Letters of credit as security for self-insured risk retention policies
+
+ 
+
+12,474
+
+ 
+
+—
+
+ 
+
+—
+
+ 
+
+—
+
+ 
+
+—
+
+ 
+
+12,474
+
+Total Commercial Commitments
+
+ 
+
+$
+
+69,373
+
+ 
+
+$
+
+7,062
+
+ 
+
+$
+
+1,118
+
+ 
+
+$
+
+353
+
+ 
+
+$
+
+2,324
+
+ 
+
+$
+
+80,230
+
+CRITICAL ACCOUNTING POLICIES, ESTIMATES, AND ASSUMPTIONS
+
+The following subsections describe our most critical accounting policies, estimates, and assumptions. Our accounting policies are more fully described in 
+
+Note 1
+
+ to our consolidated financial statements titled, “Nature of Operations and Summary of Significant Accounting Policies.”
+
+Estimates and Assumptions. 
+
+ Our discussion and analysis of financial condition and results of operations is based on our consolidated financial statements that were prepared in accordance with United States generally accepted accounting principles. We make certain estimates and assumptions that we believe to be reasonable when preparing these financial statements. These estimates and assumptions involve judgments with respect to numerous factors that are difficult to predict and are beyond management’s control. As a result, actual amounts could be materially different from these estimates. We periodically review these critical accounting policies, estimates, assumptions, and the related disclosures with the Audit Committee of the Company’s Board of Directors.
+
+ 34
+
+Table of Contents
+
+Revenue Recognition. 
+
+ Revenue is recognized when obligations under the terms of the contract are satisfied and control of the promised products or services has transferred to the Customer. Revenues are measured at the amount of consideration that we expect to be paid in exchange for the products or services.  Product revenue is recognized when control passes to the Customer, which is generally based on contract or shipping terms.  Service revenue is recognized when the Customer benefits from the service, which occurs either upon completion of the service or as it is provided to the Customer. Our Customers include end users as well as dealers and distributors who market and sell our products. Our revenue is not contingent upon resale by the dealer or distributor, and we have no further obligations related to bringing about resale.  Our standard return and restocking fee policies are applied to sales of products.  Shipping and handling costs charged to Customers are included in Product revenues.   The associated expenses are treated as fulfillment costs and are included in Cost of revenues. Revenues are reported net of sales and value-added taxes collected from Customers.
+
+We have individual Customer contracts that offer discounted pricing. Dealers and distributors may be offered sales incentives in the form of rebates. We reduce revenue for discounts and estimated returns, rebates, and other similar allowances in the same period the related revenues are recorded.  The reduction in revenue for these items is estimated based on historical experience and trend analysis to the extent that it is probable that a significant reversal of revenue will not occur.  Estimated returns are recorded gross on the Consolidated Balance Sheets.
+
+In transactions that contain multiple performance obligations, such as when products, maintenance services, and other services are combined, we recognize revenue as each product is delivered or service is provided to the Customer. We allocate the total arrangement consideration to each performance obligation based on its relative standalone selling price, which is the price for the product or service when it is sold separately.
+
+Payment terms vary by the type and location of the Customer and the products or services offered.  Generally, the time between when revenue is recognized and when payment is due is not significant.  We do not evaluate whether the selling price contains a financing component for contracts that have a duration of less than one year.
+
+We do not capitalize sales commissions as substantially all of our sales commission programs have an amortization period of one year or less.
+
+Certain costs to fulfill a contract are capitalized and amortized over the term of the contract if they are recoverable, directly related to a contract and generate resources that we will use to fulfill the contract in the future. At 
+
+March 31, 2020
+
+ assets related to costs to fulfill a contract were not material to our Consolidated Financial Statements.
+
+Allowance for Doubtful Accounts Receivable. 
+
+ We maintain an allowance for uncollectible accounts receivable for estimated losses in the collection of amounts owed by Customers. We estimate the allowance based on analyzing a number of factors, including amounts written off historically, Customer payment practices, and general economic conditions. We also analyze significant Customer accounts on a regular basis and record a specific allowance when we become aware of a specific Customer’s inability to pay. As a result, the related accounts receivable are reduced to an amount that we reasonably believe is collectible. These analyses require judgment. If the financial condition of our Customers worsens, or economic conditions change, we may be required to make changes to our allowance for doubtful accounts receivable.
+
+Allowance for Sales Returns.
+
+  We maintain an allowance for sales returns based upon known returns and estimated returns for both capital equipment and consumables. We estimate returns of capital equipment and consumables based upon historical experience.
+
+Inventories and Reserves. 
+
+ Inventories are stated at the lower of their cost or market value. We determine cost based upon a combination of the last-in, first-out (“LIFO”) and first-in, first-out (“FIFO”) cost methods. We determine the LIFO inventory value at the end of the year based on inventory levels and costs at that time. For inventories valued using the LIFO method, we believe that the use of the LIFO method results in a matching of current costs and revenues. Inventories valued using the LIFO method represented approximately 
+
+25.3%
+
+ and 
+
+25.2%
+
+ of total inventories at 
+
+March 31, 2020
+
+ and 
+
+2019
+
+, respectively. Inventory costs include material, labor, and overhead. If we had used only the FIFO method of inventory costing, inventories would have been 
+
+$16.9 million
+
+ and 
+
+$16.8 million
+
+ higher than those reported at 
+
+March 31, 2020
+
+ and 
+
+2019
+
+, respectively.
+
+We review inventory on an ongoing basis, considering factors such as deterioration and obsolescence. We record an allowance for estimated losses when the facts and circumstances indicate that particular inventories will not be usable. If future market conditions vary from those projected, and our estimates prove to be inaccurate, we may be required to write-down inventory values and record an adjustment to cost of revenues.
+
+Asset Impairment Losses. 
+
+ Property, plant, equipment, and identifiable intangible assets are reviewed for impairment when events and circumstances indicate that the carrying value of such assets may not be recoverable. Impaired assets are recorded at the lower of carrying value or estimated fair value. We conduct this review on an ongoing basis and, if impairment exists, we record the loss in the Consolidated Statements of Income during that period.
+
+ 35
+
+Table of Contents
+
+When we evaluate assets for impairment, we make certain judgments and estimates, including interpreting current economic indicators and market valuations, evaluating our strategic plans with regards to operations, historical and anticipated performance of operations, and other factors. If we incorrectly anticipate these factors, or unexpected events occur, our operating results could be materially affected.
+
+Asset Retirement Obligations.
+
+ We incur retirement obligations for certain assets. We record an initial liability for the asset retirement obligations (ARO) at fair value. Accounting for the ARO at inception and in subsequent periods includes the determination of the present value of a liability and offsetting asset, the subsequent accretion of that liability and depletion of the asset, and a periodic review of the ARO liability estimates and discount rates used in the analysis. We provide additional information about our asset retirement obligations in 
+
+Note 5
+
+ to our consolidated financial statements titled, “Property, Plant and Equipment.”
+
+Restructuring.
+
+  We record specific accruals in connection with plans for restructuring elements of our business. These accruals include estimates principally related to employee separation costs, the closure and/or consolidation of facilities, and contractual obligations. Actual amounts could differ from the original estimates. We review our restructuring-related accruals on a quarterly basis and changes to plans are appropriately recognized in the Consolidated Statements of Income in the period the change is identified. 
+
+Purchase Accounting and Goodwill. 
+
+ Assets and liabilities of the business acquired are accounted for at their estimated fair values as of the acquisition date. Any excess of the cost of the acquisition over the fair value of the net tangible and intangible assets acquired is recorded as goodwill. We supplement management expertise with valuation specialists in performing appraisals to assist us in determining the fair values of assets acquired and liabilities assumed. These valuations require us to make estimates and assumptions, especially with respect to intangible assets. We generally amortize our intangible assets over their useful lives with the exception of indefinite lived intangible assets. We do not amortize goodwill, but we evaluate it annually for impairment. Therefore, the allocation of the purchase price to intangible assets and goodwill has a significant impact on future operating results.
+
+We evaluate the recoverability of recorded goodwill amounts annually, or when evidence of potential impairment exists. We may consider qualitative indicators of the fair value of a reporting unit when it is unlikely that a reporting unit has impaired goodwill. We may also utilize a discounted cash flow analysis that requires certain assumptions and estimates be made regarding market conditions and our future profitability. In those circumstances, we test goodwill for impairment by reviewing the book value compared to the fair value at the reporting unit level. We calculate the fair value of our reporting units based on the present value of estimated future cash flows. Management's judgment is necessary to evaluate the impact of operating and macroeconomic changes and to estimate future cash flows to measure fair value. Assumptions used in our impairment evaluations, such as forecasted growth rates and cost of capital, are consistent with internal projections and operating plans. We believe such assumptions and estimates are also comparable to those that would be used by other marketplace participants.
+
+ As a result of our annual impairment review for goodwill and other indefinite lived intangible assets for fiscal year 2020 no indicators of impairment were identified. 
+
+We evaluate indefinite lived intangible assets annually, or when evidence of potential impairment exists. We evaluate several qualitative indicators and assumptions, and trends that influence the valuation of the assets to determine if any evidence of potential impairment exists. During the third quarter of fiscal 2019, management adopted a branding strategy that included phasing out the usage of a tradename associated with certain products in the Healthcare Products business segment. As a result, management recorded an impairment charge of 
+
+$16.2 million
+
+, which is included within the Selling, general, and administrative line of the Consolidated Statements of Income. The remaining fair value of the asset was calculated using an income approach (the relief from royalty method). The remaining fair value was not material and was amortized over the asset's remaining useful life. Fair value calculated using this approach is classified within Level 3 of the fair value hierarchy and requires several assumptions. 
+
+Income Taxes.  
+
+Our provision for income taxes is based on our current period income, changes in deferred income tax assets and liabilities, income tax rates, changes in uncertain tax benefits, and tax planning opportunities available to us in the various jurisdictions in which we operate. Tax laws are complex and subject to different interpretations by the taxpayer and the respective governmental taxing authorities. We use judgment in determining our annual effective income tax rate and evaluating our tax positions. We prepare and file tax returns based on our interpretation of tax laws and regulations, and we record estimates based on these judgments and interpretations. We cannot be sure that the tax authorities will agree with all of the tax positions taken by us. The actual income tax liability for each jurisdiction in any year can, in some instances, ultimately be determined be several years after the tax return is filed and the financial statements are published.
+
+ 36
+
+Table of Contents
+
+We evaluate our tax positions using the recognition threshold and measurement attribute in accordance with current accounting guidance. We determine whether it is more-likely-than-not that a tax position will be sustained upon examination, including resolution of related appeals or litigation processes, based on the technical merits of the position. In evaluating whether a tax position has met the more-likely-than-not recognition threshold, we presume that the position will be examined by the appropriate taxing authority and that the taxing authority will have full knowledge of all relevant information. A tax position that meets the more-likely-than-not recognition threshold is measured at the largest amount of benefit that is greater than 50 percent likely of being realized upon ultimate settlement. The appropriate unit of account for determining what constitutes an individual tax position, and whether the more-likely-than-not recognition threshold is met for a tax position, is a matter of judgment based on the individual facts and circumstances of that position evaluated in light of all available evidence. We review and adjust our tax estimates periodically because of ongoing examinations by and settlements with the various taxing authorities, as well as changes in tax laws, regulations and precedent.
+
+We recognize deferred tax assets and liabilities based on the differences between the financial statement carrying amounts and the tax basis of assets and liabilities. We regularly review our deferred tax assets for recoverability and establish a valuation allowance based on historical taxable income, projected future taxable income, the expected timing of the reversals of existing temporary differences, and the implementation of tax planning strategies. If we are unable to generate sufficient future taxable income in certain tax jurisdictions, or if there is a material change in the effective income tax rates or time period within which the underlying temporary differences become taxable or deductible, we could be required to increase our valuation allowance, which would increase our effective income tax rate and could result in an adverse impact on our consolidated financial position, results of operations, or cash flows.
+
+We believe that adequate accruals have been made for income taxes. Differences between the estimated and actual amounts determined upon ultimate resolution, individually or in the aggregate, are not expected to have a material adverse effect on our consolidated financial position, but could possibly be material to our consolidated results of operations or cash flows for any one period.
+
+Additional information regarding income taxes is included in 
+
+Note 8
+
+ to our consolidated financial statements titled, “Income Taxes.”
+
+Self-Insurance Liabilities.
+
+  We record a liability for self-insured risks that we retain for general and product liabilities, workers’ compensation, and automobile liabilities based on actuarial calculations. We use our historical loss experience and actuarial methods to calculate the estimated liability. This liability includes estimated amounts for both losses and incurred but not reported claims. We review the assumptions used to calculate the estimated liability at least annually to evaluate the adequacy of the amount recorded. We maintain insurance policies to cover losses greater than our estimated liability, which are subject to the terms and conditions of those policies. The obligation covered by insurance contracts will remain on the balance sheet as we remain liable to the extent insurance carriers do not meet their obligation. Estimated amounts receivable under the contracts are included in the "Prepaid expenses and other current assets" line, and the "Other assets" line of our consolidated balance sheets. Our accrual for self-insured risk retention as of 
+
+March 31, 2020
+
+ and 
+
+2019
+
+ was 
+
+$23.2 million
+
+ and 
+
+$19.7 million
+
+, respectively.
+
+We are also self-insured for employee medical claims. We estimate a liability for incurred but not reported claims based upon recent claims experience. Our self-insured liabilities contain uncertainties because management must make assumptions and apply judgments to estimate the ultimate cost to settle reported claims and claims incurred but not reported as of the balance sheet date. If actual results are not consistent with these assumptions and judgments, we could be exposed to additional costs in subsequent periods.
+
+Contingencies.
+
+  We are, and will likely continue to be, involved in a number of legal proceedings, government investigations, and claims, which we believe generally arise in the course of our business, given our size, history, complexity, and the nature of our business, products, Customers, regulatory environment, and industries in which we participate. These legal proceedings, investigations and claims generally involve a variety of legal theories and allegations, including, without limitation, personal injury (e.g., slip and falls, burns, vehicle accidents), product liability or regulation (e.g., based on product operation or claimed malfunction, failure to warn, failure to meet specification, or failure to comply with regulatory requirements), product exposure (e.g., claimed exposure to chemicals, asbestos, contaminants, radiation), property damage (e.g., claimed damage due to leaking equipment, fire, vehicles, chemicals), commercial claims (e.g., breach of contract, economic loss, warranty, misrepresentation), financial (e.g., taxes, reporting), employment (e.g., wrongful termination, discrimination, benefits matters), and other claims for damage and relief. 
+
+We record a liability for such contingencies to the extent we conclude that their occurrence is both probable and estimable. We consider many factors in making these assessments, including the professional judgment of experienced members of management and our legal counsel. We have made estimates as to the likelihood of unfavorable outcomes and the amounts of such potential losses. In our opinion, the ultimate outcome of these proceedings and claims is not anticipated to have a material adverse affect on our consolidated financial position, results of operations, or cash flows. However, the ultimate outcome of 
+
+ 37
+
+Table of Contents
+
+proceedings, government investigations, and claims is unpredictable and actual results could be materially different from our estimates. We record expected recoveries under applicable insurance contracts when we are assured of recovery. Refer to 
+
+Note 10
+
+ of our consolidated financial statements titled, "Commitments and Contingencies" for additional information.
+
+We are subject to taxation from federal, state and local, and foreign jurisdictions. Tax positions are settled primarily through the completion of audits within each individual tax jurisdiction or the closing of a statute of limitation. Changes in applicable tax law or other events may also require us to revise past estimates. The IRS of the United States routinely conducts audits of our federal income tax returns. 
+
+Additional information regarding our commitments and contingencies is included in 
+
+Note 10
+
+ to our consolidated financial statements titled, “Commitments and Contingencies.”
+
+Benefit Plans. 
+
+ We provide defined benefit pension plans for certain employees and retirees. In addition, we sponsor an unfunded post-retirement benefits plan for two groups of United States retirees. Benefits under this plan include retiree life insurance and retiree medical insurance, including prescription drug coverage.
+
+Employee pension and post-retirement benefits plans are a cost of conducting business and represent obligations that will be settled in the future and therefore, require us to use estimates and make certain assumptions to calculate the expense and liabilities related to the plans. Changes to these estimates and assumptions can result in different expense and liability amounts. Future actual experience may be significantly different from our current expectations. We believe that the most critical assumptions used to determine net periodic benefit costs and projected benefit obligations are the expected long-term rate of return on plan assets and the discount rate. A summary of significant assumptions used to determine the 
+
+March 31, 2020
+
+ projected benefit obligations and the fiscal 
+
+2020
+
+ net periodic benefit costs is as follows:
+
+ 
+
+Synergy Health plc
+
+Isotron BV
+
+Synergy Health Daniken AG
+
+Synergy Health Radeberg
+
+Synergy Health Allershausen
+
+Harwell Dosimeters Ltd 
+
+U.S. Post-
+
+Retirement Benefits Plan
+
+Funding Status
+
+Funded
+
+Funded
+
+Funded
+
+Unfunded
+
+Unfunded
+
+Funded
+
+Unfunded
+
+Assumptions used to determine March 31, 2020
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Benefit obligations:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Discount rate
+
+2.40
+
+%
+
+1.60
+
+%
+
+0.20
+
+%
+
+1.60
+
+%
+
+0.50
+
+%
+
+2.45
+
+%
+
+3.00
+
+%
+
+Assumptions used to determine fiscal 2020
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Net periodic benefit costs:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Discount rate
+
+2.50
+
+%
+
+1.20
+
+%
+
+0.20
+
+%
+
+1.60
+
+%
+
+1.75
+
+%
+
+2.45
+
+%
+
+3.50
+
+%
+
+Expected return on plan assets
+
+4.80
+
+%
+
+1.20
+
+%
+
+0.65
+
+%
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+NA – Not applicable.
+
+We develop our expected long-term rate of return on plan assets assumptions by evaluating input from third-party professional advisors, taking into consideration the asset allocation of the portfolios, and the long-term asset class return expectations. Generally, net periodic benefit costs increase as the expected long-term rate of return on plan assets assumption decreases. Holding all other assumptions constant, lowering the expected long-term rate of return on plan assets assumption for our funded defined benefit pension plans by 50 basis points would have increased the fiscal 
+
+2020
+
+ benefit costs by less than $0.1 million. 
+
+We develop our discount rate assumptions by evaluating input from third-party professional advisers, taking into consideration the current yield on country specific investment grade long-term bonds which provide for similar cash flow streams as our projected benefit obligations. Generally, the projected benefit obligations and the net periodic benefit costs both increase as the discount rate assumption decreases. Holding all other assumptions constant, lowering the discount rate assumption for our defined benefit pension plans and for the other post-retirement benefits plan by 50 basis points would have decreased the fiscal 
+
+2020
+
+ net periodic benefit costs by less than $0.1 million and would have increased the projected benefit obligations by approximately $10.5 million at 
+
+March 31, 2020
+
+.
+
+ 38
+
+Table of Contents
+
+We have made assumptions regarding healthcare costs in computing our other post-retirement benefit obligation. The assumed rates of increase generally decline ratably over a five year-period from the assumed current year healthcare cost trend rate of 
+
+6.8%
+
+ to the assumed long-term healthcare cost trend rate. A 100 basis point change in the assumed healthcare cost trend rate (including medical, prescription drug, and long-term rates) would have had the following effect at 
+
+March 31, 2020
+
+:
+
+ 
+
+100 Basis Point
+
+(dollars in thousands)
+
+Increase
+
+ 
+
+Decrease
+
+Effect on total service and interest cost components
+
+$
+
+—
+
+ 
+
+$
+
+—
+
+Effect on postretirement benefit obligation
+
+7
+
+ 
+
+(6
+
+)
+
+We recognize an asset for the overfunded status or a liability for the underfunded status of defined benefit pension and post-retirement benefit plans in our balance sheets. This amount is measured as the difference between the fair value of plan assets and the benefit obligation (the projected benefit obligation for pension plans and the accumulated post-retirement benefit obligation for other post-retirement benefit plans). Changes in the funded status of the plans are recorded in other comprehensive income in the year they occur. We measure plan assets and obligations as of the balance sheet date. 
+
+Note 9
+
+ to our consolidated financial statements titled, “Benefit Plans,” contains additional information about our pension and other post-retirement welfare benefits plans.
+
+Share-Based Compensation. 
+
+ We measure the estimated fair value for share-based compensation awards, including grants of employee stock options, at the grant date and recognize the related compensation expense over the period in which the share-based compensation vests. We selected the Black-Scholes-Merton option pricing model as the most appropriate method for determining the estimated fair value of our share-based stock option compensation awards. This model involves assumptions that are judgmental and affect share-based compensation expense.
+
+Share-based compensation expense was 
+
+$23.8 million
+
+ in fiscal 
+
+2020
+
+, 
+
+$24.0 million
+
+ in fiscal 
+
+2019
+
+ and 
+
+$22.2 million
+
+ in fiscal 
+
+2018
+
+. 
+
+Note 14
+
+ to our consolidated financial statements titled, “Share-Based Compensation,” contains additional information about our share-based compensation plans.
+
+RECENTLY ISSUED ACCOUNTING STANDARDS IMPACTING THE COMPANY
+
+Recently issued accounting standards that are relevant to us are presented in 
+
+Note 1
+
+ to our consolidated financial statements titled, “Nature of Operations and Summary of Significant Accounting Policies.”
+
+INFLATION
+
+Our business has not been significantly impacted by the overall effects of inflation. We monitor the prices we charge for our products and services on an ongoing basis and plan to adjust those prices to take into account future changes in the rate of inflation. However, we may not be able to completely offset the impact of inflation.
+
+FORWARD-LOOKING STATEMENTS 
+
+This Form 10-K may contain statements concerning certain trends, expectations, forecasts, estimates, or other forward-looking information affecting or relating to STERIS or its industry, products or activities that are intended to qualify for the protections afforded “forward-looking statements” under the Private Securities Litigation Reform Act of 1995 and other laws and regulations. Forward-looking statements speak only as to the date the statement is made and may be identified by the use of forward-looking terms such as “may,” “will,” “expects,” “believes,” “anticipates,” “plans,” “estimates,” “projects,” “targets,” “forecasts,” “outlook,” “impact,” “potential,” “confidence,” “improve,” “optimistic,” “deliver,” “orders,” “backlog,” “comfortable,” “trend”, and “seeks,” or the negative of such terms or other variations on such terms or comparable terminology. Many important factors could cause actual results to differ materially from those in the forward-looking statements including, without limitation, disruption of production or supplies, changes in market conditions, political events, pending or future claims or litigation, competitive factors, technology advances, actions of regulatory agencies, and changes in laws, government regulations, labeling or product approvals or the application or interpretation thereof. Other risk factors are described herein and in STERIS’s other securities filings, including Item 1A of this Annual Report on Form 10-K. Many of these important factors are outside of STERIS’s control. No assurances can be provided as to any result or the timing of any outcome regarding matters described in STERIS’s securities filings or otherwise with respect to any regulatory action, administrative proceedings, government investigations, litigation, warning letters, cost reductions, business strategies, earnings or revenue trends or future financial results. References to products are summaries only and should not be considered the specific terms of the product clearance or literature. Unless legally required, STERIS does not undertake to update or revise any forward-looking statements even if events make clear that any projected results, express or implied, will not be realized. Other potential risks and uncertainties that could cause actual results to differ materially from those in the forward-looking statements include, without limitation, (a) the impact of the COVID-19 pandemic on STERIS’s operations, performance, results, prospects, or value, (b) 
+
+ 39
+
+Table of Contents
+
+STERIS's ability to achieve the expected benefits regarding the accounting and tax treatments of the Redomiciliation transaction, (c) operating costs, Customer loss and business disruption (including, without limitation, difficulties in maintaining relationships with employees, Customers, clients or suppliers) being greater than expected following the Redomiciliation, (d) STERIS’s ability to meet expectations regarding the accounting and tax treatment of the Tax Cuts and Jobs Act (“TCJA”) or the possibility that anticipated benefits resulting from the TCJA will be less than estimated, (e) changes in tax laws or interpretations that could increase our consolidated tax liabilities, including changes in tax laws that would result in STERIS being treated as a domestic corporation for United States federal tax purposes, (f) the potential for increased pressure on pricing or costs that leads to erosion of profit margins, (g) the possibility that market demand will not develop for new technologies, products or applications or services, or business initiatives will take longer, cost more or produce lower benefits than anticipated, (h) the possibility that application of or compliance with laws, court rulings, certifications, regulations, regulatory actions, including without limitation those relating to FDA warning notices or letters, government investigations, the outcome of any pending FDA requests, inspections or submissions, or other requirements or standards may delay, limit or prevent new product introductions, affect the production and marketing of existing products or services or otherwise affect STERIS’s performance, results, prospects or value, (i) the potential of international unrest, economic downturn or effects of currencies, tax assessments, tariffs and/or other trade barriers, adjustments or anticipated rates, raw material costs or availability, benefit or retirement plan costs, or other regulatory compliance costs, (j) the possibility of reduced demand, or reductions in the rate of growth in demand, for STERIS’s products and services, (k) the possibility of delays in receipt of orders, order cancellations, or delays in the manufacture or shipment of ordered products or in the provision of services, (l) the possibility that anticipated growth, cost savings, new product acceptance, performance or approvals, or other results may not be achieved, or that transition, labor, competition, timing, execution, regulatory, governmental, or other issues or risks associated with STERIS’s businesses, industry or initiatives including, without limitation, those matters described in this Form 10-K and other securities filings, may adversely impact STERIS’s performance, results, prospects or value, (m) the impact on STERIS and its operations, or tax liabilities, of Brexit or the exit of other member countries from the EU, and the Company’s ability to respond to such impacts, (n) the impact on STERIS and its operations of any legislation, regulations or orders, including but not limited to any new trade or tax legislation, regulations or orders, that may be implemented by the U.S. administration or Congress, or of any responses thereto, (o) the possibility that anticipated financial results or benefits of recent acquisitions, or of STERIS’s restructuring efforts, or of recent divestitures, or of the targeted restructuring plan will not be realized or will be other than anticipated, and (p) the effects of contractions in credit availability, as well as the ability of STERIS’s Customers and suppliers to adequately access the credit markets when needed.
+
+ 
+
+ 40
+
+Table of Contents
