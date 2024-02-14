@@ -1,20 +1,20 @@
->ItemÂ 7.  Managementâ€™s Discussion and Analysis of Financial Condition and Results of Operations.
+>Item 7.  Management’s Discussion and Analysis of Financial Condition and Results of Operations.
 
 Our MD&A includes the following sections:
 
-â€¢
+•
 
 Executive Summary
 
-â€¢
+•
 
 Results of Operations and Non-GAAP Measures
 
-â€¢
+•
 
 Liquidity and Capital Resources
 
-â€¢
+•
 
 Critical Accounting Policies
 
@@ -26,21 +26,21 @@ dollars in millions, except per share data
 
 Fiscal
 
-Â 
+ 
 
 Fiscal
 
-Â 
+ 
 
 Fiscal
 
 2019
 
-Â 
+ 
 
 2018
 
-Â 
+ 
 
 2017
 
@@ -50,13 +50,13 @@ $
 
 110,225
 
-Â 
+ 
 
 $
 
 108,203
 
-Â 
+ 
 
 $
 
@@ -66,25 +66,25 @@ Net earnings
 
 11,242
 
-Â 
+ 
 
 11,121
 
-Â 
+ 
 
 8,630
 
-Â 
+ 
 
-Â 
+ 
 
-Â 
+ 
 
-Â 
+ 
 
-Â 
+ 
 
-Â 
+ 
 
 Diluted earnings per share
 
@@ -92,29 +92,29 @@ $
 
 10.25
 
-Â 
+ 
 
 $
 
 9.73
 
-Â 
+ 
 
 $
 
 7.29
 
-Â 
+ 
 
-Â 
+ 
 
-Â 
+ 
 
-Â 
+ 
 
-Â 
+ 
 
-Â 
+ 
 
 Net cash provided by operating activities
 
@@ -122,13 +122,13 @@ $
 
 13,723
 
-Â 
+ 
 
 $
 
 13,038
 
-Â 
+ 
 
 $
 
@@ -138,11 +138,11 @@ Proceeds from long-term debt, net of discounts and premiums
 
 3,420
 
-Â 
+ 
 
 3,466
 
-Â 
+ 
 
 2,991
 
@@ -150,11 +150,11 @@ Repayments of long-term debt
 
 1,070
 
-Â 
+ 
 
 1,209
 
-Â 
+ 
 
 543
 
@@ -162,15 +162,15 @@ Repurchases of common stock
 
 6,965
 
-Â 
+ 
 
 9,963
 
-Â 
+ 
 
 8,000
 
-â€”â€”â€”â€”â€”
+—————
 
 Note: Fiscal 2019 and fiscal 2017 include 52 weeks. Fiscal 2018 includes 53 weeks. 
 
@@ -208,7 +208,7 @@ three
 
  at 
 
-FebruaryÂ 2, 2020
+February 2, 2020
 
 . At the end of fiscal 
 
@@ -296,13 +296,13 @@ Our ROIC was
 
 2019
 
-. See the â€œ
+. See the “
 
 Non-GAAP Financial Measures
 
-â€ section below for our definition and calculation of ROIC, as well as a reconciliation of NOPAT, a non-GAAP financial measure, to net earnings (the most comparable GAAP financial measure).
+” section below for our definition and calculation of ROIC, as well as a reconciliation of NOPAT, a non-GAAP financial measure, to net earnings (the most comparable GAAP financial measure).
 
-The recent outbreak of the novel coronavirus COVID-19, which was declared a pandemic by the World Health Organization on March 11, 2020, has led to adverse impacts on the U.S. and global economies and created uncertainty regarding potential impacts to our supply chain, operations, and customer demand. The pandemic has impacted and could further impact our operations and the operations of our suppliers and vendors as a result of quarantines, facility closures, and travel and logistics restrictions. As a result of COVID-19, we have reduced store operating hours, expanded our paid time off policy for associates, and shifted certain store support operations to remote or virtual, and we may face additional labor-related costs. We are also taking steps in our stores to manage foot traffic to better protect our customers and associates. In addition, in certain jurisdictions, we have had to cease sales of or delay commencement of work on certain services deemed â€œnon-life-sustaining.â€
+The recent outbreak of the novel coronavirus COVID-19, which was declared a pandemic by the World Health Organization on March 11, 2020, has led to adverse impacts on the U.S. and global economies and created uncertainty regarding potential impacts to our supply chain, operations, and customer demand. The pandemic has impacted and could further impact our operations and the operations of our suppliers and vendors as a result of quarantines, facility closures, and travel and logistics restrictions. As a result of COVID-19, we have reduced store operating hours, expanded our paid time off policy for associates, and shifted certain store support operations to remote or virtual, and we may face additional labor-related costs. We are also taking steps in our stores to manage foot traffic to better protect our customers and associates. In addition, in certain jurisdictions, we have had to cease sales of or delay commencement of work on certain services deemed “non-life-sustaining.”
 
 We continue to actively monitor the situation and may take further actions that alter our operations as may be required by federal, state or local authorities or that we determine are in the best interests of our associates, customers, suppliers, vendors and shareholders. While the disruption is currently expected to be temporary, there is 
 
@@ -316,25 +316,25 @@ Results of Operations and Non-GAAP Measures
 
 The tables and discussion below should be read in conjunction with our consolidated financial statements and related notes included in this report. The following table displays the percentage relationship between net sales and major categories in our consolidated statements of earnings, as well as the percentage change in the associated dollar amounts:
 
-Â 
+ 
 
 Fiscal
 
-Â 
+ 
 
 Fiscal
 
-Â 
+ 
 
 Fiscal
 
 2019
 
-Â 
+ 
 
 2018
 
-Â 
+ 
 
 2017
 
@@ -342,23 +342,23 @@ dollars in millions
 
 $
 
-Â 
+ 
 
 % of Net Sales
 
-Â 
+ 
 
 $
 
-Â 
+ 
 
 % of Net Sales
 
-Â 
+ 
 
 $
 
-Â 
+ 
 
 % of Net Sales
 
@@ -368,105 +368,105 @@ $
 
 110,225
 
-Â 
+ 
 
-Â 
+ 
 
-Â 
+ 
 
 $
 
 108,203
 
-Â 
+ 
 
-Â 
+ 
 
-Â 
+ 
 
 $
 
 100,904
 
-Â 
+ 
 
-Â 
+ 
 
 Gross profit
 
 37,572
 
-Â 
+ 
 
 34.1
 
-Â %
+ %
 
-Â 
+ 
 
 37,160
 
-Â 
+ 
 
 34.3
 
-Â %
+ %
 
-Â 
+ 
 
 34,356
 
-Â 
+ 
 
 34.0
 
-Â %
+ %
 
 Operating expenses:
 
-Â 
+ 
 
-Â 
+ 
 
-Â 
+ 
 
-Â 
+ 
 
-Â 
+ 
 
-Â 
+ 
 
-Â 
+ 
 
-Â 
+ 
 
-Â 
+ 
 
-Â 
+ 
 
-Â 
+ 
 
 Selling, general and administrative
 
 19,740
 
-Â 
+ 
 
 17.9
 
-Â 
+ 
 
 19,513
 
-Â 
+ 
 
 18.0
 
-Â 
+ 
 
 17,864
 
-Â 
+ 
 
 17.7
 
@@ -474,71 +474,71 @@ Depreciation and amortization
 
 1,989
 
-Â 
+ 
 
 1.8
 
-Â 
+ 
 
 1,870
 
-Â 
+ 
 
 1.7
 
-Â 
+ 
 
 1,811
 
-Â 
+ 
 
 1.8
 
 Impairment loss
 
-â€”
+—
 
-Â 
+ 
 
-â€”
+—
 
-Â 
+ 
 
 247
 
-Â 
+ 
 
 0.2
 
-Â 
+ 
 
-â€”
+—
 
-Â 
+ 
 
-â€”
+—
 
 Total operating expenses
 
 21,729
 
-Â 
+ 
 
 19.7
 
-Â 
+ 
 
 21,630
 
-Â 
+ 
 
 20.0
 
-Â 
+ 
 
 19,675
 
-Â 
+ 
 
 19.5
 
@@ -546,49 +546,49 @@ Operating income
 
 15,843
 
-Â 
+ 
 
 14.4
 
-Â 
+ 
 
 15,530
 
-Â 
+ 
 
 14.4
 
-Â 
+ 
 
 14,681
 
-Â 
+ 
 
 14.5
 
 Interest and other (income) expense:
 
-Â 
+ 
 
-Â 
+ 
 
-Â 
+ 
 
-Â 
+ 
 
-Â 
+ 
 
-Â 
+ 
 
-Â 
+ 
 
-Â 
+ 
 
-Â 
+ 
 
-Â 
+ 
 
-Â 
+ 
 
 Interest and investment income
 
@@ -596,31 +596,31 @@ Interest and investment income
 
 )
 
-Â 
+ 
 
 (0.1
 
 )
 
-Â 
+ 
 
 (93
 
 )
 
-Â 
+ 
 
 (0.1
 
 )
 
-Â 
+ 
 
 (74
 
 )
 
-Â 
+ 
 
 (0.1
 
@@ -630,71 +630,71 @@ Interest expense
 
 1,201
 
-Â 
+ 
 
 1.1
 
-Â 
+ 
 
 1,051
 
-Â 
+ 
 
 1.0
 
-Â 
+ 
 
 1,057
 
-Â 
+ 
 
 1.0
 
 Other
 
-â€”
+—
 
-Â 
+ 
 
-â€”
+—
 
-Â 
+ 
 
 16
 
-Â 
+ 
 
-â€”
+—
 
-Â 
+ 
 
-â€”
+—
 
-Â 
+ 
 
-â€”
+—
 
 Interest and other, net
 
 1,128
 
-Â 
+ 
 
 1.0
 
-Â 
+ 
 
 974
 
-Â 
+ 
 
 0.9
 
-Â 
+ 
 
 983
 
-Â 
+ 
 
 1.0
 
@@ -702,23 +702,23 @@ Earnings before provision for income taxes
 
 14,715
 
-Â 
+ 
 
 13.3
 
-Â 
+ 
 
 14,556
 
-Â 
+ 
 
 13.5
 
-Â 
+ 
 
 13,698
 
-Â 
+ 
 
 13.6
 
@@ -726,23 +726,23 @@ Provision for income taxes
 
 3,473
 
-Â 
+ 
 
 3.2
 
-Â 
+ 
 
 3,435
 
-Â 
+ 
 
 3.2
 
-Â 
+ 
 
 5,068
 
-Â 
+ 
 
 5.0
 
@@ -752,87 +752,87 @@ $
 
 11,242
 
-Â 
+ 
 
 10.2
 
-Â %
+ %
 
-Â 
+ 
 
 $
 
 11,121
 
-Â 
+ 
 
 10.3
 
-Â %
+ %
 
-Â 
+ 
 
 $
 
 8,630
 
-Â 
+ 
 
 8.6
 
-Â %
+ %
 
-â€”â€”â€”â€”â€”
+—————
 
-Note: Fiscal 2019 and fiscal 2017 include 52 weeks. Fiscal 2018 includes 53 weeks. Certain percentages may not sum to totals due to rounding.Â 
+Note: Fiscal 2019 and fiscal 2017 include 52 weeks. Fiscal 2018 includes 53 weeks. Certain percentages may not sum to totals due to rounding. 
 
 22
 
 Table of Contents
 
-Â 
+ 
 
-Â 
+ 
 
-Â 
+ 
 
-%Â Change 
+% Change 
 
 Selected financial and sales data:
 
 Fiscal
 
-Â 
+ 
 
 Fiscal
 
-Â 
+ 
 
 Fiscal
 
-Â 
+ 
 
 Fiscal
 
-Â 
+ 
 
 Fiscal
 
 2019
 
-Â 
+ 
 
 2018
 
-Â 
+ 
 
 2017
 
-Â 
+ 
 
 2019 vs. 2018
 
-Â 
+ 
 
 2018 vs. 2017
 
@@ -844,23 +844,23 @@ Comparable sales increase
 
 %
 
-Â 
+ 
 
 5.2
 
 %
 
-Â 
+ 
 
 6.8
 
 %
 
-Â 
+ 
 
 N/A
 
-Â 
+ 
 
 N/A
 
@@ -872,23 +872,23 @@ Comparable customer transactions increase
 
 %
 
-Â 
+ 
 
 1.0
 
 %
 
-Â 
+ 
 
 2.2
 
 %
 
-Â 
+ 
 
 N/A
 
-Â 
+ 
 
 N/A
 
@@ -900,23 +900,23 @@ Comparable average ticket increase
 
 %
 
-Â 
+ 
 
 4.2
 
 %
 
-Â 
+ 
 
 4.5
 
 %
 
-Â 
+ 
 
 N/A
 
-Â 
+ 
 
 N/A
 
@@ -926,21 +926,21 @@ Customer transactions (in millions)
 
 1,616.0
 
-Â 
+ 
 
 1,620.8
 
-Â 
+ 
 
 1,578.6
 
-Â 
+ 
 
 (0.3
 
 )%
 
-Â 
+ 
 
 2.7
 
@@ -954,25 +954,25 @@ $
 
 67.30
 
-Â 
+ 
 
 $
 
 65.74
 
-Â 
+ 
 
 $
 
 63.06
 
-Â 
+ 
 
 2.4
 
-Â %
+ %
 
-Â 
+ 
 
 4.2
 
@@ -986,25 +986,25 @@ $
 
 454.82
 
-Â 
+ 
 
 $
 
 446.86
 
-Â 
+ 
 
 $
 
 417.02
 
-Â 
+ 
 
 1.8
 
-Â %
+ %
 
-Â 
+ 
 
 7.2
 
@@ -1016,31 +1016,31 @@ $
 
 10.25
 
-Â 
+ 
 
 $
 
 9.73
 
-Â 
+ 
 
 $
 
 7.29
 
-Â 
+ 
 
 5.3
 
-Â %
+ %
 
-Â 
+ 
 
 33.5
 
 %
 
-â€”â€”â€”â€”â€”
+—————
 
 (1)
 
@@ -1154,11 +1154,11 @@ Total comparable sales
 
 increased
 
-Â 
+ 
 
 3.5%
 
-Â in fiscalÂ 
+ in fiscal 
 
 2019
 
@@ -1180,17 +1180,17 @@ Lumber
 
 , comparable sales for our 
 
-Appliances, Indoor Garden, DÃ©cor/Storage, Tools, Hardware, and Outdoor Garden
+Appliances, Indoor Garden, Décor/Storage, Tools, Hardware, and Outdoor Garden
 
  merchandising departments were above the Company average. Our comparable average ticket 
 
 increased
 
-Â 
+ 
 
 2.5%
 
-Â in fiscalÂ 
+ in fiscal 
 
 2019
 
@@ -1198,7 +1198,7 @@ increased
 
 increased
 
-Â 
+ 
 
 1.1%
 
@@ -1212,11 +1212,11 @@ Gross Profit.
 
  
 
-Gross profitÂ 
+Gross profit 
 
 increased
 
-Â 
+ 
 
 $412 million
 
@@ -1224,7 +1224,7 @@ $412 million
 
 1.1%
 
-,Â toÂ 
+, to 
 
 $37.6 billion
 
@@ -1232,7 +1232,7 @@ $37.6 billion
 
 2019
 
-. Gross profit as a percent of net sales, or gross profit margin, wasÂ 
+. Gross profit as a percent of net sales, or gross profit margin, was 
 
 34.1%
 
@@ -1240,7 +1240,7 @@ $37.6 billion
 
 2019
 
-Â compared toÂ 
+ compared to 
 
 34.3%
 
@@ -1268,11 +1268,11 @@ Selling, General & Administrative
 
  
 
-SG&AÂ 
+SG&A 
 
 increased
 
-Â 
+ 
 
 $227 million
 
@@ -1284,7 +1284,7 @@ $227 million
 
 $19.7 billion
 
-Â in fiscal 
+ in fiscal 
 
 2019
 
@@ -1296,29 +1296,29 @@ $19.7 billion
 
 2019
 
-Â compared toÂ 
+ compared to 
 
 18.0%
 
-Â for fiscal 
+ for fiscal 
 
 2018
 
-. TheÂ 
+. The 
 
 decrease
 
-Â in SG&A as 
+ in SG&A as 
 
 23
 
 Table of Contents
 
-a percent of net sales for fiscalÂ 
+a percent of net sales for fiscal 
 
 2019
 
-Â was primarily driven by expense leverage resulting from positive comparable sales and continued expense control, partially offset by expenses related to strategic investments in the business.
+ was primarily driven by expense leverage resulting from positive comparable sales and continued expense control, partially offset by expenses related to strategic investments in the business.
 
 Depreciation and Amortization
 
@@ -1338,7 +1338,7 @@ $119 million
 
 6.4%
 
-,Â in fiscalÂ 
+, in fiscal 
 
 2019
 
@@ -1346,19 +1346,19 @@ $119 million
 
 1.8%
 
-Â for fiscalÂ 
+ for fiscal 
 
 2019
 
-Â compared to 
+ compared to 
 
 1.7%
 
- in fiscalÂ 
+ in fiscal 
 
 2018
 
-.Â The 
+. The 
 
 increase
 
@@ -1366,7 +1366,7 @@ increase
 
 Impairment Loss
 
-. There were no material impairment losses recognized in fiscalÂ 
+. There were no material impairment losses recognized in fiscal 
 
 2019
 
@@ -1380,19 +1380,19 @@ Interest and Other, net.
 
  
 
-Interest and other, net, wasÂ 
+Interest and other, net, was 
 
 $1.1 billion
 
-Â for fiscalÂ 
+ for fiscal 
 
 2019
 
-Â compared toÂ 
+ compared to 
 
 $974 million
 
-Â for fiscalÂ 
+ for fiscal 
 
 2018
 
@@ -1400,19 +1400,19 @@ $974 million
 
 increased
 
- toÂ 
+ to 
 
 1.0%
 
-Â in fiscalÂ 
+ in fiscal 
 
 2019
 
-Â from 
+ from 
 
 0.9%
 
- in fiscalÂ 
+ in fiscal 
 
 2018
 
@@ -1426,15 +1426,15 @@ Provision for Income Taxes.
 
  
 
-Our combined effective income tax rate wasÂ 
+Our combined effective income tax rate was 
 
 23.6%
 
-Â for both fiscalÂ 
+ for both fiscal 
 
 2019
 
-Â and fiscalÂ 
+ and fiscal 
 
 2018
 
@@ -1446,33 +1446,33 @@ Our combined effective income tax rate wasÂ 
 
 2018
 
- primarily reflected the enactment of the Tax Act. SeeÂ 
+ primarily reflected the enactment of the Tax Act. See 
 
 Note 5
 
-Â to our consolidated financial statements for further discussion. 
+ to our consolidated financial statements for further discussion. 
 
 Diluted Earnings per Share.
 
  
 
-Diluted earnings per share wereÂ 
+Diluted earnings per share were 
 
 $10.25
 
-Â for fiscalÂ 
+ for fiscal 
 
 2019
 
-Â compared to 
+ compared to 
 
 $9.73
 
-Â for fiscalÂ 
+ for fiscal 
 
 2018
 
-. Diluted earnings per share for fiscalÂ 
+. Diluted earnings per share for fiscal 
 
 2019
 
@@ -1500,7 +1500,7 @@ Fiscal
 
  
 
-For aÂ comparisonÂ of our results of operations forÂ fiscal 
+For a comparison of our results of operations for fiscal 
 
 2018
 
@@ -1508,13 +1508,13 @@ For aÂ comparisonÂ of our results of operations forÂ fiscal
 
 2017
 
-,Â see â€œ
+, see “
 
-Part II,Â Item 7.Â Managementâ€™s Discussion and Analysis of Financial Condition and Results of Operations
+Part II, Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
 
-â€Â of our Form 10-K for the fiscal year ended February 3, 2019, filed with the SEC on March 28, 2019.
+” of our Form 10-K for the fiscal year ended February 3, 2019, filed with the SEC on March 28, 2019.
 
-Non-GAAPÂ Financial Measures
+Non-GAAP Financial Measures
 
 To provide clarity about our operating performance, we supplement our reporting with certain non-GAAP financial measures. However, this supplemental information should not be considered in isolation or as a substitute for the related GAAP measures. Non-GAAP financial measures presented herein may differ from similar measures used by other companies.
 
@@ -1524,15 +1524,15 @@ We believe ROIC is meaningful for investors and management because it measures h
 
 The calculation of ROIC, together with a reconciliation of NOPAT to net earnings (the most comparable GAAP measure), follows:
 
-Â 
+ 
 
 Fiscal
 
-Â 
+ 
 
 Fiscal
 
-Â 
+ 
 
 Fiscal
 
@@ -1540,11 +1540,11 @@ dollars in millions
 
 2019
 
-Â 
+ 
 
 2018
 
-Â 
+ 
 
 2017
 
@@ -1554,13 +1554,13 @@ $
 
 11,242
 
-Â 
+ 
 
 $
 
 11,121
 
-Â 
+ 
 
 $
 
@@ -1570,11 +1570,11 @@ Interest and other, net
 
 1,128
 
-Â 
+ 
 
 974
 
-Â 
+ 
 
 983
 
@@ -1582,11 +1582,11 @@ Provision for income taxes
 
 3,473
 
-Â 
+ 
 
 3,435
 
-Â 
+ 
 
 5,068
 
@@ -1594,11 +1594,11 @@ Operating income
 
 15,843
 
-Â 
+ 
 
 15,530
 
-Â 
+ 
 
 14,681
 
@@ -1610,13 +1610,13 @@ Income tax adjustment
 
 )
 
-Â 
+ 
 
 (3,665
 
 )
 
-Â 
+ 
 
 (5,432
 
@@ -1628,61 +1628,61 @@ $
 
 12,104
 
-Â 
+ 
 
 $
 
 11,865
 
-Â 
+ 
 
 $
 
 9,249
 
-Â 
+ 
 
-Â 
+ 
 
-Â 
+ 
 
-Â 
+ 
 
-Â 
+ 
 
-Â 
+ 
 
 Average debt and equity
 
-Â (2)
+ (2)
 
 $
 
 26,686
 
-Â 
+ 
 
 $
 
 26,492
 
-Â 
+ 
 
 $
 
 27,074
 
-Â 
+ 
 
-Â 
+ 
 
-Â 
+ 
 
-Â 
+ 
 
-Â 
+ 
 
-Â 
+ 
 
 ROIC
 
@@ -1690,19 +1690,19 @@ ROIC
 
 %
 
-Â 
+ 
 
 44.8
 
 %
 
-Â 
+ 
 
 34.2
 
 %
 
-â€”â€”â€”â€”â€”
+—————
 
 Note: Fiscal 2019 and fiscal 2017 include 52 weeks. Fiscal 2018 includes 53 weeks.  
 
@@ -1714,7 +1714,7 @@ Income tax adjustment is defined as operating income multiplied by our effective
 
 The beginning balance of equity for fiscal 2019 has been adjusted to reflect an immaterial opening balance sheet adjustment due to the adoption of ASU No. 2016-02, Leases, in fiscal 2019.The beginning balance of equity for fiscal 2018 has been adjusted to reflect an opening balance sheet adjustment of $75 million due to the adoption of 
 
-ASU No.Â 2014-09, Revenue from Contracts with Customers,
+ASU No. 2014-09, Revenue from Contracts with Customers,
 
  in fiscal 2018. 
 
@@ -1724,7 +1724,7 @@ Cash and Cash Equivalents at End of Year
 
 At 
 
-FebruaryÂ 2, 2020
+February 2, 2020
 
 , we had 
 
@@ -1738,7 +1738,7 @@ $1.8 billion
 
 $2.8 billion
 
- in fiscalÂ 2020. Given the current uncertainty related to the COVID-19 pandemic, we may adjust our capital expenditures as necessary or appropriate to support the operations of the business.
+ in fiscal 2020. Given the current uncertainty related to the COVID-19 pandemic, we may adjust our capital expenditures as necessary or appropriate to support the operations of the business.
 
 Debt and Derivatives
 
@@ -1776,11 +1776,11 @@ $1.0 billion
 
  credit facility, extending the maturity from December 2019 to December 2020. At 
 
-FebruaryÂ 2, 2020
+February 2, 2020
 
 , we were in compliance with all of the covenants contained in the credit facilities, none of which are expected to impact our liquidity or capital resources. At 
 
-FebruaryÂ 2, 2020
+February 2, 2020
 
 , there were 
 
@@ -1792,7 +1792,7 @@ $1.3 billion
 
  at 
 
-FebruaryÂ 3, 2019
+February 3, 2019
 
 . 
 
@@ -1954,11 +1954,11 @@ Contractual Obligations
 
 Our significant contractual obligations at 
 
-FebruaryÂ 2, 2020
+February 2, 2020
 
  were as follows:
 
-Â 
+ 
 
 Payments Due by Period
 
@@ -1966,25 +1966,25 @@ in millions
 
 Total
 
-Â 
+ 
 
 Less than 
 
 1 Year
 
-Â 
+ 
 
 1 to 
 
 3 Years
 
-Â 
+ 
 
 3 to 
 
 5 Years
 
-Â 
+ 
 
 More Than 
 
@@ -1996,33 +1996,33 @@ $
 
 974
 
-Â 
+ 
 
 $
 
 974
 
-Â 
+ 
 
 $
 
-â€”
+—
 
-Â 
-
-$
-
-â€”
-
-Â 
+ 
 
 $
 
-â€”
+—
+
+ 
+
+$
+
+—
 
 Long-term debt 
 
-â€“ 
+– 
 
 principal payments 
 
@@ -2030,45 +2030,45 @@ principal payments
 
 29,500
 
-Â 
+ 
 
 1,750
 
-Â 
+ 
 
 4,600
 
-Â 
+ 
 
 2,100
 
-Â 
+ 
 
 21,050
 
 Long-term debt 
 
-â€“
+–
 
-Â interest payments 
+ interest payments 
 
 (2)
 
 17,709
 
-Â 
+ 
 
 1,083
 
-Â 
+ 
 
 1,951
 
-Â 
+ 
 
 1,775
 
-Â 
+ 
 
 12,900
 
@@ -2078,19 +2078,19 @@ Finance lease obligations
 
 1,773
 
-Â 
+ 
 
 172
 
-Â 
+ 
 
 341
 
-Â 
+ 
 
 312
 
-Â 
+ 
 
 948
 
@@ -2100,19 +2100,19 @@ Operating lease obligations
 
 6,680
 
-Â 
+ 
 
 955
 
-Â 
+ 
 
 1,647
 
-Â 
+ 
 
 1,256
 
-Â 
+ 
 
 2,822
 
@@ -2122,19 +2122,19 @@ Purchase obligations
 
 1,400
 
-Â 
+ 
 
 971
 
-Â 
+ 
 
 336
 
-Â 
+ 
 
 87
 
-Â 
+ 
 
 6
 
@@ -2144,21 +2144,21 @@ Unrecognized tax benefits
 
 25
 
-Â 
+ 
 
 25
 
-Â 
+ 
 
-â€”
+—
 
-Â 
+ 
 
-â€”
+—
 
-Â 
+ 
 
-â€”
+—
 
 Total
 
@@ -2166,31 +2166,31 @@ $
 
 58,061
 
-Â 
+ 
 
 $
 
 5,930
 
-Â 
+ 
 
 $
 
 8,875
 
-Â 
+ 
 
 $
 
 5,530
 
-Â 
+ 
 
 $
 
 37,726
 
-â€”â€”â€”â€”â€”
+—————
 
 (1)
 
@@ -2232,7 +2232,7 @@ Critical Accounting Policies
 
 Our significant accounting policies are disclosed in 
 
-NoteÂ 1
+Note 1
 
  to our consolidated financial statements. The following discussion addresses our most critical accounting policies, which are those that are both important to the 
 
@@ -2246,7 +2246,7 @@ Merchandise Inventories
 
 We value the substantial majority of our inventory under the retail inventory method, using the first-in, first-out method, with the remainder of our inventories valued under a cost method. Under the retail inventory method, inventories are stated at cost, which is determined by applying a cost-to-retail ratio to the retail value of inventories. 
 
-The retail value of our inventory is adjusted as needed to reflect current market conditions. Because these adjustments are based on current prevailing market conditions, the value of our inventory approximates the lower of cost or market. The valuation under theÂ retailÂ inventory method is based on a number of factors such as markups, markdowns, and inventory losses (or shrink). As such, there exists an inherent uncertainty in the final determination of inventoryÂ costÂ and gross profit. We determine markups and markdowns based on the consideration of a variety of factors such as current and anticipated demand, customer preferences and buying trends, age of the merchandise, and weather conditions. 
+The retail value of our inventory is adjusted as needed to reflect current market conditions. Because these adjustments are based on current prevailing market conditions, the value of our inventory approximates the lower of cost or market. The valuation under the retail inventory method is based on a number of factors such as markups, markdowns, and inventory losses (or shrink). As such, there exists an inherent uncertainty in the final determination of inventory cost and gross profit. We determine markups and markdowns based on the consideration of a variety of factors such as current and anticipated demand, customer preferences and buying trends, age of the merchandise, and weather conditions. 
 
 We calculate shrink based on actual inventory losses determined as a result of physical inventory counts during each fiscal period and estimated inventory losses which occur between physical inventory counts. The estimate for shrink in the interim period between physical inventory counts is calculated on a store-specific basis based on recent shrink results and current trends in the business. Historically, the difference between estimated shrink and actual inventory losses has not been material to our annual financial results. 
 
@@ -2256,7 +2256,7 @@ Impairment of Long-Lived Assets
 
 We evaluate our long-lived assets each quarter for indicators of potential impairment. Indicators of impairment include current period losses combined with a history of losses, our decision to relocate or close a store or other location before the end of its previously estimated useful life, or when changes in other circumstances indicate the carrying amount of an asset may not be recoverable. The evaluation for long-lived assets is performed at the lowest level of identifiable cash flows, which is generally the individual store level. The assets of a store with indicators of impairment are evaluated for recoverability by comparing their undiscounted future cash flows with their carrying value. Our cash flow projections look several years into the future and include assumptions of variables such as future sales and operating margin growth rates, economic conditions, market competition, and inflation. 
 
-If the carrying value is greater than the undiscounted future cash flows, we then measure the assetâ€™s fair value to determine whether an impairment loss should be recognized. If the resulting fair value is less than the carrying value, an impairment loss is recognized. We generally base our estimates of fair market value on market appraisals of owned locations and estimates of the amount of potential sublease income and the time required to sublease for leased locations. Impairments and lease obligation costs on closings and relocations were not material to our consolidated financial statements in fiscal 
+If the carrying value is greater than the undiscounted future cash flows, we then measure the asset’s fair value to determine whether an impairment loss should be recognized. If the resulting fair value is less than the carrying value, an impairment loss is recognized. We generally base our estimates of fair market value on market appraisals of owned locations and estimates of the amount of potential sublease income and the time required to sublease for leased locations. Impairments and lease obligation costs on closings and relocations were not material to our consolidated financial statements in fiscal 
 
 2019
 
@@ -2268,7 +2268,7 @@ If the carrying value is greater than the undiscounted future cash flows, we the
 
 Self-Insurance
 
-We have established liabilities for certain losses related to general liability (including product liability), workersâ€™ compensation, employee group medical, and automobile claims for which we are self-insured. Our self-insured retention or deductible, as applicable, for each claim involving general liability, workersâ€™ compensation, and automobile liability is limited to $25 million, $1 million, and $1 million, respectively. We have no stop loss limits for self-insured employee group medical claims. Our liabilities represent estimates of the ultimate cost for claims incurred at the balance sheet date. The estimated liabilities are not discounted and are established based upon analysis of historical data and actuarial estimates. The liabilities are reviewed by management and third-party actuaries to ensure that they are appropriate. While we believe these estimates are reasonable based on the information currently available, if actual trends, including the severity or frequency of claims, medical cost inflation or fluctuations in premiums, differ from our estimates, our results of operations could be impacted. Actual results related to these types of claims did not vary materially from estimated amounts for fiscal 
+We have established liabilities for certain losses related to general liability (including product liability), workers’ compensation, employee group medical, and automobile claims for which we are self-insured. Our self-insured retention or deductible, as applicable, for each claim involving general liability, workers’ compensation, and automobile liability is limited to $25 million, $1 million, and $1 million, respectively. We have no stop loss limits for self-insured employee group medical claims. Our liabilities represent estimates of the ultimate cost for claims incurred at the balance sheet date. The estimated liabilities are not discounted and are established based upon analysis of historical data and actuarial estimates. The liabilities are reviewed by management and third-party actuaries to ensure that they are appropriate. While we believe these estimates are reasonable based on the information currently available, if actual trends, including the severity or frequency of claims, medical cost inflation or fluctuations in premiums, differ from our estimates, our results of operations could be impacted. Actual results related to these types of claims did not vary materially from estimated amounts for fiscal 
 
 2019
 
@@ -2280,7 +2280,7 @@ We have established liabilities for certain losses related to general liability 
 
 Vendor Allowances 
 
-Vendor allowances primarily consist of volume rebates that are earned as a result of attaining certain purchase levels and co-op advertising allowances for the promotion of vendorsâ€™ products that are typically based on 
+Vendor allowances primarily consist of volume rebates that are earned as a result of attaining certain purchase levels and co-op advertising allowances for the promotion of vendors’ products that are typically based on 
 
 27
 
@@ -2288,7 +2288,7 @@ Table of Contents
 
 guaranteed minimum amounts with additional amounts being earned for attaining certain purchase levels. These vendor allowances are accrued as earned, with those allowances received as a result of attaining certain purchase levels accrued over the incentive period based on estimates of purchases. We believe that our estimate of vendor allowances earned based on expected volume of purchases over the incentive period is an accurate reflection of the ultimate allowance to be received from our vendors. 
 
-Volume rebates and certain co-op advertising allowances reduce the carrying cost of inventory and are recognized in cost of sales when the related inventory is sold. Certain other co-op advertising allowances that are reimbursements of specific, incremental and identifiable costs incurred to promote vendorsâ€™ products are recorded as an offset against advertising expense in SG&A. 
+Volume rebates and certain co-op advertising allowances reduce the carrying cost of inventory and are recognized in cost of sales when the related inventory is sold. Certain other co-op advertising allowances that are reimbursements of specific, incremental and identifiable costs incurred to promote vendors’ products are recorded as an offset against advertising expense in SG&A. 
 
 Uncertain Tax Positions 
 

@@ -1,14 +1,14 @@
-ITEM 7.Â Â MANAGEMENTâ€™S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+ITEM 7.  MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
 
-Â 
+ 
 
-The following discussion should be read in conjunction with our Consolidated Financial Statements and Notes thereto. Discussion regarding our financial condition and results of operations for fiscal 2019 as compared to fiscal 2018 is included in Item 7 of our Annual Report on Form 10-K for the fiscal year ended NovemberÂ 29, 2019, filed with the SEC on January 21, 2020.
+The following discussion should be read in conjunction with our Consolidated Financial Statements and Notes thereto. Discussion regarding our financial condition and results of operations for fiscal 2019 as compared to fiscal 2018 is included in Item 7 of our Annual Report on Form 10-K for the fiscal year ended November 29, 2019, filed with the SEC on January 21, 2020.
 
 ACQUISITIONS 
 
-Subsequent to November 27, 2020, we completed our acquisition of Workfront, a privately held company that provides a work management platform for marketers, for approximately $1.5Â billion in cash consideration. Workfront will be integrated into our Digital Experience reportable segment for financial reporting purposes in the first quarter of fiscal 2021.
+Subsequent to November 27, 2020, we completed our acquisition of Workfront, a privately held company that provides a work management platform for marketers, for approximately $1.5 billion in cash consideration. Workfront will be integrated into our Digital Experience reportable segment for financial reporting purposes in the first quarter of fiscal 2021.
 
-During fiscal 2019, we acquired the remaining interest in Allegorithmic SAS (â€œAllegorithmicâ€), a privately held 3D editing and authoring software company for gaming and entertainment, for approximatelyÂ $106 millionÂ in cash consideration, and integrated it into our Digital Media reportable segment.
+During fiscal 2019, we acquired the remaining interest in Allegorithmic SAS (“Allegorithmic”), a privately held 3D editing and authoring software company for gaming and entertainment, for approximately $106 million in cash consideration, and integrated it into our Digital Media reportable segment.
 
 During fiscal 2018, we completed our acquisitions of Marketo, a privately held marketing cloud platform company, for approximately $4.73 billion and Magento, a privately held commerce platform company, for approximately $1.64 billion, and integrated them into our Digital Experience reportable segment.
 
@@ -26,7 +26,7 @@ We believe that the assumptions, judgments and estimates involved in the account
 
 Revenue Recognition 
 
-Our contracts with customers may include multiple goods and services. For example, some of our offerings include both on-premise and/or on-device software licenses and cloud services. Determining whether the software licenses and the cloud services are distinct from each other, and therefore performance obligations to be accounted for separately, or not distinct from each other, and therefore part of a single performance obligation, may require significant judgment. We have concluded that the on-premise/on-device software licenses and cloud services provided in our Creative Cloud and Document Cloud subscription offerings are not distinct from each other such that revenue from each offering should be recognized ratably over the subscription period for which the cloud services are provided. In reaching this conclusion, we considered the nature of our promise to Creative Cloud and Document Cloud customers, which is to provide a complete end-to-end creative designÂ or document workflow solution that operates seamlessly across multiple devices and teams. We fulfill this promise by providing access to a solution that integrates cloud-based and on-premise/on-device features that, together through their integration, provide functionalities, utility and workflow efficiencies that could not be obtained from either the on-premise/on-device software or cloud services on their own.
+Our contracts with customers may include multiple goods and services. For example, some of our offerings include both on-premise and/or on-device software licenses and cloud services. Determining whether the software licenses and the cloud services are distinct from each other, and therefore performance obligations to be accounted for separately, or not distinct from each other, and therefore part of a single performance obligation, may require significant judgment. We have concluded that the on-premise/on-device software licenses and cloud services provided in our Creative Cloud and Document Cloud subscription offerings are not distinct from each other such that revenue from each offering should be recognized ratably over the subscription period for which the cloud services are provided. In reaching this conclusion, we considered the nature of our promise to Creative Cloud and Document Cloud customers, which is to provide a complete end-to-end creative design or document workflow solution that operates seamlessly across multiple devices and teams. We fulfill this promise by providing access to a solution that integrates cloud-based and on-premise/on-device features that, together through their integration, provide functionalities, utility and workflow efficiencies that could not be obtained from either the on-premise/on-device software or cloud services on their own.
 
 Cloud-based features that are integral to our Creative Cloud and Document Cloud offerings and that work together with the on-premise/on-device software include, but are not limited to: Creative Cloud Libraries, which enable customers to access their work, settings, preferences and other assets seamlessly across desktop and mobile devices and collaborate across teams in 
 
@@ -34,29 +34,29 @@ Cloud-based features that are integral to our Creative Cloud and Document Cloud 
 
 Table of Contents
 
-real time; shared reviews which enable simultaneous editing and commenting of PDFs across desktop, mobile and web; automatic cloud rendering of a design which enables it to be worked on in multiple mediums; and Sensei, Adobeâ€™s cloud-hosted artificial intelligence and machine learning framework, which enables features such as automated photo-editing, photograph content-awareness, natural language processing, optical character recognition and automated document tagging.
+real time; shared reviews which enable simultaneous editing and commenting of PDFs across desktop, mobile and web; automatic cloud rendering of a design which enables it to be worked on in multiple mediums; and Sensei, Adobe’s cloud-hosted artificial intelligence and machine learning framework, which enables features such as automated photo-editing, photograph content-awareness, natural language processing, optical character recognition and automated document tagging.
 
 Business Combinations
 
-We allocate the purchase price of acquired companies to tangible and intangible assets acquired and liabilities assumed based upon their estimated fair values at the acquisition date. The purchase price allocation process requires management to make significant estimates and assumptions with respect to intangible assets and deferred revenue obligations.Â Although we believe the assumptions and estimates we have made are reasonable, they are based in part on historical experience, market conditions and information obtained from management of the acquired companies and are inherently uncertain. Examples of critical estimates in valuing certain of the intangible assets we have acquired or may acquire in the future include but are not limited to:
+We allocate the purchase price of acquired companies to tangible and intangible assets acquired and liabilities assumed based upon their estimated fair values at the acquisition date. The purchase price allocation process requires management to make significant estimates and assumptions with respect to intangible assets and deferred revenue obligations. Although we believe the assumptions and estimates we have made are reasonable, they are based in part on historical experience, market conditions and information obtained from management of the acquired companies and are inherently uncertain. Examples of critical estimates in valuing certain of the intangible assets we have acquired or may acquire in the future include but are not limited to:
 
-â€¢
+•
 
 future expected cash flows from software license sales, subscriptions, support agreements, consulting contracts and acquired developed technologies and patents;
 
-â€¢
+•
 
 historical and expected customer attrition rates and anticipated growth in revenue from acquired customers;
 
-â€¢
+•
 
-the acquired companyâ€™s trade name and trademarks as well as assumptions about the period of time the acquired trade name and trademarks will continue to be used in the combined companyâ€™s product portfolio;
+the acquired company’s trade name and trademarks as well as assumptions about the period of time the acquired trade name and trademarks will continue to be used in the combined company’s product portfolio;
 
-â€¢
+•
 
 the expected use of the acquired assets; and 
 
-â€¢
+•
 
 discount rates.
 
@@ -70,7 +70,7 @@ We use the asset and liability method of accounting for income taxes. Under this
 
 Our assumptions, judgments and estimates relative to the current provision for income taxes take into account current tax laws, our interpretation of current tax laws and possible outcomes of current and future audits conducted by foreign and domestic tax authorities. We have established reserves for income taxes to address potential exposures involving tax positions that could be challenged by tax authorities. In addition, we are subject to the continual examination of our income tax returns by the U.S. Internal Revenue Service and other domestic and foreign tax authorities. These tax examinations are expected to focus on our intercompany transfer pricing practices, application of tax rules, and other matters. We regularly assess the likelihood of outcomes resulting from these examinations to determine the adequacy of our provision for income taxes and have reserved for potential adjustments that may result from such examinations. We believe such estimates to be reasonable; however, we cannot provide assurance that the final determination of any of these examinations will not have a significant impact on the amounts provided for income taxes in our Consolidated Financial Statements.
 
-During fiscal 2020, we completed intra-entity transfers of certain intellectual property rights (â€œIP rightsâ€) which resulted in the establishment of deferred tax assets, net of valuation allowance, and related tax benefits of $
+During fiscal 2020, we completed intra-entity transfers of certain intellectual property rights (“IP rights”) which resulted in the establishment of deferred tax assets, net of valuation allowance, and related tax benefits of $
 
 224
 
@@ -98,11 +98,11 @@ During the second quarter of fiscal 2020, we began to discontinue our transactio
 
 Digital Media
 
-In our Digital Media segment, we are a market leader with Creative Cloud, our subscription-based offering which provides desktop tools, mobile apps and cloud-based services for designing, creating and publishing rich and immersive content. Creative Cloud delivers value with deep, cross-product integration, frequent product updates and feature enhancements, cloud-enabled services including storage and syncing of files across usersâ€™ machines, machine learning and artificial intelligence, access to marketplace, social and community-based features with our Adobe Stock and Behance services, app creation capabilities, tools which assist with enterprise deployments and team collaboration, and affordable pricing for cost-sensitive customers.
+In our Digital Media segment, we are a market leader with Creative Cloud, our subscription-based offering which provides desktop tools, mobile apps and cloud-based services for designing, creating and publishing rich and immersive content. Creative Cloud delivers value with deep, cross-product integration, frequent product updates and feature enhancements, cloud-enabled services including storage and syncing of files across users’ machines, machine learning and artificial intelligence, access to marketplace, social and community-based features with our Adobe Stock and Behance services, app creation capabilities, tools which assist with enterprise deployments and team collaboration, and affordable pricing for cost-sensitive customers.
 
 We offer Creative Cloud for individuals, students, teams and enterprises. We expect Creative Cloud will drive sustained long-term revenue growth through a continued expansion of our customer base by acquiring new users as a result of low cost of entry and delivery of additional features and value to Creative Cloud, as well as keeping existing customers current on our latest release. We have also built out a marketplace for Creative Cloud subscribers to enable the delivery and purchase of stock content in our Adobe Stock service. Overall, our strategy with Creative Cloud is designed to enable us to increase our revenue with users, attract more new customers, and grow our recurring and predictable revenue stream that is recognized ratably.
 
-We continue to implement strategies that will accelerate awareness, consideration and purchase of subscriptions to our Creative Cloud offerings. These strategies include increasing the value Creative Cloud users receive, such as offering new desktop and mobile applications, as well as targeted promotions and offers that attract past customers and potential users to try out and ultimately subscribe to Creative Cloud. Because of the shift towards Creative Cloud subscriptions and Enterprise Term License Agreements (â€œETLAsâ€), revenue from perpetual licensing of our Creative products has been immaterial to our business.
+We continue to implement strategies that will accelerate awareness, consideration and purchase of subscriptions to our Creative Cloud offerings. These strategies include increasing the value Creative Cloud users receive, such as offering new desktop and mobile applications, as well as targeted promotions and offers that attract past customers and potential users to try out and ultimately subscribe to Creative Cloud. Because of the shift towards Creative Cloud subscriptions and Enterprise Term License Agreements (“ETLAs”), revenue from perpetual licensing of our Creative products has been immaterial to our business.
 
 We are also a market leader with our Document Cloud offerings built around our Adobe Acrobat family of products, including Adobe Acrobat Reader DC, and a set of integrated mobile apps and cloud-based document services, including Adobe Scan and Adobe Sign. Acrobat provides reliable creation and exchange of electronic documents, regardless of platform or application source type. Document Cloud, which we believe enhances the way people manage critical documents at home, in the office and across devices, includes Adobe Acrobat DC and Adobe Sign, and a set of integrated services enabling users to create, review, approve, sign and track documents whether on a desktop or mobile device. Adobe Acrobat DC is offered both through subscription and perpetual licenses.
 
@@ -110,7 +110,7 @@ We are also a market leader with our Document Cloud offerings built around our A
 
 Table of Contents
 
-Annualized Recurring Revenue (â€œARRâ€) is currently the key performance metric our management uses to assess the health and trajectory of our overall Digital Media segment. ARR should be viewed independently of revenue, deferred revenue, unbilled backlog and remaining performance obligation as ARR is a performance metric and is not intended to be combined with any of these items. We adjust our reported ARR on an annual basis to reflect any material exchange rates changes. Our reported ARR results in the current fiscal year are based on currency rates set at the beginning of the year and held constant throughout the year. We calculate ARR as follows:
+Annualized Recurring Revenue (“ARR”) is currently the key performance metric our management uses to assess the health and trajectory of our overall Digital Media segment. ARR should be viewed independently of revenue, deferred revenue, unbilled backlog and remaining performance obligation as ARR is a performance metric and is not intended to be combined with any of these items. We adjust our reported ARR on an annual basis to reflect any material exchange rates changes. Our reported ARR results in the current fiscal year are based on currency rates set at the beginning of the year and held constant throughout the year. We calculate ARR as follows:
 
 Creative ARR
 
@@ -146,19 +146,19 @@ We are a market leader in the fast-growing category addressed by our Digital Exp
 
 Adobe Experience Cloud is focused on delivering solutions for our enterprise customers across the following strategic growth pillars:
 
-â€¢
+•
 
 Customer data and insights. 
 
 Our solutions deliver real-time customer profiles and intelligence across the customer journey. Our offerings include Adobe Experience Platform, Adobe Analytics, Adobe Audience Manager, Customer Journey Analytics, Real-time Customer Data Platform and Intelligent Services.
 
-â€¢
+•
 
 Content and commerce.
 
  Our solutions to help customers manage, deliver, test, target and optimize content delivery and enable shopping experiences that scale from mid-market to enterprise businesses. Our offerings include Adobe Experience Manager, Adobe Target and Adobe Commerce.
 
-â€¢
+•
 
 Customer journey management. 
 
@@ -174,7 +174,7 @@ with the science of our Digital Experience business, we help our customers to mo
 
 We utilize a direct sales force to market and license our Digital Experience solutions, as well as an extensive ecosystem of partners, including marketing agencies, systems integrators and independent software vendors that help license and deploy our solutions to their customers. We have made significant investments to broaden the scale and size of all of these routes to market, and our recent financial results reflect the success of these investments. 
 
-Digital Experience revenue for all fiscal years presented has been updated to reflect the Advertising Cloud segment move. Digital Experience revenue was $3.13 billion in fiscal 2020, up from $2.80 billion in fiscal 2019 which represents 12% year-over-year growth. Driving this increase was the increase in subscription revenue across our offerings which grew toÂ $2.66 billionÂ in fiscalÂ 2020Â fromÂ $2.28 billionÂ in fiscalÂ 2019, representingÂ 17%Â year-over-year growth. 
+Digital Experience revenue for all fiscal years presented has been updated to reflect the Advertising Cloud segment move. Digital Experience revenue was $3.13 billion in fiscal 2020, up from $2.80 billion in fiscal 2019 which represents 12% year-over-year growth. Driving this increase was the increase in subscription revenue across our offerings which grew to $2.66 billion in fiscal 2020 from $2.28 billion in fiscal 2019, representing 17% year-over-year growth. 
 
 COVID-19 UPDATE
 
@@ -186,31 +186,31 @@ See Risk Factors for further discussion of the possible impact of the pandemic o
 
 Financial Performance Summary for Fiscal 2020
 
-â€¢
+•
 
-Total Digital Media ARR of approximately $10.18 billion as of NovemberÂ 27, 2020 increased by $1.85 billion, or 22%, from $8.33 billion as of NovemberÂ 29, 2019. The increase in our Digital Media ARR was primarily due to new user adoption of our Creative Cloud and Document Cloud offerings. 
+Total Digital Media ARR of approximately $10.18 billion as of November 27, 2020 increased by $1.85 billion, or 22%, from $8.33 billion as of November 29, 2019. The increase in our Digital Media ARR was primarily due to new user adoption of our Creative Cloud and Document Cloud offerings. 
 
-â€¢
+•
 
 Creative revenue of $7.74 billion increased by $1.25 billion, or 19%, during fiscal 2020, from $6.48 billion in fiscal 2019. Document Cloud revenue of $1.50 billion increased by $272 million, or 22%, during fiscal 2020, from $1.22 billion in fiscal 2019. The increases were primarily due to subscription revenue growth associated with our Creative Cloud and Document Cloud offerings.
 
-â€¢
+•
 
 Digital Experience revenue of $3.13 billion increased by $330 million, or 12%, during fiscal 2020, from $2.80 billion in fiscal 2019. The increase was primarily due to subscription revenue growth across our offerings.
 
-â€¢
+•
 
-Remaining performance obligation of $11.34 billion as of NovemberÂ 27, 2020 increased by $1.52 billion, or 15%, from $9.82 billion as of NovemberÂ 29, 2019, primarily due to new contracts and renewals for our Digital Media and Digital Experience offerings. 
+Remaining performance obligation of $11.34 billion as of November 27, 2020 increased by $1.52 billion, or 15%, from $9.82 billion as of November 29, 2019, primarily due to new contracts and renewals for our Digital Media and Digital Experience offerings. 
 
-â€¢
+•
 
 Cost of revenue of $1.72 billion increased by $49 million, or 3%, during fiscal 2020, from $1.67 billion in fiscal 2019 primarily due to increases in hosting services and data center costs, offset in large part by decreases in Advertising Cloud media costs.
 
-â€¢
+•
 
 Operating expenses of $6.91 billion increased by $679 million, or 11%, during fiscal 2020, from $6.23 billion in fiscal 2019 primarily due to increases in base and incentive compensation and related benefits costs, as well as increased marketing spend. These increases were offset in part by decreases in travel-related expenses. 
 
-â€¢
+•
 
 Net income of $5.26 billion increased by $2.31 billion, or 78%, during fiscal 2020 from $2.95 billion in fiscal 2019 primarily due to increases in revenue and the non-recurring benefit from income taxes resulting from intra-entity transfers of certain intellectual property rights. 
 
@@ -218,7 +218,7 @@ Net income of $5.26 billion increased by $2.31 billion, or 78%, during fiscal 20
 
 Table of Contents
 
-â€¢
+•
 
 Net cash flows from operations of $5.73 billion during fiscal 2020 increased by $1.31 billion, or 30%, from $4.42 billion during fiscal 2019 primarily due to higher net income adjusted for the net effect of non-cash items.
 
@@ -242,11 +242,11 @@ Our financial results for fiscal 2020 and 2019 are presented in accordance with 
 
 2018
 
-%Â Change
+% Change
 
 2020-2019
 
-%Â Change
+% Change
 
 2019-2018
 
@@ -254,129 +254,129 @@ Subscription
 
 $
 
-11,626Â 
+11,626 
 
 $
 
-9,634Â 
+9,634 
 
 $
 
-7,604Â 
+7,604 
 
-21Â 
+21 
 
 %
 
-27Â 
+27 
 
 %
 
 Percentage of total revenue
 
-90Â 
+90 
 
 %
 
-86Â 
+86 
 
 %
 
-84Â 
+84 
 
 %
 
-Â 
+ 
 
-Â 
+ 
 
 Product
 
-507Â 
+507 
 
-648Â 
+648 
 
-622Â 
+622 
 
 (22)
 
 %
 
-4Â 
+4 
 
 %
 
 Percentage of total revenue
 
-4Â 
+4 
 
 %
 
-6Â 
+6 
 
 %
 
-7Â 
+7 
 
 %
 
-Â 
+ 
 
-Â 
+ 
 
 Services and other
 
-735Â 
+735 
 
-889Â 
+889 
 
-804Â 
+804 
 
 (17)
 
 %
 
-11Â 
+11 
 
 %
 
 Percentage of total revenue
 
-6Â 
+6 
 
 %
 
-8Â 
+8 
 
 %
 
-9Â 
+9 
 
 %
 
-Â 
+ 
 
-Â 
+ 
 
 Total revenue
 
 $
 
-12,868Â 
+12,868 
 
 $
 
-11,171Â 
+11,171 
 
 $
 
-9,030Â 
+9,030 
 
-15Â 
+15 
 
 %
 
-24Â 
+24 
 
 %
 
@@ -394,11 +394,11 @@ We have the following reportable segments: Digital Media, Digital Experience, an
 
 2018
 
-%Â Change
+% Change
 
 2020-2019
 
-%Â Change
+% Change
 
 2019-2018
 
@@ -406,49 +406,49 @@ Digital Media
 
 $
 
-8,813Â 
+8,813 
 
 $
 
-7,208Â 
+7,208 
 
 $
 
-5,858Â 
+5,858 
 
-22Â 
+22 
 
 %
 
-23Â 
+23 
 
 %
 
 Digital Experience
 
-2,660Â 
+2,660 
 
-2,280Â 
+2,280 
 
-1,600Â 
+1,600 
 
-17Â 
+17 
 
 %
 
-43Â 
+43 
 
 %
 
 Publishing and Advertising
 
-153Â 
+153 
 
-146Â 
+146 
 
-146Â 
+146 
 
-5Â 
+5 
 
 %
 
@@ -458,27 +458,27 @@ Total subscription revenue
 
 $
 
-11,626Â 
+11,626 
 
 $
 
-9,634Â 
+9,634 
 
 $
 
-7,604Â 
+7,604 
 
-21Â 
+21 
 
 %
 
-27Â 
+27 
 
 %
 
 _________________________________________
 
-(*)Â Â Â Â 
+(*)    
 
 Percentage is less than 1%.
 
@@ -500,23 +500,23 @@ Segments
 
 In fiscal 2020, we categorized our products into the following reportable segments:
 
-â€¢
+•
 
 Digital Media
 
-â€”Our Digital Media segment provides tools and solutions that enable individuals, teams and enterprises to create, publish, promote and monetize their digital content anywhere. Our customers include content creators, experience designers, app developers, enthusiasts, students, social media users and creative professionals, as well as marketing departments and agencies, companies and publishers. Our customers also include knowledge workers who create, collaborate on and distribute documents and creative content. 
+—Our Digital Media segment provides tools and solutions that enable individuals, teams and enterprises to create, publish, promote and monetize their digital content anywhere. Our customers include content creators, experience designers, app developers, enthusiasts, students, social media users and creative professionals, as well as marketing departments and agencies, companies and publishers. Our customers also include knowledge workers who create, collaborate on and distribute documents and creative content. 
 
-â€¢
+•
 
 Digital Experience
 
-â€”Our Digital Experience segment provides products, services and solutions for creating, managing, executing, measuring, monetizing and optimizing customer experiences from analytics to commerce. Our customers include marketers, advertisers, agencies, publishers, merchandisers, merchants, web analysts, data scientists, developers, marketing executives, information management and technology executives, product development executives, and sales and support executives.  
+—Our Digital Experience segment provides products, services and solutions for creating, managing, executing, measuring, monetizing and optimizing customer experiences from analytics to commerce. Our customers include marketers, advertisers, agencies, publishers, merchandisers, merchants, web analysts, data scientists, developers, marketing executives, information management and technology executives, product development executives, and sales and support executives.  
 
-â€¢
+•
 
 Publishing and Advertising
 
-â€”Our Publishing and Advertising segment addresses market opportunities ranging from the diverse authoring and publishing needs of technical and business publishing to our legacy type and OEM printing businesses. It also includes our platforms for Advertising Cloud, web conferencing, document and forms, and Primetime.
+—Our Publishing and Advertising segment addresses market opportunities ranging from the diverse authoring and publishing needs of technical and business publishing to our legacy type and OEM printing businesses. It also includes our platforms for Advertising Cloud, web conferencing, document and forms, and Primetime.
 
 Segment Information
 
@@ -528,11 +528,11 @@ Segment Information
 
 2018
 
-%Â Change
+% Change
 
 2020-2019
 
-%Â Change
+% Change
 
 2019-2018
 
@@ -540,129 +540,129 @@ Digital Media
 
 $
 
-9,233Â 
+9,233 
 
 $
 
-7,707Â 
+7,707 
 
 $
 
-6,325Â 
+6,325 
 
-20Â 
+20 
 
 %
 
-22Â 
+22 
 
 %
 
 Percentage of total revenue
 
-72Â 
+72 
 
 %
 
-69Â 
+69 
 
 %
 
-70Â 
+70 
 
 %
 
-Â 
+ 
 
-Â 
+ 
 
 Digital Experience
 
-3,125Â 
+3,125 
 
-2,795Â 
+2,795 
 
-2,073Â 
+2,073 
 
-12Â 
+12 
 
 %
 
-35Â 
+35 
 
 %
 
 Percentage of total revenue
 
-24Â 
+24 
 
 %
 
-25Â 
+25 
 
 %
 
-23Â 
+23 
 
 %
 
-Â 
+ 
 
-Â 
+ 
 
 Publishing and Advertising
 
-510Â 
+510 
 
-669Â 
+669 
 
-632Â 
+632 
 
 (24)
 
 %
 
-6Â 
+6 
 
 %
 
 Percentage of total revenue
 
-4Â 
+4 
 
 %
 
-6Â 
+6 
 
 %
 
-7Â 
+7 
 
 %
 
-Â 
+ 
 
-Â 
+ 
 
 Total revenue
 
 $
 
-12,868Â 
+12,868 
 
 $
 
-11,171Â 
+11,171 
 
 $
 
-9,030Â 
+9,030 
 
-15Â 
+15 
 
 %
 
-24Â 
+24 
 
 %
 
@@ -692,11 +692,11 @@ Geographical Information
 
 2018
 
-%Â Change
+% Change
 
 2020-2019
 
-%Â Change
+% Change
 
 2019-2018
 
@@ -704,135 +704,135 @@ Americas
 
 $
 
-7,454Â 
+7,454 
 
 $
 
-6,506Â 
+6,506 
 
 $
 
-5,117Â 
+5,117 
 
-15Â 
+15 
 
 %
 
-27Â 
+27 
 
 %
 
 Percentage of total revenue
 
-58Â 
+58 
 
 %
 
-58Â 
+58 
 
 %
 
-57Â 
+57 
 
 %
 
-Â 
+ 
 
-Â 
+ 
 
 EMEA
 
-3,400Â 
+3,400 
 
-2,975Â 
+2,975 
 
-2,550Â 
+2,550 
 
-14Â 
+14 
 
 %
 
-17Â 
+17 
 
 %
 
 Percentage of total revenue
 
-26Â 
+26 
 
 %
 
-27Â 
+27 
 
 %
 
-28Â 
+28 
 
 %
 
-Â 
+ 
 
-Â 
+ 
 
 APAC
 
-2,014Â 
+2,014 
 
-1,690Â 
+1,690 
 
-1,363Â 
+1,363 
 
-19Â 
+19 
 
 %
 
-24Â 
+24 
 
 %
 
 Percentage of total revenue
 
-16Â 
+16 
 
 %
 
-15Â 
+15 
 
 %
 
-15Â 
+15 
 
 %
 
-Â 
+ 
 
-Â 
+ 
 
 Total revenue
 
 $
 
-12,868Â 
+12,868 
 
 $
 
-11,171Â 
+11,171 
 
 $
 
-9,030Â 
+9,030 
 
-15Â 
+15 
 
 %
 
-24Â 
+24 
 
 %
 
 Overall revenue during fiscal 2020 increased in all geographic regions as compared to fiscal 2019 primarily due to increases in Digital Media revenue and, to a lesser extent, increases in Digital Experience revenue. Within each geographic region, the fluctuations in revenue by reportable segment were attributable to the factors noted in the segment information above. 
 
-Included in the overall change in revenue for fiscal 2020 and fiscal 2019 were impacts associated with foreign currency as shown below.Â Our cash flow hedging program is used to mitigate a portion of the foreign currency impact to revenue. 
+Included in the overall change in revenue for fiscal 2020 and fiscal 2019 were impacts associated with foreign currency as shown below. Our cash flow hedging program is used to mitigate a portion of the foreign currency impact to revenue. 
 
 (in millions)
 
@@ -842,7 +842,7 @@ Included in the overall change in revenue for fiscal 2020 and fiscal 2019 were i
 
 Revenue impact:
 
-Â Increase/(Decrease)
+ Increase/(Decrease)
 
 Euro
 
@@ -868,9 +868,9 @@ British Pound
 
 Japanese Yen
 
-14Â 
+14 
 
-2Â 
+2 
 
 Brazilian Real
 
@@ -894,33 +894,33 @@ Hedging impact:
 
 Euro
 
-8Â 
+8 
 
-30Â 
+30 
 
 British Pound
 
 (2)
 
-8Â 
+8 
 
 Japanese Yen
 
 (2)
 
-2Â 
+2 
 
 Australian Dollar
 
 (1)
 
-â€”Â 
+— 
 
 Total hedging impact
 
-3Â 
+3 
 
-40Â 
+40 
 
 Total impact
 
@@ -950,11 +950,11 @@ Cost of Revenue
 
 2018
 
-%Â Change
+% Change
 
 2020-2019
 
-%Â Change
+% Change
 
 2019-2018
 
@@ -962,49 +962,49 @@ Subscription
 
 $
 
-1,108Â 
+1,108 
 
 $
 
-926Â 
+926 
 
 $
 
-574Â 
+574 
 
-20Â 
+20 
 
 %
 
-61Â 
+61 
 
 %
 
 Percentage of total revenue
 
-9Â 
+9 
 
 %
 
-8Â 
+8 
 
 %
 
-6Â 
+6 
 
 %
 
-Â 
+ 
 
-Â 
+ 
 
 Product
 
-36Â 
+36 
 
-40Â 
+40 
 
-46Â 
+46 
 
 (10)
 
@@ -1020,73 +1020,73 @@ Percentage of total revenue
 
 *
 
-1Â 
+1 
 
 %
 
-Â 
+ 
 
-Â 
+ 
 
 Services and other
 
-578Â 
+578 
 
-707Â 
+707 
 
-575Â 
+575 
 
 (18)
 
 %
 
-23Â 
+23 
 
 %
 
 Percentage of total revenue
 
-4Â 
+4 
 
 %
 
-6Â 
+6 
 
 %
 
-6Â 
+6 
 
 %
 
-Â 
+ 
 
-Â 
+ 
 
 Total cost of revenue
 
 $
 
-1,722Â 
+1,722 
 
 $
 
-1,673Â 
+1,673 
 
 $
 
-1,195Â 
+1,195 
 
-3Â 
+3 
 
 %
 
-40Â 
+40 
 
 %
 
 _________________________________________
 
-(*)Â Â Â Â 
+(*)    
 
 Percentage is less than 1%
 
@@ -1096,79 +1096,79 @@ Cost of subscription revenue consists of third-party hosting services and data c
 
 Cost of subscription revenue increased due to the following:
 
-Â 
+ 
 
 Components of
 
-%Â Change
+% Change
 
 2020-2019
 
 Components of
 
-%Â Change
+% Change
 
 2019-2018
 
 Hosting services and data center costs
 
-10Â 
+10 
 
 %
 
-16Â 
+16 
 
 %
 
 Incentive compensation, cash and stock-based
 
-5Â 
+5 
 
-5Â 
+5 
 
 Royalty costs
 
-3Â 
+3 
 
-5Â 
+5 
 
 Base compensation and related benefits associated with headcount
 
-3Â 
+3 
 
-5Â 
+5 
 
 Software licenses
 
-2Â 
+2 
 
-2Â 
+2 
 
 Amortization of intangibles
 
 (2)
 
-24Â 
+24 
 
 Various individually insignificant items
 
 (1)
 
-4Â 
+4 
 
 Total change
 
-20Â 
+20 
 
 %
 
-61Â 
+61 
 
 %
 
 Product
 
-Â Â Â Â 
+    
 
 Cost of product revenue is primarily comprised of third-party royalties, amortization related to purchased intangibles and acquired rights to use technology, excess and obsolete inventory, localization costs and the costs associated with the manufacturing of our products.
 
@@ -1180,13 +1180,13 @@ Cost of services and other fluctuations were due to the following:
 
 Components of
 
-%Â Change
+% Change
 
 2020-2019
 
 Components of
 
-%Â Change
+% Change
 
 2019-2018
 
@@ -1196,7 +1196,7 @@ Media costs
 
 %
 
-10Â 
+10 
 
 %
 
@@ -1204,25 +1204,25 @@ Base compensation and related benefits associated with headcount
 
 (7)
 
-4Â 
+4 
 
 Incentive compensation, cash and stock-based
 
 (1)
 
-6Â 
+6 
 
 Professional and consulting fees
 
-3Â 
+3 
 
-â€”Â 
+— 
 
 Various individually insignificant items
 
 (4)
 
-3Â 
+3 
 
 Total change
 
@@ -1230,7 +1230,7 @@ Total change
 
 %
 
-23Â 
+23 
 
 %
 
@@ -1248,7 +1248,7 @@ Operating Expenses
 
 2018
 
-%Â Change
+% Change
 
 2020-2019
 
@@ -1256,99 +1256,99 @@ Research and development
 
 $
 
-2,188Â 
+2,188 
 
 $
 
-1,930Â 
+1,930 
 
 $
 
-1,538Â 
+1,538 
 
-13Â 
+13 
 
 %
 
 Percentage of total revenue
 
-17Â 
+17 
 
 %
 
-17Â 
+17 
 
 %
 
-17Â 
+17 
 
 %
 
-Â 
+ 
 
 Sales and marketing
 
-3,591Â 
+3,591 
 
-3,244Â 
+3,244 
 
-2,621Â 
+2,621 
 
-11Â 
+11 
 
 %
 
 Percentage of total revenue
 
-28Â 
+28 
 
 %
 
-29Â 
+29 
 
 %
 
-29Â 
+29 
 
 %
 
-Â 
+ 
 
 General and administrative
 
-968Â 
+968 
 
-881Â 
+881 
 
-745Â 
+745 
 
-10Â 
+10 
 
 %
 
 Percentage of total revenue
 
-8Â 
+8 
 
 %
 
-8Â 
+8 
 
 %
 
-8Â 
+8 
 
 %
 
-Â 
+ 
 
 Amortization of intangibles
 
-162Â 
+162 
 
-175Â 
+175 
 
-91Â 
+91 
 
 (7)
 
@@ -1356,35 +1356,35 @@ Amortization of intangibles
 
 Percentage of total revenue
 
-1Â 
+1 
 
 %
 
-2Â 
+2 
 
 %
 
-1Â 
+1 
 
 %
 
-Â 
+ 
 
 Total operating expenses
 
 $
 
-6,909Â 
+6,909 
 
 $
 
-6,230Â 
+6,230 
 
 $
 
-4,995Â 
+4,995 
 
-11Â 
+11 
 
 %
 
@@ -1394,23 +1394,23 @@ Research and development expenses consist primarily of salary and benefit expens
 
 Research and development expenses increased due to the following:
 
-Â 
+ 
 
 Components of
 
-%Â Change
+% Change
 
 2020-2019
 
 Incentive compensation, cash and stock-based
 
-11Â 
+11 
 
 %
 
 Base compensation and related benefits associated with headcount
 
-3Â 
+3 
 
 Travel
 
@@ -1418,7 +1418,7 @@ Travel
 
 Total change
 
-13Â 
+13 
 
 %
 
@@ -1430,31 +1430,31 @@ Sales and marketing expenses consist primarily of salary and benefit expenses, a
 
 Sales and marketing expenses increased due to the following:
 
-Â 
+ 
 
 Components of
 
-%Â Change
+% Change
 
 2020-2019
 
 Marketing spend related to campaigns, events and overall marketing efforts
 
-8Â 
+8 
 
 %
 
 Incentive compensation, cash and stock-based
 
-4Â 
+4 
 
 Transaction fees
 
-2Â 
+2 
 
 Base compensation and related benefits associated with headcount
 
-1Â 
+1 
 
 Professional and consulting fees
 
@@ -1466,7 +1466,7 @@ Travel
 
 Total change
 
-11Â 
+11 
 
 %
 
@@ -1480,35 +1480,35 @@ General and administrative expenses consist primarily of compensation and benefi
 
 General and administrative expenses increased due to the following:
 
-Â 
+ 
 
 Components of
 
-%Â Change
+% Change
 
 2020-2019
 
 Incentive compensation, cash and stock-based
 
-5Â 
+5 
 
 %
 
 Charges related to cancellation of corporate events, net of recoveries
 
-3Â 
+3 
 
 Bad debt expense
 
-2Â 
+2 
 
 Charitable contributions
 
-2Â 
+2 
 
 Base compensation and related benefits associated with headcount
 
-1Â 
+1 
 
 Travel
 
@@ -1520,7 +1520,7 @@ Various individually insignificant items
 
 Total change
 
-10Â 
+10 
 
 %
 
@@ -1542,7 +1542,7 @@ Non-Operating Income (Expense), Net
 
 2018
 
-%Â Change
+% Change
 
 2020-2019
 
@@ -1580,11 +1580,11 @@ Percentage of total revenue
 
 Investment gains (losses), net
 
-13Â 
+13 
 
-52Â 
+52 
 
-3Â 
+3 
 
 (75)
 
@@ -1598,15 +1598,15 @@ Percentage of total revenue
 
 *
 
-Â 
+ 
 
 Other income (expense), net
 
-42Â 
+42 
 
-42Â 
+42 
 
-40Â 
+40 
 
 **
 
@@ -1638,13 +1638,13 @@ $
 
 _________________________________________
 
-(*)Â Â Â Â 
+(*)    
 
 Percentage is less than 1%.
 
 (**)
 
-Â Â Â Â Percentage is not meaningful.
+    Percentage is not meaningful.
 
 Interest Expense
 
@@ -1664,7 +1664,7 @@ Investment gains (losses), net decreased during fiscal 2020 as compared to fisca
 
 Other Income (Expense), Net
 
-Â 
+ 
 
 Other income (expense), net consists primarily of interest earned on cash, cash equivalents and short-term fixed income investments. Other income (expense), net also includes realized gains and losses on fixed income investments and foreign exchange gains and losses.
 
@@ -1672,7 +1672,7 @@ Other income (expense), remained stable during fiscal 2020 primarily due to decr
 
 Provision for (Benefit from) Income Taxes 
 
-Â (dollars in millions)
+ (dollars in millions)
 
 2020
 
@@ -1680,7 +1680,7 @@ Provision for (Benefit from) Income Taxes
 
 2018
 
-%Â Change
+% Change
 
 2020-2019
 
@@ -1692,11 +1692,11 @@ $
 
 $
 
-254Â 
+254 
 
 $
 
-203Â 
+203 
 
 **
 
@@ -1706,15 +1706,15 @@ Percentage of total revenue
 
 %
 
-2Â 
+2 
 
 %
 
-2Â 
+2 
 
 %
 
-Â 
+ 
 
 Effective tax rate
 
@@ -1722,23 +1722,23 @@ Effective tax rate
 
 %
 
-8Â 
+8 
 
 %
 
-7Â 
+7 
 
 %
 
-Â 
+ 
 
 _________________________________________
 
-(**)Â Â Â Â 
+(**)    
 
 Percentage is not meaningful.
 
-Our effective tax rate decreased by approximately 34 percentage points during fiscal 2020 as compared to fiscal 2019. The change is primarily due to non-recurring tax benefits resulting from the intra-entity transfers of certain intellectual property rights (â€œIP rightsâ€) completed during fiscal 2020. 
+Our effective tax rate decreased by approximately 34 percentage points during fiscal 2020 as compared to fiscal 2019. The change is primarily due to non-recurring tax benefits resulting from the intra-entity transfers of certain intellectual property rights (“IP rights”) completed during fiscal 2020. 
 
 Our effective tax rate for fiscal 2020 was lower than the U.S. federal statutory tax rate of 21% primarily due to tax benefits resulting from the intra-entity transfers of certain IP rights, a favorable geographic mix of earnings and tax benefits related to stock-based compensation.
 
@@ -1746,7 +1746,7 @@ During fiscal 2020, we completed intra-entity transfers of certain IP rights to 
 
 On December 22, 2017, the U.S. Tax Act was enacted into law, which significantly changed existing U.S. tax law and includes many provisions applicable to us. Certain international provisions of the U.S. Tax Act, such as a tax on global intangible low-tax income, a base erosion and anti-abuse tax and a special tax deduction for foreign-derived intangible income, took effect in fiscal 2019. As the U.S. Treasury releases regulations that impact these provisions, we account for finalized regulations in the period of enactment.
 
-We recognize deferred tax assets to the extent that we believe these assets are more likely than not to be realized. In making such a determination, we considered all available positive and negative evidence, including our past operating results, forecasted earnings, future taxable income and prudent and feasible tax planning strategies. On the basis of this evaluation, we continue to maintain a valuation allowance to reduce our deferred tax assets to the amount realizable. The total valuation allowance was $276 million as of NovemberÂ 27, 2020 and is primarily attributable to certain state and foreign credits and foreign intangible assets. 
+We recognize deferred tax assets to the extent that we believe these assets are more likely than not to be realized. In making such a determination, we considered all available positive and negative evidence, including our past operating results, forecasted earnings, future taxable income and prudent and feasible tax planning strategies. On the basis of this evaluation, we continue to maintain a valuation allowance to reduce our deferred tax assets to the amount realizable. The total valuation allowance was $276 million as of November 27, 2020 and is primarily attributable to certain state and foreign credits and foreign intangible assets. 
 
 53
 
@@ -1762,7 +1762,7 @@ See Note 10 of our Notes to Consolidated Financial Statements for further inform
 
 Accounting for Uncertainty in Income Taxes
 
-The gross liabilities for unrecognized tax benefits excluding interest and penalties were $201 million, $173 million and $196 million for fiscal 2020, 2019 and 2018, respectively. If the total unrecognized tax benefits at NovemberÂ 27, 2020, NovemberÂ 29, 2019 and NovemberÂ 30, 2018 were recognized, $136 million, $116 million and $136 million would decrease the respective effective tax rates.
+The gross liabilities for unrecognized tax benefits excluding interest and penalties were $201 million, $173 million and $196 million for fiscal 2020, 2019 and 2018, respectively. If the total unrecognized tax benefits at November 27, 2020, November 29, 2019 and November 30, 2018 were recognized, $136 million, $116 million and $136 million would decrease the respective effective tax rates.
 
 The combined amount of accrued interest and penalties related to tax positions taken on our tax returns were approximately $26 million and $25 million for fiscal 2020 and 2019, respectively. These amounts were included in long-term income taxes payable in their respective years.
 
@@ -1792,47 +1792,47 @@ Cash and cash equivalents
 
 $
 
-4,478Â 
+4,478 
 
 $
 
-2,650Â 
+2,650 
 
 Short-term investments
 
 $
 
-1,514Â 
+1,514 
 
 $
 
-1,527Â 
+1,527 
 
 Working capital
 
 $
 
-2,634Â 
+2,634 
 
 $
 
 (1,696)
 
-Stockholdersâ€™ equity
+Stockholders’ equity
 
 $
 
-13,264Â 
+13,264 
 
 $
 
-10,530Â 
+10,530 
 
 Working Capital
 
-Working capital as of NovemberÂ 27, 2020 and NovemberÂ 29, 2019 was $2.63 billion of a surplus and $1.70 billion of a deficit, respectively. During the first quarter of fiscal 2020, we refinanced our 2.25 billion term loan due April 30, 2020 (â€œTerm Loanâ€) and $900 million 4.75% senior notes due February 1, 2020 (â€œ2020 Notesâ€). 
+Working capital as of November 27, 2020 and November 29, 2019 was $2.63 billion of a surplus and $1.70 billion of a deficit, respectively. During the first quarter of fiscal 2020, we refinanced our 2.25 billion term loan due April 30, 2020 (“Term Loan”) and $900 million 4.75% senior notes due February 1, 2020 (“2020 Notes”). 
 
-See the section titled â€œCash Flows from Financing Activitiesâ€ below.
+See the section titled “Cash Flows from Financing Activities” below.
 
  A summary of our cash flows for fiscal 2020, 2019 and 2018 is as follows:
 
@@ -1848,15 +1848,15 @@ Net cash provided by operating activities
 
 $
 
-5,727Â 
+5,727 
 
 $
 
-4,422Â 
+4,422 
 
 $
 
-4,029Â 
+4,029 
 
 Net cash used for investing activities
 
@@ -1876,7 +1876,7 @@ Net cash used for financing activities
 
 Effect of foreign currency exchange rates on cash and cash equivalents
 
-3Â 
+3 
 
 (13)
 
@@ -1886,11 +1886,11 @@ Net increase (decrease) in cash and cash equivalents
 
 $
 
-1,828Â 
+1,828 
 
 $
 
-1,007Â 
+1,007 
 
 $
 
@@ -1914,9 +1914,9 @@ Cash Flows from Financing Activities
 
 For fiscal 2020, net cash used for financing activities of $3.49 billion was primarily due to payments for our treasury stock repurchases and taxes paid related to the net share settlement of equity awards, which were offset by proceeds from re-issuance of treasury stock for our employee stock purchase plan. 
 
-See the section titled â€œStock Repurchase Programâ€ discussed below.
+See the section titled “Stock Repurchase Program” discussed below.
 
-In February 2020, we issued $500 million of 1.70% senior notes due February 1, 2023 (â€œ2023 Notesâ€), $500 million of 1.90% senior notes due February 1, 2025 (â€œ1.90% 2025 Notesâ€), $850 million of 2.15% senior notes due February 1, 2027 (â€œ2027 Notesâ€) and $1.30 billion of 2.30% senior notes due February 1, 2030 (â€œ2030 Notesâ€). We used the proceeds to repay the Term Loan and 2020 Notes concurrently. 
+In February 2020, we issued $500 million of 1.70% senior notes due February 1, 2023 (“2023 Notes”), $500 million of 1.90% senior notes due February 1, 2025 (“1.90% 2025 Notes”), $850 million of 2.15% senior notes due February 1, 2027 (“2027 Notes”) and $1.30 billion of 2.30% senior notes due February 1, 2030 (“2030 Notes”). We used the proceeds to repay the Term Loan and 2020 Notes concurrently. 
 
 See Note 17 of our Notes to Consolidated Financial Statements for information regarding our debt refinancing.
 
@@ -1928,17 +1928,17 @@ Other Liquidity and Capital Resources Considerations
 
 Our existing cash, cash equivalents and investment balances may fluctuate during fiscal 2021 due to changes in our planned cash outlay. 
 
-Cash from operations could also be affected by various risks and uncertainties, including, but not limited to, the effects of the pandemic and other risks detailed in Part I, Item 1A titled â€œRisk Factors.â€ While the pandemic has not negatively impacted our liquidity and capital resources to date, it has led to increased disruption and volatility in capital markets and credit markets which could adversely affect our liquidity and capital resources in the future. However, based on our current business plan and revenue prospects, we believe that our existing cash, cash equivalents and investment balances, our anticipated cash flows from operations and our available credit facility will be sufficient to meet our working capital, operating resource expenditure and capital expenditure requirements for the next twelve months.
+Cash from operations could also be affected by various risks and uncertainties, including, but not limited to, the effects of the pandemic and other risks detailed in Part I, Item 1A titled “Risk Factors.” While the pandemic has not negatively impacted our liquidity and capital resources to date, it has led to increased disruption and volatility in capital markets and credit markets which could adversely affect our liquidity and capital resources in the future. However, based on our current business plan and revenue prospects, we believe that our existing cash, cash equivalents and investment balances, our anticipated cash flows from operations and our available credit facility will be sufficient to meet our working capital, operating resource expenditure and capital expenditure requirements for the next twelve months.
 
-Our cash equivalent and short-term investment portfolio as of NovemberÂ 27, 2020 consisted of asset-backed securities, corporate debt securities, foreign government securities, money market mutual funds, municipal securities and time deposits. We use professional investment management firms to manage a large portion of our invested cash.
+Our cash equivalent and short-term investment portfolio as of November 27, 2020 consisted of asset-backed securities, corporate debt securities, foreign government securities, money market mutual funds, municipal securities and time deposits. We use professional investment management firms to manage a large portion of our invested cash.
 
-We have a $1 billion senior unsecured revolving credit agreement (â€œRevolving Credit Agreementâ€) with a syndicate of lenders, providing for loans to us and certain of our subsidiaries through October 17, 2023. As of NovemberÂ 27, 2020, there were no outstanding borrowings under this credit agreement and the entire $1 billion credit line remains available for borrowing. 
+We have a $1 billion senior unsecured revolving credit agreement (“Revolving Credit Agreement”) with a syndicate of lenders, providing for loans to us and certain of our subsidiaries through October 17, 2023. As of November 27, 2020, there were no outstanding borrowings under this credit agreement and the entire $1 billion credit line remains available for borrowing. 
 
-As of NovemberÂ 27, 2020, we have $4.15 billion senior notes outstanding, consisting of the 2023 Notes, 1.90% 2025 Notes, 2027 Notes, 2030 Notes and the $1 billion of 3.25% senior notes due FebruaryÂ 1, 2025 (the â€œ3.25% 2025 Notes,â€ and together with the aforementioned notes, the â€œNotesâ€). The Notes rank equally with our other unsecured and unsubordinated indebtedness.
+As of November 27, 2020, we have $4.15 billion senior notes outstanding, consisting of the 2023 Notes, 1.90% 2025 Notes, 2027 Notes, 2030 Notes and the $1 billion of 3.25% senior notes due February 1, 2025 (the “3.25% 2025 Notes,” and together with the aforementioned notes, the “Notes”). The Notes rank equally with our other unsecured and unsubordinated indebtedness.
 
 We expect to continue our investing activities, including short-term and long-term investments, purchases of computer systems for research and development, sales and marketing, product support and administrative staff, and facilities expansion. As of November 27, 2020, we expect our capital investment to be approximately $550 million to $650 million, primarily to fund our San Jose and Bangalore construction projects through fiscal 2022. Furthermore, cash reserves may be used to repurchase stock under our stock repurchase program and to strategically acquire companies, products or technologies that are complementary to our business.
 
-Subsequent to November 27, 2020, we completed our acquisition of Workfront, a privately held company that provides a work management platform for marketers, for approximately $1.5Â billion in cash consideration. 
+Subsequent to November 27, 2020, we completed our acquisition of Workfront, a privately held company that provides a work management platform for marketers, for approximately $1.5 billion in cash consideration. 
 
 See Note 3 of our Notes to Consolidated Financial Statements for further information regarding this acquisition
 
@@ -1946,9 +1946,9 @@ See Note 3 of our Notes to Consolidated Financial Statements for further informa
 
 Stock Repurchase Program
 
-To facilitate our stock repurchase program, designed to return value to our stockholders and minimize dilution from stock issuances, we may repurchase shares in the open market or enter into structured repurchase agreements with third parties. In May 2018, our Board of Directors granted us an authority to repurchase up to $8 billionÂ in common stock through the end of fiscal 2021.
+To facilitate our stock repurchase program, designed to return value to our stockholders and minimize dilution from stock issuances, we may repurchase shares in the open market or enter into structured repurchase agreements with third parties. In May 2018, our Board of Directors granted us an authority to repurchase up to $8 billion in common stock through the end of fiscal 2021.
 
-During fiscal 2020, 2019 and 2018, we entered into several structured stock repurchase agreements with large financial institutions, whereupon we provided them with prepayments totaling $3.05 billion, $2.75 billion, and $2.05 billion, respectively. We enter into these agreements in order to take advantage of repurchasing shares at a guaranteed discount to the Volume Weighted Average Price (â€œVWAPâ€) of our common stock over a specified period of time. We only enter into such transactions when the discount that we receive is expected to be higher than the foregone return on our cash prepayments to the financial institutions. There were no explicit commissions or fees on these structured repurchases. Under the terms of the agreements, there is no requirement for the financial institutions to return any portion of the prepayment to us. 
+During fiscal 2020, 2019 and 2018, we entered into several structured stock repurchase agreements with large financial institutions, whereupon we provided them with prepayments totaling $3.05 billion, $2.75 billion, and $2.05 billion, respectively. We enter into these agreements in order to take advantage of repurchasing shares at a guaranteed discount to the Volume Weighted Average Price (“VWAP”) of our common stock over a specified period of time. We only enter into such transactions when the discount that we receive is expected to be higher than the foregone return on our cash prepayments to the financial institutions. There were no explicit commissions or fees on these structured repurchases. Under the terms of the agreements, there is no requirement for the financial institutions to return any portion of the prepayment to us. 
 
 The financial institutions agree to deliver shares to us at monthly intervals during the contract term. The parameters used to calculate the number of shares deliverable are: the total notional amount of the contract, the number of trading days in the contract, the number of trading days in the interval and the average VWAP of our stock during the interval less the agreed upon discount.
 
@@ -1966,7 +1966,7 @@ The following is a summary of our structured stock repurchases executed with lar
 
 2018
 
-BoardÂ approval dates
+Board approval dates
 
 Shares
 
@@ -1982,43 +1982,43 @@ Average per share
 
 January 2017
 
-â€”Â 
+— 
 
 $
 
-â€”Â 
+— 
 
-â€”Â 
-
-$
-
-â€”Â 
-
-8.7Â 
+— 
 
 $
 
-230.43Â 
+— 
+
+8.7 
+
+$
+
+230.43 
 
 May 2018
 
-8.0Â 
+8.0 
 
 $
 
-376.38Â 
+376.38 
 
-9.9Â 
-
-$
-
-270.23Â 
-
-â€”Â 
+9.9 
 
 $
 
-â€”Â 
+270.23 
+
+— 
+
+$
+
+— 
 
 Total cost
 
@@ -2028,19 +2028,19 @@ $2,671
 
 $2,002
 
-For fiscal 2020, 2019 and 2018, the prepayments were classified as treasury stock on our Consolidated Balance Sheets at the payment date, though only shares physically delivered to us by NovemberÂ 27, 2020, NovemberÂ 29, 2019 and NovemberÂ 30, 2018 were excluded from the computation of earnings per share. As of NovemberÂ 27, 2020, $255 million of prepayments remained under the agreement. 
+For fiscal 2020, 2019 and 2018, the prepayments were classified as treasury stock on our Consolidated Balance Sheets at the payment date, though only shares physically delivered to us by November 27, 2020, November 29, 2019 and November 30, 2018 were excluded from the computation of earnings per share. As of November 27, 2020, $255 million of prepayments remained under the agreement. 
 
-Subsequent to NovemberÂ 27, 2020, we entered into a structured stock repurchase agreement with a large financial institution whereupon we provided them with a prepayment of $950 million. This amount will be classified as treasury stock on our Consolidated Balance Sheets. Upon completion of the $950 million stock repurchase agreement, $1.1 billion remains under our May 2018Â authority.  Further, in December 2020, our Board of Directors granted us additional authority to repurchase up to $15 billion in common stock through the end of fiscal 2024. We have not drawn from our new $15 billion authority as of the issuance of these financial statements.
+Subsequent to November 27, 2020, we entered into a structured stock repurchase agreement with a large financial institution whereupon we provided them with a prepayment of $950 million. This amount will be classified as treasury stock on our Consolidated Balance Sheets. Upon completion of the $950 million stock repurchase agreement, $1.1 billion remains under our May 2018 authority.  Further, in December 2020, our Board of Directors granted us additional authority to repurchase up to $15 billion in common stock through the end of fiscal 2024. We have not drawn from our new $15 billion authority as of the issuance of these financial statements.
 
-See ItemÂ 5, Market for Registrantâ€™s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities for share repurchases during the quarter ended 
+See Item 5, Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities for share repurchases during the quarter ended 
 
-NovemberÂ 27, 2020
+November 27, 2020
 
 .
 
 Off-Balance Sheet Arrangements and Aggregate Contractual Obligations
 
- Our principal commitments as of NovemberÂ 27, 2020 consist of our Notes and obligations under operating leases, royalty agreements and various service agreements. 
+ Our principal commitments as of November 27, 2020 consist of our Notes and obligations under operating leases, royalty agreements and various service agreements. 
 
 See Notes 16,
 
@@ -2052,27 +2052,27 @@ and
 
 Contractual Obligations
 
-The following table summarizes our contractual obligations as of NovemberÂ 27, 2020:
+The following table summarizes our contractual obligations as of November 27, 2020:
 
 (in millions)
 
-Â 
+ 
 
-Â 
+ 
 
 Payment Due by Period
 
-Â 
+ 
 
 Total
 
-LessÂ than
+Less than
 
-1Â year
+1 year
 
-1-3Â years
+1-3 years
 
-3-5Â years
+3-5 years
 
 More than
 
@@ -2082,77 +2082,77 @@ Notes, including interest
 
 $
 
-4,763Â 
+4,763 
 
 $
 
-99Â 
+99 
 
 $
 
-693Â 
+693 
 
 $
 
-1,659Â 
+1,659 
 
 $
 
-2,312Â 
+2,312 
 
 Operating lease obligations
 
-657Â 
+657 
 
-104Â 
+104 
 
-162Â 
+162 
 
-119Â 
+119 
 
-272Â 
+272 
 
-Purchase obligationsÂ 
+Purchase obligations 
 
-1,885Â 
+1,885 
 
-872Â 
+872 
 
-1,012Â 
+1,012 
 
-1Â 
+1 
 
-â€”Â 
+— 
 
 Total
 
 $
 
-7,305Â 
+7,305 
 
 $
 
-1,075Â 
+1,075 
 
 $
 
-1,867Â 
+1,867 
 
 $
 
-1,779Â 
+1,779 
 
 $
 
-2,584Â 
+2,584 
 
 Senior Notes
 
-As of NovemberÂ 27, 2020, the carrying value of our Notes was $4.12 billion. Interest is payable semi-annually, in arrears on February 1 and August 1. At NovemberÂ 27, 2020, our maximum commitment for interest payments was $613 million for the remaining duration of our outstanding Notes.
+As of November 27, 2020, the carrying value of our Notes was $4.12 billion. Interest is payable semi-annually, in arrears on February 1 and August 1. At November 27, 2020, our maximum commitment for interest payments was $613 million for the remaining duration of our outstanding Notes.
 
 Covenants
 
-Our Revolving Credit Agreement contains a financial covenant requiring us not to exceed a maximum leverage ratio. As of NovemberÂ 27, 2020, we were in compliance with this covenant. We believe this covenant will not impact our credit or cash in the coming fiscal year or restrict our ability to execute our business plan. Our Notes do not contain any financial covenants.
+Our Revolving Credit Agreement contains a financial covenant requiring us not to exceed a maximum leverage ratio. As of November 27, 2020, we were in compliance with this covenant. We believe this covenant will not impact our credit or cash in the coming fiscal year or restrict our ability to execute our business plan. Our Notes do not contain any financial covenants.
 
 Under the terms of our Revolving Credit Agreement, we are not prohibited from paying cash dividends unless payment would trigger an event of default or if one currently exists. We do not anticipate paying any cash dividends in the foreseeable future.
 
@@ -2166,7 +2166,7 @@ Our transition tax liability which was accrued as a result of the U.S. Tax Act w
 
  million
 
- as of NovemberÂ 27, 2020 and is payable in installments through fiscal 2026.Â The U.S. Tax Act provides an exemption from federal income taxes for distributions from foreign subsidiaries made after December 31, 2017, including certain earnings that were not subject to the one-time transition or global intangible low-tax income tax. As we repatriate the undistributed foreign earnings for use in the U.S., the distributions will generally not be subject to further U.S. federal tax.
+ as of November 27, 2020 and is payable in installments through fiscal 2026. The U.S. Tax Act provides an exemption from federal income taxes for distributions from foreign subsidiaries made after December 31, 2017, including certain earnings that were not subject to the one-time transition or global intangible low-tax income tax. As we repatriate the undistributed foreign earnings for use in the U.S., the distributions will generally not be subject to further U.S. federal tax.
 
 Accounting for Uncertainty in Income Taxes
 
@@ -2188,4 +2188,4 @@ Indemnifications
 
 In the normal course of business, we provide indemnifications of varying scope to customers and channel partners against claims of intellectual property infringement made by third parties arising from the use of our products and from time to time, we are subject to claims by our customers under these indemnification provisions. Historically, costs related to these indemnification provisions have not been significant and we are unable to estimate the maximum potential impact of these indemnification provisions on our future results of operations.
 
-To the extent permitted under Delaware law, we have agreements whereby we indemnify our directors and officers for certain events or occurrences while the director or officer is or was serving at our request in such capacity. The indemnification period covers all pertinent events and occurrences during the directorâ€™s or officerâ€™s lifetime. The maximum potential amount of future payments we could be required to make under these indemnification agreements is unlimited; however, we have director and officer insurance coverage that limits our exposure and enables us to recover a portion of any future amounts paid. 
+To the extent permitted under Delaware law, we have agreements whereby we indemnify our directors and officers for certain events or occurrences while the director or officer is or was serving at our request in such capacity. The indemnification period covers all pertinent events and occurrences during the director’s or officer’s lifetime. The maximum potential amount of future payments we could be required to make under these indemnification agreements is unlimited; however, we have director and officer insurance coverage that limits our exposure and enables us to recover a portion of any future amounts paid. 

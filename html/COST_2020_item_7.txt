@@ -1,14 +1,14 @@
->Item 7â€”Management's Discussion and Analysis of Financial Conditions and Results of Operations 
+>Item 7—Management's Discussion and Analysis of Financial Conditions and Results of Operations 
 
 (amounts in millions, except per share, share, membership fee, and warehouse count data)
 
 Overview
 
-We believe that the most important driver of our profitability is increasing net sales, particularly comparable sales growth. Net sales includes our core merchandise categories (food and sundries, hardlines, softlines, and fresh foods), warehouse ancillary and other businesses. We define comparable sales as net sales from warehouses open for more than one year, including remodels, relocations and expansions, and salesÂ related to e-commerce websites operating for more than one year.Â Comparable sales growth is achieved through increasing shopping frequency from new and existing members and the amount they spend on each visit (average ticket). Sales comparisons can also be particularly influenced by certain factors that are beyond our control: fluctuations in currency exchange rates (with respect to the consolidation of the results of our international operations); and changes in the cost of gasoline and associated competitive conditions (primarily impacting our U.S. and Canadian operations). The higher our comparable sales exclusive of these items, the more we can leverage certain of our selling, general and administrative (SG&A) expenses, reducing them as a percentage of sales and enhancing profitability. Generating comparable sales growth is foremost a question of making available to our members the right merchandise at the right prices, a skill that we believe we have repeatedly demonstrated over the long-term. Another substantial factor in net sales growth is the health of the economies in which we do business, including the effects of inflation or deflation, especially the United States. Net sales growth and gross margins are also impacted by our competition, which is vigorous and widespread, across a wide range of global, national and regional wholesalers and retailers, including those with e-commerce operations. While we cannot control or reliably predict general economic health or changes in competition, we believe that we have been successful historically in adapting our business to these changes, such as through adjustments to our pricing and merchandise mix, including increasing the penetration of our private-label items and through online offerings.
+We believe that the most important driver of our profitability is increasing net sales, particularly comparable sales growth. Net sales includes our core merchandise categories (food and sundries, hardlines, softlines, and fresh foods), warehouse ancillary and other businesses. We define comparable sales as net sales from warehouses open for more than one year, including remodels, relocations and expansions, and sales related to e-commerce websites operating for more than one year. Comparable sales growth is achieved through increasing shopping frequency from new and existing members and the amount they spend on each visit (average ticket). Sales comparisons can also be particularly influenced by certain factors that are beyond our control: fluctuations in currency exchange rates (with respect to the consolidation of the results of our international operations); and changes in the cost of gasoline and associated competitive conditions (primarily impacting our U.S. and Canadian operations). The higher our comparable sales exclusive of these items, the more we can leverage certain of our selling, general and administrative (SG&A) expenses, reducing them as a percentage of sales and enhancing profitability. Generating comparable sales growth is foremost a question of making available to our members the right merchandise at the right prices, a skill that we believe we have repeatedly demonstrated over the long-term. Another substantial factor in net sales growth is the health of the economies in which we do business, including the effects of inflation or deflation, especially the United States. Net sales growth and gross margins are also impacted by our competition, which is vigorous and widespread, across a wide range of global, national and regional wholesalers and retailers, including those with e-commerce operations. While we cannot control or reliably predict general economic health or changes in competition, we believe that we have been successful historically in adapting our business to these changes, such as through adjustments to our pricing and merchandise mix, including increasing the penetration of our private-label items and through online offerings.
 
-Our philosophy is to provide our members with quality goods and services at competitive prices. We do not focus in the short-term on maximizing prices charged, but instead seek to maintain what we believe is a perception among our members of our â€œpricing authorityâ€ on quality goods â€“ consistently providing the most competitive values. Our investments in merchandise pricing may include reducing prices on merchandise to drive sales or meet competition and holding prices steady despite cost increases instead of passing the increases on to our members, all negatively impacting gross margin as a percentage of net sales (gross margin percentage). We believe our gasoline business draws members, but it generally has a lower gross margin percentage relative to our non-gasoline business. It also has lower SG&A expenses as a percent of net sales compared to our non-gasoline business. A higher penetration of gasoline sales will generally lower our gross margin percentage. Rapidly changing gasoline prices may significantly impact our near-term net sales growth. Generally, rising gasoline prices benefit net sales growth which, given the higher sales base, negatively impacts our gross margin percentage but decreases our SG&A expenses as a percentage of net sales. A decline in gasoline prices has the inverse effect. Additionally, actions in various countries, particularly China and the United States, have created uncertainty with respect to how tariffs will affect the costs of some of our merchandise. The degree of our exposure is dependent on (among other things) the type of goods, rates imposed, and timing of the tariffs. The impact to our net sales and gross margin will be influenced in part by our merchandising and pricing strategies in response to cost increases. While these potential impacts are uncertain, they could have an adverse impact on our results.
+Our philosophy is to provide our members with quality goods and services at competitive prices. We do not focus in the short-term on maximizing prices charged, but instead seek to maintain what we believe is a perception among our members of our “pricing authority” on quality goods – consistently providing the most competitive values. Our investments in merchandise pricing may include reducing prices on merchandise to drive sales or meet competition and holding prices steady despite cost increases instead of passing the increases on to our members, all negatively impacting gross margin as a percentage of net sales (gross margin percentage). We believe our gasoline business draws members, but it generally has a lower gross margin percentage relative to our non-gasoline business. It also has lower SG&A expenses as a percent of net sales compared to our non-gasoline business. A higher penetration of gasoline sales will generally lower our gross margin percentage. Rapidly changing gasoline prices may significantly impact our near-term net sales growth. Generally, rising gasoline prices benefit net sales growth which, given the higher sales base, negatively impacts our gross margin percentage but decreases our SG&A expenses as a percentage of net sales. A decline in gasoline prices has the inverse effect. Additionally, actions in various countries, particularly China and the United States, have created uncertainty with respect to how tariffs will affect the costs of some of our merchandise. The degree of our exposure is dependent on (among other things) the type of goods, rates imposed, and timing of the tariffs. The impact to our net sales and gross margin will be influenced in part by our merchandising and pricing strategies in response to cost increases. While these potential impacts are uncertain, they could have an adverse impact on our results.
 
-We also achieve net sales growth by opening new warehouses. As our warehouse base grows, available and desirable sites become more difficult to secure, and square footage growth becomes a comparatively less substantial component of growth. The negative aspects of such growth, however, including lower initial operating profitability relative to existing warehouses and cannibalization of sales at existing warehouses when openings occur in existing markets,Â are continuing to decline in significance as they relate to the results of our total operations. Our rate of operating floor space square footage growth is generally higher in foreign markets, due to the smaller base in those markets, and we expect that to 
+We also achieve net sales growth by opening new warehouses. As our warehouse base grows, available and desirable sites become more difficult to secure, and square footage growth becomes a comparatively less substantial component of growth. The negative aspects of such growth, however, including lower initial operating profitability relative to existing warehouses and cannibalization of sales at existing warehouses when openings occur in existing markets, are continuing to decline in significance as they relate to the results of our total operations. Our rate of operating floor space square footage growth is generally higher in foreign markets, due to the smaller base in those markets, and we expect that to 
 
 21
 
@@ -28,7 +28,7 @@ Note 12
 
 In discussions of our consolidated operating results, we refer to the impact of changes in foreign currencies relative to the U.S. dollar, which are references to the differences between the foreign-exchange rates we use to convert the financial results of our international operations from local currencies into U.S. dollars for financial reporting purposes. This impact of foreign-exchange rate changes is calculated based on the difference between the current period's currency exchange rates and that of the comparable prior period. The impact of changes in gasoline prices on net sales is calculated based on the difference between the current period's average price per gallon sold and that of the comparable prior period.
 
-Our fiscal year ends on the Sunday closest to AugustÂ 31. References to 2020, 2019, and 2018 relate to the 52-week fiscal years ended AugustÂ 30, 2020, SeptemberÂ 1, 2019, and SeptemberÂ 2, 2018, respectively. Certain percentages presented are calculated using actual results prior to rounding. Unless otherwise noted, references to net income relate to net income attributable to Costco. 
+Our fiscal year ends on the Sunday closest to August 31. References to 2020, 2019, and 2018 relate to the 52-week fiscal years ended August 30, 2020, September 1, 2019, and September 2, 2018, respectively. Certain percentages presented are calculated using actual results prior to rounding. Unless otherwise noted, references to net income relate to net income attributable to Costco. 
 
 For discussion related to the results of operations and changes in financial condition for 2019 compared to 2018 refer to Part II, Item 7, Management's Discussion and Analysis of Financial Condition and Results of Operations in our fiscal year 2019 Form 10-K, which was filed with the United States Securities and Exchange Commission on October 11, 2019. 
 
@@ -38,49 +38,49 @@ Table of Contents
 
 Highlights for 2020 included:
 
-â€¢
+•
 
 We opened 16 new warehouses, including 3 relocations: 9 new in the U.S., 3 new in our Other International segment, and 1 net new location in our Canadian segment, compared to 25 new warehouses, including 5 relocations in 2019; 
 
-â€¢
+•
 
 Net sales increased 9% to $163,220 driven by a 8% increase in comparable sales and sales at new warehouses opened in 2019 and 2020;
 
-â€¢
+•
 
 Membership fee revenue increased 6% to $3,541, primarily due to membership sign-ups at existing and new warehouses;
 
-â€¢
+•
 
 Gross margin percentage increased 18 basis points, driven primarily by certain core merchandise categories, partially offset by certain ancillary and other businesses, which were negatively impacted by COVID-19 related closures or restrictions;
 
-â€¢
+•
 
 SG&A expenses as a percentage of net sales decreased three basis points primarily due to leveraging increased sales and partial reversal of a previous year tax assessment. These benefits were partially offset by incremental wage and sanitation costs as a result of COVID-19;
 
-â€¢
+•
 
 The effective tax rate in 2020 was 24.4% compared to 22.3% in 2019;
 
-â€¢
+•
 
 Net income increased 9% to $4,002, or $9.02 per diluted share compared to $3,659, or $8.26 per diluted share in 2019;
 
-â€¢
+•
 
 In February 2020, we acquired a 35% interest in Navitus Health Solutions, a pharmacy benefit manager. In March 2020, we acquired Innovel Solutions, a company that provides final-mile delivery, installation and white-glove capabilities for big and bulky products across the United States and Puerto Rico;
 
-â€¢
+•
 
 In April 2020, we issued $4,000 in aggregate principal amount of Senior Notes, some proceeds of which were used to repay $1,500 of Senior Notes; and
 
-â€¢
+•
 
 In April 2020, the Board of Directors approved an increase in the quarterly cash dividend from $0.65 to $0.70 per share. 
 
 COVID-19
 
-On March 11, 2020, the World Health Organization announced that COVID-19 infections had become a pandemic, and shortly afterward the U.S. declared a National Emergency. The outbreak has led to widespread and continuing impacts on the global economy and is affecting many aspects of our business and the operations of others with which we do business. In our response to the pandemic and in an effort to protect our members and employees, we have taken several measures, as described in Item 1A Risk Factors, and their implications on our results of operations have impacted us across all our reportable segments to varying degrees. Throughout the pandemic our warehouses have largely remained open as a result of being deemed an â€œessential businessâ€ in most markets and resulted in strong sales increases in our food and sundries and fresh foods merchandise categories compared to pre-pandemic time periods. This growth in certain of our core business categories has led to improved gross margin and SG&A percentages as we leveraged these sales to achieve greater efficiency. Our e-commerce business has also benefited, as more members have shopped online during the pandemic. Conversely, we have experienced decreases in both the sales and profitability of many of our ancillary and other businesses due to temporary closures or limited demand. Additionally, we paid $564 in incremental wage and sanitation costs during 2020 related to COVID-19. 
+On March 11, 2020, the World Health Organization announced that COVID-19 infections had become a pandemic, and shortly afterward the U.S. declared a National Emergency. The outbreak has led to widespread and continuing impacts on the global economy and is affecting many aspects of our business and the operations of others with which we do business. In our response to the pandemic and in an effort to protect our members and employees, we have taken several measures, as described in Item 1A Risk Factors, and their implications on our results of operations have impacted us across all our reportable segments to varying degrees. Throughout the pandemic our warehouses have largely remained open as a result of being deemed an “essential business” in most markets and resulted in strong sales increases in our food and sundries and fresh foods merchandise categories compared to pre-pandemic time periods. This growth in certain of our core business categories has led to improved gross margin and SG&A percentages as we leveraged these sales to achieve greater efficiency. Our e-commerce business has also benefited, as more members have shopped online during the pandemic. Conversely, we have experienced decreases in both the sales and profitability of many of our ancillary and other businesses due to temporary closures or limited demand. Additionally, we paid $564 in incremental wage and sanitation costs during 2020 related to COVID-19. 
 
 23
 
@@ -100,73 +100,73 @@ Net Sales
 
 $
 
-163,220Â 
+163,220 
 
 $
 
-149,351Â 
+149,351 
 
-Â 
+ 
 
 $
 
-138,434Â 
+138,434 
 
 Changes in net sales:
 
 U.S.
 
-9Â 
+9 
 
 %
 
-9Â 
+9 
 
 %
 
-9Â 
+9 
 
 %
 
 Canada
 
-5Â 
+5 
 
 %
 
-3Â 
+3 
 
 %
 
-10Â 
+10 
 
 %
 
 Other International
 
-13Â 
+13 
 
 %
 
-5Â 
+5 
 
 %
 
-14Â 
+14 
 
 %
 
 Total Company
 
-9Â 
+9 
 
 %
 
-8Â 
+8 
 
 %
 
-10Â 
+10 
 
 %
 
@@ -174,57 +174,57 @@ Changes in comparable sales:
 
 U.S.
 
-8Â 
+8 
 
 %
 
-8Â 
+8 
 
 %
 
-9Â 
+9 
 
 %
 
 Canada
 
-5Â 
+5 
 
 %
 
-2Â 
+2 
 
 %
 
-9Â 
+9 
 
 %
 
 Other International
 
-9Â 
+9 
 
 %
 
-2Â 
+2 
 
 %
 
-11Â 
+11 
 
 %
 
 Total Company
 
-8Â 
+8 
 
 %
 
-6Â 
+6 
 
 %
 
-9Â 
+9 
 
 %
 
@@ -236,57 +236,57 @@ Increases in comparable sales excluding the impact of changes in foreign currenc
 
 U.S.
 
-9Â 
+9 
 
 %
 
-6Â 
+6 
 
 %
 
-7Â 
+7 
 
 %
 
 Canada
 
-7Â 
+7 
 
 %
 
-5Â 
+5 
 
 %
 
-4Â 
+4 
 
 %
 
 Other International
 
-11Â 
+11 
 
 %
 
-6Â 
+6 
 
 %
 
-7Â 
+7 
 
 %
 
 Total Company
 
-9Â 
+9 
 
 %
 
-6Â 
+6 
 
 %
 
-7Â 
+7 
 
 %
 
@@ -294,7 +294,7 @@ _______________
 
 (1)
 
-Excluding the impact of the revenue recognition standard for the year ended SeptemberÂ 1, 2019. 
+Excluding the impact of the revenue recognition standard for the year ended September 1, 2019. 
 
 Net Sales
 
@@ -322,41 +322,41 @@ Membership fees
 
 $
 
-3,541Â 
+3,541 
 
 $
 
-3,352Â 
+3,352 
 
 $
 
-3,142Â 
+3,142 
 
 Membership fees increase
 
-6Â 
+6 
 
 %
 
-7Â 
+7 
 
 %
 
-10Â 
+10 
 
 %
 
 Membership fees as a percentage of net sales
 
-2.17Â 
+2.17 
 
 %
 
-2.24Â 
+2.24 
 
 %
 
-2.27Â 
+2.27 
 
 %
 
@@ -376,49 +376,49 @@ Net sales
 
 $
 
-163,220Â 
+163,220 
 
 $
 
-149,351Â 
+149,351 
 
 $
 
-138,434Â 
+138,434 
 
 Less merchandise costs
 
-144,939Â 
+144,939 
 
-132,886Â 
+132,886 
 
-123,152Â 
+123,152 
 
 Gross margin
 
 $
 
-18,281Â 
+18,281 
 
 $
 
-16,465Â 
+16,465 
 
 $
 
-15,282Â 
+15,282 
 
 Gross margin percentage
 
-11.20Â 
+11.20 
 
 %
 
-11.02Â 
+11.02 
 
 %
 
-11.04Â 
+11.04 
 
 %
 
@@ -446,27 +446,27 @@ SG&A expenses
 
 $
 
-16,332Â 
+16,332 
 
 $
 
-14,994Â 
+14,994 
 
 $
 
-13,876Â 
+13,876 
 
 SG&A expenses as a percentage of net sales
 
-10.01Â 
+10.01 
 
 %
 
-10.04Â 
+10.04 
 
 %
 
-10.02Â 
+10.02 
 
 %
 
@@ -488,49 +488,49 @@ Preopening expenses
 
 $
 
-55Â 
+55 
 
 $
 
-86Â 
+86 
 
 $
 
-68Â 
+68 
 
 Warehouse openings, including relocations
 
 United States 
 
-9Â 
+9 
 
-18Â 
+18 
 
-17Â 
+17 
 
 Canada
 
-4Â 
+4 
 
-3Â 
+3 
 
-3Â 
+3 
 
 Other International
 
-3Â 
+3 
 
-4Â 
+4 
 
-5Â 
+5 
 
 Total warehouse openings, including relocations
 
-16Â 
+16 
 
-25Â 
+25 
 
-25Â 
+25 
 
 Preopening expenses include costs for startup operations related to new warehouses and relocations, developments in new international markets, new manufacturing and distribution facilities, and expansions at existing warehouses. Preopening expenses vary due to the number of warehouse and facility openings, the timing of the opening relative to our year-end, whether a warehouse is owned or leased, and whether openings are in an existing, new, or international market. In 2020, operations commenced at our new poultry processing plant, and in 2019, we opened our first warehouse in China. 
 
@@ -546,15 +546,15 @@ Interest expense
 
 $
 
-160Â 
+160 
 
 $
 
-150Â 
+150 
 
 $
 
-159Â 
+159 
 
 Interest expense primarily relates to Senior Notes. In December 2019 and February 2020, we repaid $1,200 and $500 in total outstanding principal of the 1.700% and 1.750% Senior Notes, respectively. In 
 
@@ -604,45 +604,45 @@ Interest income
 
 $
 
-89Â 
+89 
 
 $
 
-126Â 
+126 
 
 $
 
-75Â 
+75 
 
 Foreign-currency transaction gains, net
 
-7Â 
+7 
 
-27Â 
+27 
 
-23Â 
+23 
 
 Other, net
 
 (4)
 
-25Â 
+25 
 
-23Â 
+23 
 
 Interest income and other, net
 
 $
 
-92Â 
+92 
 
 $
 
-178Â 
+178 
 
 $
 
-121Â 
+121 
 
 The decrease in interest income in 2020 was primarily due to lower interest rates in the U.S. and Canada, partially offset by higher average cash and investment balances. Foreign-currency transaction gains, net include the revaluation and settlement of monetary assets and liabilities and mark-to-market adjustments for forward foreign-exchange contracts by our Canadian and Other International operations. See Derivatives and Foreign Currency sections in 
 
@@ -666,27 +666,27 @@ Provision for income taxes
 
 $
 
-1,308Â 
+1,308 
 
 $
 
-1,061Â 
+1,061 
 
 $
 
-1,263Â 
+1,263 
 
 Effective tax rate
 
-24.4Â 
+24.4 
 
 %
 
-22.3Â 
+22.3 
 
 %
 
-28.4Â 
+28.4 
 
 %
 
@@ -708,15 +708,15 @@ Net cash provided by operating activities
 
 $
 
-8,861Â 
+8,861 
 
 $
 
-6,356Â 
+6,356 
 
 $
 
-5,774Â 
+5,774 
 
 Net cash used in investing activities
 
@@ -806,17 +806,17 @@ Cash dividends declared in 2020 totaled $2.70 per share, as compared to $2.44 pe
 
 Bank Credit Facilities and Commercial Paper Programs
 
-We maintain bank credit facilities for working capital and general corporate purposes. At AugustÂ 30, 2020, we had borrowing capacity under these facilities of $967. Our international operations maintain $500 of the total borrowing capacity under bank credit facilities, of which $204 is guaranteed by the Company.Â There were no outstanding short-term borrowings under the bank credit facilities at the end of 2020 and 2019.
+We maintain bank credit facilities for working capital and general corporate purposes. At August 30, 2020, we had borrowing capacity under these facilities of $967. Our international operations maintain $500 of the total borrowing capacity under bank credit facilities, of which $204 is guaranteed by the Company. There were no outstanding short-term borrowings under the bank credit facilities at the end of 2020 and 2019.
 
 The Company has letter of credit facilities, for commercial and standby letters of credit, totaling $183. The outstanding commitments under these facilities at the end of 2020 totaled $166, most of which were standby letters of credit which do not expire or have expiration dates within one year. The bank credit facilities have various expiration dates, most of which are within one year, and we generally intend to renew these facilities. The amount of borrowings available at any time under our bank credit facilities is reduced by the amount of standby and commercial letters of credit outstanding.
 
 Contractual Obligations
 
-At AugustÂ 30, 2020, our commitments to make future payments under contractual obligations were as follows:
+At August 30, 2020, our commitments to make future payments under contractual obligations were as follows:
 
-Â 
+ 
 
-Â 
+ 
 
 Payments Due by Fiscal Year
 
@@ -838,127 +838,127 @@ Purchase obligations
 
 $
 
-12,575Â 
+12,575 
 
 $
 
-9Â 
+9 
 
 $
 
-â€”Â 
+— 
 
 $
 
-â€”Â 
+— 
 
 $
 
-12,584Â 
+12,584 
 
 Long-term debt
 
 (2)
 
-241Â 
+241 
 
-1,163Â 
+1,163 
 
-1,475Â 
+1,475 
 
-5,776Â 
+5,776 
 
-8,655Â 
+8,655 
 
 Operating leases 
 
 (3) (4)
 
-273Â 
+273 
 
-499Â 
+499 
 
-388Â 
+388 
 
-2,410Â 
+2,410 
 
-3,570Â 
+3,570 
 
 Construction and land obligations
 
-979Â 
+979 
 
-35Â 
+35 
 
-â€”Â 
+— 
 
-â€”Â 
+— 
 
-1,014Â 
+1,014 
 
 Finance lease obligations
 
 (4)
 
-61Â 
+61 
 
-128Â 
+128 
 
-197Â 
+197 
 
-742Â 
+742 
 
-1,128Â 
+1,128 
 
-Purchase obligations (equipment, services andÂ other)
+Purchase obligations (equipment, services and other)
 
 (5)
 
-674Â 
+674 
 
-205Â 
+205 
 
-72Â 
+72 
 
-187Â 
+187 
 
-1,138Â 
+1,138 
 
 Other
 
 (6)
 
-60Â 
+60 
 
-36Â 
+36 
 
-28Â 
+28 
 
-108Â 
+108 
 
-232Â 
+232 
 
 Total
 
 $
 
-14,863Â 
+14,863 
 
 $
 
-2,075Â 
+2,075 
 
 $
 
-2,160Â 
+2,160 
 
 $
 
-9,223Â 
+9,223 
 
 $
 
-28,321Â 
+28,321 
 
 _______________
 
@@ -1000,11 +1000,11 @@ The preparation of our consolidated financial statements in accordance with U.S.
 
 Note 1
 
- to the consolidated financial statements included in ItemÂ 8 of this Report.
+ to the consolidated financial statements included in Item 8 of this Report.
 
 Insurance/Self-insurance Liabilities
 
-Claims for employee health-care benefits, workersâ€™ compensation, general liability, property damage, directorsâ€™ and officersâ€™ liability, vehicle liability, inventory loss, and other exposures are funded predominantly through self-insurance. Insurance coverage is maintained in certain instances to seek to limit exposures arising from very large losses. We use different risk management mechanisms, including a wholly-owned captive insurance subsidiary, and participate in a reinsurance program. Liabilities associated with the risks that we retain are not discounted and are estimated by using historical claims experience, demographic factors, severity factors, and other actuarial assumptions. The costs of claims are highly unpredictable and can fluctuate as a result of inflation rates, regulatory or legal changes, and unforeseen developments in claims over time. While we believe our estimates are reasonable and provide for a certain degree of coverage to account for these variables, actual claims and costs could differ significantly from recorded liabilities. Historically, adjustments to our estimates have not been material.
+Claims for employee health-care benefits, workers’ compensation, general liability, property damage, directors’ and officers’ liability, vehicle liability, inventory loss, and other exposures are funded predominantly through self-insurance. Insurance coverage is maintained in certain instances to seek to limit exposures arising from very large losses. We use different risk management mechanisms, including a wholly-owned captive insurance subsidiary, and participate in a reinsurance program. Liabilities associated with the risks that we retain are not discounted and are estimated by using historical claims experience, demographic factors, severity factors, and other actuarial assumptions. The costs of claims are highly unpredictable and can fluctuate as a result of inflation rates, regulatory or legal changes, and unforeseen developments in claims over time. While we believe our estimates are reasonable and provide for a certain degree of coverage to account for these variables, actual claims and costs could differ significantly from recorded liabilities. Historically, adjustments to our estimates have not been material.
 
 Recent Accounting Pronouncements
 
@@ -1012,4 +1012,4 @@ See
 
 Note 1
 
- to the consolidated financial statements included in ItemÂ 8 of this Report for a detailed description of recent accounting pronouncements. 
+ to the consolidated financial statements included in Item 8 of this Report for a detailed description of recent accounting pronouncements. 

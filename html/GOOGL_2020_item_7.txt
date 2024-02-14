@@ -1,6 +1,6 @@
 ITEM 7.
 
-MANAGEMENTâ€™S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
 
 Please read the following discussion and analysis of our financial condition and results of operations together with our consolidated financial statements and related notes included under Part II, Item 8 of this Annual Report on Form 10-K. 
 
@@ -10,13 +10,13 @@ Trends in Our Business
 
 The following long-term trends have contributed to the results of our consolidated operations, and we anticipate that they will continue to affect our future results:
 
-â€¢
+•
 
 Users' behaviors and advertising continue to shift online as the digital economy evolves.
 
 The continuing shift from an offline to online world has contributed to the growth of our business since inception, contributing to revenue growth, and we expect that this online shift will continue to benefit our business.
 
-â€¢
+•
 
 Users are increasingly using diverse devices and modalities to access our products and services, and our advertising revenues are increasingly coming from new formats.
 
@@ -28,13 +28,13 @@ We expect TAC paid to our distribution partners and Google Network Members to in
 
 We expect these trends to continue to affect our revenue growth rates and put pressure on our overall margins.
 
-â€¢
+•
 
 As online advertising evolves, we continue to expand our product offerings which may affect our monetization.
 
 As interactions between users and advertisers change and as online user behavior evolves, we continue to expand and evolve our product offerings to serve their changing needs. Over time, we expect our monetization trends to fluctuate. For example, we have seen an increase in YouTube ads and Google Play ads, which monetize at a lower rate than our traditional search ads.
 
-â€¢
+•
 
 As users in developing economies increasingly come online, our revenues from international markets continue to increase and movements in foreign exchange rates affect such revenues.
 
@@ -48,13 +48,13 @@ Table of Contents
 
 Alphabet Inc.
 
-â€¢
+•
 
 The portion of our revenues that we derive from non-advertising revenues is increasing and may affect margins.
 
 Non-advertising revenues have grown over time. We expect this trend to continue as we focus on expanding our offerings to our users through products and services like Google Cloud, Google Play, hardware products, and YouTube subscriptions. Across these initiatives, we currently derive non-advertising revenues primarily from sales of apps, in-app purchases, digital content products, and hardware; and licensing and service fees, including fees received for Google Cloud services and subscription and other services. The margins on these revenues vary significantly and may be lower than the margins on our advertising revenues. A number of our Other Bets initiatives are in their initial development stages, and as such, the sources of revenues from these businesses could change over time and the revenues could be volatile.
 
-â€¢
+•
 
 As we continue to serve our users and expand our businesses, we will invest heavily in operating and capital expenditures.
 
@@ -62,13 +62,13 @@ We continue to make significant R&D investments in areas of strategic focus such
 
 In addition, acquisitions and strategic investments are an important part of our strategy and use of capital, contributing to the breadth and depth of our offerings, expanding our expertise in engineering and other functional areas, and building strong partnerships around strategic initiatives. For example, in 2020 we announced our Google for India Digitization Fund to invest approximately $10 billion into India over the next 5-7 years through a mix of equity investments, partnerships, and operational, infrastructure and ecosystem investments.
 
-â€¢
+•
 
 We face continuing changes in regulatory conditions, laws and public policies, which could impact our business practices and financial results.
 
 Changes in social, political, economic, tax, and regulatory conditions or in laws and policies governing a wide range of topics and related legal matters have resulted in fines and caused us to change our business practices. As these global trends continue, for example the recent antitrust complaints filed by the U.S. Department of Justice and a number of state Attorneys General as well as the News Media Bargaining Code drafted by the Australian Competition and Consumer Commission, our cost of doing business may increase and our ability to pursue certain business models or offer certain products or services may be limited.
 
-â€¢
+•
 
 Our employees are critical to our success and we expect to continue investing in them.
 
@@ -106,27 +106,27 @@ Year Ended December 31,
 
 Revenues
 
-$161,857Â 
+$161,857 
 
-$182,527Â 
+$182,527 
 
 Increase in revenues year over year
 
-18Â 
+18 
 
 %
 
-13Â 
+13 
 
 %
 
 Increase in constant currency revenues year over year
 
-20Â 
+20 
 
 %
 
-14Â 
+14 
 
 %
 
@@ -136,21 +136,21 @@ Operating income
 
 $
 
-34,231Â 
+34,231 
 
 $
 
-41,224Â 
+41,224 
 
 Operating margin
 
 (1)
 
-21Â 
+21 
 
 %
 
-23Â 
+23 
 
 %
 
@@ -158,11 +158,11 @@ Other income (expense), net
 
 $
 
-5,394Â 
+5,394 
 
 $
 
-6,858Â 
+6,858 
 
 Net Income
 
@@ -170,11 +170,11 @@ Net Income
 
 $
 
-34,343Â 
+34,343 
 
 $
 
-40,269Â 
+40,269 
 
 Diluted EPS
 
@@ -182,23 +182,23 @@ Diluted EPS
 
 $
 
-49.16Â 
+49.16 
 
 $
 
-58.61Â 
+58.61 
 
 (1)
 
-Â Â Â Â 
+    
 
 Results for 2019 include the effect of the $1.7 billion EC fine. See Note 10 of the Notes to Consolidated Financial Statements included in Part II, Item 8 of this Annual Report on Form 10-K for further information.
 
-â€¢
+•
 
 Total revenues were $182.5 billion, an increase of 13% year over year, primarily driven by an increase in Google Services segment revenues of $16.8 billion or 11% and an increase in Google Cloud segment revenues of $4.1 billion or 46%. Revenues from the United States, EMEA, APAC, and Other Americas were $85.0 billion, $55.4 billion, $32.6 billion, and $9.4 billion, respectively.
 
-â€¢
+•
 
 Total cost of revenues was $84.7 billion, an increase of 18% year over year. TAC was $32.8 billion, an increase of 9% year over year, primarily driven by an increase in revenues subject to TAC. Other cost of revenues were $51.9 billion, an increase of 24% year over year, primarily driven by an increase in data centers and other operations costs and content acquisition costs.
 
@@ -208,37 +208,37 @@ Table of Contents
 
 Alphabet Inc.
 
-â€¢
+•
 
 Operating expenses were $56.6 billion, an increase of 5% year over year primarily driven by headcount growth and partially offset by declines in advertising and promotional expenses and travel and entertainment expenses.
 
 Other information:
 
-â€¢
+•
 
 Operating cash flow was $65.1 billion.
 
-â€¢
+•
 
 Capital expenditures, which primarily included investments in technical infrastructure, were $22.3 billion.
 
-â€¢
+•
 
-Number of employees was 135,301 as of DecemberÂ 31, 2020. The majority of new hires during the year were engineers and product managers.
+Number of employees was 135,301 as of December 31, 2020. The majority of new hires during the year were engineers and product managers.
 
 Our Segments
 
 Beginning in the fourth quarter of 2020, we report our segment results as Google Services, Google Cloud, and Other Bets: 
 
-â€¢
+•
 
 Google Services includes products and services such as ads, Android, Chrome, hardware, Google Maps, Google Play, Search, and YouTube. Google Services generates revenues primarily from advertising; sales of apps, in-app purchases, digital content products, and hardware; and fees received for subscription-based products such as YouTube Premium and YouTube TV.
 
-â€¢
+•
 
-Google Cloud includes Googleâ€™s infrastructure and data analytics platforms, collaboration tools, and other services for enterprise customers. Google Cloud generates revenues primarily from fees received for Google Cloud Platform ("GCP") services and Google Workspace (formerly known as G Suite) collaboration tools.
+Google Cloud includes Google’s infrastructure and data analytics platforms, collaboration tools, and other services for enterprise customers. Google Cloud generates revenues primarily from fees received for Google Cloud Platform ("GCP") services and Google Workspace (formerly known as G Suite) collaboration tools.
 
-â€¢
+•
 
 Other Bets is a combination of multiple operating segments that are not individually material. Revenues from the Other Bets are derived primarily through the sale of internet services as well as licensing and R&D services.
 
@@ -260,69 +260,69 @@ Google Search & other
 
 $
 
-98,115Â 
+98,115 
 
 $
 
-104,062Â 
+104,062 
 
 YouTube ads
 
-15,149Â 
+15,149 
 
-19,772Â 
+19,772 
 
 Google Network Members' properties
 
-21,547Â 
+21,547 
 
-23,090Â 
+23,090 
 
 Google advertising
 
-134,811Â 
+134,811 
 
-146,924Â 
+146,924 
 
 Google other
 
-17,014Â 
+17,014 
 
-21,711Â 
+21,711 
 
 Google Services total
 
-151,825Â 
+151,825 
 
-168,635Â 
+168,635 
 
 Google Cloud
 
-8,918Â 
+8,918 
 
-13,059Â 
+13,059 
 
 Other Bets
 
-659Â 
+659 
 
-657Â 
+657 
 
 Hedging gains (losses)
 
-455Â 
+455 
 
-176Â 
+176 
 
 Total revenues
 
 $
 
-161,857Â 
+161,857 
 
 $
 
-182,527Â 
+182,527 
 
 Google Services
 
@@ -330,11 +330,11 @@ Google advertising revenues
 
 Our advertising revenue growth, as well as the change in paid clicks and cost-per-click on Google Search & other properties and the change in impressions and cost-per-impression on Google Network Members' properties and the correlation between these items, have been affected and may continue to be affected by various factors, including:
 
-â€¢
+•
 
 advertiser competition for keywords;
 
-â€¢
+•
 
 changes in advertising quality, formats, delivery or policy;
 
@@ -344,27 +344,27 @@ Table of Contents
 
 Alphabet Inc.
 
-â€¢
+•
 
 changes in device mix;
 
-â€¢
+•
 
 changes in foreign currency exchange rates;
 
-â€¢
+•
 
 fees advertisers are willing to pay based on how they manage their advertising costs;
 
-â€¢
+•
 
 general economic conditions including the impact of COVID-19;
 
-â€¢
+•
 
 seasonality; and
 
-â€¢
+•
 
 traffic growth in emerging markets compared to more mature markets and across various advertising verticals and channels.
 
@@ -372,15 +372,15 @@ Our advertising revenue growth rate has been affected over time as a result of a
 
 Google advertising revenues consist primarily of the following:
 
-â€¢
+•
 
 Google Search & other consists of revenues generated on Google search properties (including revenues from traffic generated by search distribution partners who use Google.com as their default search in browsers, toolbars, etc.) and other Google owned and operated properties like Gmail, Google Maps, and Google Play;
 
-â€¢
+•
 
 YouTube ads consists of revenues generated on YouTube properties; and
 
-â€¢
+•
 
 Google Network Members' properties consist of revenues generated on Google Network Members' properties participating in AdMob, AdSense, and Google Ad Manager.
 
@@ -412,17 +412,17 @@ Alphabet Inc.
 
 Cost-per-impression is defined as impression-based and click-based revenues divided by our total number of impressions and represents the average amount we charge advertisers for each impression displayed to users.
 
-As our business evolves, we periodically review, refine and update our methodologies for monitoring, gathering, and counting the number of paid clicks on our Google Search & other properties and the number of impressions on Google Network Membersâ€™ properties and for identifying the revenues generated by click activity on our Google Search & other properties and the revenues generated by impression activity on Google Network Membersâ€™ properties. 
+As our business evolves, we periodically review, refine and update our methodologies for monitoring, gathering, and counting the number of paid clicks on our Google Search & other properties and the number of impressions on Google Network Members’ properties and for identifying the revenues generated by click activity on our Google Search & other properties and the revenues generated by impression activity on Google Network Members’ properties. 
 
 Paid clicks and cost-per-click
 
 The following table presents changes in our paid clicks and cost-per-click (expressed as a percentage):
 
-Â 
+ 
 
 Year Ended December 31,
 
-Â 
+ 
 
 2019
 
@@ -430,11 +430,11 @@ Year Ended December 31,
 
 Paid clicks change
 
-23Â 
+23 
 
 %
 
-19Â 
+19 
 
 %
 
@@ -456,17 +456,17 @@ Impressions and cost-per-impression
 
 The following table presents changes in our impressions and cost-per-impression (expressed as a percentage):
 
-Â 
+ 
 
 Year Ended December 31,
 
-Â 
+ 
 
 2020
 
 Impressions change
 
-15Â 
+15 
 
 %
 
@@ -476,25 +476,25 @@ Cost-per-impression change
 
 %
 
-Impressions increased from 2019 to 2020Â primarily due to growth in Google Ad Manager.Â The positive effect on our revenues from an increase in impressions was partially offset by a decrease in the cost-per-impression paid by our advertisers which was driven by a reduction in advertiser spending in response to COVID-19, primarily during the first half of the year, as well as the effect of a combination of factors including ongoing product and policy changes and improvements we have made in ad formats and delivery, changes in device mix, geographic mix, product mix, property mix, and fluctuations of the U.S. dollar compared to certain foreign currencies.
+Impressions increased from 2019 to 2020 primarily due to growth in Google Ad Manager. The positive effect on our revenues from an increase in impressions was partially offset by a decrease in the cost-per-impression paid by our advertisers which was driven by a reduction in advertiser spending in response to COVID-19, primarily during the first half of the year, as well as the effect of a combination of factors including ongoing product and policy changes and improvements we have made in ad formats and delivery, changes in device mix, geographic mix, product mix, property mix, and fluctuations of the U.S. dollar compared to certain foreign currencies.
 
 Google other revenues
 
 Google other revenues consist primarily of revenues from: 
 
-â€¢
+•
 
 Google Play, which includes revenues from sales of apps and in-app purchases (which we recognize net of payout to developers) and digital content sold in the Google Play store; 
 
-â€¢
+•
 
 hardware, including Google Nest home products, Pixelbooks, Pixel phones and other devices; 
 
-â€¢
+•
 
 YouTube non-advertising, including YouTube Premium and YouTube TV subscriptions and other services; and
 
-â€¢
+•
 
 other products and services.
 
@@ -518,11 +518,11 @@ Revenues by Geography
 
 The following table presents our revenues by geography as a percentage of revenues, determined based on the addresses of our customers:
 
-Â 
+ 
 
 Year Ended December 31,
 
-Â 
+ 
 
 2019
 
@@ -530,41 +530,41 @@ Year Ended December 31,
 
 United States
 
-46Â 
+46 
 
 %
 
-47Â 
+47 
 
 %
 
 EMEA
 
-31Â 
+31 
 
 %
 
-30Â 
+30 
 
 %
 
 APAC
 
-17Â 
+17 
 
 %
 
-18Â 
+18 
 
 %
 
 Other Americas
 
-6Â 
+6 
 
 %
 
-5Â 
+5 
 
 %
 
@@ -574,7 +574,7 @@ Use of Constant Currency Revenues and Constant Currency Revenue Percentage Chang
 
 The effect of currency exchange rates on our business is an important factor in understanding period to period comparisons. Our international revenues are favorably affected as the U.S. dollar weakens relative to other foreign currencies, and unfavorably affected as the U.S. dollar strengthens relative to other foreign currencies. Our revenues are also favorably affected by net hedging gains and unfavorably affected by net hedging losses.
 
-We use non-GAAP constant currency revenues and non-GAAP percentage change in constant currency revenues for financial and operational decision-making and as aÂ means to evaluate period-to-period comparisons.Â We believe the presentation of results on a constant currency basis in addition to U.S. Generally Accepted Accounting Principles ("GAAP") results helps improve the ability to understand our performance because they exclude the effects of foreign currency volatility that are not indicative of our core operating results.
+We use non-GAAP constant currency revenues and non-GAAP percentage change in constant currency revenues for financial and operational decision-making and as a means to evaluate period-to-period comparisons. We believe the presentation of results on a constant currency basis in addition to U.S. Generally Accepted Accounting Principles ("GAAP") results helps improve the ability to understand our performance because they exclude the effects of foreign currency volatility that are not indicative of our core operating results.
 
 Constant currency information compares results between periods as if exchange rates had remained constant period over period. We define constant currency revenues as total revenues excluding the effect of foreign exchange rate movements and hedging activities, and use it to determine the constant currency revenue percentage change on a year-on-year basis. Constant currency revenues are calculated by translating current period revenues using prior period exchange rates, as well as excluding any hedging effects realized in the current period.
 
@@ -590,7 +590,7 @@ Alphabet Inc.
 
 The following table presents the foreign exchange effect on our international revenues and total revenues (in millions, except percentages):
 
-Â 
+ 
 
 Year Ended December 31,
 
@@ -602,15 +602,15 @@ EMEA revenues
 
 $
 
-50,645Â 
+50,645 
 
 $
 
-55,370Â 
+55,370 
 
 Exclude foreign exchange effect on current period revenues using prior year rates
 
-2,397Â 
+2,397 
 
 (111)
 
@@ -618,39 +618,39 @@ EMEA constant currency revenues
 
 $
 
-53,042Â 
+53,042 
 
 $
 
-55,259Â 
+55,259 
 
 Prior period EMEA revenues
 
 $
 
-44,739Â 
+44,739 
 
 $
 
-50,645Â 
+50,645 
 
 EMEA revenue percentage change
 
-13Â 
+13 
 
 %
 
-9Â 
+9 
 
 %
 
 EMEA constant currency revenue percentage change
 
-19Â 
+19 
 
 %
 
-9Â 
+9 
 
 %
 
@@ -658,55 +658,55 @@ APAC revenues
 
 $
 
-26,928Â 
+26,928 
 
 $
 
-32,550Â 
+32,550 
 
 Exclude foreign exchange effect on current period revenues using prior year rates
 
-388Â 
+388 
 
-11Â 
+11 
 
 APAC constant currency revenues
 
 $
 
-27,316Â 
+27,316 
 
 $
 
-32,561Â 
+32,561 
 
 Prior period APAC revenues
 
 $
 
-21,341Â 
+21,341 
 
 $
 
-26,928Â 
+26,928 
 
 APAC revenue percentage change
 
-26Â 
+26 
 
 %
 
-21Â 
+21 
 
 %
 
 APAC constant currency revenue percentage change
 
-28Â 
+28 
 
 %
 
-21Â 
+21 
 
 %
 
@@ -714,55 +714,55 @@ Other Americas revenues
 
 $
 
-8,986Â 
+8,986 
 
 $
 
-9,417Â 
+9,417 
 
 Exclude foreign exchange effect on current period revenues using prior year rates
 
-541Â 
+541 
 
-964Â 
+964 
 
 Other Americas constant currency revenues
 
 $
 
-9,527Â 
+9,527 
 
 $
 
-10,381Â 
+10,381 
 
 Prior period Other Americas revenues
 
 $
 
-7,608Â 
+7,608 
 
 $
 
-8,986Â 
+8,986 
 
 Other Americas revenue percentage change
 
-18Â 
+18 
 
 %
 
-5Â 
+5 
 
 %
 
 Other Americas constant currency revenue percentage change
 
-25Â 
+25 
 
 %
 
-16Â 
+16 
 
 %
 
@@ -770,47 +770,47 @@ United States revenues
 
 $
 
-74,843Â 
+74,843 
 
 $
 
-85,014Â 
+85,014 
 
 United States revenue percentage change
 
-18Â 
+18 
 
 %
 
-14Â 
+14 
 
 %
 
 Hedging gains (losses)
 
-455Â 
+455 
 
-176Â 
+176 
 
 Total revenues
 
 $
 
-161,857Â 
+161,857 
 
 $
 
-182,527Â 
+182,527 
 
 Total constant currency revenues
 
 $
 
-164,728Â 
+164,728 
 
 $
 
-183,215Â 
+183,215 
 
 Prior period revenues, excluding hedging effect
 
@@ -818,35 +818,35 @@ Prior period revenues, excluding hedging effect
 
 $
 
-136,957Â 
+136,957 
 
 $
 
-161,402Â 
+161,402 
 
 Total revenue percentage change
 
-18Â 
+18 
 
 %
 
-13Â 
+13 
 
 %
 
 Total constant currency revenue percentage change
 
-20Â 
+20 
 
 %
 
-14Â 
+14 
 
 %
 
 (1)
 
-Â Â Â Â Total revenues and hedging gains (losses) for the year ended December 31, 2018 were $136,819 million and $(138) million, respectively.
+    Total revenues and hedging gains (losses) for the year ended December 31, 2018 were $136,819 million and $(138) million, respectively.
 
 EMEA revenue percentage change from 2019 to 2020 was not significantly affected by foreign currency exchange rates, primarily due to the U.S. dollar weakening relative to the Euro offset by the U.S. dollar strengthening relative to the Turkish lira and Russian ruble.
 
@@ -864,31 +864,31 @@ Costs and Operating Expenses
 
 Cost of Revenues
 
-Cost of revenues includes TAC which are paid to our distribution partners who make available our search access points and services, and amounts paid to Google Network Members primarilyÂ for ads displayed on their properties. Our distribution partners include browser providers, mobile carriers, original equipment manufacturers, and software developers.
+Cost of revenues includes TAC which are paid to our distribution partners who make available our search access points and services, and amounts paid to Google Network Members primarily for ads displayed on their properties. Our distribution partners include browser providers, mobile carriers, original equipment manufacturers, and software developers.
 
-The cost of revenues as a percentage of revenues generated from ads placed on Google Network Members' properties are significantly higher than the cost of revenues as a percentage of revenues generated from ads placed on Google properties (which includes Google Search & other and YouTube ads), because most of the advertiser revenues from ads served on Google Network Membersâ€™ properties are paid as TAC to our Google Network Members.
+The cost of revenues as a percentage of revenues generated from ads placed on Google Network Members' properties are significantly higher than the cost of revenues as a percentage of revenues generated from ads placed on Google properties (which includes Google Search & other and YouTube ads), because most of the advertiser revenues from ads served on Google Network Members’ properties are paid as TAC to our Google Network Members.
 
 Additionally, other cost of revenues (which is the cost of revenues excluding TAC) includes the following:
 
-â€¢
+•
 
 Content acquisition costs primarily related to payments to content providers from whom we license video and other content for distribution on YouTube advertising and subscription services and Google Play (we pay fees to these content providers based on revenues generated or a flat fee);
 
-â€¢
+•
 
 Expenses associated with our data centers (including bandwidth, compensation expenses including stock-based compensation ("SBC"), depreciation, energy, and other equipment costs) as well as other operations costs (such as content review and customer support costs). These costs are generally less variable in nature and may not correlate with related changes in revenues; and
 
-â€¢
+•
 
 Inventory related costs for hardware we sell. 
 
 The following tables present our cost of revenues, including TAC (in millions, except percentages):
 
-Â 
+ 
 
 Year Ended December 31,
 
-Â 
+ 
 
 2019
 
@@ -898,35 +898,35 @@ TAC
 
 $
 
-30,089Â 
+30,089 
 
 $
 
-32,778Â 
+32,778 
 
 Other cost of revenues
 
-41,807Â 
+41,807 
 
-51,954Â 
+51,954 
 
 Total cost of revenues
 
 $
 
-71,896Â 
+71,896 
 
 $
 
-84,732Â 
+84,732 
 
 Total cost of revenues as a percentage of revenues
 
-44.4Â 
+44.4 
 
 %
 
-46.4Â 
+46.4 
 
 %
 
@@ -938,35 +938,35 @@ The increase in TAC from 2019 to 2020 was due to increases in TAC paid to distri
 
 Over time, cost of revenues as a percentage of total revenues may be affected by a number of factors, including the following:
 
-â€¢
+•
 
 The amount of TAC paid to distribution partners, which is affected by changes in device mix, geographic mix, partner mix, partner agreement terms such as revenue share arrangements, and the percentage of queries channeled through paid access points;
 
-â€¢
+•
 
 The amount of TAC paid to Google Network Members, which is affected by a combination of factors such as geographic mix, product mix, and revenue share terms;
 
-â€¢
+•
 
 Relative revenue growth rates of Google properties and Google Network Members' properties;
 
-â€¢
+•
 
 Certain costs that are less variable in nature and may not correlate with the related revenues;
 
-â€¢
+•
 
 Costs associated with our data centers and other operations to support ads, Google Cloud, Search, YouTube and other products;
 
-â€¢
+•
 
 Content acquisition costs, which are primarily affected by the relative growth rates in our YouTube advertising and subscription revenues; 
 
-â€¢
+•
 
 Costs related to hardware sales; and
 
-â€¢
+•
 
 Increased proportion of non-advertising revenues, which generally have higher costs of revenues, relative to our advertising revenues.
 
@@ -980,11 +980,11 @@ Research and Development
 
 The following table presents our R&D expenses (in millions, except percentages):
 
-Â 
+ 
 
 Year Ended December 31,
 
-Â 
+ 
 
 2019
 
@@ -994,37 +994,37 @@ Research and development expenses
 
 $
 
-26,018Â 
+26,018 
 
 $
 
-27,573Â 
+27,573 
 
 Research and development expenses as a percentage of revenues
 
-16.1Â 
+16.1 
 
 %
 
-15.1Â 
+15.1 
 
 %
 
 R&D expenses consist primarily of:
 
-â€¢
+•
 
 Compensation expenses (including SBC) for engineering and technical employees responsible for R&D of our existing and new products and services; 
 
-â€¢
+•
 
 Depreciation expenses; 
 
-â€¢
+•
 
 Equipment-related expenses; and
 
-â€¢
+•
 
 Professional services fees primarily related to consulting and outsourcing services.
 
@@ -1036,11 +1036,11 @@ Sales and Marketing
 
 The following table presents our sales and marketing expenses (in millions, except percentages):
 
-Â 
+ 
 
 Year Ended December 31,
 
-Â 
+ 
 
 2019
 
@@ -1050,29 +1050,29 @@ Sales and marketing expenses
 
 $
 
-18,464Â 
+18,464 
 
 $
 
-17,946Â 
+17,946 
 
 Sales and marketing expenses as a percentage of revenues
 
-11.4Â 
+11.4 
 
 %
 
-9.8Â 
+9.8 
 
 %
 
 Sales and marketing expenses consist primarily of:
 
-â€¢
+•
 
 Advertising and promotional expenditures related to our products and services; and
 
-â€¢
+•
 
 Compensation expenses (including SBC) for employees engaged in sales and marketing, sales support, and certain customer service functions.
 
@@ -1084,11 +1084,11 @@ General and Administrative
 
 The following table presents our general and administrative expenses (in millions, except percentages):
 
-Â 
+ 
 
 Year Ended December 31,
 
-Â 
+ 
 
 2019
 
@@ -1098,29 +1098,29 @@ General and administrative expenses
 
 $
 
-9,551Â 
+9,551 
 
 $
 
-11,052Â 
+11,052 
 
 General and administrative expenses as a percentage of revenues
 
-5.9Â 
+5.9 
 
 %
 
-6.1Â 
+6.1 
 
 %
 
 General and administrative expenses consist primarily of:
 
-â€¢
+•
 
 Compensation expenses (including SBC) for employees in our finance, human resources, information technology, and legal organizations; 
 
-â€¢
+•
 
 Depreciation;
 
@@ -1130,15 +1130,15 @@ Table of Contents
 
 Alphabet Inc.
 
-â€¢
+•
 
 Equipment-related expenses; 
 
-â€¢
+•
 
 Legal-related expenses; and
 
-â€¢
+•
 
 Professional services fees primarily related to audit, information technology consulting, outside legal, and outsourcing services.
 
@@ -1150,15 +1150,15 @@ European Commission Fines
 
 In March 2019, the EC announced its decision that certain contractual provisions in agreements that Google had with AdSense for Search partners infringed European competition law. The EC decision imposed a 
 
-â‚¬1.5 billion
+€1.5 billion
 
  (
 
 $1.7 billion
 
-Â as of March 20, 2019) fine, which was accrued in the first quarter of 2019.
+ as of March 20, 2019) fine, which was accrued in the first quarter of 2019.
 
-Please refer toÂ Note 10 of the Notes to Consolidated Financial StatementsÂ included in Part II, Item 8 of this Annual Report on Form 10-K for further information.
+Please refer to Note 10 of the Notes to Consolidated Financial Statements included in Part II, Item 8 of this Annual Report on Form 10-K for further information.
 
 Segment Profitability
 
@@ -1178,15 +1178,15 @@ Google Services
 
 $
 
-43,137Â 
+43,137 
 
 $
 
-48,999Â 
+48,999 
 
 $
 
-54,606Â 
+54,606 
 
 Google Cloud
 
@@ -1218,19 +1218,19 @@ Total income from operations
 
 $
 
-27,524Â 
+27,524 
 
 $
 
-34,231Â 
+34,231 
 
 $
 
-41,224Â 
+41,224 
 
 (1)
 
-Â Â Â Â Corporate costs, unallocated includes a fine of $5.1 billion for the year ended December 31, 2018 and a fine and legal settlement totaling $2.3 billion for the year ended December 31, 2019.
+    Corporate costs, unallocated includes a fine of $5.1 billion for the year ended December 31, 2018 and a fine and legal settlement totaling $2.3 billion for the year ended December 31, 2019.
 
 Google Services
 
@@ -1256,11 +1256,11 @@ Other Income (Expense), Net
 
 The following table presents other income (expense), net, (in millions):
 
-Â 
+ 
 
 Year Ended December 31,
 
-Â 
+ 
 
 2019
 
@@ -1270,11 +1270,11 @@ Other income (expense), net
 
 $
 
-5,394Â 
+5,394 
 
 $
 
-6,858Â 
+6,858 
 
 Other income (expense), net, increased $1,464 million from 2019 to 2020. The change was primarily driven by an increase in net gains on equity and debt securities of $3,519 million, partially offset by a $902 million loss resulting from our equity derivatives, which hedged the changes in fair value of certain marketable equity securities, and a decrease in interest income of $562 million.
 
@@ -1284,11 +1284,11 @@ Provision for Income Taxes
 
 The following table presents our provision for income taxes (in millions, except for effective tax rate):
 
-Â 
+ 
 
 Year Ended December 31,
 
-Â 
+ 
 
 2019
 
@@ -1298,19 +1298,19 @@ Provision for income taxes
 
 $
 
-5,282Â 
+5,282 
 
 $
 
-7,813Â 
+7,813 
 
 Effective tax rate
 
-13.3Â 
+13.3 
 
 %
 
-16.2Â 
+16.2 
 
 %
 
@@ -1328,45 +1328,45 @@ Alphabet Inc.
 
 Quarterly Results of Operations
 
-The following tables presenting our quarterly results of operations should be read in conjunction with the consolidated financial statements and related notes included in Part II, ItemÂ 8 of this Annual Report on Form 10-K. We have prepared the unaudited information on the same basis as our audited consolidated financial statements. Our operating results for any quarter are not necessarily indicative of results for any future quarters or for a full year. 
+The following tables presenting our quarterly results of operations should be read in conjunction with the consolidated financial statements and related notes included in Part II, Item 8 of this Annual Report on Form 10-K. We have prepared the unaudited information on the same basis as our audited consolidated financial statements. Our operating results for any quarter are not necessarily indicative of results for any future quarters or for a full year. 
 
-The following table presents our unaudited quarterly results of operations for the eight quarters ended DecemberÂ 31, 2020. This table includes all adjustments, consisting only of normal recurring adjustments, that we consider necessary for a fair presentation of our consolidated financial position and operating results for the quarters presented. Seasonal fluctuations in internet usage and advertiser expenditures, underlying business trends such as traditional retail seasonality and macroeconomic conditions have affected, and are likely to continue to affect, our business (including developments and volatility arising from COVID-19). Commercial queries typically increase significantly in the fourth quarter of each year. These seasonal trends have caused, and will likely continue to cause, fluctuations in our quarterly results, including fluctuations in sequential revenue growth rates.
+The following table presents our unaudited quarterly results of operations for the eight quarters ended December 31, 2020. This table includes all adjustments, consisting only of normal recurring adjustments, that we consider necessary for a fair presentation of our consolidated financial position and operating results for the quarters presented. Seasonal fluctuations in internet usage and advertiser expenditures, underlying business trends such as traditional retail seasonality and macroeconomic conditions have affected, and are likely to continue to affect, our business (including developments and volatility arising from COVID-19). Commercial queries typically increase significantly in the fourth quarter of each year. These seasonal trends have caused, and will likely continue to cause, fluctuations in our quarterly results, including fluctuations in sequential revenue growth rates.
 
-Â 
+ 
 
 Quarter Ended
 
-Â 
+ 
 
-MarÂ 31,
-
-2019
-
-JunÂ 30,
+Mar 31,
 
 2019
 
-SeptÂ 30,
+Jun 30,
 
 2019
 
-DecÂ 31,
+Sept 30,
 
 2019
 
-MarÂ 31,
+Dec 31,
+
+2019
+
+Mar 31,
 
 2020
 
-JunÂ 30,
+Jun 30,
 
 2020
 
-SeptÂ 30,
+Sept 30,
 
 2020
 
-DecÂ 31,
+Dec 31,
 
 2020
 
@@ -1378,321 +1378,321 @@ Revenues
 
 $
 
-36,339Â 
+36,339 
 
 $
 
-38,944Â 
+38,944 
 
 $
 
-40,499Â 
+40,499 
 
 $
 
-46,075Â 
+46,075 
 
 $
 
-41,159Â 
+41,159 
 
 $
 
-38,297Â 
+38,297 
 
 $
 
-46,173Â 
+46,173 
 
-56,898Â 
+56,898 
 
 Costs and expenses:
 
 Cost of revenues
 
-16,012Â 
+16,012 
 
-17,296Â 
+17,296 
 
-17,568Â 
+17,568 
 
-21,020Â 
+21,020 
 
-18,982Â 
+18,982 
 
-18,553Â 
+18,553 
 
-21,117Â 
+21,117 
 
-26,080Â 
+26,080 
 
 Research and development
 
-6,029Â 
+6,029 
 
-6,213Â 
+6,213 
 
-6,554Â 
+6,554 
 
-7,222Â 
+7,222 
 
-6,820Â 
+6,820 
 
-6,875Â 
+6,875 
 
-6,856Â 
+6,856 
 
-7,022Â 
+7,022 
 
 Sales and marketing
 
-3,905Â 
+3,905 
 
-4,212Â 
+4,212 
 
-4,609Â 
+4,609 
 
-5,738Â 
+5,738 
 
-4,500Â 
+4,500 
 
-3,901Â 
+3,901 
 
-4,231Â 
+4,231 
 
-5,314Â 
+5,314 
 
 General and administrative
 
-2,088Â 
+2,088 
 
-2,043Â 
+2,043 
 
-2,591Â 
+2,591 
 
-2,829Â 
+2,829 
 
-2,880Â 
+2,880 
 
-2,585Â 
+2,585 
 
-2,756Â 
+2,756 
 
-2,831Â 
+2,831 
 
 European Commission fines
 
-1,697Â 
+1,697 
 
-0Â 
+0 
 
-0Â 
+0 
 
-0Â 
+0 
 
-0Â 
+0 
 
-0Â 
+0 
 
-0Â 
+0 
 
-0Â 
+0 
 
 Total costs and expenses
 
-29,731Â 
+29,731 
 
-29,764Â 
+29,764 
 
-31,322Â 
+31,322 
 
-36,809Â 
+36,809 
 
-33,182Â 
+33,182 
 
-31,914Â 
+31,914 
 
-34,960Â 
+34,960 
 
-41,247Â 
+41,247 
 
 Income from operations
 
-6,608Â 
+6,608 
 
-9,180Â 
+9,180 
 
-9,177Â 
+9,177 
 
-9,266Â 
+9,266 
 
-7,977Â 
+7,977 
 
-6,383Â 
+6,383 
 
-11,213Â 
+11,213 
 
-15,651Â 
+15,651 
 
 Other income (expense), net
 
-1,538Â 
+1,538 
 
-2,967Â 
+2,967 
 
 (549)
 
-1,438Â 
+1,438 
 
 (220)
 
-1,894Â 
+1,894 
 
-2,146Â 
+2,146 
 
-3,038Â 
+3,038 
 
 Income before income taxes
 
-8,146Â 
+8,146 
 
-12,147Â 
+12,147 
 
-8,628Â 
+8,628 
 
-10,704Â 
+10,704 
 
-7,757Â 
+7,757 
 
-8,277Â 
+8,277 
 
-13,359Â 
+13,359 
 
-18,689Â 
+18,689 
 
 Provision for income taxes
 
-1,489Â 
+1,489 
 
-2,200Â 
+2,200 
 
-1,560Â 
+1,560 
 
-33Â 
+33 
 
-921Â 
+921 
 
-1,318Â 
+1,318 
 
-2,112Â 
+2,112 
 
-3,462Â 
+3,462 
 
 Net income
 
 $
 
-6,657Â 
+6,657 
 
 $
 
-9,947Â 
+9,947 
 
 $
 
-7,068Â 
+7,068 
 
 $
 
-10,671Â 
+10,671 
 
 $
 
-6,836Â 
+6,836 
 
 $
 
-6,959Â 
+6,959 
 
 $
 
-11,247Â 
+11,247 
 
-15,227Â 
+15,227 
 
 Basic net income per share of Class A and B common stock and Class C capital stock
 
 $
 
-9.58Â 
+9.58 
 
 $
 
-14.33Â 
+14.33 
 
 $
 
-10.20Â 
+10.20 
 
 $
 
-15.49Â 
+15.49 
 
 $
 
-9.96Â 
+9.96 
 
 $
 
-10.21Â 
+10.21 
 
 $
 
-16.55Â 
+16.55 
 
 $
 
-22.54Â 
+22.54 
 
 Diluted net income per share of Class A and B common stock and Class C capital stock
 
 $
 
-9.50Â 
+9.50 
 
 $
 
-14.21Â 
+14.21 
 
 $
 
-10.12Â 
+10.12 
 
 $
 
-15.35Â 
+15.35 
 
 $
 
-9.87Â 
+9.87 
 
 $
 
-10.13Â 
+10.13 
 
 $
 
-16.40Â 
+16.40 
 
 $
 
-22.30Â 
+22.30 
 
 Financial Condition
 
 Cash, Cash Equivalents, and Marketable Securities
 
-As of DecemberÂ 31, 2020, we had $136.7 billion in cash, cash equivalents, and short-term marketable securities. Ca
+As of December 31, 2020, we had $136.7 billion in cash, cash equivalents, and short-term marketable securities. Ca
 
 sh equivalents and marketable securities a
 
@@ -1710,11 +1710,11 @@ Alphabet Inc.
 
 The following table presents our cash flows (in millions):
 
-Â 
+ 
 
-Year Ended DecemberÂ 31,
+Year Ended December 31,
 
-Â 
+ 
 
 2019
 
@@ -1724,11 +1724,11 @@ Net cash provided by operating activities
 
 $
 
-54,520Â 
+54,520 
 
 $
 
-65,124Â 
+65,124 
 
 Net cash used in investing activities
 
@@ -1774,17 +1774,17 @@ Liquidity and Material Cash Requirements
 
 We expect existing cash, cash equivalents, short-term marketable securities, cash flows from operations and financing activities to continue to be sufficient to fund our operating activities and cash commitments for investing and financing activities for at least the next 12 months and thereafter for the foreseeable future.
 
-As ofÂ DecemberÂ 31, 2020, we had long-term taxes payable of $6.5 billion related to a one-time transition tax payable incurred as a result of the U.S. Tax Cuts and Jobs Act ("Tax Act").
+As of December 31, 2020, we had long-term taxes payable of $6.5 billion related to a one-time transition tax payable incurred as a result of the U.S. Tax Cuts and Jobs Act ("Tax Act").
 
  
 
 As permitted by the Tax Act, we will pay the transition tax in annual interest-free installments through 2025.
 
-In 2017, 2018 and 2019, the EC announced decisions that certain actions taken by Google infringed European competition law and imposed fines of â‚¬2.4 billion ($2.7 billion as of June 27, 2017), â‚¬4.3 billion ($5.1 billion as of June 30, 2018), and â‚¬1.5 billion ($1.7 billion as of March 20, 2019), respectively. While each EC decision is under appeal, we included the fines in accrued expenses and other current liabilities on our Consolidated Balance Sheets as we provided bank guarantees (in lieu of a cash payment) for the fines. 
+In 2017, 2018 and 2019, the EC announced decisions that certain actions taken by Google infringed European competition law and imposed fines of €2.4 billion ($2.7 billion as of June 27, 2017), €4.3 billion ($5.1 billion as of June 30, 2018), and €1.5 billion ($1.7 billion as of March 20, 2019), respectively. While each EC decision is under appeal, we included the fines in accrued expenses and other current liabilities on our Consolidated Balance Sheets as we provided bank guarantees (in lieu of a cash payment) for the fines. 
 
-In January 2021, we closed the acquisition of Fitbit, a leading wearables brand, for $2.1Â billion.
+In January 2021, we closed the acquisition of Fitbit, a leading wearables brand, for $2.1 billion.
 
-We have a short-term debt financing program of up to $5.0 billion through the issuance of commercial paper. Net proceeds from this program are used for general corporate purposes. As of DecemberÂ 31, 2020, we had no commercial paper outstanding. As of DecemberÂ 31, 2020, we have $4.0 billion of revolving credit facilities expiring 
+We have a short-term debt financing program of up to $5.0 billion through the issuance of commercial paper. Net proceeds from this program are used for general corporate purposes. As of December 31, 2020, we had no commercial paper outstanding. As of December 31, 2020, we have $4.0 billion of revolving credit facilities expiring 
 
 43
 
@@ -1794,9 +1794,9 @@ Alphabet Inc.
 
 in July 2023 with no amounts outstanding. The interest rate for the credit facilities is determined based on a formula using certain market rates. 
 
-In August 2020, we issued $10.0Â billion of fixed-rate senior unsecured notes in six tranches: $1.0Â billion due in 2025, $1.0Â billion due in 2027, $2.25Â billion due in 2030, $1.25Â billion due in 2040, $2.5Â billion due in 2050 and $2.0Â billion due in 2060. The 2020 Notes had a weighted average duration of 21.5 years and weighted average coupon rate of 1.57%. Of the total issuance, $5.75 billion was designated as Sustainability Bonds, the net proceeds of which are used to fund environmentally and socially responsible projects in the following eight areas: energy efficiency, clean energy, green buildings, clean transportation, circular economy and design, affordable housing, commitment to racial equity, and support for small businesses and COVID-19 crisis response. The remaining net proceeds are used for general corporate purposes. As of DecemberÂ 31, 2020, we have senior unsecured notes outstanding with a total carrying value of $13.8Â billion. Refer to Note 6 of the Notes to Consolidated Financial Statements included in Part II, Item 8 of this Annual Report on Form 10-K for further information on the debts.
+In August 2020, we issued $10.0 billion of fixed-rate senior unsecured notes in six tranches: $1.0 billion due in 2025, $1.0 billion due in 2027, $2.25 billion due in 2030, $1.25 billion due in 2040, $2.5 billion due in 2050 and $2.0 billion due in 2060. The 2020 Notes had a weighted average duration of 21.5 years and weighted average coupon rate of 1.57%. Of the total issuance, $5.75 billion was designated as Sustainability Bonds, the net proceeds of which are used to fund environmentally and socially responsible projects in the following eight areas: energy efficiency, clean energy, green buildings, clean transportation, circular economy and design, affordable housing, commitment to racial equity, and support for small businesses and COVID-19 crisis response. The remaining net proceeds are used for general corporate purposes. As of December 31, 2020, we have senior unsecured notes outstanding with a total carrying value of $13.8 billion. Refer to Note 6 of the Notes to Consolidated Financial Statements included in Part II, Item 8 of this Annual Report on Form 10-K for further information on the debts.
 
-In accordance with the authorizations of the Board of Directors of Alphabet, in 2020 we repurchased and subsequently retired 21.5 million shares of Alphabet Class C capital stock for an aggregate amount of $31.1 billion. As of DecemberÂ 31, 2020, $17.6 billion remains authorized and available for repurchase. The repurchases are being executed from time to time, subject to general business and market conditions and other investment opportunities, through open market purchases or privately negotiated transactions, including through Rule 10b5-1 plans. The repurchase program does not have an expiration date. Refer to Note 11 of the Notes to Consolidated Financial Statements included in Part II, Item 8 of this Annual Report on Form 10-K.
+In accordance with the authorizations of the Board of Directors of Alphabet, in 2020 we repurchased and subsequently retired 21.5 million shares of Alphabet Class C capital stock for an aggregate amount of $31.1 billion. As of December 31, 2020, $17.6 billion remains authorized and available for repurchase. The repurchases are being executed from time to time, subject to general business and market conditions and other investment opportunities, through open market purchases or privately negotiated transactions, including through Rule 10b5-1 plans. The repurchase program does not have an expiration date. Refer to Note 11 of the Notes to Consolidated Financial Statements included in Part II, Item 8 of this Annual Report on Form 10-K.
 
 Capital Expenditures and Leases
 
@@ -1804,11 +1804,11 @@ We make investments in land and buildings for data centers and offices and infor
 
 Our capital investments in property and equipment consist primarily of the following major categories:
 
-â€¢
+•
 
 Technical infrastructure, which consists of our investments in servers and network equipment for compute, storage and networking requirements for ongoing business activities, including machine learning, (collectively referred to as our information technology assets) and data center land and building construction; and
 
-â€¢
+•
 
 Office facilities, ground up development projects and related building improvements.
 
@@ -1828,19 +1828,19 @@ Table of Contents
 
 Alphabet Inc.
 
-Contractual Obligations as of DecemberÂ 31, 2020
+Contractual Obligations as of December 31, 2020
 
-The following summarizes our contractual obligations as ofÂ DecemberÂ 31, 2020Â (in millions):
+The following summarizes our contractual obligations as of December 31, 2020 (in millions):
 
-Â 
+ 
 
 Payments Due By Period
 
-Â 
+ 
 
 Total
 
-LessÂ than
+Less than
 
 1 year
 
@@ -1852,7 +1852,7 @@ years
 
 years
 
-MoreÂ than
+More than
 
 5 years
 
@@ -1862,139 +1862,139 @@ Operating lease obligations
 
 $
 
-15,091Â 
+15,091 
 
 $
 
-2,198Â 
+2,198 
 
 $
 
-4,165Â 
+4,165 
 
 $
 
-3,127Â 
+3,127 
 
 $
 
-5,601Â 
+5,601 
 
 Obligations for leases that have not yet commenced
 
 (1)
 
-8,049Â 
+8,049 
 
-370Â 
+370 
 
-1,198Â 
+1,198 
 
-1,469Â 
+1,469 
 
-5,012Â 
+5,012 
 
 Purchase obligations
 
 (2)
 
-10,656Â 
+10,656 
 
-7,368Â 
+7,368 
 
-1,968Â 
+1,968 
 
-354Â 
+354 
 
-966Â 
+966 
 
 Long-term debt obligations
 
 (3)
 
-19,840Â 
+19,840 
 
-1,357Â 
+1,357 
 
-634Â 
+634 
 
-2,587Â 
+2,587 
 
-15,262Â 
+15,262 
 
 Tax payable
 
 (4)
 
-7,359Â 
+7,359 
 
-834Â 
+834 
 
-1,916Â 
+1,916 
 
-4,609Â 
+4,609 
 
-0Â 
+0 
 
 Other long-term liabilities reflected on our balance sheet
 
 (5)
 
-1,421Â 
+1,421 
 
-532Â 
+532 
 
-616Â 
+616 
 
-185Â 
+185 
 
-88Â 
+88 
 
 Total contractual obligations
 
 $
 
-62,416Â 
+62,416 
 
 $
 
-12,659Â 
+12,659 
 
 $
 
-10,497Â 
+10,497 
 
 $
 
-12,331Â 
+12,331 
 
 $
 
-26,929Â 
+26,929 
 
 (1)
 
-Â Â Â Â For further information, refer to Note 4 of the Notes to Consolidated Financial Statements included in Part II, Item 8 of this Annual Report on Form 10-K.
+    For further information, refer to Note 4 of the Notes to Consolidated Financial Statements included in Part II, Item 8 of this Annual Report on Form 10-K.
 
 (2)
 
-Â Â Â Â Represents non-cancelable contractual obligations primarily related to data center operations and build-outs; information technology assets; purchases of inventory; and digital media content licensing arrangements. The amounts included above represent the non-cancelable portion of agreements or the minimum cancellation fee. For those agreements with variable terms, we do not estimate the non-cancelable obligation beyond any minimum quantities and/or pricing as of DecemberÂ 31, 2020. Excluded from the table above are open orders for purchases that support normal operations, which are generally cancelable.
+    Represents non-cancelable contractual obligations primarily related to data center operations and build-outs; information technology assets; purchases of inventory; and digital media content licensing arrangements. The amounts included above represent the non-cancelable portion of agreements or the minimum cancellation fee. For those agreements with variable terms, we do not estimate the non-cancelable obligation beyond any minimum quantities and/or pricing as of December 31, 2020. Excluded from the table above are open orders for purchases that support normal operations, which are generally cancelable.
 
 (3)
 
-Â Â Â Â Represents our principal and interest payments. For further information on long-term debt, refer to Note 6 of the Notes to Consolidated Financial Statements included in Part II, Item 8 of this Annual Report on Form 10-K.
+    Represents our principal and interest payments. For further information on long-term debt, refer to Note 6 of the Notes to Consolidated Financial Statements included in Part II, Item 8 of this Annual Report on Form 10-K.
 
 (4)
 
-Â Â Â Â Represents one-time transition tax payable incurred as a result of the Tax Act. For further information, refer to Note 14 of the Notes to Consolidated Financial Statements included in Part II, Item 8 of this Annual Report on Form 10-K. Excluded from the table above are long-term taxes payable of $2.3 billion as of DecemberÂ 31, 2020 primarily related to uncertain tax positions, for which we are unable to make a reasonably reliable estimate of the timing of payments in individual years beyond 12 months due to uncertainties in the timing and outcomes of tax audits.
+    Represents one-time transition tax payable incurred as a result of the Tax Act. For further information, refer to Note 14 of the Notes to Consolidated Financial Statements included in Part II, Item 8 of this Annual Report on Form 10-K. Excluded from the table above are long-term taxes payable of $2.3 billion as of December 31, 2020 primarily related to uncertain tax positions, for which we are unable to make a reasonably reliable estimate of the timing of payments in individual years beyond 12 months due to uncertainties in the timing and outcomes of tax audits.
 
 (5)
 
-Â Â Â Â Represents cash obligations recorded on our Consolidated Balance Sheets, including the short-term portion of these long-term liabilities, primarily for certain commercial agreements. These amounts do not include the EC fines which are classified as current liabilities on our Consolidated Balance Sheets. For further information regarding the EC fines, refer to Note 10 of the Notes to Consolidated Financial Statements included in Part II, Item 8 of this Annual Report on Form 10-K.
+    Represents cash obligations recorded on our Consolidated Balance Sheets, including the short-term portion of these long-term liabilities, primarily for certain commercial agreements. These amounts do not include the EC fines which are classified as current liabilities on our Consolidated Balance Sheets. For further information regarding the EC fines, refer to Note 10 of the Notes to Consolidated Financial Statements included in Part II, Item 8 of this Annual Report on Form 10-K.
 
 Off-Balance Sheet Arrangements
 
-As of DecemberÂ 31, 2020, we did not have any off-balance sheet arrangements, as defined in ItemÂ 303(a)(4)(ii) of Regulation S-K, that have or are reasonably likely to have a current or future effect on our financial condition, changes in our financial condition, revenues, or expenses, results of operations, liquidity, capital expenditures, or capital resources that is material to investors. See Note 10 included in Part II, Item 8 of this annual report on Form 10-K for more information on our commitments and contingencies.
+As of December 31, 2020, we did not have any off-balance sheet arrangements, as defined in Item 303(a)(4)(ii) of Regulation S-K, that have or are reasonably likely to have a current or future effect on our financial condition, changes in our financial condition, revenues, or expenses, results of operations, liquidity, capital expenditures, or capital resources that is material to investors. See Note 10 included in Part II, Item 8 of this annual report on Form 10-K for more information on our commitments and contingencies.
 
 Critical Accounting Policies and Estimates
 
@@ -2054,4 +2054,4 @@ Non-marketable equity securities are also subject to periodic impairment reviews
 
 Change in Accounting Estimate
 
-In January 2021, we completed an assessment of the useful lives of our servers and network equipment and determined we should adjust the estimated useful life of our servers from three years to four years and the estimated useful life of certain network equipment from three years to five years. This change in accounting estimate will be effective beginning fiscal year 2021. For assets that are in-service as of December 31, 2020, we expect operating results to be favorably impacted by approximately $2.1Â billion for the full fiscal year 2021. The effect of the change may be different due to our capital investments during the fiscal year 2021.
+In January 2021, we completed an assessment of the useful lives of our servers and network equipment and determined we should adjust the estimated useful life of our servers from three years to four years and the estimated useful life of certain network equipment from three years to five years. This change in accounting estimate will be effective beginning fiscal year 2021. For assets that are in-service as of December 31, 2020, we expect operating results to be favorably impacted by approximately $2.1 billion for the full fiscal year 2021. The effect of the change may be different due to our capital investments during the fiscal year 2021.

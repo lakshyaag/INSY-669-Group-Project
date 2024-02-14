@@ -1,6 +1,6 @@
-ITEM 7.Â MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
 
-The following is a discussion and analysis of the financial condition of AbbVieÂ Inc. (AbbVie or the company). This commentary should be read in conjunction with the consolidated financial statements and accompanying notes appearing in Item 8, "Financial Statements and Supplementary Data." This section of this Form 10-K generally discusses 2020 and 2019 items and year-to-year comparisons between 2020 and 2019. Discussions of 2018 items and year-to-year comparisons between 2019 and 2018 that are not included in this Form 10-K can be found in â€œManagement's Discussion and Analysis of Financial Condition and Results of Operationsâ€ in Part II, Item 7 of the Companyâ€™s Annual Report on Form 10-K for the fiscal year ended December 31, 2019.
+The following is a discussion and analysis of the financial condition of AbbVie Inc. (AbbVie or the company). This commentary should be read in conjunction with the consolidated financial statements and accompanying notes appearing in Item 8, "Financial Statements and Supplementary Data." This section of this Form 10-K generally discusses 2020 and 2019 items and year-to-year comparisons between 2020 and 2019. Discussions of 2018 items and year-to-year comparisons between 2019 and 2018 that are not included in this Form 10-K can be found in “Management's Discussion and Analysis of Financial Condition and Results of Operations” in Part II, Item 7 of the Company’s Annual Report on Form 10-K for the fiscal year ended December 31, 2019.
 
 EXECUTIVE OVERVIEW
 
@@ -14,21 +14,21 @@ AbbVie's products are generally sold worldwide directly to wholesalers, distribu
 
 2020 Financial Results
 
-AbbVie's strategy has focused on delivering strong financial results, maximizing the benefits of the Allergan acquisition, advancing and investing in its pipeline and returning value to shareholders while ensuring a strong, sustainable growth business over the long term. The company's financial performance in 2020 included delivering worldwide net revenues of $45.8Â billion, operating earnings of $11.4Â billion, diluted earnings per share of $2.72 and cash flows from operations of $17.6Â billion. Worldwide net revenues increased by 38% on a reported basis and on a constant currency basis, which included $10.3Â billion of contributed revenues from the Allergan acquisition, growth in the immunology portfolio from Skyrizi, Rinvoq and the continued strength of Humira in the U.S. as well as revenue growth from Imbruvica and Venclexta.
+AbbVie's strategy has focused on delivering strong financial results, maximizing the benefits of the Allergan acquisition, advancing and investing in its pipeline and returning value to shareholders while ensuring a strong, sustainable growth business over the long term. The company's financial performance in 2020 included delivering worldwide net revenues of $45.8 billion, operating earnings of $11.4 billion, diluted earnings per share of $2.72 and cash flows from operations of $17.6 billion. Worldwide net revenues increased by 38% on a reported basis and on a constant currency basis, which included $10.3 billion of contributed revenues from the Allergan acquisition, growth in the immunology portfolio from Skyrizi, Rinvoq and the continued strength of Humira in the U.S. as well as revenue growth from Imbruvica and Venclexta.
 
-Diluted earnings per share in 2020 was $2.72 and included the following after-tax costs: (i) $5.7Â billion for the change in fair value of contingent consideration liabilities; (ii) $4.8Â billion related to the amortization of intangible assets; (iii) $3.0Â billion of Allergan acquisition and integration expenses; (iv) $1.2Â billion for acquired in-process research and development (IPR&D); and $241Â million for milestones and other research and development (R&D) expenses. These costs were partially offset by $1.7 billion of certain tax benefits. Additionally, financial results reflected continued funding to support all stages of AbbVieâ€™s pipeline assets and continued investment in AbbVieâ€™s on-market brands.
+Diluted earnings per share in 2020 was $2.72 and included the following after-tax costs: (i) $5.7 billion for the change in fair value of contingent consideration liabilities; (ii) $4.8 billion related to the amortization of intangible assets; (iii) $3.0 billion of Allergan acquisition and integration expenses; (iv) $1.2 billion for acquired in-process research and development (IPR&D); and $241 million for milestones and other research and development (R&D) expenses. These costs were partially offset by $1.7 billion of certain tax benefits. Additionally, financial results reflected continued funding to support all stages of AbbVie’s pipeline assets and continued investment in AbbVie’s on-market brands.
 
 In October 2020, AbbVie's board of directors declared a quarterly cash dividend of $1.30 per share of common stock payable in February 2021. This reflects an increase of approximately 10.2% over the previous quarterly dividend of $1.18 per share of common stock.
 
 Following the closing of the Allergan acquisition, AbbVie implemented an integration plan designed to reduce costs, integrate and optimize the combined organization. The integration plan is expected to realize more than $2 billion of expected annual cost synergies over a three-year period, with approximately 50% realized in R&D, 40% in selling, general and administrative (SG&A) and 10% in cost of products sold.
 
-2020 Form 10-KÂ Â 
+2020 Form 10-K  
 
  
 
 |
 
-Â Â 
+  
 
 32
 
@@ -36,35 +36,35 @@ To achieve these integration objectives, AbbVie expects to incur approximately $
 
 Impact of the Coronavirus Disease 2019 (COVID-19)
 
-In March 2020, the World Health Organization declared the outbreak of a novel coronavirus (COVID-19) as a pandemic, which continues to spread throughout the United States and around the world. In response to the growing public health crisis, AbbVie has partnered with global authorities to support the experimental use of multiple AbbVie assets to determine their efficacy in the treatment of COVID-19. In June 2020, AbbVie announced that it entered into a collaboration with Harbour BioMed, Utrecht University and Erasmus Medical Center to develop a novel antibody therapeutic to prevent and treat COVID-19. Additionally, AbbVie donated $35Â million to increase healthcare capacity, supply critical equipment and deliver food and essential supplies during the crisis. AbbVie continues to closely manage manufacturing and supply chain resources around the world to help ensure that patients continue to receive an uninterrupted supply of their medicines. Clinical trial sites are being monitored locally to protect the safety of study participants, staff and employees. While the impact of COVID-19 on AbbVie's operations to date has not been material, AbbVie has experienced lower new patient starts across the therapeutic portfolio. AbbVie expects this matter could continue to negatively impact its results of operations throughout the duration of the outbreak. The extent to which COVID-19 may impact AbbVie's financial condition and results of operations remains uncertain.
+In March 2020, the World Health Organization declared the outbreak of a novel coronavirus (COVID-19) as a pandemic, which continues to spread throughout the United States and around the world. In response to the growing public health crisis, AbbVie has partnered with global authorities to support the experimental use of multiple AbbVie assets to determine their efficacy in the treatment of COVID-19. In June 2020, AbbVie announced that it entered into a collaboration with Harbour BioMed, Utrecht University and Erasmus Medical Center to develop a novel antibody therapeutic to prevent and treat COVID-19. Additionally, AbbVie donated $35 million to increase healthcare capacity, supply critical equipment and deliver food and essential supplies during the crisis. AbbVie continues to closely manage manufacturing and supply chain resources around the world to help ensure that patients continue to receive an uninterrupted supply of their medicines. Clinical trial sites are being monitored locally to protect the safety of study participants, staff and employees. While the impact of COVID-19 on AbbVie's operations to date has not been material, AbbVie has experienced lower new patient starts across the therapeutic portfolio. AbbVie expects this matter could continue to negatively impact its results of operations throughout the duration of the outbreak. The extent to which COVID-19 may impact AbbVie's financial condition and results of operations remains uncertain.
 
 2021 Strategic Objectives
 
-AbbVie's mission is to discover and develop innovative medicines and products that solve serious health issues today and address the medical challenges of tomorrow while achieving top-tier financial performance through outstanding execution. AbbVie intends to continue to advance its mission in a number of ways, including: (i) maximizing the benefits of the Allergan acquisition to create a more diversified revenue base with multiple long-term growth drivers; (ii)Â growing revenues by leveraging AbbVie's commercial strength and international infrastructure across Allergan's therapeutic areas and ensuring strong commercial execution of new product launches; (iii)Â continuing to invest in and expand its pipeline in support of opportunities in immunology, oncology, aesthetics, neuroscience, eye care and women's health as well as continued investment in key on-market products; (iv)Â expanding operating margins; and (v)Â returning cash to shareholders via a strong and growing dividend while also reducing debt. In addition, AbbVie anticipates several regulatory submissions and key data readouts from key clinical trials in the next 12 months.
+AbbVie's mission is to discover and develop innovative medicines and products that solve serious health issues today and address the medical challenges of tomorrow while achieving top-tier financial performance through outstanding execution. AbbVie intends to continue to advance its mission in a number of ways, including: (i) maximizing the benefits of the Allergan acquisition to create a more diversified revenue base with multiple long-term growth drivers; (ii) growing revenues by leveraging AbbVie's commercial strength and international infrastructure across Allergan's therapeutic areas and ensuring strong commercial execution of new product launches; (iii) continuing to invest in and expand its pipeline in support of opportunities in immunology, oncology, aesthetics, neuroscience, eye care and women's health as well as continued investment in key on-market products; (iv) expanding operating margins; and (v) returning cash to shareholders via a strong and growing dividend while also reducing debt. In addition, AbbVie anticipates several regulatory submissions and key data readouts from key clinical trials in the next 12 months.
 
 AbbVie expects to achieve its strategic objectives through:
 
-â€¢
+•
 
 Immunology revenue growth driven by increasing market share and expanding patient access of Skyrizi and Rinvoq, as well as Humira U.S. sales growth. 
 
-â€¢
+•
 
 Hematologic oncology revenue growth from both Imbruvica and Venclexta.
 
-â€¢
+•
 
-Expansion of the companyâ€™s revenue base from additional Allergan products contributing to key aesthetics and neuroscience portfolios.
+Expansion of the company’s revenue base from additional Allergan products contributing to key aesthetics and neuroscience portfolios.
 
-â€¢
+•
 
 Effective management of Humira international biosimilar erosion.
 
-â€¢
+•
 
 Optimization of combined AbbVie and Allergan research and development, commercial, and manufacturing operations while maintaining key growth portfolios.
 
-â€¢
+•
 
 The favorable impact of pipeline products and indications recently approved or currently under regulatory review where approval is expected in 2021. These products are described in greater detail in the section labeled "Research and Development" included as part of this Item 7.
 
@@ -80,7 +80,7 @@ The combination of AbbVie and Allergan creates a diverse entity with leadership 
 
 |
 
-Â Â 
+  
 
 2020 Form 10-K
 
@@ -98,51 +98,51 @@ Immunology
 
 Skyrizi
 
-â€¢
+•
 
 In January 2021, AbbVie announced top-line results from its Phase 3 KEEPsAKE-1 and KEEPsAKE-2 clinical trials of Skyrizi in adults with active psoriatic arthritis (PsA) met the primary and ranked secondary endpoints.
 
-â€¢
+•
 
-In January 2021, AbbVie announced top-line results from its Phase 3 ADVANCE and MOTIVATE induction studies of Skyrizi in patients with Crohnâ€™s Disease met the primary and key secondary endpoints.
+In January 2021, AbbVie announced top-line results from its Phase 3 ADVANCE and MOTIVATE induction studies of Skyrizi in patients with Crohn’s Disease met the primary and key secondary endpoints.
 
 Rinvoq
 
-â€¢
+•
 
 In February 2020, AbbVie announced top-line results from its second Phase 3 clinical trial of Rinvoq in adult patients with active PsA. Results from the SELECT-PsA 1 study, which evaluated Rinvoq versus placebo in patients who did not adequately respond to treatment with one or more non-biologic disease-modifying anti-rheumatic drugs (DMARDs), showed that both doses of Rinvoq met the primary and key secondary endpoints. The safety profile was consistent with that of previous studies across indications, with no new safety risks detected.
 
-â€¢
+•
 
 In May 2020, AbbVie submitted a supplemental New Drug Application (sNDA) to the U.S. Food and Drug Administration (FDA) and, in June 2020, submitted a marketing authorization application (MAA) to the European Medicines Agency (EMA) for Rinvoq for the treatment of adult patients with active PsA.
 
-â€¢
+•
 
 In June 2020, AbbVie announced top-line results from its Phase 3 Measure Up 1 study and, in July 2020, announced top-line results from its Phase 3 Measure Up 2 and AD Up studies of Rinvoq for the treatment of moderate to severe atopic dermatitis (AD) met all primary and secondary endpoints versus placebo.
 
-â€¢
+•
 
 In August 2020, AbbVie submitted an sNDA to the FDA and, earlier this year, submitted an MAA to the EMA for Rinvoq for the treatment of adult patients with active ankylosing spondylitis (AS).
 
-â€¢
+•
 
 In October 2020, AbbVie submitted an sNDA to the FDA and an MAA to the EMA for Rinvoq for the treatment of adult and adolescent patients with moderate to severe AD.
 
-â€¢
+•
 
 In December 2020, AbbVie announced its Phase 3 U-ACHIEVE induction study of Rinvoq for the treatment of adult patients with moderate to severe ulcerative colitis met the primary and all ranked secondary endpoints.
 
-â€¢
+•
 
 In January 2021, AbbVie announced that the European Commission (EC) approved Rinvoq for the treatment of adults with active PsA and active AS.
 
-2020 Form 10-KÂ Â 
+2020 Form 10-K  
 
  
 
 |
 
-Â Â 
+  
 
 34
 
@@ -150,33 +150,33 @@ Oncology
 
 Imbruvica
 
-â€¢
+•
 
 In April 2020, AbbVie received FDA approval for the use of Imbruvica in combination with rituximab for the treatment of previously untreated patients with chronic lymphocytic leukemia (CLL) or small lymphocytic lymphoma (SLL). 
 
-â€¢
+•
 
 In August 2020, the EC granted marketing authorization for Imbruvica in combination with rituximab for the treatment of adult patients with previously untreated CLL.
 
 Venclexta
 
-â€¢
+•
 
 In February 2020, AbbVie announced that the Phase 3 VIALE-C trial of Venclexta in combination with low-dose cytarabine in newly-diagnosed patients with acute myeloid leukemia (AML) did not meet its primary endpoint. 
 
-â€¢
+•
 
 In March 2020, AbbVie announced that top-line results from its Phase 3 VIALE-A trial of Venclexta in combination with azacitidine in patients with AML met its primary endpoints. 
 
-â€¢
+•
 
 In March 2020, AbbVie received EC approval of Venclyxto in combination with obinutuzumab for patients with previously untreated CLL. 
 
-â€¢
+•
 
 In June 2020, AbbVie submitted an MAA to the EMA for Venclyxto for the treatment of patients with AML.
 
-â€¢
+•
 
 In October 2020, AbbVie received FDA full approval of Venclexta for the treatment of patients with AML. The approval is supported by data from a series of trials including the Phase 3 VIALE-A and VIALE-C studies.
 
@@ -184,7 +184,7 @@ Aesthetics
 
 Juvederm Collection
 
-â€¢
+•
 
 In June 2020, AbbVie received FDA approval of Juvederm Voluma XC for the augmentation of the chin region to improve the chin profile in adults over the age of 21.
 
@@ -192,27 +192,27 @@ Neuroscience
 
 Botox Therapeutic
 
-â€¢
+•
 
 In June 2020, the FDA accepted the company's supplemental Biologics License Application (sBLA) to expand the Botox prescribing information for the treatment of detrusor (bladder muscle) overactivity associated with an underlying neurologic condition in certain pediatric patients. In February 2021, AbbVie received FDA approval of Botox for the treatment of detrusor overactivity associated with a neurological condition in certain pediatric patients 5 years of age and older.
 
-â€¢
+•
 
 In July 2020, AbbVie received FDA approval of Botox for the treatment of lower limb spasticity caused by cerebral palsy in pediatric patients over the age of 2.
 
 Atogepant
 
-â€¢
+•
 
 In July 2020, AbbVie announced that the Phase 3 ADVANCE trial evaluating atogepant, an orally administered calcitonin gene-related peptide receptor antagonist, for migraine prevention met its primary endpoint for all doses (10mg, 30mg, and 60mg) compared to placebo, all secondary endpoints with 30mg and 60mg doses, and four out of six secondary endpoints with the 10mg dose. 
 
-â€¢
+•
 
 In January 2021, AbbVie submitted a New Drug Application to the FDA for atogepant for the prevention of episodic migraine.
 
 Elezanumab
 
-â€¢
+•
 
 In September 2020, AbbVie announced that the FDA granted Orphan Drug and Fast Track designations for elezanumab, an investigational treatment for patients following spinal cord injury.
 
@@ -224,7 +224,7 @@ In September 2020, AbbVie announced that the FDA granted Orphan Drug and Fast Tr
 
 |
 
-Â Â 
+  
 
 2020 Form 10-K
 
@@ -232,21 +232,21 @@ Virology/Liver Disease
 
 Mavyret
 
-â€¢
+•
 
-In March 2020, AbbVie announced that the EC granted marketing authorization for Maviret to shorten once-daily treatment duration from 12 to 8 weeks in treatment-naÃ¯ve, compensated cirrhotic, chronic hepatitis C virus (HCV) patients with genotype 3 infection.
+In March 2020, AbbVie announced that the EC granted marketing authorization for Maviret to shorten once-daily treatment duration from 12 to 8 weeks in treatment-naïve, compensated cirrhotic, chronic hepatitis C virus (HCV) patients with genotype 3 infection.
 
 Eye Care
 
 AGN-190584
 
-â€¢
+•
 
 In October 2020, AbbVie announced that top-line results from its Phase 3 GEMINI 1 and 2 studies of AGN-190584, an investigational ophthalmic solution, for the treatment of presbyopia met their primary endpoint and majority of the secondary endpoints.
 
 Abicipar pegol
 
-â€¢
+•
 
 In June 2020, AbbVie announced that the FDA issued a Complete Response Letter (CRL) to the Biologics License Application (BLA) for abicipar pegol, a novel, investigational DARPin therapy for patients with neovascular (wet) age-related macular degeneration (nAMD). The CRL indicated that the rate of intraocular inflammation observed following administration of abicipar pegol results in an unfavorable benefit-risk ratio in the treatment of nAMD. In July 2020, AbbVie withdrew the regulatory application with the EMA for abicipar pegol for the treatment of nAMD.
 
@@ -254,7 +254,7 @@ Women's Health
 
 Oriahnn
 
-â€¢
+•
 
 In May 2020, the FDA approved Oriahnn (elagolix, estradiol, and norethindrone acetate capsules; elagolix capsules) for the management of heavy menstrual bleeding due to uterine fibroids in pre-menopausal women.
 
@@ -290,41 +290,41 @@ United States
 
 $
 
-34,879Â 
+34,879 
 
 $
 
-23,907Â 
+23,907 
 
 $
 
-21,524Â 
+21,524 
 
-45.9Â 
-
-%
-
-11.1Â 
+45.9 
 
 %
 
-45.9Â 
+11.1 
 
 %
 
-11.1Â 
+45.9 
+
+%
+
+11.1 
 
 %
 
 International
 
-10,925Â 
+10,925 
 
-9,359Â 
+9,359 
 
-11,229Â 
+11,229 
 
-16.7Â 
+16.7 
 
 %
 
@@ -332,7 +332,7 @@ International
 
 %
 
-17.8Â 
+17.8 
 
 %
 
@@ -344,39 +344,39 @@ Net revenues
 
 $
 
-45,804Â 
+45,804 
 
 $
 
-33,266Â 
+33,266 
 
 $
 
-32,753Â 
+32,753 
 
-37.7Â 
-
-%
-
-1.6Â 
+37.7 
 
 %
 
-38.0Â 
+1.6 
 
 %
 
-2.6Â 
+38.0 
 
 %
 
-2020 Form 10-KÂ Â 
+2.6 
+
+%
+
+2020 Form 10-K  
 
  
 
 |
 
-Â Â 
+  
 
 36
 
@@ -388,7 +388,7 @@ At actual currency rates
 
 At constant currency rates
 
-years ended DecemberÂ 31 (dollars in millions)
+years ended December 31 (dollars in millions)
 
 2020
 
@@ -412,39 +412,39 @@ United States
 
 $
 
-16,112Â 
+16,112 
 
 $
 
-14,864Â 
+14,864 
 
 $
 
-13,685Â 
+13,685 
 
-8.4Â 
-
-%
-
-8.6Â 
+8.4 
 
 %
 
-8.4Â 
+8.6 
 
 %
 
-8.6Â 
+8.4 
+
+%
+
+8.6 
 
 %
 
 International
 
-3,720Â 
+3,720 
 
-4,305Â 
+4,305 
 
-6,251Â 
+6,251 
 
 (13.6)
 
@@ -466,17 +466,17 @@ Total
 
 $
 
-19,832Â 
+19,832 
 
 $
 
-19,169Â 
+19,169 
 
 $
 
-19,936Â 
+19,936 
 
-3.5Â 
+3.5 
 
 %
 
@@ -484,7 +484,7 @@ $
 
 %
 
-3.7Â 
+3.7 
 
 %
 
@@ -498,15 +498,15 @@ United States
 
 $
 
-1,385Â 
+1,385 
 
 $
 
-311Â 
+311 
 
 $
 
-â€”Â 
+— 
 
 >100.0%
 
@@ -518,11 +518,11 @@ n/m
 
 International
 
-205Â 
+205 
 
-44Â 
+44 
 
-â€”Â 
+— 
 
 >100.0%
 
@@ -536,15 +536,15 @@ Total
 
 $
 
-1,590Â 
+1,590 
 
 $
 
-355Â 
+355 
 
 $
 
-â€”Â 
+— 
 
 >100.0%
 
@@ -560,15 +560,15 @@ United States
 
 $
 
-653Â 
+653 
 
 $
 
-47Â 
+47 
 
 $
 
-â€”Â 
+— 
 
 >100.0%
 
@@ -580,11 +580,11 @@ n/m
 
 International
 
-78Â 
+78 
 
-â€”Â 
+— 
 
-â€”Â 
+— 
 
 >100.0%
 
@@ -598,15 +598,15 @@ Total
 
 $
 
-731Â 
+731 
 
 $
 
-47Â 
+47 
 
 $
 
-â€”Â 
+— 
 
 >100.0%
 
@@ -624,53 +624,53 @@ United States
 
 $
 
-4,305Â 
+4,305 
 
 $
 
-3,830Â 
+3,830 
 
 $
 
-2,968Â 
+2,968 
 
-12.4Â 
-
-%
-
-29.1Â 
+12.4 
 
 %
 
-12.4Â 
+29.1 
 
 %
 
-29.1Â 
+12.4 
+
+%
+
+29.1 
 
 %
 
 Collaboration revenues
 
-1,009Â 
+1,009 
 
-844Â 
+844 
 
-622Â 
+622 
 
-19.5Â 
-
-%
-
-35.8Â 
+19.5 
 
 %
 
-19.5Â 
+35.8 
 
 %
 
-35.8Â 
+19.5 
+
+%
+
+35.8 
 
 %
 
@@ -678,29 +678,29 @@ Total
 
 $
 
-5,314Â 
+5,314 
 
 $
 
-4,674Â 
+4,674 
 
 $
 
-3,590Â 
+3,590 
 
-13.7Â 
-
-%
-
-30.2Â 
+13.7 
 
 %
 
-13.7Â 
+30.2 
 
 %
 
-30.2Â 
+13.7 
+
+%
+
+30.2 
 
 %
 
@@ -710,23 +710,23 @@ United States
 
 $
 
-804Â 
+804 
 
 $
 
-521Â 
+521 
 
 $
 
-247Â 
+247 
 
-54.4Â 
+54.4 
 
 %
 
 >100.0%
 
-54.4Â 
+54.4 
 
 %
 
@@ -734,19 +734,19 @@ $
 
 International
 
-533Â 
+533 
 
-271Â 
+271 
 
-97Â 
+97 
 
-97.0Â 
+97.0 
 
 %
 
 >100.0%
 
-97.8Â 
+97.8 
 
 %
 
@@ -756,23 +756,23 @@ Total
 
 $
 
-1,337Â 
+1,337 
 
 $
 
-792Â 
+792 
 
 $
 
-344Â 
+344 
 
-69.0Â 
+69.0 
 
 %
 
 >100.0%
 
-69.3Â 
+69.3 
 
 %
 
@@ -788,15 +788,15 @@ United States
 
 $
 
-687Â 
+687 
 
 $
 
-â€”Â 
+— 
 
 $
 
-â€”Â 
+— 
 
 n/m
 
@@ -808,11 +808,11 @@ n/m
 
 International
 
-425Â 
+425 
 
-â€”Â 
+— 
 
-â€”Â 
+— 
 
 n/m
 
@@ -826,15 +826,15 @@ Total
 
 $
 
-1,112Â 
+1,112 
 
 $
 
-â€”Â 
+— 
 
 $
 
-â€”Â 
+— 
 
 n/m
 
@@ -852,15 +852,15 @@ United States
 
 $
 
-318Â 
+318 
 
 $
 
-â€”Â 
+— 
 
 $
 
-â€”Â 
+— 
 
 n/m
 
@@ -872,11 +872,11 @@ n/m
 
 International
 
-400Â 
+400 
 
-â€”Â 
+— 
 
-â€”Â 
+— 
 
 n/m
 
@@ -890,15 +890,15 @@ Total
 
 $
 
-718Â 
+718 
 
 $
 
-â€”Â 
+— 
 
 $
 
-â€”Â 
+— 
 
 n/m
 
@@ -916,15 +916,15 @@ United States
 
 $
 
-666Â 
+666 
 
 $
 
-â€”Â 
+— 
 
 $
 
-â€”Â 
+— 
 
 n/m
 
@@ -936,11 +936,11 @@ n/m
 
 International
 
-94Â 
+94 
 
-â€”Â 
+— 
 
-â€”Â 
+— 
 
 n/m
 
@@ -954,15 +954,15 @@ Total
 
 $
 
-760Â 
+760 
 
 $
 
-â€”Â 
+— 
 
 $
 
-â€”Â 
+— 
 
 n/m
 
@@ -982,15 +982,15 @@ United States
 
 $
 
-1,155Â 
+1,155 
 
 $
 
-â€”Â 
+— 
 
 $
 
-â€”Â 
+— 
 
 n/m
 
@@ -1002,11 +1002,11 @@ n/m
 
 International
 
-232Â 
+232 
 
-â€”Â 
+— 
 
-â€”Â 
+— 
 
 n/m
 
@@ -1020,15 +1020,15 @@ Total
 
 $
 
-1,387Â 
+1,387 
 
 $
 
-â€”Â 
+— 
 
 $
 
-â€”Â 
+— 
 
 n/m
 
@@ -1046,15 +1046,15 @@ United States
 
 $
 
-951Â 
+951 
 
 $
 
-â€”Â 
+— 
 
 $
 
-â€”Â 
+— 
 
 n/m
 
@@ -1070,53 +1070,53 @@ United States
 
 $
 
-103Â 
+103 
 
 $
 
-97Â 
+97 
 
 $
 
-80Â 
+80 
 
-5.9Â 
-
-%
-
-20.4Â 
+5.9 
 
 %
 
-5.9Â 
+20.4 
 
 %
 
-20.4Â 
+5.9 
+
+%
+
+20.4 
 
 %
 
 International
 
-391Â 
+391 
 
-364Â 
+364 
 
-350Â 
+350 
 
-7.4Â 
-
-%
-
-4.2Â 
+7.4 
 
 %
 
-6.3Â 
+4.2 
 
 %
 
-9.8Â 
+6.3 
+
+%
+
+9.8 
 
 %
 
@@ -1124,29 +1124,29 @@ Total
 
 $
 
-494Â 
+494 
 
 $
 
-461Â 
+461 
 
 $
 
-430Â 
+430 
 
-7.1Â 
-
-%
-
-7.2Â 
+7.1 
 
 %
 
-6.2Â 
+7.2 
 
 %
 
-11.7Â 
+6.2 
+
+%
+
+11.7 
 
 %
 
@@ -1158,15 +1158,15 @@ United States
 
 $
 
-125Â 
+125 
 
 $
 
-â€”Â 
+— 
 
 $
 
-â€”Â 
+— 
 
 n/m
 
@@ -1184,15 +1184,15 @@ United States
 
 $
 
-528Â 
+528 
 
 $
 
-â€”Â 
+— 
 
 $
 
-â€”Â 
+— 
 
 n/m
 
@@ -1204,11 +1204,11 @@ n/m
 
 International
 
-11Â 
+11 
 
-â€”Â 
+— 
 
-â€”Â 
+— 
 
 n/m
 
@@ -1222,15 +1222,15 @@ Total
 
 $
 
-539Â 
+539 
 
 $
 
-â€”Â 
+— 
 
 $
 
-â€”Â 
+— 
 
 n/m
 
@@ -1248,7 +1248,7 @@ n/m
 
 |
 
-Â Â 
+  
 
 2020 Form 10-K
 
@@ -1258,7 +1258,7 @@ At actual currency rates
 
 At constant currency rates
 
-years ended DecemberÂ 31 (dollars in millions)
+years ended December 31 (dollars in millions)
 
 2020
 
@@ -1284,15 +1284,15 @@ United States
 
 $
 
-165Â 
+165 
 
 $
 
-â€”Â 
+— 
 
 $
 
-â€”Â 
+— 
 
 n/m
 
@@ -1304,11 +1304,11 @@ n/m
 
 International
 
-213Â 
+213 
 
-â€”Â 
+— 
 
-â€”Â 
+— 
 
 n/m
 
@@ -1322,15 +1322,15 @@ Total
 
 $
 
-378Â 
+378 
 
 $
 
-â€”Â 
+— 
 
 $
 
-â€”Â 
+— 
 
 n/m
 
@@ -1348,15 +1348,15 @@ United States
 
 $
 
-223Â 
+223 
 
 $
 
-â€”Â 
+— 
 
 $
 
-â€”Â 
+— 
 
 n/m
 
@@ -1368,11 +1368,11 @@ n/m
 
 International
 
-103Â 
+103 
 
-â€”Â 
+— 
 
-â€”Â 
+— 
 
 n/m
 
@@ -1386,15 +1386,15 @@ Total
 
 $
 
-326Â 
+326 
 
 $
 
-â€”Â 
+— 
 
 $
 
-â€”Â 
+— 
 
 n/m
 
@@ -1412,15 +1412,15 @@ United States
 
 $
 
-755Â 
+755 
 
 $
 
-â€”Â 
+— 
 
 $
 
-â€”Â 
+— 
 
 n/m
 
@@ -1432,11 +1432,11 @@ n/m
 
 International
 
-32Â 
+32 
 
-â€”Â 
+— 
 
-â€”Â 
+— 
 
 n/m
 
@@ -1450,15 +1450,15 @@ Total
 
 $
 
-787Â 
+787 
 
 $
 
-â€”Â 
+— 
 
 $
 
-â€”Â 
+— 
 
 n/m
 
@@ -1476,15 +1476,15 @@ United States
 
 $
 
-305Â 
+305 
 
 $
 
-â€”Â 
+— 
 
 $
 
-â€”Â 
+— 
 
 n/m
 
@@ -1496,11 +1496,11 @@ n/m
 
 International
 
-388Â 
+388 
 
-â€”Â 
+— 
 
-â€”Â 
+— 
 
 n/m
 
@@ -1514,15 +1514,15 @@ Total
 
 $
 
-693Â 
+693 
 
 $
 
-â€”Â 
+— 
 
 $
 
-â€”Â 
+— 
 
 n/m
 
@@ -1542,15 +1542,15 @@ United States
 
 $
 
-346Â 
+346 
 
 $
 
-â€”Â 
+— 
 
 $
 
-â€”Â 
+— 
 
 n/m
 
@@ -1562,11 +1562,11 @@ n/m
 
 International
 
-10Â 
+10 
 
-â€”Â 
+— 
 
-â€”Â 
+— 
 
 n/m
 
@@ -1580,15 +1580,15 @@ Total
 
 $
 
-356Â 
+356 
 
 $
 
-â€”Â 
+— 
 
 $
 
-â€”Â 
+— 
 
 n/m
 
@@ -1604,23 +1604,23 @@ United States
 
 $
 
-121Â 
+121 
 
 $
 
-91Â 
+91 
 
 $
 
-11Â 
+11 
 
-33.3Â 
+33.3 
 
 %
 
 >100.0%
 
-33.3Â 
+33.3 
 
 %
 
@@ -1628,19 +1628,19 @@ $
 
 International
 
-4Â 
+4 
 
-2Â 
+2 
 
-â€”Â 
+— 
 
-96.1Â 
+96.1 
 
 %
 
 n/m
 
-97.7Â 
+97.7 
 
 %
 
@@ -1650,23 +1650,23 @@ Total
 
 $
 
-125Â 
+125 
 
 $
 
-93Â 
+93 
 
 $
 
-11Â 
+11 
 
-34.6Â 
+34.6 
 
 %
 
 >100.0%
 
-34.6Â 
+34.6 
 
 %
 
@@ -1680,15 +1680,15 @@ United States
 
 $
 
-181Â 
+181 
 
 $
 
-â€”Â 
+— 
 
 $
 
-â€”Â 
+— 
 
 n/m
 
@@ -1700,11 +1700,11 @@ n/m
 
 International
 
-11Â 
+11 
 
-â€”Â 
+— 
 
-â€”Â 
+— 
 
 n/m
 
@@ -1718,15 +1718,15 @@ Total
 
 $
 
-192Â 
+192 
 
 $
 
-â€”Â 
+— 
 
 $
 
-â€”Â 
+— 
 
 n/m
 
@@ -1744,15 +1744,15 @@ United States
 
 $
 
-785Â 
+785 
 
 $
 
-1,473Â 
+1,473 
 
 $
 
-1,614Â 
+1,614 
 
 (46.7)
 
@@ -1772,11 +1772,11 @@ $
 
 International
 
-1,045Â 
+1,045 
 
-1,420Â 
+1,420 
 
-1,824Â 
+1,824 
 
 (26.4)
 
@@ -1798,15 +1798,15 @@ Total
 
 $
 
-1,830Â 
+1,830 
 
 $
 
-2,893Â 
+2,893 
 
 $
 
-3,438Â 
+3,438 
 
 (36.7)
 
@@ -1830,29 +1830,29 @@ United States
 
 $
 
-1,114Â 
+1,114 
 
 $
 
-1,041Â 
+1,041 
 
 $
 
-928Â 
+928 
 
-6.9Â 
-
-%
-
-12.2Â 
+6.9 
 
 %
 
-6.9Â 
+12.2 
 
 %
 
-12.2Â 
+6.9 
+
+%
+
+12.2 
 
 %
 
@@ -1862,15 +1862,15 @@ United States
 
 $
 
-600Â 
+600 
 
 $
 
-720Â 
+720 
 
 $
 
-726Â 
+726 
 
 (16.6)
 
@@ -1890,17 +1890,17 @@ $
 
 International
 
-152Â 
+152 
 
-167Â 
+167 
 
-166Â 
+166 
 
 (9.1)
 
 %
 
-0.8Â 
+0.8 
 
 %
 
@@ -1908,7 +1908,7 @@ International
 
 %
 
-6.0Â 
+6.0 
 
 %
 
@@ -1916,15 +1916,15 @@ Total
 
 $
 
-752Â 
+752 
 
 $
 
-887Â 
+887 
 
 $
 
-892Â 
+892 
 
 (15.2)
 
@@ -1938,7 +1938,7 @@ $
 
 %
 
-0.5Â 
+0.5 
 
 %
 
@@ -1950,15 +1950,15 @@ United States
 
 $
 
-649Â 
+649 
 
 $
 
-â€”Â 
+— 
 
 $
 
-â€”Â 
+— 
 
 n/m
 
@@ -1970,11 +1970,11 @@ n/m
 
 International
 
-18Â 
+18 
 
-â€”Â 
+— 
 
-â€”Â 
+— 
 
 n/m
 
@@ -1988,15 +1988,15 @@ Total
 
 $
 
-667Â 
+667 
 
 $
 
-â€”Â 
+— 
 
 $
 
-â€”Â 
+— 
 
 n/m
 
@@ -2012,21 +2012,21 @@ United States
 
 $
 
-771Â 
+771 
 
 $
 
-786Â 
+786 
 
 $
 
-776Â 
+776 
 
 (1.9)
 
 %
 
-1.3Â 
+1.3 
 
 %
 
@@ -2034,7 +2034,7 @@ $
 
 %
 
-1.3Â 
+1.3 
 
 %
 
@@ -2042,17 +2042,17 @@ All other
 
 $
 
-2,923Â 
+2,923 
 
 $
 
-2,068Â 
+2,068 
 
 $
 
-2,408Â 
+2,408 
 
-41.3Â 
+41.3 
 
 %
 
@@ -2060,7 +2060,7 @@ $
 
 %
 
-42.4Â 
+42.4 
 
 %
 
@@ -2072,33 +2072,33 @@ Total net revenues
 
 $
 
-45,804Â 
+45,804 
 
 $
 
-33,266Â 
+33,266 
 
 $
 
-32,753Â 
+32,753 
 
-37.7Â 
-
-%
-
-1.6Â 
+37.7 
 
 %
 
-38.0Â 
+1.6 
 
 %
 
-2.6Â 
+38.0 
 
 %
 
-n/m â€“ Not meaningful
+2.6 
+
+%
+
+n/m – Not meaningful
 
 (a)
 
@@ -2112,13 +2112,13 @@ Net revenues for Skyrizi increased more than 100% in 2020 primarily driven by ma
 
 Net revenues for Rinvoq increased more than 100% in 2020 primarily driven by the August 2019 FDA approval and December 2019 EC approval for the treatment of moderate to severe rheumatoid arthritis.
 
-2020 Form 10-KÂ Â 
+2020 Form 10-K  
 
  
 
 |
 
-Â Â 
+  
 
 38
 
@@ -2136,7 +2136,7 @@ Net revenues for Vraylar for the treatment of schizophrenia, bipolar I disorder 
 
 Global Mavyret sales decreased 37% in 2020 primarily driven by lower global new patient starts due to the COVID-19 pandemic as well as competitive dynamics in the U.S.
 
-Net revenues for Creon increased 7%Â in 2020 primarily driven by continued market growth, partially offset by lower new patient starts due to the COVID-19 pandemic. Creon maintains market leadership in the pancreatic enzyme market with approximately 80% total market share.
+Net revenues for Creon increased 7% in 2020 primarily driven by continued market growth, partially offset by lower new patient starts due to the COVID-19 pandemic. Creon maintains market leadership in the pancreatic enzyme market with approximately 80% total market share.
 
 Net revenues for Lupron decreased 14% in 2020 primarily due to a near-term supply issue which has impacted product availability of certain formulations.
 
@@ -2160,35 +2160,35 @@ Gross margin
 
 $
 
-30,417Â 
+30,417 
 
 $
 
-25,827Â 
+25,827 
 
 $
 
-25,035Â 
+25,035 
 
-18Â 
+18 
 
 %
 
-3Â 
+3 
 
 %
 
 as a percent of net revenues
 
-66Â 
+66 
 
 %
 
-78Â 
+78 
 
 %
 
-76Â 
+76 
 
 %
 
@@ -2198,7 +2198,7 @@ Selling, General and Administrative
 
 Percent change
 
-years ended DecemberÂ 31 (dollars in millions)
+years ended December 31 (dollars in millions)
 
 2020
 
@@ -2214,17 +2214,17 @@ Selling, general and administrative
 
 $
 
-11,299Â 
+11,299 
 
 $
 
-6,942Â 
+6,942 
 
 $
 
-7,399Â 
+7,399 
 
-63Â 
+63 
 
 %
 
@@ -2234,15 +2234,15 @@ $
 
 as a percent of net revenues
 
-25Â 
+25 
 
 %
 
-21Â 
+21 
 
 %
 
-23Â 
+23 
 
 %
 
@@ -2252,7 +2252,7 @@ Research and Development and Acquired In-Process Research and Development
 
 Percent change
 
-years ended DecemberÂ 31 (dollars in millions)
+years ended December 31 (dollars in millions)
 
 2020
 
@@ -2268,17 +2268,17 @@ Research and development
 
 $
 
-6,557Â 
+6,557 
 
 $
 
-6,407Â 
+6,407 
 
 $
 
-10,329Â 
+10,329 
 
-2Â 
+2 
 
 %
 
@@ -2288,15 +2288,15 @@ $
 
 as a percent of net revenues
 
-14Â 
+14 
 
 %
 
-19Â 
+19 
 
 %
 
-32Â 
+32 
 
 %
 
@@ -2304,15 +2304,15 @@ Acquired in-process research and development
 
 $
 
-1,198Â 
+1,198 
 
 $
 
-385Â 
+385 
 
 $
 
-424Â 
+424 
 
 >100%
 
@@ -2324,7 +2324,7 @@ Research and Development
 
  
 
-(R&D) expenses as a percentage of net revenues decreased in 2020 primarily due to the $1.0Â billion intangible asset impairment charge in 2019, which represented the remaining value of the IPR&D acquired as part 
+(R&D) expenses as a percentage of net revenues decreased in 2020 primarily due to the $1.0 billion intangible asset impairment charge in 2019, which represented the remaining value of the IPR&D acquired as part 
 
 39 
 
@@ -2334,7 +2334,7 @@ Research and Development
 
 |
 
-Â Â 
+  
 
 2020 Form 10-K
 
@@ -2344,11 +2344,11 @@ Acquired IPR&D expenses reflect upfront payments related to various collaboratio
 
 Other Operating Expenses and Income
 
-Other operating income in 2019 included $550Â million of income from a legal settlement related to an intellectual property dispute with a third party and $330 million of income related to an amended and restated license agreement between AbbVie and Reata. See Note 5 to the Consolidated Financial Statements for additional information on the Reata agreement. 
+Other operating income in 2019 included $550 million of income from a legal settlement related to an intellectual property dispute with a third party and $330 million of income related to an amended and restated license agreement between AbbVie and Reata. See Note 5 to the Consolidated Financial Statements for additional information on the Reata agreement. 
 
 Other Non-Operating Expenses
 
-years ended December 31 (inÂ millions)
+years ended December 31 (in millions)
 
 2020
 
@@ -2360,15 +2360,15 @@ Interest expense
 
 $
 
-2,454Â 
+2,454 
 
 $
 
-1,784Â 
+1,784 
 
 $
 
-1,348Â 
+1,348 
 
 Interest income
 
@@ -2382,61 +2382,61 @@ Interest expense, net
 
 $
 
-2,280Â 
+2,280 
 
 $
 
-1,509Â 
+1,509 
 
 $
 
-1,144Â 
+1,144 
 
 Net foreign exchange loss
 
 $
 
-71Â 
+71 
 
 $
 
-42Â 
+42 
 
 $
 
-24Â 
+24 
 
 Other expense, net
 
-5,614Â 
+5,614 
 
-3,006Â 
+3,006 
 
-18Â 
+18 
 
-Interest expense in 2020 increased compared to 2019 primarily due to a higher average debt balance associated with the financing of the Allergan acquisition as well as the incremental Allergan debt acquired, partially offset by the favorable impact of lower interest rates on the companyâ€™s debt obligations.
+Interest expense in 2020 increased compared to 2019 primarily due to a higher average debt balance associated with the financing of the Allergan acquisition as well as the incremental Allergan debt acquired, partially offset by the favorable impact of lower interest rates on the company’s debt obligations.
 
 Interest income in 2020 decreased compared to 2019 primarily due to a lower average cash and cash equivalents balance as a result of the cash paid for the Allergan acquisition and the unfavorable impact of lower interest rates.
 
-Other expense, net included charges related to the change in fair value of the contingent consideration liabilities of $5.8Â billion in 2020 and $3.1 billion in 2019. The fair value of contingent consideration liabilities is impacted by the passage of time and multiple other inputs, including the probability of success of achieving regulatory/commercial milestones, discount rates, the estimated amount of future sales of the acquired products and other market-based factors. In 2020, the change in fair value primarily included the increase in the Skyrizi contingent consideration liability due to higher estimated future sales driven by stronger market share uptake and favorable clinical trial results as well as lower interest rates. In 2019, the Skyrizi contingent consideration liability increased due to higher probabilities of success, higher estimated future sales, declining interest rates and passage of time. The higher probabilities of success primarily resulted from the April 2019 regulatory approvals of Skyrizi for the treatment of moderate to severe plaque psoriasis. These changes were partially offset by a $91 million decrease in the Stemcentrx contingent consideration liability due to the termination of the Rova-T R&D program.
+Other expense, net included charges related to the change in fair value of the contingent consideration liabilities of $5.8 billion in 2020 and $3.1 billion in 2019. The fair value of contingent consideration liabilities is impacted by the passage of time and multiple other inputs, including the probability of success of achieving regulatory/commercial milestones, discount rates, the estimated amount of future sales of the acquired products and other market-based factors. In 2020, the change in fair value primarily included the increase in the Skyrizi contingent consideration liability due to higher estimated future sales driven by stronger market share uptake and favorable clinical trial results as well as lower interest rates. In 2019, the Skyrizi contingent consideration liability increased due to higher probabilities of success, higher estimated future sales, declining interest rates and passage of time. The higher probabilities of success primarily resulted from the April 2019 regulatory approvals of Skyrizi for the treatment of moderate to severe plaque psoriasis. These changes were partially offset by a $91 million decrease in the Stemcentrx contingent consideration liability due to the termination of the Rova-T R&D program.
 
 Income Tax Expense
 
-The effective income tax rate was negative 36% in 2020, 6% in 2019 and negative 9% in 2018. The effective tax rate in each period differed from the statutory tax rate principally due to the impact of foreign operations which reflects the impact of lower income tax rates in locations outside the United States, tax incentives in Puerto Rico and other foreign tax jurisdictions, business development activities, changes in enacted tax rates and laws and related restructuring, the cost of repatriation decisions, tax audit settlements and Boehringer Ingelheim accretion on contingent consideration. The decrease in the effective tax rate for 2020 over the prior year was principally due to the recognition of a net tax benefit of $1.7Â billion related to changes in tax laws and related restructuring, including certain intra-group transfers of intellectual property and deferred tax remeasurement.
+The effective income tax rate was negative 36% in 2020, 6% in 2019 and negative 9% in 2018. The effective tax rate in each period differed from the statutory tax rate principally due to the impact of foreign operations which reflects the impact of lower income tax rates in locations outside the United States, tax incentives in Puerto Rico and other foreign tax jurisdictions, business development activities, changes in enacted tax rates and laws and related restructuring, the cost of repatriation decisions, tax audit settlements and Boehringer Ingelheim accretion on contingent consideration. The decrease in the effective tax rate for 2020 over the prior year was principally due to the recognition of a net tax benefit of $1.7 billion related to changes in tax laws and related restructuring, including certain intra-group transfers of intellectual property and deferred tax remeasurement.
 
-2020 Form 10-KÂ Â 
+2020 Form 10-K  
 
  
 
 |
 
-Â Â 
+  
 
 40
 
 FINANCIAL POSITION, LIQUIDITY AND CAPITAL RESOURCES
 
-years ended DecemberÂ 31 (in millions)
+years ended December 31 (in millions)
 
 2020
 
@@ -2450,21 +2450,21 @@ Operating activities
 
 $
 
-17,588Â 
+17,588 
 
 $
 
-13,324Â 
+13,324 
 
 $
 
-13,427Â 
+13,427 
 
 Investing activities
 
 (37,557)
 
-596Â 
+596 
 
 (1,006)
 
@@ -2472,23 +2472,23 @@ Financing activities
 
 (11,501)
 
-18,708Â 
+18,708 
 
 (14,396)
 
-Operating cash flows in 2020 increased from 2019 and included the results of Allergan subsequent to the May 8 acquisition date. Operating cash flows in 2020 were favorably impacted by higher net revenues of the combined company and the timing of working capital cash flows, partially offset by acquisition-related cash expenses. Operating cash flows also reflected AbbVieâ€™s contributions to its defined benefit plans of $367Â million in 2020 and $727Â million in 2019.
+Operating cash flows in 2020 increased from 2019 and included the results of Allergan subsequent to the May 8 acquisition date. Operating cash flows in 2020 were favorably impacted by higher net revenues of the combined company and the timing of working capital cash flows, partially offset by acquisition-related cash expenses. Operating cash flows also reflected AbbVie’s contributions to its defined benefit plans of $367 million in 2020 and $727 million in 2019.
 
-Investing cash flows in 2020 primarily included $39.7 billion cash consideration paid to acquire Allergan offset by cash acquired of $1.5 billion. Investing cash flows also included net sales and maturities of investments totaling $1.5 billion, payments made for other acquisitions and investments of $1.4Â billion and capital expenditures of $798Â million. Investing cash flows in 2019 included net sales and maturities of investment securities totaling $2.1Â billion resulting from the sale of substantially all of the company's investments in debt securities, payments made for other acquisitions and investments of $1.1Â billion and capital expenditures of $552Â million.
+Investing cash flows in 2020 primarily included $39.7 billion cash consideration paid to acquire Allergan offset by cash acquired of $1.5 billion. Investing cash flows also included net sales and maturities of investments totaling $1.5 billion, payments made for other acquisitions and investments of $1.4 billion and capital expenditures of $798 million. Investing cash flows in 2019 included net sales and maturities of investment securities totaling $2.1 billion resulting from the sale of substantially all of the company's investments in debt securities, payments made for other acquisitions and investments of $1.1 billion and capital expenditures of $552 million.
 
-Financing cash flows in 2020 included the issuance of term loans totaling $3.0Â billion under the existing $6.0Â billion term loan credit agreement which were used to finance the acquisition of Allergan. Subsequent to these borrowings, AbbVie terminated the unused commitments of the lenders under the term loan. Additionally, financing cash flows included the May 2020 repayment of $3.8Â billion aggregate principal amount of the company's 2.50% senior notes at maturity, the September 2020 repayment of $650Â million aggregate principal amount of 3.375% Allergan exchange notes at maturity, and the November 2020 repayments of â‚¬700 million aggregate principal amount of floating rate Allergan exchange notes at maturity and $450 million aggregate principal amount of 4.875% Allergan exchange notes due February 2021. 
+Financing cash flows in 2020 included the issuance of term loans totaling $3.0 billion under the existing $6.0 billion term loan credit agreement which were used to finance the acquisition of Allergan. Subsequent to these borrowings, AbbVie terminated the unused commitments of the lenders under the term loan. Additionally, financing cash flows included the May 2020 repayment of $3.8 billion aggregate principal amount of the company's 2.50% senior notes at maturity, the September 2020 repayment of $650 million aggregate principal amount of 3.375% Allergan exchange notes at maturity, and the November 2020 repayments of €700 million aggregate principal amount of floating rate Allergan exchange notes at maturity and $450 million aggregate principal amount of 4.875% Allergan exchange notes due February 2021. 
 
-Financing cash flows in 2019 included the issuance of $30.0Â billion aggregate principal amount of floating rate and fixed rate unsecured senior notes which were used to finance the acquisition of Allergan. Additionally, financing cash flows in 2019 included the issuance of â‚¬1.4 billion aggregate principal amount of unsecured senior Euro notes which the company used to redeem â‚¬1.4 billion aggregate principal amount of 0.38% senior Euro notes that were due to mature in November 2019, as well as the repayment of a $3.0Â billion 364-day term loan credit agreement that was scheduled to mature in June 2019. 
+Financing cash flows in 2019 included the issuance of $30.0 billion aggregate principal amount of floating rate and fixed rate unsecured senior notes which were used to finance the acquisition of Allergan. Additionally, financing cash flows in 2019 included the issuance of €1.4 billion aggregate principal amount of unsecured senior Euro notes which the company used to redeem €1.4 billion aggregate principal amount of 0.38% senior Euro notes that were due to mature in November 2019, as well as the repayment of a $3.0 billion 364-day term loan credit agreement that was scheduled to mature in June 2019. 
 
-Cash dividend payments totaled $7.7 billion in 2020 and $6.4 billion in 2019. The increase in cash dividend payments was primarily driven by higher outstanding shares following the 286 million shares of AbbVie common stock issued to Allergan shareholders in May 2020 as well as an increase in the dividend rate. On OctoberÂ 30, 2020, AbbVie announced that its board of directors declared an increase in the quarterly cash dividend from $1.18 per share to $1.30 per share beginning with the dividend payable on FebruaryÂ 16, 2021 to stockholders of record as of JanuaryÂ 15, 2021. This reflects an increase of approximately 10.2% over the previous quarterly rate. The timing, declaration, amount of and payment of any dividends by AbbVie in the future is within the discretion of its board of directors and will depend upon many factors, including AbbVie's financial condition, earnings, capital requirements of its operating subsidiaries, covenants associated with certain of AbbVie's debt service obligations, legal requirements, regulatory constraints, industry practice, ability to access capital markets and other factors deemed relevant by its board of directors.
+Cash dividend payments totaled $7.7 billion in 2020 and $6.4 billion in 2019. The increase in cash dividend payments was primarily driven by higher outstanding shares following the 286 million shares of AbbVie common stock issued to Allergan shareholders in May 2020 as well as an increase in the dividend rate. On October 30, 2020, AbbVie announced that its board of directors declared an increase in the quarterly cash dividend from $1.18 per share to $1.30 per share beginning with the dividend payable on February 16, 2021 to stockholders of record as of January 15, 2021. This reflects an increase of approximately 10.2% over the previous quarterly rate. The timing, declaration, amount of and payment of any dividends by AbbVie in the future is within the discretion of its board of directors and will depend upon many factors, including AbbVie's financial condition, earnings, capital requirements of its operating subsidiaries, covenants associated with certain of AbbVie's debt service obligations, legal requirements, regulatory constraints, industry practice, ability to access capital markets and other factors deemed relevant by its board of directors.
 
-The company's stock repurchase authorization permits purchases of AbbVie shares from time to time in open-market or private transactions at managementâ€™s discretion. The program has no time limit and can be discontinued at any time. Under this authorization, AbbVie repurchased 8 million shares for $757Â million in 2020 and 4 million shares for $300Â million in 2019. AbbVie cash-settled $201 million of its December 2018 open market purchases in January 2019. AbbVie's remaining stock repurchase authorization was $3.2 billion as of DecemberÂ 31, 2020.
+The company's stock repurchase authorization permits purchases of AbbVie shares from time to time in open-market or private transactions at management’s discretion. The program has no time limit and can be discontinued at any time. Under this authorization, AbbVie repurchased 8 million shares for $757 million in 2020 and 4 million shares for $300 million in 2019. AbbVie cash-settled $201 million of its December 2018 open market purchases in January 2019. AbbVie's remaining stock repurchase authorization was $3.2 billion as of December 31, 2020.
 
-In 2020 and 2019, the company issued and redeemed commercial paper. There were no commercial paper borrowings outstanding as of DecemberÂ 31, 2020 or DecemberÂ 31, 2019. AbbVie may issue additional commercial paper or retire commercial paper to meet liquidity requirements as needed.
+In 2020 and 2019, the company issued and redeemed commercial paper. There were no commercial paper borrowings outstanding as of December 31, 2020 or December 31, 2019. AbbVie may issue additional commercial paper or retire commercial paper to meet liquidity requirements as needed.
 
 Credit Risk
 
@@ -2502,7 +2502,7 @@ AbbVie monitors economic conditions, the creditworthiness of customers and gover
 
 |
 
-Â Â 
+  
 
 2020 Form 10-K
 
@@ -2512,7 +2512,7 @@ Credit Facility, Access to Capital and Credit Ratings
 
 Credit Facility
 
-AbbVie currently has a $4.0Â billion five-year revolving credit facility that matures in August 2024. This amended facility enables the company to borrow funds on an unsecured basis at variable interest rates and contains various covenants. At DecemberÂ 31, 2020, the company was in compliance with all covenants, and commitment fees under the credit facility were insignificant. No amounts were outstanding under the company's credit facility as of DecemberÂ 31, 2020 and 2019.
+AbbVie currently has a $4.0 billion five-year revolving credit facility that matures in August 2024. This amended facility enables the company to borrow funds on an unsecured basis at variable interest rates and contains various covenants. At December 31, 2020, the company was in compliance with all covenants, and commitment fees under the credit facility were insignificant. No amounts were outstanding under the company's credit facility as of December 31, 2020 and 2019.
 
 Access to Capital
 
@@ -2522,7 +2522,7 @@ Credit Ratings
 
 Following the acquisition of Allergan, S&P Global Ratings revised its ratings outlook to stable from negative and lowered the issuer credit rating by one notch to BBB+ from A- and the short-term rating to A-2 from A-1. There were no changes in Moody's Investor Service of its Baa2 senior unsecured long-term rating and Prime-2 short-term rating with a stable outlook.
 
-Unfavorable changes to the ratings may have an adverse impact on future financing arrangements; however, they would not affect the companyâ€™s ability to draw on its credit facility and would not result in an acceleration of scheduled maturities of any of the companyâ€™s outstanding debt.
+Unfavorable changes to the ratings may have an adverse impact on future financing arrangements; however, they would not affect the company’s ability to draw on its credit facility and would not result in an acceleration of scheduled maturities of any of the company’s outstanding debt.
 
 Contractual Obligations
 
@@ -2552,111 +2552,111 @@ Short-term borrowings
 
 $
 
-34Â 
+34 
 
 $
 
-34Â 
+34 
 
 $
 
-â€”Â 
+— 
 
 $
 
-â€”Â 
+— 
 
 $
 
-â€”Â 
+— 
 
 Long-term debt, including current portion
 
-84,948Â 
+84,948 
 
-8,422Â 
+8,422 
 
-16,643Â 
+16,643 
 
-16,197Â 
+16,197 
 
-43,686Â 
+43,686 
 
 Interest on long-term debt
 
 (a)
 
-33,664Â 
+33,664 
 
-2,752Â 
+2,752 
 
-4,652Â 
+4,652 
 
-3,898Â 
+3,898 
 
-22,362Â 
+22,362 
 
 Non-cancelable operating and finance lease payments
 
-1,154Â 
+1,154 
 
-229Â 
+229 
 
-323Â 
+323 
 
-208Â 
+208 
 
-394Â 
+394 
 
 Purchase obligations and other
 
 (b)
 
-5,432Â 
+5,432 
 
-5,040Â 
+5,040 
 
-249Â 
+249 
 
-112Â 
+112 
 
-31Â 
+31 
 
 Other long-term liabilities
 
  (c) (d) (e)
 
-18,478Â 
+18,478 
 
-1,029Â 
+1,029 
 
-3,036Â 
+3,036 
 
-4,144Â 
+4,144 
 
-10,269Â 
+10,269 
 
 Total
 
 $
 
-143,710Â 
+143,710 
 
 $
 
-17,506Â 
+17,506 
 
 $
 
-24,903Â 
+24,903 
 
 $
 
-24,559Â 
+24,559 
 
 $
 
-76,742Â 
+76,742 
 
 (a)
 
@@ -2670,19 +2670,19 @@ Includes the company's significant unconditional purchase obligations. These com
 
 Excludes liabilities associated with the company's unrecognized tax benefits as it is not possible to reliably estimate the timing of the future cash outflows related to these liabilities. See Note 14 to the Consolidated Financial Statements for additional information on these unrecognized tax benefits.
 
-2020 Form 10-KÂ Â 
+2020 Form 10-K  
 
  
 
 |
 
-Â Â 
+  
 
 42
 
 (d)
 
-Includes $13.0Â billion of contingent consideration liabilities which are recorded at fair value on the consolidated balance sheet.Â Potential contingent consideration payments that exceed the fair value recorded on the consolidated balance sheet are not included in the table of contractual obligations. See Note 11 to the Consolidated Financial Statements for additional information regarding these liabilities.
+Includes $13.0 billion of contingent consideration liabilities which are recorded at fair value on the consolidated balance sheet. Potential contingent consideration payments that exceed the fair value recorded on the consolidated balance sheet are not included in the table of contractual obligations. See Note 11 to the Consolidated Financial Statements for additional information regarding these liabilities.
 
 (e)
 
@@ -2696,13 +2696,13 @@ The preparation of financial statements in accordance with generally accepted ac
 
 Revenue Recognition
 
-AbbVie recognizes revenue when control of promised goods or services is transferred to the companyâ€™s customers, in an amount that reflects the consideration AbbVie expects to be entitled to in exchange for those goods or services. Sales, value add and other taxes collected concurrent with revenue-producing activities are excluded from revenue. AbbVie generates revenue primarily from product sales. For the majority of sales, the company transfers control, invoices the customer and recognizes revenue upon shipment to the customer. 
+AbbVie recognizes revenue when control of promised goods or services is transferred to the company’s customers, in an amount that reflects the consideration AbbVie expects to be entitled to in exchange for those goods or services. Sales, value add and other taxes collected concurrent with revenue-producing activities are excluded from revenue. AbbVie generates revenue primarily from product sales. For the majority of sales, the company transfers control, invoices the customer and recognizes revenue upon shipment to the customer. 
 
 Rebates 
 
 AbbVie provides rebates to pharmacy benefit managers, state government Medicaid programs, insurance companies that administer Medicare drug plans, wholesalers, group purchasing organizations and other government agencies and private entities.
 
-Rebate and chargeback accruals are accounted for as variable consideration and are recorded as a reduction to revenue in the period the related product is sold. Provisions for rebates and chargebacks totaled $27.0 billion in 2020, $18.8 billion in 2019 and $16.4Â billion in 2018. Rebate amounts are typically based upon the volume of purchases using contractual or statutory prices, which may vary by product and by payer. For each type of rebate, the factors used in the calculations of the accrual for that rebate include the identification of the products subject to the rebate, the applicable price terms and the estimated lag time between sale and payment of the rebate, which can be significant.
+Rebate and chargeback accruals are accounted for as variable consideration and are recorded as a reduction to revenue in the period the related product is sold. Provisions for rebates and chargebacks totaled $27.0 billion in 2020, $18.8 billion in 2019 and $16.4 billion in 2018. Rebate amounts are typically based upon the volume of purchases using contractual or statutory prices, which may vary by product and by payer. For each type of rebate, the factors used in the calculations of the accrual for that rebate include the identification of the products subject to the rebate, the applicable price terms and the estimated lag time between sale and payment of the rebate, which can be significant.
 
 In order to establish its rebate and chargeback accruals, the company uses both internal and external data to estimate the level of inventory in the distribution channel and the rebate claims processing lag time for each type of rebate. To estimate the rebate percentage or net price, the company tracks sales by product and by customer or payer. The company evaluates inventory data reported by wholesalers, available prescription volume information, product pricing, historical experience and other factors in order to determine the adequacy of its reserves. AbbVie regularly monitors its reserves and records adjustments when rebate trends, rebate programs and contract terms, legislative changes, or other significant events indicate that a change in the reserve is appropriate. Historically, adjustments to rebate accruals have not been material to net earnings.
 
@@ -2714,7 +2714,7 @@ In order to establish its rebate and chargeback accruals, the company uses both 
 
 |
 
-Â Â 
+  
 
 2020 Form 10-K
 
@@ -2740,27 +2740,27 @@ Wholesaler
 
 Chargebacks
 
-Balance at DecemberÂ 31, 2017
+Balance at December 31, 2017
 
 $
 
-1,340Â 
+1,340 
 
 $
 
-1,195Â 
+1,195 
 
 $
 
-522Â 
+522 
 
 Provisions
 
-3,493Â 
+3,493 
 
-4,729Â 
+4,729 
 
-6,659Â 
+6,659 
 
 Payments
 
@@ -2770,21 +2770,21 @@ Payments
 
 (6,525)
 
-Balance at DecemberÂ 31, 2018
+Balance at December 31, 2018
 
-1,645Â 
+1,645 
 
-1,439Â 
+1,439 
 
-656Â 
+656 
 
 Provisions
 
-4,035Â 
+4,035 
 
-5,772Â 
+5,772 
 
-7,947Â 
+7,947 
 
 Payments
 
@@ -2794,31 +2794,31 @@ Payments
 
 (7,917)
 
-Balance at DecemberÂ 31, 2019
+Balance at December 31, 2019
 
-1,765Â 
+1,765 
 
-1,936Â 
+1,936 
 
-686Â 
+686 
 
 Additions
 
 (a)
 
-1,266Â 
+1,266 
 
-649Â 
+649 
 
-71Â 
+71 
 
 Provisions
 
-6,715Â 
+6,715 
 
-8,656Â 
+8,656 
 
-8,677Â 
+8,677 
 
 Payments
 
@@ -2828,19 +2828,19 @@ Payments
 
 (8,693)
 
-Balance at DecemberÂ 31, 2020
+Balance at December 31, 2020
 
 $
 
-2,945Â 
+2,945 
 
 $
 
-2,907Â 
+2,907 
 
 $
 
-741Â 
+741 
 
 (a)
 
@@ -2854,9 +2854,9 @@ Pension and Other Post-Employment Benefits
 
 AbbVie engages outside actuaries to assist in the determination of the obligations and costs under the pension and other post-employment benefit plans that are direct obligations of AbbVie. The valuation of the funded status and the net periodic benefit cost for these plans are calculated using actuarial assumptions. The significant assumptions, which are reviewed annually, include the discount rate, the expected long-term rate of return on plan assets and the health care cost trend rates, and are disclosed in Note 12 to the Consolidated Financial Statements.
 
-The discount rate is selected based on current market rates on high-quality, fixed-income investments at DecemberÂ 31 each year. AbbVie employs a yield-curve approach for countries where a robust bond market exists. The yield curve is developed using high-quality bonds. The yield-curve approach reflects the plans' specific cash flows (i.e.Â duration) in calculating the benefit obligations by applying the corresponding individual spot rates along the yield curve. AbbVie reflects the plans' specific cash flows and applies them to the corresponding individual spot rates along the yield curve in calculating the service cost and interest cost portions of expense. For other countries, AbbVie reviews various indices such as corporate bond and government bond benchmarks to estimate the discount rate. 
+The discount rate is selected based on current market rates on high-quality, fixed-income investments at December 31 each year. AbbVie employs a yield-curve approach for countries where a robust bond market exists. The yield curve is developed using high-quality bonds. The yield-curve approach reflects the plans' specific cash flows (i.e. duration) in calculating the benefit obligations by applying the corresponding individual spot rates along the yield curve. AbbVie reflects the plans' specific cash flows and applies them to the corresponding individual spot rates along the yield curve in calculating the service cost and interest cost portions of expense. For other countries, AbbVie reviews various indices such as corporate bond and government bond benchmarks to estimate the discount rate. 
 
-AbbVie's assumed discount rates have a significant effect on the amounts reported for defined benefit pension and other post-employment plans as of DecemberÂ 31, 2020. A 50 basis point change in the assumed discount rate would have had the following effects on AbbVie's calculation of net periodic benefit costs in 2021 and projected benefit obligations as of DecemberÂ 31, 2020:
+AbbVie's assumed discount rates have a significant effect on the amounts reported for defined benefit pension and other post-employment plans as of December 31, 2020. A 50 basis point change in the assumed discount rate would have had the following effects on AbbVie's calculation of net periodic benefit costs in 2021 and projected benefit obligations as of December 31, 2020:
 
 50 basis point
 
@@ -2876,13 +2876,13 @@ $
 
 $
 
-101Â 
+101 
 
 Projected benefit obligation
 
 (1,000)
 
-1,140Â 
+1,140 
 
 Other post-employment plans
 
@@ -2894,27 +2894,27 @@ $
 
 $
 
-7Â 
+7 
 
 Projected benefit obligation
 
 (56)
 
-63Â 
+63 
 
-2020 Form 10-KÂ Â 
+2020 Form 10-K  
 
  
 
 |
 
-Â Â 
+  
 
 44
 
-The expected long-term rate of return is based on the asset allocation, historical performance and the current view of expected future returns. AbbVie considers these inputs with a long-term focus to avoid short-term market influences. The current long-term rate of return on plan assets for each plan is supported by the historical performance of the trust's actual and target asset allocation. AbbVie's assumed expected long-term rate of return has a significant effect on the amounts reported for defined benefit pension plans as of DecemberÂ 31, 2020 and will be used in the calculation of net periodic benefit cost in 2021. A oneÂ percentage point change in assumed expected long-term rate of return on plan assets would increase or decrease the net period benefit cost of these plans in 2021 by $94 million.
+The expected long-term rate of return is based on the asset allocation, historical performance and the current view of expected future returns. AbbVie considers these inputs with a long-term focus to avoid short-term market influences. The current long-term rate of return on plan assets for each plan is supported by the historical performance of the trust's actual and target asset allocation. AbbVie's assumed expected long-term rate of return has a significant effect on the amounts reported for defined benefit pension plans as of December 31, 2020 and will be used in the calculation of net periodic benefit cost in 2021. A one percentage point change in assumed expected long-term rate of return on plan assets would increase or decrease the net period benefit cost of these plans in 2021 by $94 million.
 
-The health care cost trend rate is selected by reviewing historical trends and current views on projected future health care cost increases. The current health care cost trend rate is supported by the historical trend experience of each plan. Assumed health care cost trend rates have a significant effect on the amounts reported for health care plans as of DecemberÂ 31, 2020 and will be used in the calculation of net periodic benefit cost in 2021. 
+The health care cost trend rate is selected by reviewing historical trends and current views on projected future health care cost increases. The current health care cost trend rate is supported by the historical trend experience of each plan. Assumed health care cost trend rates have a significant effect on the amounts reported for health care plans as of December 31, 2020 and will be used in the calculation of net periodic benefit cost in 2021. 
 
 Income Taxes
 
@@ -2940,7 +2940,7 @@ Annually, the company tests its goodwill for impairment by first assessing quali
 
 |
 
-Â Â 
+  
 
 2020 Form 10-K
 
@@ -2952,7 +2952,7 @@ Contingent
 
 Consideration
 
-The fair value measurements of contingent consideration liabilities are determined as of the acquisition date based on significant unobservable inputs, including the discount rate, estimated probabilities and timing of achieving specified development, regulatory and commercial milestones and the estimated amount of future sales of the acquired products. Contingent consideration liabilities are revalued to fair value at each subsequent reporting date until the related contingency is resolved. The potential contingent consideration payments are estimated by applying a probability-weighted expected payment model for contingent milestone payments and a Monte Carlo simulation model for contingent royalty payments, which are then discounted to present value. Changes to the fair value of the contingent consideration liabilities can result from changes to one or a number of inputs, including discount rates, the probabilities of achieving the milestones, the time required to achieve the milestones and estimated future sales. Significant judgment is employed in determining the appropriateness of certain of these inputs. Changes to the inputs described above could have a material impact on the company's financial position and results of operations in any given period. The fair value of the company's contingent consideration liabilities as of DecemberÂ 31, 2020 was calculated using the following significant unobservable inputs:
+The fair value measurements of contingent consideration liabilities are determined as of the acquisition date based on significant unobservable inputs, including the discount rate, estimated probabilities and timing of achieving specified development, regulatory and commercial milestones and the estimated amount of future sales of the acquired products. Contingent consideration liabilities are revalued to fair value at each subsequent reporting date until the related contingency is resolved. The potential contingent consideration payments are estimated by applying a probability-weighted expected payment model for contingent milestone payments and a Monte Carlo simulation model for contingent royalty payments, which are then discounted to present value. Changes to the fair value of the contingent consideration liabilities can result from changes to one or a number of inputs, including discount rates, the probabilities of achieving the milestones, the time required to achieve the milestones and estimated future sales. Significant judgment is employed in determining the appropriateness of certain of these inputs. Changes to the inputs described above could have a material impact on the company's financial position and results of operations in any given period. The fair value of the company's contingent consideration liabilities as of December 31, 2020 was calculated using the following significant unobservable inputs:
 
 Range
 
@@ -2992,18 +2992,18 @@ Unobservable inputs were weighted by the relative fair value of the contingent c
 
 (b)
 
-Excludes early stage indications with 0% estimated probability of payment and includes approved indications with 100% probability of payment. Excluding approved indications, the estimated probability of payment ranged from 56% to 89% at DecemberÂ 31, 2020. 
+Excludes early stage indications with 0% estimated probability of payment and includes approved indications with 100% probability of payment. Excluding approved indications, the estimated probability of payment ranged from 56% to 89% at December 31, 2020. 
 
 Recent Accounting Pronouncements
 
 See Note 2 to the Consolidated Financial Statements for additional information on recent accounting pronouncements.
 
-2020 Form 10-KÂ Â 
+2020 Form 10-K  
 
  
 
 |
 
-Â Â 
+  
 
 46
