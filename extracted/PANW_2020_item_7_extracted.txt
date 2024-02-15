@@ -1,0 +1,390 @@
+ ITEM 7. MANAGEMENT&#8217;S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with our consolidated financial statements and related notes appearing elsewhere in this Annual Report on Form 10-K. The following discussion and analysis contains forward-looking statements based on current expectations and assumptions that are subject to risks and uncertainties, which could cause our actual results to differ materially from those anticipated or implied by any forward-looking statements. Factors that could cause or contribute to such differences include, but are not limited to, those discussed in this Annual Report on Form 10-K, and in particular, the risks discussed under the caption &#8220;Risk Factors&#8221; in Part I, Item 1A of this report. 
+
+Our Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations (&#8220;MD&#38;A&#8221;) is organized as follows: 
+
+&#8226; Overview. A discussion of our business and overall analysis of financial and other highlights in order to provide context for the remainder of MD&#38;A. 
+
+&#8226; Key Financial Metrics. A summary of our GAAP and non-GAAP key financial metrics, which management monitors to evaluate our performance. 
+
+&#8226; Results of Operations. A discussion of the nature and trends in our financial results and an analysis of our financial results comparing fiscal 2020 to 2019. For discussion and analysis related to our financial results comparing fiscal 2019 to 2018, refer to Part II, Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations in our Annual Report on Form 10-K for fiscal 2019, which was filed with the Securities and Exchange Commission on September 9, 2019. 
+
+&#8226; Liquidity and Capital Resources. An analysis of changes in our balance sheets and cash flows, and a discussion of our financial condition and our ability to meet cash needs. 
+
+&#8226; Contractual Obligations and Commitments. An overview of our contractual obligations, contingent liabilities, commitments, and off-balance sheet arrangements outstanding as of July 31, 2020, including expected payment schedules. 
+
+&#8226; Critical Accounting Estimates. A discussion of our accounting policies that require critical estimates, assumptions, and judgments. 
+
+&#8226; Recent Accounting Pronouncements. A discussion of expected impacts of impending accounting changes on financial information to be reported in the future. 
+
+Overview 
+
+We empower enterprises, service providers, and government entities to secure all users, applications, data, networks and devices with comprehensive visibility and context continuously across all locations. We deliver cybersecurity products covering a broad range of use cases, enabling our end-customers to secure their networks, remote workforce, access to the service edge, branch locations, public and private clouds, and to advance their Security Operations Centers (&#8220;SOC&#8221;). We believe our portfolio offers advanced prevention and security, while reducing the total cost of ownership for organizations by improving operational efficiency and eliminating the need for siloed point products. We do this with solutions focused on delivering value in three fundamental areas: 
+
+Secure the Enterprise: 
+
+&#8226; Secure the network through our ML-powered Next-Generation Firewalls, available in a number of form factors, including physical, virtual and containerized appliances, as well as a cloud-delivered service, with Panorama management available as an appliance or as a virtual machine for the public or private cloud. This also includes security services such as Threat Prevention, WildFire, URL Filtering, DNS Security, IoT Security, GlobalProtect , SD-WAN and Data Loss Prevention that are delivered as S aaS subscriptions to our ML-powered Next-Generation Firewalls. 
+
+Secure the Cloud: 
+
+&#8226; Secure the cloud through our Prisma security offerings, such as Prisma Cloud, the industry&#8217;s most comprehensive Cloud Native Security Platform (&#8220;CNSP&#8221;), protecting applications, data and the entire cloud native technology stack, throughout the full development lifecycle and across multi- and hybrid- cloud environments, Prisma SaaS for protecting SaaS applications, Prisma Access, a comprehensive Secure Access Service Edge (&#8220;SASE&#8221;) offering, that, together with CloudGenix SD-WAN, securing SD-WAN to enable the cloud delivered branch, and VM-Series and CN-Series for in-line network security in multi- and hybrid- cloud environments. CloudGenix SD-WAN autonomous networking and integrated security is available as a combination of physical, virtual and cloud-delivered appliances and services. 
+
+Secure the Future: 
+
+&#8226; Secure the future of security operations through our Cortex security offerings, which includes Cortex XDR for prevention, detection and response, Cortex XSOAR for security orchestration, automation and response (&#8220;SOAR&#8221;), 
+
+- 38 - 
+
+AutoFocus for threat intelligence, and Cortex Data Lake to collect and integrate security data for analytics. These products are delivered as software or SaaS subscriptions. 
+
+For fiscal 2020 and 2019, total revenue was $3.4 billion and $2.9 billion, respectively, representing year-over-year growth of 17.5%. Our growth reflects the increased adoption of our portfolio, which consists of product, subscriptions, and support. We believe our portfolio will enable us to benefit from recurring revenues as we continue to grow our installed end-customer base. As of July 31, 2020, we had end-customers in over 170 countries. Our end-customers represent a broad range of industries including education, energy, financial services, government entities, healthcare, Internet and media, manufacturing, public sector, and telecommunications, and include some of the largest Fortune 100 and Global 2000 companies in the world. We maintain a field sales force that works closely with our channel partners in developing sales opportunities. We use a two-tiered, indirect fulfillment model whereby we sell our products, subscriptions, and support to our distributors, which, in turn, sell to our resellers, which then sell to our end-customers. 
+
+Our product revenue was $1.1 billion or 31.2% of total revenue for fiscal 2020, representing a slight decrease year-over-year of 2.9%. Product revenue is generated from sales of our appliances, primarily our ML-powered Next-Generation Firewall, which is available in a number of form factors, including as physical, virtual and containerized appliances. Our ML-powered Next-Generation Firewall incorporates our PAN-OS operating system, which provides a consistent set of capabilities across our entire product line. Our products are designed for different performance requirements throughout an organization, ranging from our PA-220, which is designed for small organizations and remote or branch offices, to our top-of-the-line PA-7080, which is designed for large scale data centers and service provider use. The same firewall functionality that is delivered in our physical appliances is also available in our VM-Series virtual firewalls, which secure virtualized and cloud-based computing environments and in our CN-Series container firewalls, which secures container environments and traffic. 
+
+Our subscription and support revenue grew to $2.3 billion or 68.8% of total revenue for fiscal 2020, representing year-over-year growth of 30.0%. Our subscriptions provide our end-customers with near real-time access to the latest antivirus, intrusion prevention, web filtering, and modern malware prevention capabilities across the network, endpoints, and the cloud. When end-customers purchase our physical, virtual or container firewall appliances, they typically purchase support in order to receive ongoing security updates, upgrades, bug fixes, and repairs. In addition to the subscriptions purchased with these appliances, end-customers may also purchase other subscriptions on a per-user, per-endpoint, or capacity-based basis. 
+
+We continue to invest in innovation and acquire businesses as we evolve and further extend the capabilities of our portfolio, as we believe that innovation and timely development of new features and products is essential to meeting the needs of our end-customers and improving our competitive position. During fiscal 2020, we introduced several new offerings, including: PAN-OS 10.0 with over 70 new features; our new ML-powered Next-Generation Firewalls; and our Cortex XSOAR solution that redefines security orchestration and automation with integrated threat intelligence management. Additionally, we acquired productive investments that fit well within our long-term strategy. For example, in September 2019, we acquired Zingbox, which we believe will accelerate our delivery of IoT security through our Next-Generation Firewall and Cortex offerings; in December 2019, we acquired Aporeto, which we believe will strengthen our cloud-native security platform capabilities delivered by Prisma Cloud; and in April 2020, we acquired CloudGenix, which we believe will strengthen our SASE offering. 
+
+We believe that the growth of our business and our short-term and long-term success are dependent upon many factors, including our ability to extend our technology leadership, grow our base of end-customers, expand deployment of our portfolio and support offerings within existing end-customers, and focus on end-customer satisfaction. To manage any future growth effectively, we must continue to improve and expand our information technology and financial infrastructure, our operating and administrative systems and controls, and our ability to manage headcount, capital, and processes in an efficient manner. While these areas present significant opportunities for us, they also pose challenges and risks that we must successfully address in order to sustain the growth of our business and improve our operating results. For additional information regarding the challenges and risks we face, see the &#8220;Risk Factors&#8221; section in Part I, Item 1A of this Annual Report on Form 10-K. 
+
+Impact of COVID-19 on our Business 
+
+We are actively monitoring, evaluating and responding to developments relating to COVID-19, which has and is expected to result in continued significant global social and business disruption. As described in &#8220;Impacts of COVID-19 on our Business&#8221; included in Part I, Item 1 Business in this Annual Report, we have made some changes to our business that include instituting a global work-from-home policy beginning in Marc h 2020 that did not incur significant disruptions in our work operations during fiscal 2020. We will continue to actively monitor the situation and will make further changes to our business operations as may be required by federal, state or local authorities or that we determine are in the best interests of our employees, end-customers, partners, suppliers and stockholders. Our focus remains on the safety of our employees, striving to protect the health and well-being of the communities in which we operate, and providing technology to our employees, end-customers and partners to help them do their best work while remote. 
+
+Although some end-customers adopted Prisma Access as their secure work-from-home solution for the longer term, COVID-19 may curtail our end-customers' spending and could lead them to delay or defer purchasing decisions, and lengthen sales cycles and payment terms, which could materially adversely impact our business, results of operations and overall financial performance. Also, certain of our end-customers or partners may be or may become credit or cash constrained making it difficult for them to fulfill their payment obligations to us. The extent of the impact of COVID-19 on our operational and financial performance will depend on 
+
+- 39 - 
+
+developments, including the duration and spread of the virus, impact on our end-customers&#8217; spending, volume of sales and length of our sales cycles, impact on our partners, suppliers and employees, actions that may be taken by governmental authorities and other factors identified in Part I, Item 1A "Risk Factors" in this Form 10-K. Given the dynamic nature of these circumstances, the full impact of COVID-19 on our ongoing business, results of operations and overall financial performance cannot be reasonably estimated at this time. 
+
+Key Financial Metrics 
+
+We monitor the key financial metrics set forth in the tables below to help us evaluate growth trends, establish budgets, measure the effectiveness of our sales and marketing efforts, and assess operational efficiencies. We discuss revenue, gross margin, and the components of operating loss and margin below under &#8220;&#8212;Results of Operations.&#8221; 
+
+##TABLE_START July 31, 2020 2019 (in millions) Total deferred revenue $ 3,810.2 &#160; $ 2,888.7 &#160; Cash, cash equivalents, and investments $ 4,302.2 &#160; $ 3,378.5 &#160; ##TABLE_END
+
+##TABLE_START Year Ended July 31, 2020 2019 2018 (dollars in millions) Total revenue $ 3,408.4 &#160; $ 2,899.6 &#160; $ 2,273.6 &#160; Total revenue year-over-year percentage increase 17.5 &#160; % 27.5 &#160; % 29.5 &#160; % Gross margin 70.7 &#160; % 72.1 &#160; % 71.6 &#160; % Operating loss $ (179.0) $ (54.1) $ (104.2) Operating margin (5.3) % (1.9) % (4.6) % Billings $ 4,301.7 &#160; $ 3,489.8 &#160; $ 2,856.2 &#160; Billings year-over-year percentage increase 23.3 &#160; % 22.2 &#160; % 26.8 &#160; % Cash flow provided by operating activities $ 1,035.7 &#160; $ 1,055.6 &#160; $ 1,038.1 &#160; Free cash flow (non-GAAP) $ 821.3 &#160; $ 924.4 &#160; $ 926.1 &#160; ##TABLE_END
+
+&#8226; Deferred Revenue. Our deferred revenue primarily consists of amounts that have been invoiced but have not been recognized as revenue as of the period end. The majority of our deferred revenue balance consists of subscription and support revenue that is recognized ratably over the contractual service period. We monitor our deferred revenue balance because it represents a significant portion of revenue to be recognized in future periods. 
+
+&#8226; Billings. We define billings as total revenue plus the change in total deferred revenue, net of acquired deferred revenue, during the period. We consider billings to be a key metric used by management to manage our business. We believe billings provides investors with an important indicator of the health and visibility of our business because it includes subscription and support revenue, which is recognized ratably over the contractual service period, and product revenue, which is recognized at the time of shipment, provided that all other conditions for revenue recognition have been met. We consider billings to be a useful metric for management and investors, particularly if we continue to experience increased sales of subscriptions and strong renewal rates for subscription and support offerings, and as we monitor our near-term cash flows. While we believe that billings provides useful information to investors and others in understanding and evaluating our operating results in the same manner as our management, it is important to note that other companies, including companies in our industry, may not use billings, may calculate billings differently, may have different billing frequencies, or may use other financial measures to evaluate their performance, all of which could reduce the usefulness of billings as a comparative measure. We calculate billings in the following manner: 
+
+- 40 - 
+
+##TABLE_START Year Ended July 31, 2020 2019 2018 (in millions) Billings: 
+
+Total revenue $ 3,408.4 &#160; $ 2,899.6 &#160; $ 2,273.6 &#160; Add: change in total deferred revenue, net of acquired deferred revenue 893.3 &#160; 590.2 &#160; 582.6 &#160; Billings $ 4,301.7 &#160; $ 3,489.8 &#160; $ 2,856.2 &#160; ##TABLE_END
+
+&#8226; Cash Flow Provided by Operating Activities. We monitor cash flow provided by operating activities as a measure of our overall business performance. Our cash flow provided by operating activities is driven in large part by sales of our products and from up-front payments for subscription and support offerings. Monitoring cash flow provided by operating activities enables us to analyze our financial performance without the non-cash effects of certain items such as depreciation, amortization, and share-based compensation costs, thereby allowing us to better understand and manage the cash needs of our business. 
+
+&#8226; Free Cash Flow (non-GAAP). We define free cash flow, a non-GAAP financial measure, as cash provided by operating activities less purchases of property, equipment, and other assets. We consider free cash flow to be a profitability and liquidity measure that provides useful information to management and investors about the amount of cash generated by the business after necessary capital expenditures. A limitation of the utility of free cash flow as a measure of our financial performance and liquidity is that it does not represent the total increase or decrease in our cash balance for the period. In addition, it is important to note that other companies, including companies in our industry, may not use free cash flow, may calculate free cash flow in a different manner than we do, or may use other financial measures to evaluate their performance, all of which could reduce the usefulness of free cash flow as a comparative measure. A reconciliation of free cash flow to cash flow provided by operating activities, the most directly comparable financial measure calculated and presented in accordance with GAAP, is provided below: 
+
+##TABLE_START Year Ended July 31, 2020 2019 2018 (in millions) Free cash flow (non-GAAP): 
+
+Net cash provided by operating activities $ 1,035.7 &#160; $ 1,055.6 &#160; $ 1,038.1 &#160; Less: purchases of property, equipment, and other assets 214.4 &#160; 131.2 &#160; 112.0 &#160; Free cash flow (non-GAAP) $ 821.3 &#160; $ 924.4 &#160; $ 926.1 &#160; Net cash provided by (used in) investing activities $ 288.0 &#160; $ (1,825.9) $ (520.0) Net cash provided by (used in) financing activities $ 673.0 &#160; $ (773.9) $ 1,245.6 &#160; ##TABLE_END
+
+- 41 - 
+
+Results of Operations 
+
+The following table summarizes our results of operations for the periods presented and as a percentage of our total revenue for those periods based on our consolidated statements of operations data. The period to period comparison of results is not necessarily indicative of results for future periods. 
+
+##TABLE_START Year Ended July 31, 2020 2019 2018 Amount % of Revenue Amount % of Revenue Amount % of Revenue (dollars in millions) Revenue: 
+
+Product $ 1,064.2 &#160; 31.2 &#160; % $ 1,096.2 &#160; 37.8 &#160; % $ 879.8 &#160; 38.7 &#160; % Subscription and support 2,344.2 &#160; 68.8 &#160; % 1,803.4 &#160; 62.2 &#160; % 1,393.8 &#160; 61.3 &#160; % Total revenue 
+
+3,408.4 &#160; 100.0 &#160; % 2,899.6 &#160; 100.0 &#160; % 2,273.6 &#160; 100.0 &#160; % Cost of revenue: 
+
+Product 294.4 &#160; 8.6 &#160; % 315.9 &#160; 10.9 &#160; % 272.4 12.0 &#160; % Subscription and support 705.1 &#160; 20.7 &#160; % 492.5 &#160; 17.0 &#160; % 372.7 16.4 &#160; % Total cost of revenue (1) 
+
+999.5 &#160; 29.3 &#160; % 808.4 &#160; 27.9 &#160; % 645.1 28.4 &#160; % Total gross profit 
+
+2,408.9 &#160; 70.7 &#160; % 2,091.2 &#160; 72.1 &#160; % 1628.5 71.6 &#160; % Operating expenses: 
+
+Research and development 768.1 &#160; 22.5 &#160; % 539.5 &#160; 18.6 &#160; % 400.7 17.6 &#160; % Sales and marketing 1,520.2 &#160; 44.7 &#160; % 1,344.0 &#160; 46.4 &#160; % 1074.2 47.3 &#160; % General and administrative 299.6 &#160; 8.8 &#160; % 261.8 &#160; 9.0 &#160; % 257.8 11.3 &#160; % Total operating expenses (1) 
+
+2,587.9 &#160; 76.0 &#160; % 2,145.3 &#160; 74.0 &#160; % 1732.7 76.2 &#160; % Operating loss 
+
+(179.0) (5.3) % (54.1) (1.9) % (104.2) (4.6) % Interest expense 
+
+(88.7) (2.6) % (83.9) (2.9) % (29.6) (1.3) % Other income, net 35.9 &#160; 1.1 &#160; % 63.4 &#160; 2.2 &#160; % 28.5 &#160; 1.3 &#160; % Loss before income taxes (231.8) (6.8) % (74.6) (2.6) % (105.3) (4.6) % Provision for income taxes 35.2 &#160; 1.0 &#160; % 7.3 &#160; 0.2 &#160; % 16.9 &#160; 0.8 &#160; % Net loss $ (267.0) (7.8) % $ (81.9) (2.8) % $ (122.2) (5.4) % ##TABLE_END
+
+______________ 
+
+(1) Includes share-based compensation as follows: 
+
+##TABLE_START Year Ended July 31, 2020 2019 2018 (in millions) Cost of product revenue 
+
+$ 5.7 &#160; $ 5.6 &#160; $ 7.0 &#160; Cost of subscription and support revenue 
+
+77.7 &#160; 71.3 &#160; 66.7 &#160; Research and development 
+
+274.6 &#160; 186.8 &#160; 145.2 &#160; Sales and marketing 
+
+214.5 &#160; 221.9 &#160; 208.0 &#160; General and administrative 
+
+92.0 &#160; 102.1 &#160; 77.0 &#160; Total share-based compensation $ 664.5 &#160; $ 587.7 &#160; $ 503.9 &#160; ##TABLE_END
+
+- 42 - 
+
+Revenue 
+
+Our revenue consists of product revenue and subscription and support revenue. Revenue is recognized upon transfer of control of the corresponding promised products and subscriptions and support to our customers in an amount that reflects the consideration we expect to be entitled in exchange for those products and subscriptions and support. We expect our revenue to vary from quarter to quarter based on seasonal and cyclical factors. 
+
+Product Revenue 
+
+Product revenue is derived primarily from sales of our appliances. Product revenue also includes revenue derived from software licenses of Panorama and the VM-Series. Our appliances and software licenses include a broad set of built-in networking and security features and functionalities. We recognize product revenue at the time of hardware shipment or delivery of software license. 
+
+##TABLE_START Year Ended July 31, Year Ended July 31, &#160; 2020 2019 Change 2019 2018 Change Amount Amount Amount % Amount Amount Amount % &#160; (dollars in millions) Product $ 1,064.2 &#160; $ 1,096.2 &#160; $ (32.0) (2.9) % $ 1,096.2 &#160; $ 879.8 &#160; $ 216.4 &#160; 24.6 &#160; % ##TABLE_END
+
+Product revenue decreased slightly for fiscal 2020 compared to fiscal 2019 primarily due to product mix and pricing, partially offset by an increase in product unit volume. 
+
+Subscription and Support Revenue 
+
+Subscription and support revenue is derived primarily from sales of our subscription and support offerings. Our contractual subscription and support contracts are typically one to five years. We recognize revenue from subscriptions and support over time as the services are performed. As a percentage of total revenue, we expect our subscription and support revenue to vary from quarter to quarter and increase over the long term as we introduce new subscriptions, renew existing subscription and support contracts, and expand our installed end-customer base. 
+
+##TABLE_START Year Ended July 31, Year Ended July 31, &#160; 2020 2019 Change 2019 2018 Change Amount Amount Amount % Amount Amount Amount % &#160; (dollars in millions) Subscription $ 1,405.3 &#160; $ 1,032.7 &#160; $ 372.6 &#160; 36.1 &#160; % $ 1,032.7 &#160; $ 758.1 &#160; $ 274.6 &#160; 36.2 &#160; % Support 938.9 &#160; 770.7 &#160; 168.2 &#160; 21.8 &#160; % 770.7 &#160; 635.7 135.0 &#160; 21.2 &#160; % Total subscription and support $ 2,344.2 &#160; $ 1,803.4 &#160; $ 540.8 &#160; 30.0 &#160; % $ 1,803.4 &#160; $ 1,393.8 &#160; $ 409.6 &#160; 29.4 &#160; % ##TABLE_END
+
+Subscription and support revenue increased year-over-year for fiscal 2020 due to increased demand for our subscription and support offerings from both new and existing end-customers, reflecting increased adoption of our portfolio. The mix between subscription revenue and support revenue will fluctuate over time, depending on the introduction of new subscription offerings, renewals of support services, and our ability to increase sales to new and existing end-customers. The change in subscription and support revenue due to changes in pricing was not significant for fiscal 2020. 
+
+Revenue by Geographic Theater 
+
+##TABLE_START Year Ended July 31, Year Ended July 31, &#160; 2020 2019 Change 2019 2018 Change Amount Amount Amount % Amount Amount Amount % &#160; (dollars in millions) Americas $ 2,327.9 &#160; $ 1,982.3 &#160; $ 345.6 &#160; 17.4 &#160; % $ 1,982.3 &#160; $ 1,558.7 &#160; $ 423.6 &#160; 27.2 &#160; % EMEA 664.8 &#160; 564.8 &#160; 100.0 &#160; 17.7 &#160; % 564.8 &#160; 439.6 &#160; 125.2 &#160; 28.5 &#160; % APAC 415.7 &#160; 352.5 &#160; 63.2 &#160; 17.9 &#160; % 352.5 &#160; 275.3 &#160; 77.2 &#160; 28.0 &#160; % Total revenue 
+
+$ 3,408.4 &#160; $ 2,899.6 &#160; $ 508.8 &#160; 17.5 &#160; % $ 2,899.6 &#160; $ 2,273.6 &#160; $ 626.0 &#160; 27.5 &#160; % ##TABLE_END
+
+With respect to geographic theaters, the Americas contributed the largest portion of the year-over-year increases in revenue for fiscal 2020 due to its larger and more established sales force compared to our other theaters. Revenue from both Europe, the Middle East, and Africa (&#8220;EMEA&#8221;) and Asia Pacific and Japan (&#8220;APAC&#8221;) increased year-over-year for fiscal 2020 due to our increasing investment in global sales force to maintain our growth and innovation. 
+
+- 43 - 
+
+Cost of Revenue 
+
+Our cost of revenue consists of cost of product revenue and cost of subscription and support revenue. 
+
+Cost of Product Revenue 
+
+Cost of product revenue primarily includes costs paid to our manufacturing partners. Our cost of product revenue also includes personnel costs, which consist of salaries, benefits, bonuses, share-based compensation, and travel and entertainment associated with our operations organization, amortization of intellectual property licenses, product testing costs, shipping and tariff costs, and allocated costs. Allocated costs consist of certain facilities, depreciation, benefits, recruiting, and information technology costs that we allocate based on headcount. We expect our cost of product revenue to fluctuate with our product revenue. 
+
+##TABLE_START &#160; Year Ended July 31, Year Ended July 31, &#160; 2020 2019 Change 2019 2018 Change Amount Amount Amount % Amount Amount Amount % &#160; (dollars in millions) Cost of product revenue $ 294.4 &#160; $ 315.9 &#160; $ (21.5) (6.8) % $ 315.9 &#160; $ 272.4 &#160; $ 43.5 &#160; 16.0 &#160; % Number of employees at period end 
+
+117 &#160; 102 &#160; 15 &#160; 14.7 &#160; % 102 &#160; 97 &#160; 5 &#160; 5.2 &#160; % ##TABLE_END
+
+Cost of product revenue decreased for fiscal 2020 compared to fiscal 2019 primarily due to a decrease in product revenue, reductions in cost of materials and lower amortization of intellectual property licenses. 
+
+Cost of Subscription and Support Revenue 
+
+Cost of subscription and support revenue includes personnel costs for our global customer support and technical operations organizations, customer support and repair costs, third-party professional services costs, data center and cloud hosting costs, amortization of acquired intangible assets and capitalized software development costs, and allocated costs. We expect our cost of subscription and support revenue to increase as our installed end-customer base grows and adoption of our cloud-based subscription offerings increases. 
+
+##TABLE_START &#160; Year Ended July 31, Year Ended July 31, &#160; 2020 2019 Change 2019 2018 Change Amount Amount Amount % Amount Amount Amount % &#160; (dollars in millions) Cost of subscription and support revenue $ 705.1 &#160; $ 492.5 &#160; $ 212.6 &#160; 43.2 &#160; % $ 492.5 &#160; $ 372.7 &#160; $ 119.8 &#160; 32.1 &#160; % Number of employees at period end 1,402 &#160; 1,219 &#160; 183 &#160; 15.0 &#160; % 1,219 &#160; 932 &#160; 287 &#160; 30.8 &#160; % ##TABLE_END
+
+Cost of subscription and support revenue increased for fiscal 2020 compared to fiscal 2019 primarily due to increased costs to support the growth of our subscription and support offerings. Cl oud hosting costs to support the adoption of our cloud-based subscription offerings increased $82.4 million for fiscal 2020 compared to fiscal 2019, and personnel costs grew $60.8 million to $315.3 million for fiscal 2020 compared to fiscal 2019 due to headcount growth. The remaining increase was primarily due to an increase in amortization of purchased intangible assets as a result of our recent acquisitions . 
+
+Gross Margin 
+
+Gross margin, or gross profit as a percentage of revenue, has been and will continue to be affected by a variety of factors, including the introduction of new products, manufacturing costs, tariff costs, the average sales price of our products, cloud hosting costs, personnel costs, the mix of products sold, and the mix of revenue between product and subscription and support offerings. For sales of our products, our higher-end firewall products generally have higher gross margins than our lower-end firewall products within each product series. We expect our gross margins to fluctuate over time depending on the factors described above. 
+
+##TABLE_START &#160; Year Ended July 31, &#160; 2020 2019 2018 &#160; Amount Gross Margin Amount Gross Margin Amount Gross Margin &#160; (dollars in millions) Product $ 769.8 &#160; 72.3 &#160; % $ 780.3 &#160; 71.2 &#160; % $ 607.4 &#160; 69.0 &#160; % Subscription and support 1,639.1 &#160; 69.9 &#160; % 1,310.9 &#160; 72.7 &#160; % 1,021.1 &#160; 73.3 &#160; % Total gross profit 
+
+$ 2,408.9 &#160; 70.7 &#160; % $ 2,091.2 &#160; 72.1 &#160; % $ 1,628.5 &#160; 71.6 &#160; % ##TABLE_END
+
+- 44 - 
+
+Product gross margin increased for fiscal 2020 compared to fiscal 2019 primarily due to reductions in cost of materials. 
+
+Subscription and support gross margin decreased for fiscal 2020 compared to fiscal 2019, primarily due to an increase in costs to support the adoption of our cloud-based subscription offerings and higher amortization of purchased intangible assets as a result of our recent acquisitions, partially offset by increased leverage of our global customer support organization. 
+
+Operating Expenses 
+
+Our operating expenses consist of research and development, sales and marketing, and general and administrative expense. Personnel costs are the most significant component of operating expenses and consist of salaries, benefits, bonuses, share-based compensation, travel and entertainment, and with regard to sales and marketing expense, sales commissions. Our operating expenses also include allocated costs, which consist of certain facilities, depreciation, benefits, recruiting, and information technology costs that we allocate based on headcount. We expect operating expenses generally to increase in absolute dollars and decrease over the long term as a percentage of revenue as we continue to scale our business. In response to COVID-19, we instituted a global work-from-home policy and limited employee travel beginning in March 2020. Further, we have canceled in-person events and either replaced them with virtual events or postponed them to future periods. Although we did not conduct any employee layoffs related to COVID-19, we slowed hiring in our third and fourth quarter of fiscal 2020. As of July 31, 2020, we expect to recognize approximately $1.5 billion of share-based compensation expense over a weighted-average period of approximately 2.5 years, excluding additional share-based compensation expense related to any future grants of share-based awards. Share-based compensation expense is generally recognized on a straight-line basis over the requisite service periods of the awards. 
+
+Research and Development 
+
+Research and development expense consists primarily of personnel costs. Research and development expense also includes prototype related expenses and allocated costs. We expect research and development expense to increase in absolute dollars as we continue to invest in our future products and services, although our research and development expense may fluctuate as a percentage of total revenue. 
+
+##TABLE_START &#160; Year Ended July 31, Year Ended July 31, &#160; 2020 2019 Change 2019 2018 Change Amount Amount Amount % Amount Amount Amount % &#160; (dollars in millions) Research and development $ 768.1 &#160; $ 539.5 &#160; $ 228.6 &#160; 42.4 &#160; % $ 539.5 &#160; $ 400.7 &#160; $ 138.8 &#160; 34.6 &#160; % Number of employees at period end 
+
+1,821 &#160; 1,507 &#160; 314 &#160; 20.8 &#160; % 1,507 &#160; 947 &#160; 560 &#160; 59.1 &#160; % ##TABLE_END
+
+Research and development expense increased for fiscal 2020 compared to fiscal 2019 due to an increase in personnel costs, which grew $181.5 million to $589.8 million for fiscal 2020 compared to fiscal 2019. The increase in personnel costs was primarily due to headcount growth. The remaining increase was primarily driven by an increase in allocated costs. 
+
+Sales and Marketing 
+
+Sales and marketing expense consists primarily of personnel costs, including commission expense. Sales and marketing expense also includes costs for market development programs, promotional and other marketing costs, professional services, and allocated costs. We continue to thoughtfully invest in headcount and have substantially grown our sales presence internationally. We expect sales and marketing expense to continue to increase in absolute dollars as we increase the size of our sales and marketing organizations to increase touch points with end-customers and to expand our international presence, although our sales and marketing expense may fluctuate as a percentage of total revenue. 
+
+##TABLE_START &#160; Year Ended July 31, Year Ended July 31, &#160; 2020 2019 Change 2019 2018 Change Amount Amount Amount % Amount Amount Amount % &#160; (dollars in millions) Sales and marketing $ 1,520.2 &#160; $ 1,344.0 &#160; $ 176.2 &#160; 13.1 &#160; % $ 1,344.0 &#160; $ 1,074.2 &#160; $ 269.8 &#160; 25.1 &#160; % Number of employees at period end 
+
+3,800 &#160; 3,382 &#160; 418 &#160; 12.4 &#160; % 3,382 &#160; 2,704 &#160; 678 &#160; 25.1 &#160; % ##TABLE_END
+
+Sales and marketing expense increased for fiscal 2020 compared to fiscal 2019 primarily due to an increase in personnel costs, which grew $129.6 million to $1.1 billion for fiscal 2020 compared to fiscal 2019. The increase in personnel costs was largely due to headcount growth. The increase in personnel costs was partially offset by savings related to decreased travel as a response to COVID-19. The remaining increase was driven by an increase in costs associated with marketing-related activities, including costs to cancel in-person events, replace them with virtual events or postpone them to future periods due to COVID-19, and costs related to go-to-market initiatives. 
+
+- 45 - 
+
+General and Administrative 
+
+General and administrative expense consists primarily of personnel costs for our executive, finance, human resources, legal, and information technology organizations, and professional services costs, which consist primarily of legal, auditing, accounting, and other consulting costs. General and administrative expense also includes certain non-recurring general expenses and impairment losses. Certain facilities, depreciation, benefits, recruiting, and information technology costs are allocated to other organizations based on headcount. We expect general and administrative expense to increase in absolute dollars due to additional costs associated with accounting, compliance, and insurance, although our general and administrative expense may fluctuate as a percentage of total revenue. 
+
+##TABLE_START &#160; Year Ended July 31, Year Ended July 31, &#160; 2020 2019 Change 2019 2018 Change Amount Amount Amount % Amount Amount Amount % &#160; (dollars in millions) General and administrative $ 299.6 &#160; $ 261.8 &#160; $ 37.8 &#160; 14.4 &#160; % $ 261.8 &#160; $ 257.8 &#160; $ 4.0 &#160; 1.6 &#160; % Number of employees at period end 
+
+874 &#160; 804 &#160; 70 &#160; 8.7 &#160; % 804 &#160; 668 &#160; 136 &#160; 20.4 &#160; % ##TABLE_END
+
+General and administrative expenses increased for fiscal 2020 compared to fiscal 2019 primarily due to personnel costs, which grew $21.3 million to $195.1 million for fiscal 2020 compared to fiscal 2019, due primarily to headcount growth, and partially offset by a decrease in stock based compensation expense related to accelerated vesting of certain equity awards in connection with business acquisitions. The remaining increase in general and administrative expense was primarily due to increases in other costs to support our business growth, partially offset by a net decrease in facility exit related charges. 
+
+Interest Expense 
+
+Interest expense primarily consists of non-cash interest expense from the amortization of the debt discount and debt issuance costs related to our 0.0% Convertible Senior Notes due 2019 (the &#8220;2019 Notes&#8221;), the 0.75% Convertible Senior Notes due 2023 (the &#8220;2023 Notes&#8221;) and the 0.375% Convertible Senior Notes due 2025 (the &#8220;2025 Notes&#8221;, and together with &#8220;2023 Notes&#8221;, the &#8220;Notes&#8221;), and also includes the contractual interest expense related to our Notes. 
+
+##TABLE_START &#160; Year Ended July 31, Year Ended July 31, &#160; 2020 2019 Change 2019 2018 Change Amount Amount Amount % Amount Amount Amount % &#160; (dollars in millions) Interest expense $ 88.7 &#160; $ 83.9 &#160; $ 4.8 &#160; 5.7 &#160; % $ 83.9 &#160; $ 29.6 &#160; $ 54.3 &#160; 183.4 &#160; % ##TABLE_END
+
+Interest expense increased for fiscal 2020 compared to fiscal 2019 due to the issuance of our 2025 Notes during fiscal 2020, partially offset by a decrease due to conversions of our 2019 Notes before and upon maturity in July 2019. Refer to Note 10. Debt in Part II, Item 8 of this Annual Report on Form 10-K for more information on our series of Notes. 
+
+Other Income, Net 
+
+Other income, net includes interest income earned on our cash, cash equivalents, and investments, foreign currency remeasurement gains and losses, and foreign currency transaction gains and losses. 
+
+##TABLE_START &#160; Year Ended July 31, Year Ended July 31, &#160; 2020 2019 Change 2019 2018 Change Amount Amount Amount % Amount Amount Amount % &#160; (dollars in millions) Other income, net $ 35.9 &#160; $ 63.4 &#160; $ (27.5) (43.4) % $ 63.4 &#160; $ 28.5 &#160; $ 34.9 &#160; 122.5 &#160; % ##TABLE_END
+
+Other income, net decreased for fiscal 2020 compared to fiscal 2019 primarily driven by lower interest income earned on our investments. 
+
+Provision for Income Taxes 
+
+Provision for income taxes consists primarily of income taxes in foreign jurisdictions in which we conduct business and withholding taxes. We maintain a full valuation allowance for domestic and certain foreign deferred tax assets, including net operating loss carryforwards and certain domestic tax credits. In recent years, we reorganized our corporate structure and intercompany relationships to more closely align with the international nature of our business activities. Our corporate structure has caused, and may 
+
+- 46 - 
+
+continue to cause, disproportionate relationships between our overall effective tax rate and other jurisdictional measures. To the extent we revisit our corporate structure, it may have an impact on our tax provision. 
+
+##TABLE_START &#160; Year Ended July 31, &#160; &#160; Year Ended July 31, &#160; &#160; &#160; 2020 2019 Change 2019 2018 Change &#160; Amount Amount Amount % Amount Amount Amount % &#160; (dollars in millions) Provision for income taxes $ 35.2 &#160; $ 7.3 &#160; $ 27.9 &#160; 382.2 &#160; % $ 7.3 &#160; $ 16.9 &#160; $ (9.6) (56.8) % Effective tax rate (15.2) % (9.8) % (9.8) % (16.0) % ##TABLE_END
+
+We recorded an income tax provision for fiscal 2020. The provision for income taxes for fiscal 2020 was primarily due to income taxes in profitable foreign jurisdictions and foreign withholding taxes. Our provision for income taxes increased for fiscal 2020 compared to fiscal 2019, due to an increase in foreign income as a result of increased business operations and withholding taxes from an increase in billings in the relevant jurisdictions. We also had a change in our valuation allowance related to acquisitions completed during fiscal 2019. Refer to Note 15. Income Taxes in Part II, Item 8 of this Annual Report on Form 10-K for more information. 
+
+- 47 - 
+
+Liquidity and Capital Resources 
+
+##TABLE_START July 31, 2020 2019 (in millions) Working capital $ 2,437.5 &#160; $ 1,611.5 &#160; Cash, cash equivalents, and investments: Cash and cash equivalents $ 2,958.0 &#160; $ 961.4 &#160; Investments 1,344.2 &#160; 2,417.1 &#160; Total cash, cash equivalents, and investments $ 4,302.2 &#160; $ 3,378.5 &#160; ##TABLE_END
+
+As of July 31, 2020, our total cash, cash equivalents, and investments of $4.3 billion were held for general corporate purposes, of which approximately $399.7 million was held outside of the United States. As of July 31, 2020, we had no unremitted earnings when evaluating our outside basis difference relating to our U.S. investment in foreign subsidiaries. However, there could be local withholding taxes payable due to various foreign countries if certain lower tier earnings are distributed. Withholding taxes that would be payable upon remittance of these lower tier earnings are not expected to be material. 
+
+In June 2014, we issued the 2019 Notes with an aggregate principal amount of $575.0 million. The 2019 Notes were converted prior to or settled on the maturity date of July 1, 2019. During fiscal 2019, we repaid in cash $575.0 million in aggregate principal amount of the 2019 Notes and issued 2.5 million shares of common stock to the holders for the conversion value in excess of the principal amount of the 2019 Notes converted, which were fully offset by shares received from our exercise of the associated note hedges. In July 2018, we issued the 2023 Notes with an aggregate principal amount of $1.7 billion. In June 2020, we issued the 2025 Notes with an aggregate principal amount of $2.0 billion. The 2023 Notes mature on July 1, 2023 and the 2025 Notes mature on June 1, 2025; however, under certain circumstances, holders may surrender their Notes of a series for conversion prior to the applicable maturity date. Upon conversion of the Notes of a series, we will pay cash equal to the aggregate principal amount of the Notes of such series to be converted, and, at our election, will pay or deliver cash and/or shares of our common stock for the amount of our conversion obligation in excess of the aggregate principal amount of the Notes of such series being converted. As of July 31, 2020, all of our 2023 Notes and 2025 Notes remained outstanding. Refer to Note 10. Debt in Part II, Item 8 of this Annual Report on Form 10-K for more information on the Notes. 
+
+In September 2018, we entered into a credit agreement (the &#8220;Credit Agreement&#8221;) that provides for a $400.0 million unsecured revolving credit facility (the &#8220;Credit Facility&#8221;), with an option to increase the amount of the credit facility by up to an additional $350.0 million, subject to certain condition s. As of July 31, 2020, there were no amounts outstanding, and we were in compliance with all covenants under the Credit Agreement. Refer to Note 10. Debt in Part II, Item 8 of this Annual Report on Form 10-K for more information on the Credit Agreement. 
+
+In February 2019, our board of directors authorized a $1.0 billion share repurchase program. Repurchases will be funded from available working capital and may be made at management&#8217;s discretion from time to time. This repurchase program will expire on December 31, 2020 and may be suspended or discontinued at any time. As of July 31, 2020, $801.9 million remained available for future share repurchases under the repurchase authorization. In February 2020, our board of directors approved the repurchase of $1.0 billion of our common stock through an accelerated share repurchase (&#8220;ASR&#8221;) transaction, which was in addition to our $1.0 billion share repurchase program that our board of directors authorized in February 2019. During fiscal 2020, we completed the ASR transaction with an aggregate of 5.2 million shares of our common stock repurchased and retired. Refer to Note 13. Stockholders&#8217; Equity in Part II, Item 8 of this Annual Report on Form 10-K for information on the repurchase programs. 
+
+- 48 - 
+
+The following table summarizes our cash flows for the years ended July 31, 2020, 2019, and 2018: 
+
+##TABLE_START Year Ended July 31, 2020 2019 2018 (in millions) Net cash provided by operating activities $ 1,035.7 &#160; $ 1,055.6 &#160; $ 1,038.1 &#160; Net cash provided by (used in) investing activities 288.0 &#160; (1,825.9) (520.0) Net cash provided by (used in) financing activities 673.0 &#160; (773.9) 1,245.6 &#160; Net increase (decrease) in cash, cash equivalents, and restricted cash $ 1,996.7 &#160; $ (1,544.2) $ 1,763.7 &#160; ##TABLE_END
+
+Cash from operations could be affected by various risks and uncertainties, including, but not limited to, the effects of COVID-19 and other risks detailed in Part I, Item 1A "Risk Factors" in this Form 10-K. We believe that our cash flow from operations with existing cash and cash equivalents will be sufficient to meet our anticipated cash needs for the foreseeable future. Our future capital requirements will depend on many factors including our growth rate, the timing and extent of spending to support development efforts, the expansion of sales and marketing activities, the introduction of new and enhanced products and subscription and support offerings, the costs to acquire or invest in complementary businesses and technologies, the costs to ensure access to adequate manufacturing capacity, the investments in our infrastructure to support the adoption of our cloud-based subscription offerings, the investments in our new corporate headquarters, the continuing market acceptance of our products and subscription and support offerings and macroeconomic events such as COVID-19. In addition, from time to time we may incur additional tax liability in connection with certain corporate structuring decisions. 
+
+We may also choose to seek additional equity or debt financing. In the event that additional financing is required from outside sources, we may not be able to raise it on terms acceptable to us or at all. If we are unable to raise additional capital when desired, our business, operating results, and financial condition may be adversely affected. 
+
+Operating Activities 
+
+Our operating activities have consisted of net losses adjusted for certain non-cash items and changes in assets and liabilities. 
+
+Cash provided by operating activities during fiscal 2020 was $1.0 billion , a slight decrease of $19.9 million compared to fiscal 2019. The decrease was primarily due to higher cash expenditure during fiscal 2020. The decrease was partially offset by growth of our business, as reflected by an increase in billings during fiscal 2020, and repayments of the 2019 Notes attributable to the debt discount during fiscal 2019. 
+
+Investing Activities 
+
+Our investing activities have consisted of capital expenditures, net investment purchases, sales, and maturities, and business acquisitions. We expect to continue such activities as our business grows. 
+
+Cash provided by investing activities during fiscal 2020 was $288.0 million, a change of $2.1 billion compared to fiscal 2019. The change was primarily due to lower purchases of investments, a decrease in net cash payments for business acquisitions and higher proceeds from maturities and sales of investments during fiscal 2020. 
+
+Financing Activities 
+
+Our financing activities have consisted of net proceeds from the issuance of the 2025 Notes and related transactions, repayments of the 2019 Notes, proceeds from sales of shares through employee equity incentive plans, cash used to repurchase shares of our common stock, and payments for tax withholding obligations of certain employees related to the net share settlement of equity awards. 
+
+Cash provided by financing activities during fiscal 2020 was $673.0 million, an increase of $1.4 billion compared to fiscal 2019. The change was primarily due to net proceeds of $1.8 billion from the issuance of our 2025 Notes, issuance of warrants, and purchase of note hedges, partially offset by an increase in repurchases of our common stock during fiscal 2020. 
+
+- 49 - 
+
+Contractual Obligations and Commitments 
+
+The following summarizes our contractual obligations and commitments as of July 31, 2020: 
+
+##TABLE_START Payments Due by Period &#160; 
+
+Total Less Than 1 Year 1-3 Years 3-5 Years More Than 5 Years (in millions) 0.75% Convertible Senior Notes due 2023 
+
+$ 1,693.0 &#160; $ &#8212; &#160; $ 1,693.0 &#160; $ &#8212; &#160; $ &#8212; &#160; 0.375% Convertible Senior Notes due 2025 
+
+2,000.0 &#160; &#8212; &#160; &#8212; &#160; 2,000.0 &#160; &#8212; &#160; Operating lease obligations 
+
+453.3 &#160; 72.2 &#160; 132.8 &#160; 102.5 &#160; 145.8 &#160; Purchase obligations (1) 
+
+421.9 &#160; 156.8 &#160; 100.1 &#160; 145.0 &#160; 20.0 &#160; Total (2) 
+
+$ 4,568.2 &#160; $ 229.0 &#160; $ 1,925.9 &#160; $ 2,247.5 &#160; $ 165.8 &#160; ##TABLE_END
+
+______________ 
+
+(1) Consists of minimum purchase commitments of products and components with our manufacturing partners and component suppliers, as well as minimum or fixed purchase commitments for our use of certain cloud and other services with third-party providers. Obligations under contracts that we can cancel without a significant penalty are not included in the table above. 
+
+(2) No amounts related to income taxes are included. As of July 31, 2020, we had approximately $74.2 million of tax liabilities recorded related to uncertainty in income tax positions. 
+
+Off-Balance Sheet Arrangements 
+
+As of July 31, 2020, we did not have any relationships with unconsolidated organizations or financial partnerships, such as structured finance or special purpose entities that would have been established for the purpose of facilitating off-balance sheet arrangements or other contractually narrow or limited purposes. 
+
+Critical Accounting Estimates 
+
+Our consolidated financial statements have been prepared in accordance with GAAP. The preparation of these consolidated financial statements requires us to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenue, expenses, and related disclosures. We base our estimates on historical experience and on various other assumptions that we believe are reasonable under the circumstances. We evaluate our estimates and assumptions on an ongoing basis. Actual results could differ materially from those estimates due to risks and uncertainties, including uncertainty in the current economic environment due to the global impact of COVID-19. To the extent that there are material differences between these estimates and our actual results, our future financial statements will be affected. 
+
+We believe that of our significant accounting policies described in Note 1. Description of Business and Summary of Significant Accounting Policies in Part II, Item 8 of this Annual Report on Form 10-K, the critical accounting policies requiring estimates, assumptions, and judgments that have the most significant impact on our consolidated financial statements are described below. 
+
+Revenue Recognition 
+
+The majority of our contracts with our customers include various combinations of our products and subscriptions and support. Our appliances and software licenses have significant standalone functionalities and capabilities and, accordingly, are distinct from our subscriptions and support services, as the customer can benefit from the product without these services and such services are separately identifiable within the contract. We account for multiple agreements with a single customer as a single contract if the contractual terms and/or substance of those agreements indicate that they may be so closely related that they are, in effect, parts of a single contract. The amount we are due in exchange for delivering on the contract is allocated to each performance obligation based on its relative standalone selling price. 
+
+We establish standalone selling price using the prices charged for a deliverable when sold separately. If not observable through past transactions, we estimate the standalone selling price based on our pricing model and our go-to-market strategy, which include factors such as type of sales channel (reseller, distributor, or end-customer), the geographies in which our offerings were sold (domestic or international) and offering type (products, subscriptions, or support). As our business offerings evolve over time, we may be required to modify our estimated standalone selling prices, and as a result the timing and classification of our revenue could be affected. 
+
+Deferred Contract Costs 
+
+We defer contract costs that are recoverable and incremental to obtaining customer sales contracts. Contract costs, which primarily consist of sales commissions, are amortized on a systematic basis that is consistent with the transfer to the customer of the goods or services to which the asset relates. Sales commissions for initial contracts that are not commensurate with renewal 
+
+- 50 - 
+
+commissions are amortized over a benefit period of five years, consistent with the revenue recognition pattern of the performance obligations in the related contracts including expected renewals. The benefit period is determined by taking into consideration contract length, technology life, and other quantitative and qualitative factors. The expected renewals are estimated based on historical renewal trends. Sales commissions for initial contracts that are commensurate and sales commissions for renewal contracts are amortized over the related contractual period in proportion to the revenue recognized. 
+
+Income Taxes 
+
+We account for income taxes using the asset and liability method, which requires the recognition of deferred tax assets and liabilities for the expected future tax consequences of events that have been recognized in our financial statements or tax returns. In addition, deferred tax assets are recorded for the future benefit of utilizing net operating losses and research and development credit carryforwards. Valuation allowances are provided when necessary to reduce deferred tax assets to the amount expected to be realized. 
+
+Significant judgment is required in determining any valuation allowance recorded against deferred tax assets. In assessing the need for a valuation allowance, we consider all available evidence, including past operating results, estimates of future taxable income, and the feasibility of tax planning strategies. In the event that we change our determination as to the amount of deferred tax assets that can be realized, we will adjust our valuation allowance with a corresponding impact to the provision for income taxes in the period in which such determination is made. 
+
+We apply the authoritative accounting guidance prescribing a threshold and measurement attribute for the financial recognition and measurement of a tax position taken or expected to be taken in a tax return. We recognize liabilities for uncertain tax positions based on a two-step process. The first step is to evaluate the tax position for recognition by determining if the weight of available evidence indicates that it is more likely than not that the position will be sustained on audit, including resolution of related appeals or litigation processes, if any. The second step requires us to estimate and measure the tax benefit as the largest amount that is more likely than not to be realized upon ultimate settlement. 
+
+Significant judgment is also required in evaluating our uncertain tax positions and determining our provision for income taxes. Although we believe our reserves are reasonable, no assurance can be given that the final tax outcome of these matters will not be different from that which is reflected in our historical income tax provisions and accruals. We adjust these reserves in light of changing facts and circumstances, such as the closing of a tax audit or the refinement of an estimate. To the extent that the final tax outcome of these matters is different than the amounts recorded, such differences may impact the provision for income taxes in the period in which such determination is made. 
+
+Manufacturing Partner and Supplier Liabilities 
+
+We outsource most of our manufacturing, repair, and supply chain management operations to our EMS provider, which procures components and assembles our products based on our demand forecasts. These forecasts of future demand are based upon historical trends and analysis from our sales and product management functions as adjusted for overall market conditions. We accrue for costs for manufacturing purchase commitments in excess of our forecasted demand, including costs for excess components or for carrying costs incurred by our manufacturing partners and component suppliers. Actual component usage and product demand may be materially different from our forecast and could be caused by factors outside of our control, which could have an adverse impact on our results of operations. To date, we have not accrued significant costs associated with this exposure. 
+
+Loss Contingencies 
+
+We are subject to the possibility of various loss contingencies arising in the ordinary course of business. We accrue for loss contingencies when it is probable that an asset has been impaired or a liability has been incurred and the amount of loss can be reasonably estimated. If we determine that a loss is possible and the range of the loss can be reasonably determined, then we disclose the range of the possible loss. We regularly evaluate current information available to us to determine whether an accrual is required, an accrual should be adjusted, or a range of possible loss should be disclosed. 
+
+From time to time, we are involved in disputes, litigation, and other legal actions. However, there are many uncertainties associated with any litigation, and these actions or other third-party claims against us may cause us to incur substantial settlement charges, which are inherently difficult to estimate and could adversely affect our results of operations. The actual liability in any such matters may be materially different from our estimates, which could result in the need to adjust our liability and record additional expenses. 
+
+Goodwill, Intangibles, and Other Long-Lived Assets 
+
+We make significant estimates, assumptions, and judgments when valuing goodwill and other purchased intangible assets in connection with the initial purchase price allocation of an acquired entity, as well as when evaluating impairment of goodwill and other purchased intangible assets on an ongoing basis. These estimates are based upon a number of factors, including historical experience, market conditions, and information obtained from the management of the acquired company. Critical estimates in valuing certain intangible assets include, but are not limited to, cash flows that an asset is expected to generate in the future, discount rates, the time and expense that would be necessary to recreate the assets, and the profit margin a market participant would receive. The amounts and useful lives assigned to identified intangible assets impacts the amount and timing of future amortization expense. 
+
+- 51 - 
+
+We evaluate goodwill for impairment on an annual basis in our fourth fiscal quarter or more frequently if we believe impairment indicators exist. We have elected to first assess qualitative factors to determine whether it is more likely than not that the fair value of our reporting unit is less than its carrying amount, including goodwill. The qualitative assessment includes our evaluation of relevant events and circumstances affecting our single reporting unit, including macroeconomic, industry, and market conditions, our overall financial performance, and trends in the market price of our common stock. If qualitative factors indicate that it is more likely than not that our reporting unit&#8217;s fair value is less than its carrying amount, then we will perform the quantitative impairment test by comparing our reporting unit&#8217;s carrying amount, including goodwill, to its fair value. If the carrying amount of our reporting unit exceeds its fair value, an impairment loss will be recognized in an amount equal to that excess. To date, the results of our qualitative assessment have indicated that the quantitative goodwill impairment test is not necessary. 
+
+We evaluate long-lived assets, such as property, equipment, and purchased intangible assets for impairment whenever events or changes in circumstances indicate that the carrying amount of the assets may not be recoverable. Such events or changes in circumstances include, but are not limited to, a significant decrease in the fair value of the underlying asset or asset group, a significant decrease in the benefits realized from the acquired assets, difficulty and delays in integrating the business, or a significant change in the operations of the acquired assets or use of an asset or asset group. A long-lived asset is considered impaired if its carrying amount exceeds the estimated future undiscounted cash flows the asset or asset group is expected to generate. Critical estimates in determining whether a long-lived asset is considered impaired include the amount and timing of future cash flows that the asset or asset group is expected to generate. If a long-lived asset is considered to be impaired, the impairment to be recognized is the amount by which the carrying amount of the asset exceeds the fair value of the asset or asset group, which is estimated using a present value technique. Critical estimates in determining the fair value of an asset or asset group and the amount of impairment to recognize include, but are not limited to, the amount and timing of future cash flows that the asset or asset group is expected to generate and the discount rate. Determining the fair value of an asset or asset group is highly judgmental in nature and involves the use of significant estimates and assumptions for market participants. We base our fair value estimates on assumptions we believe to be reasonable but that are unpredictable and inherently uncertain. Actual future results may differ from those estimates. 
+
+Convertible Senior Notes 
+
+In accounting for the issuance of our convertible senior notes, we separate the notes into liability and equity components. The carrying amount of the liability component is calculated by measuring the fair value of a similar liability that does not have an associated convertible feature, using a discounted cash flow model with a risk adjusted yield. The carrying amount of the equity component representing the conversion option is determined by deducting the fair value of the liability component from the par value of the notes as a whole. This difference represents a debt discount that is amortized to interest expense using the effective interest method over the term of the notes. The equity component is not remeasured as long as it continues to meet the conditions for equity classification. In accounting for the transaction costs related to the issuance of the notes, we allocate the total amount incurred to the liability and equity components using the same proportions as the proceeds from the notes. Transaction costs attributable to the liability component are netted with the liability component and amortized to interest expense using the effective interest method over the term of the notes. Transaction costs attributable to the equity component are netted with the equity component of the notes in additional paid-in capital in the consolidated balance sheets. 
+
+Recent Accounting Pronouncements 
+
+Refer to &#8220;Recently Issued Accounting Pronouncements&#8221; in Note 1. Description of Business and Summary of Significant Accounting Policies in Part II, Item 8 of this Annual Report on Form 10-K for a description of recent accounting pronouncements and our expectation of their impact, if any, on our results of operations and financial condition. 
+
